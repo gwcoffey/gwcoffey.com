@@ -13,7 +13,8 @@ const ACCOUNTS = {
 };
 
 const HEADERS = {
-    "Access-Control-Allow-Origin": "*"
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "public, max-age=3600" // one hour
 };
 
 const handler: Handler = async (event: HandlerEvent, context: HandlerContext) => {
