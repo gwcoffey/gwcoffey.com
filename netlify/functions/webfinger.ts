@@ -72,7 +72,7 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
     return {
       statusCode: 200,
       headers: {...HEADERS, 'Content-Type': 'application/jrd+json'},
-      body: JSON.stringify(response),
+      body: JSON.stringify(response, null, 2),
     };
 };
 
