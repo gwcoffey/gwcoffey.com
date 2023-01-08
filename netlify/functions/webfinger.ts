@@ -1,13 +1,8 @@
 import { Handler, HandlerEvent, HandlerContext } from "@netlify/functions";
 
-const INSTANCES = {
-    gwcoffey: "pub.gwcoffey.com",
-    bookstodon: "bookstodon.com"
-};
-
 const ACCOUNTS = {
     "acct:gwcoffey@gwcoffey.com": {
-        instance: INSTANCES.gwcoffey,
+        instance: "pub.gwcoffey.com",
         handle: "gwcoffey"
     }
 };
