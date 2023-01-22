@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "@gwcoffey/litbot": "^0.0.3",
+    "@gwcoffey/litbot": "^0.0.4",
     "@netlify/functions": "^1.4.0",
-    "netlify-cli": "^12.9.1"
+    "netlify-cli": "^12.9.1",
+    "node-fetch": "^3.3.0"
   }
 }
