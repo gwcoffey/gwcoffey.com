@@ -26,10 +26,10 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
     }
 
     // otherwise start building the response with a subject
-    var response = {subject: resource};
+    var response: any = {subject: resource};
 
     // look up the account
-    account = ACCOUNTS[event.queryStringParameters.resource];
+    const account = ACCOUNTS[event.queryStringParameters.resource];
 
     // augment the response with account info if any
     if (account) {
