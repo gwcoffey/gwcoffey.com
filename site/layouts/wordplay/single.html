@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<hgroup>
+	<h1>{{ .Title }}</h1>
+	<p class="crumb"><a href="/wordplay">/wordplay/</a></p>
+</hgroup>
+
+{{ .Content }}
+
+<figure>
+{{ $alt := .Params.alt }}
+{{ with .Resources.GetMatch "image.*" }}
+	<img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="{{ $alt }}">
+{{ end }}
+</figure>
+
+{{ end }}

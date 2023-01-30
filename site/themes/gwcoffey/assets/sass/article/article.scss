@@ -1,0 +1,22 @@
+article {
+	hgroup {
+		margin-bottom: 2em;
+	}
+	
+	div.byline {
+		font-family: var(--mono-font);
+		margin-top: 0.2em;
+				
+		&, a {
+			color: var(--deemphasized-text-color);
+		}		
+		
+		address {
+			font-size: medium;
+			display: inline;
+		}
+		time {
+			font-size: medium;
+		}
+	}
+}

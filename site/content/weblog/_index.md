@@ -1,0 +1,4 @@
+---
+title: Weblog
+menu: Writing
+---

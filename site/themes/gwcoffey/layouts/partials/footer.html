@@ -1,0 +1,18 @@
+    <nav>
+        {{/* capture stuff before we change scope */}}
+        {{ $x := . }}
+        {{ $page := .Page }}
+        {{ $menus := .Site.Menus }}
+        {{ range $menuName := .Site.Params.navMenus }}
+			<h2>{{ $menuName }}</h2>
+			<menu>
+			{{ range (index $menus $menuName) }}
+				{{ if or ($x.HasMenuCurrent $menuName .) ($x.IsMenuCurrent $menuName .) }}
+				<li>{{ .Name }}</li>
+				{{ else }}
+				<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+				{{ end }}
+			{{ end }}
+			</menu>
+		{{ end }}
+    </nav>

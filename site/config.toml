@@ -1,0 +1,12 @@
+baseURL = 'http://gwcoffey.com/'
+languageCode = 'en-us'
+title = 'gwcoffey.com'
+theme = 'gwcoffey'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+	navMenus = [ "Writing", "Projects", "About" ]

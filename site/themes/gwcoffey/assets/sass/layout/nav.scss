@@ -1,0 +1,48 @@
+/* NAV: 
+   style the navigation links */
+
+footer {
+	nav {
+		grid-area: nav;
+		font-family: var(--mono-font);
+
+		h2 {
+			font-size: medium;
+			text-transform: lowercase;
+			margin: 1.2em 0 0.2em 0;
+			color: #999;
+
+			&:before {
+				content: "#";
+			}
+
+			&:first-child {
+				margin-top: 0;
+			}
+		}
+
+		li {
+			text-transform: lowercase;
+			font-size: medium;
+			line-height: 1.3;
+
+			a {
+				text-decoration: none;
+				color: var(--main-text-color);
+				
+				&:before {
+					content: "/";
+				}
+			}
+			
+			&:not(:has(a)) {
+				margin-left: -2ch;
+				font-weight: bold;
+				
+				&:before {
+					content: "> /";
+				}
+			}
+		}		
+	}
+}

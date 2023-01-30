@@ -1,0 +1,45 @@
+/* GRID: 
+   establish body-level grid for the whole site */
+
+body {
+    max-width: 900px;
+    margin: 0 auto 3em auto;
+    padding: 0 1em;
+
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas: "head head" "nav main";
+    column-gap: 1em;
+
+    background: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+header {
+    grid-area: head;
+}
+
+main {
+    grid-area: main;
+    
+    hgroup {
+    	position: relative;
+    	
+    	p.crumb {
+    		position: absolute;
+    		top: -3ex;
+    		color: #999;
+    		font-family: var(--mono-font);
+    		margin: 0;
+    		
+    		a {
+    			color: #999;
+    			
+    			&:hover {
+    				color: var(--active-link-text-color);
+    			}
+    		}
+    	}
+    }
+}
