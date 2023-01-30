@@ -5,7 +5,6 @@
 1. Favicon
 2. Audit meta tags for compliance
 3. Review link rel attributes
-4. Remove the theme and move to in-built layouts
 
 ## Content
 
