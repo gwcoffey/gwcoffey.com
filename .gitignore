@@ -6,4 +6,4 @@ node_modules/
 
 # hugo
 .hugo_build.lock
-site/resources
+hugo/resources
