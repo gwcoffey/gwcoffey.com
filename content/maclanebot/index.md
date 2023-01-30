@@ -45,8 +45,11 @@ Note: The Project Gutenberg version of the book carries the title <em>The Story 
 
 MacLane Bot itself is executed periodically as a [Netlify scheduled function][fn]. The code for the function and the raw passage data is in the GitHub repo for this website but I'm not going to link to it here---it is so much more fun to follow the bot and get little jolts of joy throughout the day.
 
+The MacLane Bot Mastodon account is graciously hosted free of charge on the [botsin.space][botsin] instance. 
+
 [ts]: https://www.typescriptlang.org
 [code]: https://github.com/gwcoffey/litbot
 [litbot]: https://www.npmjs.com/package/@gwcoffey/litbot
 [guten]: https://www.gutenberg.org/ebooks/43696
 [fn]: https://docs.netlify.com/functions/scheduled-functions/
+[botsin]: https://botsin.space/
