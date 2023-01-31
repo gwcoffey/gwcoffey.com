@@ -1,0 +1,12 @@
+---
+title: "Isabel Scores a Point at Air Hockey"
+date: 2011-03-05
+archive: posterous
+---
+
+{{< figure 
+	src="image.jpg" 
+	height="1024" 
+	width="683" 
+	alt="A teenager with a huge open-mouthed smile of excitement. They stand at the end of an air hockey table with bright carnival lights behind them." 
+	caption="Isabel after winning a point against me." >}}

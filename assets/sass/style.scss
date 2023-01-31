@@ -1,4 +1,4 @@
-@import "fonts.scss";
+@import "fonts";
 
 
 @media (prefers-color-scheme: light) {
@@ -38,6 +38,7 @@
 
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
+	--figure-frame-bg-color: white;
   }
 }
 
@@ -78,7 +79,8 @@
     
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
+	--figure-frame-bg-color: #333;
   }
 }
 
-@import "common/common.scss", "layout/layout.scss", "article/article.scss", "thumbnails.scss";
+@import "semantics/all", "layout/all", "article", "thumbnails";

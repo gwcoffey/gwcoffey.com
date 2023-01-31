@@ -1,6 +1,7 @@
 baseURL = 'http://gwcoffey.com/'
 languageCode = 'en-us'
 title = 'gwcoffey.com'
+enableEmoji = true
 
 [markup]
   [markup.goldmark]

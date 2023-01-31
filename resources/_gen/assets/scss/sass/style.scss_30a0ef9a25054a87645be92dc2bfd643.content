@@ -70,6 +70,7 @@
     --tip-bg-color: var(--blue-bg-color);
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
+    --figure-frame-bg-color: white;
   }
 }
 
@@ -103,6 +104,7 @@
     --tip-bg-color: var(--blue-bg-color);
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
+    --figure-frame-bg-color: #333;
   }
 }
 
@@ -214,6 +216,8 @@ main pre {
   background: var(--code-bg-color);
   border: 1px solid var(--text-bg-border-color);
   padding: 0.5em 0.8em;
+  overflow-wrap: anywhere;
+  white-space: pre-wrap;
 }
 
 main pre code {
@@ -373,26 +377,34 @@ main hr:after {
   content: '***';
 }
 
-main a.call-to-action {
+main figure {
+  position: relative;
+  padding: 12px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  background: var(--figure-frame-bg-color);
+}
+
+main figure:has(+ figure) {
+  margin-bottom: 36px;
+}
+
+main figure img {
   display: block;
-  font-size: x-large;
+  margin: 0 auto;
+}
+
+main figure img:not(+ figcaption) {
+  margin-bottom: 36px;
+}
+
+main figure figcaption p {
+  margin: 12px 0 3px 0;
+  font-style: italic;
   text-align: center;
-  font-family: var(--mono-font);
 }
 
-main a.call-to-action:before, main a.call-to-action:after {
-  display: inline-block;
-  padding: 0 0.5ch;
-  text-decoration: none;
-  color: var(--main-text-color);
-}
-
-main a.call-to-action:before {
-  content: "↣";
-}
-
-main a.call-to-action:after {
-  content: "↢";
+main figure figcaption p em {
+  font-style: normal;
 }
 
 /* RESET: 

@@ -1,0 +1,16 @@
+---
+title: "Peach Crème Brûlée"
+date: 2011-09-05
+archive: posterous
+---
+
+Put a peachy twist on one of my favorite recipes.
+
+{{< figure 
+	src="image.jpg" 
+	height="765" 
+	width="1024" 
+	alt="Four white ramekins of Crème Brûlée sit on a black countertop. Each has two slices of fresh peach decorating the top." 
+	caption="Peach Crème Brûlée, a little treat for my family." >}}
+	
+	
