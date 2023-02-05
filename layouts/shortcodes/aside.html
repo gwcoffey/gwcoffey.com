@@ -1,0 +1,6 @@
+<aside{{ with .Get "type" }} class="{{ . }}"{{ end }}>
+{{ with .Get "title" }}
+	<h3>{{ . }}</h3>
+{{ end }}
+{{ .Inner | markdownify }}
+</aside>

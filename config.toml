@@ -2,11 +2,20 @@ baseURL = 'http://gwcoffey.com/'
 languageCode = 'en-us'
 title = 'gwcoffey.com'
 enableEmoji = true
+cleanDestinationDir = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+  [markup.highlight]
+    style = 'xcode'
+    tabWidth = 2
+
+[mediaTypes]
+  [mediaTypes.'application/zip']
+    suffixes = ['zip']
 
 [params]
 	navMenus = [ "Writing", "Projects", "About" ]

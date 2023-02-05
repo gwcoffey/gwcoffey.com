@@ -97,6 +97,7 @@ main {
     code, var {
         font-family: var(--mono-font);
         background: var(--code-bg-color);
+        font-style: normal;
     }
     
     pre {
@@ -152,6 +153,19 @@ main {
         font-family: var(--mono-font);
         background: var(--kbd-bg-color);
         border-color: var(--kbd-border-colors);
+        
+        .command {
+        	font-size: 0;
+        	
+        	&:after {
+        		content: "⌘";
+        		display: inline-box;
+        		position: relative;
+        		top: 3px;
+        		font-size: 17px;
+        		padding-right: 3px;
+        	}
+        }
     }
     
     samp {
@@ -203,7 +217,7 @@ main {
     }
     
     /* asides with no heading are notes/tips, etc… */
-    aside:not(:has(h2)) {
+    aside:not(:has(h3)) {
     	--fold-size: 0.8em;
     	
     	position: relative;
@@ -246,13 +260,13 @@ main {
     }
     
     /* asides with a title are sidebars */
-    aside:has(h2) {
+    aside:has(h3) {
     	background: var(--aside-bg-color);
     	padding: 1em;
     	border: 1px solid var(--aside-border-color);
 		box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     	
-    	h2 {
+    	h3 {
     		margin-top: 0;
     	}
     }
@@ -288,7 +302,7 @@ main {
 			margin-bottom: 36px;
 		}
 		
-		img {
+		img, video {
 			display: block;
 			margin: 0 auto;
 			
@@ -305,6 +319,19 @@ main {
 			em {
 				font-style: normal;
 			}
+		}
+	}
+	
+	sup {
+		display: inline-block;
+		position: relative;
+		left: 2px;
+		top: -1ch;
+		font-size: small;
+		vertical-align: baseline;
+		
+		a {
+			font-style: italic;
 		}
 	}
 }

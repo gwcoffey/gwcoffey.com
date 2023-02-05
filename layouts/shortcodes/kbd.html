@@ -1,0 +1,7 @@
+{{- if eq (.Get "with") "Command" -}}
+<kbd><span class="command">Command </span>{{ .Get "char" }}</kbd>
+{{- else if eq (.Get "with") "Control" -}}
+<kbd>Ctrl-{{ .Get "char" }}</kbd>
+{{- else -}}
+<kbd>{{ .Get "char" }}</kbd>
+{{- end -}}

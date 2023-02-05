@@ -14,8 +14,8 @@ Source code published with code projects is typically available under the [MIT o
 
 This site uses fonts licensed from Monotype, which carries this copyright notice:
 
-<aside>
+{{< aside >}}
 This font software is the valuable copyrighted property of Monotype and/or its suppliers. You may not attempt to copy, install, redistribute, convert, modify or reverse engineer this font software. Please contact Monotype with any questions regarding Web Fonts: <a href="http://www.fonts.com">http://www.fonts.com</a>.
-</aside>
+{{< /aside >}}
 
 

@@ -67,7 +67,7 @@
     --aside-border-color: rgba(0,0,0,0.1);
     --note-bg-color: #ffd;
     --warn-bg-color: var(--red-bg-color);
-    --tip-bg-color: var(--blue-bg-color);
+    --tip-bg-color: var(--green-bg-color);
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
     --figure-frame-bg-color: white;
@@ -101,7 +101,7 @@
     --aside-border-color: rgba(255,255,255,0.1);
     --note-bg-color: #442;
     --warn-bg-color: var(--red-bg-color);
-    --tip-bg-color: var(--blue-bg-color);
+    --tip-bg-color: var(--green-bg-color);
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
     --figure-frame-bg-color: #333;
@@ -210,6 +210,7 @@ main code, main del, main ins, main kbd, main var, main samp {
 main code, main var {
   font-family: var(--mono-font);
   background: var(--code-bg-color);
+  font-style: normal;
 }
 
 main pre {
@@ -265,6 +266,19 @@ main kbd {
   border-color: var(--kbd-border-colors);
 }
 
+main kbd .command {
+  font-size: 0;
+}
+
+main kbd .command:after {
+  content: "⌘";
+  display: inline-box;
+  position: relative;
+  top: 3px;
+  font-size: 17px;
+  padding-right: 3px;
+}
+
 main samp {
   font-family: var(--mono-font);
   background: var(--samp-bg-color);
@@ -310,7 +324,7 @@ main blockquote cite:before {
   content: "– ";
 }
 
-main aside:not(:has(h2)) {
+main aside:not(:has(h3)) {
   --fold-size: 0.8em;
   position: relative;
   margin: 1em 0 1em 1em;
@@ -321,7 +335,7 @@ main aside:not(:has(h2)) {
   clip-path: polygon(var(--fold-size) 0, calc(100% + 4px) 0, calc(100% + 4px) calc(100% + 4px), calc(0% - 4px) calc(100% + 4px), -4px calc(var(--fold-size) + 4px));
 }
 
-main aside:not(:has(h2)):before {
+main aside:not(:has(h3)):before {
   content: ' ';
   display: inline-block;
   position: absolute;
@@ -333,26 +347,26 @@ main aside:not(:has(h2)):before {
   box-shadow: 0 0 3px var(--aside-border-color);
 }
 
-main aside:not(:has(h2)).note {
+main aside:not(:has(h3)).note {
   background: var(--note-bg-color);
 }
 
-main aside:not(:has(h2)).warn {
+main aside:not(:has(h3)).warn {
   background: var(--warn-bg-color);
 }
 
-main aside:not(:has(h2)).tip {
+main aside:not(:has(h3)).tip {
   background: var(--tip-bg-color);
 }
 
-main aside:has(h2) {
+main aside:has(h3) {
   background: var(--aside-bg-color);
   padding: 1em;
   border: 1px solid var(--aside-border-color);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-main aside:has(h2) h2 {
+main aside:has(h3) h3 {
   margin-top: 0;
 }
 
@@ -388,12 +402,12 @@ main figure:has(+ figure) {
   margin-bottom: 36px;
 }
 
-main figure img {
+main figure img, main figure video {
   display: block;
   margin: 0 auto;
 }
 
-main figure img:not(+ figcaption) {
+main figure img:not(+ figcaption), main figure video:not(+ figcaption) {
   margin-bottom: 36px;
 }
 
@@ -404,6 +418,40 @@ main figure figcaption p {
 }
 
 main figure figcaption p em {
+  font-style: normal;
+}
+
+main sup {
+  display: inline-block;
+  position: relative;
+  left: 2px;
+  top: -1ch;
+  font-size: small;
+  vertical-align: baseline;
+}
+
+main sup a {
+  font-style: italic;
+}
+
+main ol.steps li > p:first-child {
+  margin-bottom: 0;
+}
+
+main ol.steps li > p:first-child + p {
+  margin-top: 0;
+}
+
+main aside.qna p:first-child {
+  margin-top: 0;
+  font-weight: bold;
+}
+
+main span.editors-note {
+  font-style: italic;
+}
+
+main span.editors-note em {
   font-style: normal;
 }
 

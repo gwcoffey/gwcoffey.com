@@ -1,0 +1,8 @@
+<figure>
+	<video controls>
+	  <source src="{{ .Get "src" }}" type="{{ with .Get "type" }}{{ . }}{{ else }}video/mp4{{ end }}" />
+	</video>
+	{{- with .Get "caption" -}}
+	<figcaption><p>{{ . | markdownify }}</p></figcaption>
+	{{- end -}}
+</figure>
