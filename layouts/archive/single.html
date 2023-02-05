@@ -1,10 +1,26 @@
 {{ define "main" }}
 
+<section class="archive">
+	<h3>Archived Post</h3>
+	{{ if eq (.Param "archive") "listapp" }}
+	<p>
+		This post is archived from my account on <a href="https://www.fastcompany.com/3058979/why-people-love-bj-novaks-list">li.st</a>, a social media app that shut down in 2017. Some posts have been edited slightly to fix typographical errors and correctly represent the gender of some individuals. You can <a href="/archive/listapp/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "posterous" }}
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "sfr" }}
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	{{ end }}
+</section>
+
 <article>
 
 <hgroup>
 	<h1>{{ .Title }}</h1>
-
 	<div class="byline">
 		<address><a rel="author" href="/me">Geoff Coffey</a></address>
 		/

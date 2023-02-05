@@ -628,25 +628,64 @@ footer nav li:not(:has(a)):before {
   content: "> /";
 }
 
+section.archive {
+  background: rgba(228, 212, 200, 0.3);
+  padding: 1em;
+  margin-bottom: 2em;
+  border: 3px double rgba(34, 25, 17, 0.4);
+  box-shadow: inset 0px 2px 6px rgba(34, 25, 17, 0.4);
+}
+
+section.archive h3 {
+  font-style: italic;
+  margin: 0 0 0.5em 0;
+}
+
+section.archive p {
+  margin: 0;
+}
+
+a.archive-site {
+  display: block;
+  margin: 2em;
+  padding: 1em;
+  border-radius: 8px;
+  background: rgba(128, 128, 0, 0.4);
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: larger;
+}
+
+a.archive-site:active, a.archive-site:visited {
+  color: rgba(0, 0, 0, 0.6);
+}
+
 article hgroup {
   margin-bottom: 2em;
 }
 
-article div.byline {
+article hgroup h1 {
+  margin-bottom: 0.1em;
+}
+
+article hgroup div.byline {
   font-family: var(--mono-font);
   margin-top: 0.2em;
 }
 
-article div.byline, article div.byline a {
+article hgroup div.byline, article hgroup div.byline a {
   color: var(--deemphasized-text-color);
 }
 
-article div.byline address {
+article hgroup div.byline address {
   font-size: medium;
   display: inline;
 }
 
-article div.byline time {
+article hgroup div.byline time {
   font-size: medium;
 }
 
