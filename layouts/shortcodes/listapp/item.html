@@ -1,0 +1,13 @@
+<li>
+	<div class="container">
+		<div class="text">
+			<p class="item">{{ .Get "title" }}</p>
+			{{- with .Get "desc" -}}
+			<p class="desc">{{ . }}</p>
+			{{- end -}}
+		</div>
+		{{- with .Get "image" -}}
+		<img class="popable" src="{{ . }}">
+		{{- end -}}
+	</div>
+</li>

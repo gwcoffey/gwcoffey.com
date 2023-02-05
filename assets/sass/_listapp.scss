@@ -1,0 +1,43 @@
+ul.listapp, ol.listapp {
+	margin: 0;
+	padding: 0;
+	
+	li {
+		border-top: 1px solid #eee;
+
+		&:last-child {
+			border-bottom: 1px solid #eee;
+		}
+	
+		.container {
+			display: flex;
+			justify-content: space-between;
+			padding: 1em 1em 1em 0.3em;
+		
+			div.text {
+				display: flex;
+				flex-direction: column;
+			
+				&:has(~ img) {
+					margin-right: 1.7em;
+				}
+			}
+		
+		}
+	
+		p.item {
+			margin: 0;
+		}
+
+		p.desc {
+			margin: 0;
+			opacity: 0.6;
+		}
+	
+		img {
+			display: block;
+			max-width: 100px;
+			max-height: 100px;
+		}
+	}
+}

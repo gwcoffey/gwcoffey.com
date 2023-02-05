@@ -1,0 +1,13 @@
+{{- if eq (.Get "order") true -}}
+<ol class="listapp"{{- if eq (.Get "reverse") true }} reversed{{ end }}>
+{{- else -}}
+<ul class="listapp">
+{{- end -}}
+
+{{ .Inner }}
+
+{{- if eq (.Get "ordered") "true" -}}
+</ol>
+{{- else -}}
+</ul>
+{{- end -}}

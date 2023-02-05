@@ -501,6 +501,12 @@ figure {
   padding: 0;
 }
 
+dialog {
+  padding: 0;
+  margin: auto;
+  border: none;
+}
+
 /* GRID: 
    establish body-level grid for the whole site */
 body {
@@ -680,6 +686,77 @@ div.thumbnails figure figcaption {
 div.thumbnails figure:hover {
   transition: transform .2s ease-in-out;
   transform: scale(1.1);
+}
+
+html:has(:modal) {
+  overflow: hidden;
+}
+
+img.popable {
+  cursor: pointer;
+}
+
+img.popable:hover {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  transition: transform .2s ease-in-out;
+  transform: scale(1.1);
+}
+
+dialog.image {
+  padding: 1em 1em 1em 1em;
+  overflow: hidden;
+}
+
+dialog.image img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+dialog.image::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+ul.listapp, ol.listapp {
+  margin: 0;
+  padding: 0;
+}
+
+ul.listapp li, ol.listapp li {
+  border-top: 1px solid #eee;
+}
+
+ul.listapp li:last-child, ol.listapp li:last-child {
+  border-bottom: 1px solid #eee;
+}
+
+ul.listapp li .container, ol.listapp li .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 1em 1em 0.3em;
+}
+
+ul.listapp li .container div.text, ol.listapp li .container div.text {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.listapp li .container div.text:has(~ img), ol.listapp li .container div.text:has(~ img) {
+  margin-right: 1.7em;
+}
+
+ul.listapp li p.item, ol.listapp li p.item {
+  margin: 0;
+}
+
+ul.listapp li p.desc, ol.listapp li p.desc {
+  margin: 0;
+  opacity: 0.6;
+}
+
+ul.listapp li img, ol.listapp li img {
+  display: block;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */

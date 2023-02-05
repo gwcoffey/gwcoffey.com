@@ -5,4 +5,8 @@
     {{ $sass := resources.Get "sass/style.scss" }}
     {{ $style := $sass | resources.ToCSS $options }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    
+	{{ $opts := dict "targetPath" "js/main.js" }}
+	{{ $built := resources.Get "js/main.js" | js.Build $opts }}
+	<script src="{{ $built.RelPermalink }}" defer></script>
 </head>
