@@ -211,6 +211,7 @@ main code, main var {
   font-family: var(--mono-font);
   background: var(--code-bg-color);
   font-style: normal;
+  font-variant-ligatures: no-common-ligatures;
 }
 
 main pre {
@@ -272,11 +273,15 @@ main kbd .command {
 
 main kbd .command:after {
   content: "⌘";
-  display: inline-box;
+  display: inline;
   position: relative;
   top: 3px;
   font-size: 17px;
   padding-right: 3px;
+}
+
+main kbd .command:last-child:after {
+  padding-right: 0;
 }
 
 main samp {
