@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: </title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<article>
+<h1 id="example-long-form-text">Example: Long Form Text</h1>
+<p>This is an example of a long-form textual article using all the supported semantic markup. As always there is a single <code>h1</code> with the article title at the top. This is followed by paragraph text. I&rsquo;m going to start the first section now.</p>
+<h2 id="common-styles">Common Styles</h2>
+<p>We use <code>h2</code> for section headings. Typically we try to use only one level of sections to ease readibility. Within text we can use <em>emphasis</em> and <strong>strong emphasis</strong>. There are cases where <code>code style</code> is more appropriate.</p>
+<p>We also support numbered lists like this:</p>
+<ol>
+<li>A list</li>
+<li>Of items</li>
+<li>That are ordered</li>
+</ol>
+<p>And bulleted lists:</p>
+<ul>
+<li>A list</li>
+<li>Of items</li>
+<li>That are unordered</li>
+</ul>
+<p>You can also use <code>dl</code> lists for defined terms:</p>
+<dl>
+	<dt>Jean Valjean</dt>
+	<dd>The protagonist, former prisoner 24601.</dd>
+	<dt>Javert</dt>
+	<dd>One of the principal antagonists, a cop.</dd>
+</dl>
+<p>Note that definition lists may have multiple terms for the same definition:</p>
+<dl>
+	<dt>Prisoner 24601</dt>
+	<dt>Monsieur le Maire</dt>
+	<dd>Aliases for Jean Valjean.</dd>
+</dl>
+<p>Or multiple definitions for the same term:</p>
+<dl>
+	<dt>Gavroch</dt>
+	<dd>The ganin of the streets of paris.</dd>
+	<dd>The boy who fetches bullets.</dd>
+</dl>
+<h2 id="semantic-inline-styles">Semantic Inline Styles</h2>
+<p>It&rsquo;s rare but sometimes we may use <ins>insertions</ins> and <del>deletions</del> to indicate changes to text. These are preferred to using strikethrough directly. While insertation may look like a highlight, it is not. Semantically it means &ldquo;text that was inserted&rdquo;. If we just wans to highlight we can <mark>use mark tags to highlight text</mark>.</p>
+<p>When giving instructions to a computer user, we can indicate specific keyboard input: <kbd>Command</kbd> + <kbd>C</kbd>. This is specificlaly for cases when we&rsquo;re telling the reader what to press on the keyboard. If we&rsquo;re referring to code we use <code>code style</code> instead. And if we&rsquo;re referring to a <var>variable</var> in a previous code sample, we use the <code>var</code> tag. Finally, if we&rsquo;re saying what the computer says in <em>response</em> to input from the user, we use <samp>the sample output style</samp>.</p>
+<p>There&rsquo;s one more unusual case— when a snippet of text refers to a time, range of time, point in history, etc… Suppse this happened on <time datetime="1948-11-10">November 10, 1948</time>. We would use <code>time</code> tags for that.</p>
+<h2 id="quoting-things">Quoting Things</h2>
+<p>We often need to quote passages from other source material. And we generally want to cite the sourcse as well. For short passages we use the <code>q</code> tag: <q cite="https://www.ushistory.org/paine/crisis/c-01.htm">These are the times that try men&rsquo;s souls.</q></p>
+<p>In some cases though we need to quote larger passages of text. We do this with a blockquote:</p>
+<blockquote>
+    These are the times that try men's souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands by it now, deserves the love and thanks of man and woman. Tyranny, like hell, is not easily conquered; yet we have this consolation with us, that the harder the conflict, the more glorious the triumph. What we obtain too cheap, we esteem too lightly: it is dearness only that gives every thing its value.
+    <cite><a href="https://www.ushistory.org/paine/crisis/c-01.htm">American Crisis</a> by Thomas Paine</cite>
+</blockquote>
+<p>As you can see, we can also add a citation to a blockquote, and it will be nicely formatted.</p>
+<h2 id="asides">Asides</h2>
+<p>While we&rsquo;re on the subject of blockquotes: These are for <strong>quotes</strong>, not for callouts, notes, sidebars, etc… Those are not quotes, they are <strong>asides</strong>.</p>
+<aside>
+    I should mention here that asides come in several forms. But they're all asides. This is a generic aside.
+</aside>
+<p>Asides actually come in four types. The one above is a basic aside. You can add one of these classes to alter the look:</p>
+<ul>
+<li><code>note</code> for important notes</li>
+<li><code>warn</code> for important warnings</li>
+<li><code>tip</code> for tips</li>
+</ul>
+<aside class="note">
+    Note: Right now we recognize three types of asides. The above is a generic aside with no context clues. This one begins with the literal text "Note:" which signals that it is a note.
+</aside>
+<p>We also support a warning style:</p>
+<aside class="warn">
+    Warning: If you use this style, be prepared to explain what the reader should be careful of.
+</aside>
+<p>And a tip:</p>
+<aside class="tip">
+    Tip: You can use literal text prefixes to your aside text to identify the type.
+</aside>
+<p>These are all simple asides. But you can use aside for richer sidebars as well.</p>
+<aside>
+<h2>Sidebars</h2>
+If an aside contains a heading, it becomes a sidebar. The exact rendering of this type of content varies by device width. While it is atypical to put more than just simple text into most asides, sidebars often have full rich content.
+<p>This one has a second paragraph, and also a bulleted list:</p>
+<ul>
+    <li>Still in the sidebar</li>
+    <li>And always in the sidebar</li>
+</ul>
+<p>Sidebars can have figures, tables, etc…</p>
+</aside>
+<h2 id="disclosure-blocks">Disclosure Blocks</h2>
+<p>Use <code>&lt;details&gt;</code> for expandable blocks with disclosure control, like this:</p>
+<pre tabindex="0"><code>&lt;details&gt;
+	&lt;summary&gt;This is the always-visible summary text.&lt;/summary&gt;
+	And this is the text that is hidden until expanded.
+&lt;/details&gt;
+</code></pre><p>Which renders as:</p>
+<details>
+	<summary>This is the always-visible summary text.</summary>
+	And this is the text that is hidden until expanded.
+</details>
+<h2 id="scene-breaks">Scene Breaks</h2>
+<p>The <code>&lt;hr&gt;</code> element should be used to represent scene breaks.</p>
+<hr>
+<p>Like that.</p>
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

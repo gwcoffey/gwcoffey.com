@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Alternating Color Based on Alternating Data</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Alternating Color Based on Alternating Data</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2008-06-05 00:00:00 &#43;0000 UTC">5 June 2008</time>
+	</div>
+</hgroup>
+
+<p>An interesting question popped up on the TechNet discussion list this evening:</p>
+<blockquote>
+<p>I have a list of records with dates, which often repeat from one record to the next. I want all the same dates to be one colour. Then the next date would be another color. The background color of the date field would alternate from one color to the other as the date changes.</p>
+</blockquote>
+<p>I’ve never run in to this need before, but it sounds like something that would come in handy. It also proves to be just enough FileMaker challenge to be interesting. Here’s how to make it work.</p>
+<aside class="note">
+Note: This post was updated <time datetime="2008-06-06">July 6, 2008</time>. based on feedback from David Zakary, I have added a second example that supports more than two alternating colors.
+</aside>
+<h2 id="the-problem">The Problem</h2>
+<p>First, here’s a sample of the kind of data we’re talking about:</p>
+<figure><img src="alternator_data.gif"
+         alt="Screenshot of a database window showing a table with columns &#34;Date&#34; and &#34;What&#34;. There are several rows of data sorted by the date. The first three rows have the same date. There are two other groups of rows with matching dates." width="454" height="179"/><figcaption>
+            <p>In this database, the records are sorted by date, and several rows have repeated dates.</p>
+        </figcaption>
+</figure>
+
+<p>Notice that some dates are repeated from record to record. Here’s how we want the data to display:</p>
+<figure><img src="alternator_colors.gif"
+         alt="The same database window, this time with each row colored either green or yellow. The first three rows are green because they have the same date. On the fourth row, where the date has changed, the color has changed to yellow. The colors alternate every time a row has a different date from the row before." width="454" height="179"/><figcaption>
+            <p>The rows are given an alternating color background to make records with the same date look connected.</p>
+        </figcaption>
+</figure>
+
+<p>As you can see, this technique makes it very easy to see how different sets of records go together.</p>
+<h2 id="formulating-a-solution">Formulating a Solution</h2>
+<p>The goal is simple, but it turns out this is a tricky thing to accomplish in FileMaker. After a little thought, it becomes pretty clear you’re going to be using the <code>GetNthRecord</code> function. It’s just about the only way FileMaker calculations can make decisions based on data in <em>other records in the found set</em>.</p>
+<p>If you’re not familiar with this function, it’s a special one. It lets you fetch the value of a field from any record in the found set, which is an unusual sort of thing to do. Using it is a breeze:</p>
+<pre tabindex="0"><code>GetNthRecord(My Table::My Field, 7)
+</code></pre><p>The above formula gets the value of the <code>My Field</code> field from the 7th record in the found set. Simple.</p>
+<p>The first step in solving our problem is to identify the boundaries. In other words, find the places where the <code>DATE</code> field changes values. You can do just that with a formula like this:</p>
+<pre tabindex="0"><code>GetNthRecord(My Table::DATE, Get(RecordNumber) – 1) 
+   = My Table::DATE
+</code></pre><p>This formula compares the value of the <code>DATE</code> field in the <em>previous</em> record (<code>Get(RecordNumber) – 1</code>) to its value in the <em>current</em> record. If you put this in a calculation field, you get results like this:</p>
+<figure><img src="boundary.gif"
+         alt="The same database window, with a third column added called &#34;X&#34;. This column shows a 1 if the row above has the same date as the current row, and a 0 otherwise." width="454" height="179"/><figcaption>
+            <p>The new column shows the results of our boundary-finding calculation. It has a value of <code>0</code> whenever the <em>previous</em> row has a different date.</p>
+        </figcaption>
+</figure>
+
+<p>As you can see, the new field shows a <code>1</code> if the date is the same as the previous record, and a <code>0</code> otherwise. This is useful information, but it doesn’t go far enough. There’s no way to decide which color each record should use.</p>
+<h2 id="the-solution">The Solution</h2>
+<p>Let’s break it down. The color for any given record will either be the <em>same</em> as the previous record (if the date is the same) or <em>different</em> from the previous record. The formula above tells you when the color should change, and when it should be the same.</p>
+<p>So you need a way to refer to the color of the previous record, compare the dates, and decide if the color should change or not. But there’s no way to determine, from a calculation, the background color of a field in the previous record. Instead, we’ll modify our calculation field so it tells us which color to use. This way, we can look at the value in this field to detect which color is in use. For simplicity, the field will have either a <code>1</code> or a <code>0</code>, indicating one or the other color is appropriate.</p>
+<aside>
+
+	<h3 id="self-referencing-calculation-fields">Self-referencing Calculation Fields</h3>
+
+<p>A quick digression: It is a little known fact that FileMaker calculation fields can refer to themselves. In this case, our field will refer to its value from a different record, but in fact, a calculation field can even refer to itself in the <em>same</em> record, and FileMaker will just use its current value.</p>
+<p>(At this point I should take a break to reiterate that this technique is a bit mind-bending. Sorry.)</p>
+
+</aside>
+<p>Here’s what our calculation will do:</p>
+<ul>
+<li>Check to see if the date in this record matches the previous record.</li>
+<li>If it <em>does</em>, set itself to the same value it has in the previous record.</li>
+<li>If it <em>does not</em>, set itself to a different value from the previous record.</li>
+</ul>
+<p>Here’s the formula that does the trick. Put this in a field called <code>_COLOR</code> (or use a different name and modify the formula accordingly).</p>
+<pre tabindex="0"><code>Let(
+  [
+    previous_record = Get(RecordNumber) – 1;
+    previous_color = GetNthRecord(_COLOR; previous_record)
+  ];
+
+  If(GetNthRecord ( DATE ; previous_record ) = DATE;
+    previous_color;
+    not previous_color
+  )
+)
+</code></pre><p>You need to <strong>Make this field unstored</strong>. Otherwise, it won’t recalculate properly as you change your found set or sort order.</p>
+<aside class="tip">
+Tip: This formula might give you trouble when you try to create the calculation field. After all, you’re creating the <code>_COLOR</code> field, and the formula <em>uses</em> the <code>_COLOR</code> field. FileMaker might complain because, until you’ve OK’d the dialog box, the field doesn’t exist, and you can’t refer to a field that doesn’t exist. The trick is to make the field first, then go back in and set its formula. When you first create the field, just OK the calculation dialog box with an empty formula. Then click Options again and add the correct formula.
+</aside>
+<p>The formula first sets a couple of variables just to improve readability:</p>
+<ul>
+<li><var>previous_record</var> is the record number of the previous record.</li>
+<li><var>previous_color</var> is the value of the <code>_COLOR</code> field from the previous record.</li>
+</ul>
+<p>It then checks to see if the date has changed. If not, it uses the <code>previous_color</code> value. Otherwise it <em>switches</em> the value.</p>
+<aside class="note">
+Note: In this case, I use the expression <code>not previous_color</code> to make the switch. The <code>not</code> operator has the power to turn a <code>1</code> to a <code>0</code> and a <code>0</code> to a <code>1</code>, which happens to be just what I want. If that makes your head hurt, you can do it like this instead: <code>if ( previous_color = 1, 0, 1 )</code>
+</aside>
+<p>Here’s how this field shakes out in our database:</p>
+<figure><img src="calc.gif"
+         alt="The same database window again. Now the third column has a 0 in the first three rows, then switches to a 1. This alternates as the date value changes." width="454" height="179"/><figcaption>
+            <p>Now we have a column who&rsquo;s value of zero or one matches the color pattern we want.</p>
+        </figcaption>
+</figure>
+
+<p>Notice that it perfectly alternates between <code>1</code> and <code>0</code> along with the dates, which is just what we need. To finish up, just add conditional formatting to your fields using the <code>_COLOR</code> field to help:</p>
+<figure><img src="formatting.gif"/>
+</figure>
+
+<h2 id="more-colors">More Colors</h2>
+<p>If you want to cycle between more than two colors, you can make two small modifications to the formula. Here’s an example that cycles through four color options (0, 1, 2, and 3):</p>
+<pre tabindex="0"><code>Let(
+  [
+    previous_record = Get(RecordNumber) – 1;
+    previous_color = If (
+      previous_record = 0; 
+      0; 
+      GetNthRecord(_COLOR; previous_record)
+    )
+  ];
+
+  If(GetNthRecord ( DATE ; previous_record ) = DATE;
+    previous_color;
+    Mod(previous_color + 1; 4)
+  )
+)
+</code></pre><p>The meat of the change is this line:</p>
+<pre tabindex="0"><code>Mod(previous_color + 1; 4)
+</code></pre><p>In other words, when the date has changed, we take the previous color value and add one to it. To keep if from getting <em>too</em> big, we use the <code>Mod</code> function, which has the useful power of “rolling it over” to zero when the value reaches <code>4</code>. If you want five colors, or three, or 24,601, just modify the second parameter to the <code>Mod</code> function here.</p>
+<p>To make this change work, though, we had to get a little smarter with the <code>previous_color</code> variable as well. In the original example, this variable would be <code>?</code> (or “undefined”) for the <em>first</em> record since there is no previous color value to fetch. That doesn’t cause a problem because the <code>not previous_color</code> line turns ‘?’ in to zero for us. But the <code>Mod</code> function isn’t so forgiving. So the above formula also makes sure <code>previous_color</code> always has a valid number value.</p>
+<p>Once you have this formula in place, you just need to add more conditional formatting rules for 2, 3, and so forth.</p>
+<p>Smokin’.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

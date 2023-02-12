@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: The Secret Life of Find Mode: Requests</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>The Secret Life of Find Mode: Requests</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2007-07-23 00:00:00 &#43;0000 UTC">23 July 2007</time>
+	</div>
+</hgroup>
+
+<p>FileMaker’s <em>find mode</em> is a great feature. You can tell because, like all great technologies, it is easy to understand the first time you try it, and yet has a depth of capability that can be unlocked if you know a little more. Unfortunately, many FileMaker developers (and users) never venture beyond the simplest of finds. This series of articles aims to change that.</p>
+<h2 id="the-basics">The Basics</h2>
+<p>Everybody knows that to do a find, you first switch to find mode (View → Find Mode). Then you type in some stuff and click Find. When you’re in find mode, all your records (along with the field data in them) disappear, but the layout otherwise stays the same. It <em>acts</em> a lot like browse mode: you can type in edit fields, choose from pop-up menus, and click off checkboxes and radio buttons. You can copy and paste. You can even use the Edit → Find/Replace command, on the off chance you want to find something <em>in your find criteria</em>.</p>
+<p>When you fill out some fields and click Find, FileMaker goes to work, hunting down records that have data similar to the stuff you filled in. If you put “Bill” in the First Name field, FileMaker finds every customer whose name is Bill. If you know this much (and who doesn’t?) you may be able to live a long and happy FileMaker life and never know what you’re missing.</p>
+<p>But for some of you, the time will come when you bump in to the limits of this simplistic view. Each of these presents a problem when that’s all you know about find mode:</p>
+<ul>
+<li>I have 632,788 customer records. I want to find Jo. not Joe. Not Joseph. Not Josephine. Just “Jo.”</li>
+<li>I need to find all the shirts that are available in red <em>or</em> blue.</li>
+<li>I’m looking for every order that came in on a Tuesday.</li>
+<li>Show me all the students that <em>don’t</em> live in town.</li>
+</ul>
+<p>But each of these is actually <em>easy</em> to get if you learn the secrets of find mode. The first secret we’re going to cover is <em>Find Requests</em>. These are the bread and butter of find mode, but they’re often misunderstood. Over the coming weeks, we’ll add more to this series. In all we’ll cover:</p>
+<ul>
+<li>Find requests (this one!)</li>
+<li><a href="../the-secret-life-of-find-mode-symbols/">Find symbols</a></li>
+<li><a href="../the-secret-life-of-find-mode-dates-times/">Tricks with dates and times</a></li>
+<li><a href="../the-secret-life-of-find-mode-omit/">Finds of omission</a></li>
+</ul>
+<h2 id="find-requests">Find Requests</h2>
+<p>As we mentioned above, find mode acts <em>a lot</em> like browse mode. This affinity goes deeper than most people realize. Did you know you can create new “records” in find mode? Of course they aren’t really records. After all, the very word <em>record</em> implies something is being recorded — put away for future reference. But the things you create in find mode are ephemeral: as soon as you switch back to browse mode, they’re gone.</p>
+<aside class="note">
+Note: Truthfully, the aren’t really <em>gone</em> just yet. You can choose Records → Modify Last Find to get them back. But the <em>next time</em> you perform a find, your previous set of find requests is lost permanently.
+</aside>
+<p>In the vocabulary of FileMaker, the things you make in find mode are called <em>requests</em>. It makes sense really. You are <em>requesting</em> records. When in find mode, you can make as many requests as you want, and FileMaker will dutifully carry them all out, serving up the results when it is done. You make a new request in much the same way you make a new record:</p>
+<ul>
+<li>Choose Requests → New Request</li>
+<li>or Press <kbd>Ctrl-n</kbd> (on Windows) or <kbd><span class="command">Command </span>n</kbd> (on Mac OS X)</li>
+</ul>
+<p>When FileMaker actually processes your find requests, it finds records that match <em>any one of them</em>. Consider these examples:</p>
+<ul>
+<li>
+<p>If you put “Bill” in the first name field, and “California” in the state field <em>in the same request</em>, FileMaker will only find customers named Bill who live in California.</p>
+</li>
+<li>
+<p>On the other hand, if you create two requests (one with “Bill” and the other with “California”) you’ll probably get more records. FileMaker finds <em>everyone</em> named Bill (no matter what state they live in). It also finds <em>everyone</em> from California, no matter the name.</p>
+</li>
+</ul>
+<p>In nerdier terms, multiple requests create an <em>or search</em>: Records match either the first request <em>or</em> the second. Multiple criteria in one request makes an <em>and search</em> because records have to match the first field <em>and</em> the second.</p>
+<p>This short (and silent) video illustrates how multiple find requests work:</p>
+<figure>
+	<video controls>
+	  <source src="video_of_find_requests.mov" type="video/mp4" />
+	</video><figcaption><p>If you put multiple criteria in one request, records must match all of them. If you put them in separate requests, records have to match any of them.</p></figcaption></figure>
+
+<p>Tune in next time to learn more about the secret life of find mode.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordplay on gwcoffey.com</title>
+    <link>http://gwcoffey.com/wordplay/</link>
+    <description>Recent content in Wordplay on gwcoffey.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://gwcoffey.com/wordplay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You are the worst, Burr</title>
+      <link>http://gwcoffey.com/wordplay/you-are-the-worst-burr/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/wordplay/you-are-the-worst-burr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What a Catastrophe</title>
+      <link>http://gwcoffey.com/wordplay/what-a-catastrophe/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/wordplay/what-a-catastrophe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground Transportation</title>
+      <link>http://gwcoffey.com/wordplay/ground-transportation/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/wordplay/ground-transportation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

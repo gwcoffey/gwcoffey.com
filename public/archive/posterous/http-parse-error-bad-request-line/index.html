@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: HTTP Parse Error / Bad Request Line</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>HTTP Parse Error / Bad Request Line</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2012-06-21 00:00:00 &#43;0000 UTC">21 June 2012</time>
+	</div>
+</hgroup>
+
+<p>Yeah I know. You&rsquo;re getting this:</p>
+<samp>
+21-Jun-2012  5:40 PM: HTTP parse error, malformed request (127.0.0.1): #<Mongrel::HttpParserError: Invalid HTTP format, parsing fails.>
+21-Jun-2012  5:40 PM: REQUEST DATA: "\026\003\000\000A\001\000\000=\003\000Oã¿\000\001hìÍëÂZd^h9\216\247áKP
+\224\000\nZQ\264ZÃ¦Jü���/\000\005\000\004\0005\000\n\0002\0003\0008\0009
+\000\026\000\023\001\000"
+</samp>
+<p>Or maybe this:</p>
+<samp>
+[2012-06-21 17:40:18] ERROR bad Request-Line `\026\003\001\000\001\000\000\003\001Oã¾òîË~w"T9ÙëänÓXÊ¡Ë;±©\037Ì"ç¦ \003\031Q\000\0006À'.
+[2012-06-21 17:40:18] ERROR bad Request-Line `\026\003\000\000A\001\000\000=\003\000Oã¾òI~1WjZ@Õ¸+\006´\017mhøÍ¥'ú]��\026\000/\000\005\000\004\0005\000'.
+</samp>
+<p>And you have no idea why. And it is driving you crazy. I got you…</p>
+<p>You meant <code>HTTP</code> not <code>HTTP<strong>S</strong></code>.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

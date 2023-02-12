@@ -211,6 +211,7 @@ main code, main var {
   font-family: var(--mono-font);
   background: var(--code-bg-color);
   font-style: normal;
+  font-variant-ligatures: no-common-ligatures;
 }
 
 main pre {
@@ -272,11 +273,15 @@ main kbd .command {
 
 main kbd .command:after {
   content: "⌘";
-  display: inline-box;
+  display: inline;
   position: relative;
   top: 3px;
   font-size: 17px;
   padding-right: 3px;
+}
+
+main kbd .command:last-child:after {
+  padding-right: 0;
 }
 
 main samp {
@@ -391,36 +396,6 @@ main hr:after {
   content: '***';
 }
 
-main figure {
-  position: relative;
-  padding: 12px;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-  background: var(--figure-frame-bg-color);
-}
-
-main figure:has(+ figure) {
-  margin-bottom: 36px;
-}
-
-main figure img, main figure video {
-  display: block;
-  margin: 0 auto;
-}
-
-main figure img:not(+ figcaption), main figure video:not(+ figcaption) {
-  margin-bottom: 36px;
-}
-
-main figure figcaption p {
-  margin: 12px 0 3px 0;
-  font-style: italic;
-  text-align: center;
-}
-
-main figure figcaption p em {
-  font-style: normal;
-}
-
 main sup {
   display: inline-block;
   position: relative;
@@ -452,6 +427,51 @@ main span.editors-note {
 }
 
 main span.editors-note em {
+  font-style: normal;
+}
+
+main figure {
+  position: relative;
+  padding: 12px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  background: var(--figure-frame-bg-color);
+}
+
+main figure:has(+ figure) {
+  margin-bottom: 36px;
+}
+
+main figure:has(> figcaption > h4) {
+  padding-top: 2.3em;
+}
+
+main figure img, main figure video {
+  display: block;
+  margin: 0 auto;
+}
+
+main figure img:not(+ figcaption), main figure video:not(+ figcaption) {
+  margin-bottom: 36px;
+}
+
+main figure figcaption h4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  padding-top: 0.4em;
+}
+
+main figure figcaption p {
+  margin: 12px 0 3px 0;
+  font-style: italic;
+  text-align: center;
+}
+
+main figure figcaption p em {
   font-style: normal;
 }
 

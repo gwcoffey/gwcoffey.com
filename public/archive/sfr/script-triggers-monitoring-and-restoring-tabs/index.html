@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Script Triggers: Monitoring and Restoring Tabs</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Script Triggers: Monitoring and Restoring Tabs</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2009-01-19 00:00:00 &#43;0000 UTC">19 January 2009</time>
+	</div>
+</hgroup>
+
+<p>FileMaker 10’s new Script Triggers feature just keeps delivering. You might, at first, think triggers are limited to layouts and fields, but it turns out your triggers can fire with all kinds of objects. In this article we’ll show you how to run scripts when users switch tabs on your tab controls. In the end, we’ll also revisit a common FileMaker problem: tabs switch when you switch layouts. We’ll show you how to solve this problem quickly and easily using script triggers.</p>
+<h2 id="triggers-with-tabs">Triggers with Tabs</h2>
+<p>It is unfortunately not entirely obvious, but Script Triggers work with tab controls. Specifically:</p>
+<ul>
+<li>
+<p>The <code>OnObjectModify</code> trigger fires whenever the user switches to a different tab. This is probably the most useful trigger for tab controls.</p>
+</li>
+<li>
+<p>The <code>OnObjectEnter</code> trigger fires when the tab control gets keyboard focus. This happens when it is in the tab order and you tab to it (so a tab gets the thick black border). You can see a tab control with keyboard focus here:</p>
+</li>
+</ul>
+<figure><img src="tab-with-keyboard-focus.png"
+         alt="A FileMaker database with a three-tab tab control. (IN this illustration the tabs are empty.) The middle tab has a thick black border indicating it has keyboard focus." width="409" height="291"/><figcaption>
+            <p>In FileMaker you can tab (the key) into a tab (the user interface element). When you do, it looks like this.</p>
+        </figcaption>
+</figure>
+
+<ul>
+<li>
+<p>The <code>OnObjectExit</code> trigger fires when the tab control <em>loses</em> focus. In other words, when you tab <em>away</em> from it.</p>
+</li>
+<li>
+<p>The <code>OnObjectKeystroke</code> trigger fires when the tab control has focus and you press any key on the keyboard.</p>
+</li>
+</ul>
+<h2 id="watching-the-tab-change">Watching the Tab Change</h2>
+<p>Once you know all that, keeping tabs on your tabs (sorry) is easy. For example, suppose you want to show a special message under some circumstances when someone switches to a particular tab. Setting this up couldn’t be easier:</p>
+<ol class="steps">
+
+
+<li>
+	<p><strong>Write a script that does what you want.</strong></p><p>For example, it might show a dialog box, calculate a total, set a global, or clear a selection.<p></li>
+
+<li>
+	<p><strong>In Layout mode, select your tab control, then choose Format → Set Script Triggers…</strong></p><p>The Set Script Triggers dialog box appears.<p></li>
+
+<li>
+	<p><strong>Turn on the OnObjectModify checkbox.</strong></p><p>You’ve just told FileMaker you want to run a script, so it asks you which script to run.<p></li>
+
+<li>
+	<p><strong>Select the script you created in step 1.</strong></p><p>When you’re done here, click OK, then switch to Browse mode. You’re ready to test.<p></li>
+
+
+</ol>
+<p>As this video attests, your script now runs as soon as the user switches to <em>any</em> tab:</p>
+<figure>
+	<video controls>
+	  <source src="trigger-script-on-tab-change.mov" type="video/mp4" />
+	</video><figcaption><p>FileMaker can now run scripts whenever a tab control switches tabs. And scripts can, as always, do a lot of stuff.</p></figcaption></figure>
+
+<h2 id="which-tab">Which Tab</h2>
+<p>If you watched the video closely, you may have noticed that the scripted dialog box showed <em>which tab</em> was selected. With only one trigger script, how do you manage this? You just have to ask.</p>
+<p>FileMaker’s esoteric <code>GetLayoutObjectAttribute</code> function can tell you all kinds of information about objects on your layout. Of particular interest, it can tell you if a tab panel is <em>front most</em>. To use it, though, you first need to give your tabs <em>object names</em>. We’ve <a href="http://sixfriedrice.com/wp/tab-controls-without-the-tabs/">showed you how to do this before</a> but here’s a quick refresher. If you’re already an object names expert, you can <a href="#restoring-tab-state">skip ahead</a>.</p>
+<ol class="steps">
+
+
+<li>
+	<p><strong>In Layout mode, click on your tab control to select it.</strong></p><p>When you click, the first tab gets a thick black border. This tells you that specific tab panel is selected. (You can have an entire tab control selected, without selecting any of its individual panels. You’ll see this in a moment.)<p></li>
+
+<li>
+	<p><strong>Choose View → Object Info to show the Object Info palette.</strong></p><p>This is where you go to set object names (among other things). Since its a palette, you can simply leave it open while you work through all your tabs.<p></li>
+
+<li>
+	<p><strong>In the Object Name box in the Object Info palette, type a unique and identifying name for your tab.</strong></p><p>You might call it “tab1” or “customer tab” or whatever you feel is appropriate.<p></li>
+
+<li>
+	<p><strong>Click the second tab in your tab control.</strong></p><p>The second tab comes to the front but it is not selected. Notice it doesn’t have a thick border.<p></li>
+
+<li>
+	<p><strong>Click once again on the second tab.</strong></p><p>This time it gets its thick border. This is important. You can only name a tab panel once you have it properly selected.<p></li>
+
+<li>
+	<p><strong>Give this tab a unique name, then repeat these steps to name every tab in your tab control.</strong></p><p>If you want to find out if a particular tab panel is in the front, it must have a name, so you’re best of naming them all.<p></li>
+
+
+</ol>
+<p>Once you’ve given every tab panel a name, you’re ready to start asking FileMaker who’s in front. This part is easy. Here’s the long-but-simple formula to see if a tab is in front:</p>
+<pre tabindex="0"><code>GetLayoutObjectAttribute ( “myTab”, “isFrontTabPanel” )
+</code></pre><p>Notice that this formula only looks at one particular tab panel (in this case it is looking at the panel called <code>myTab</code> so be sure to put one of your tab panel object names there instead). It will return a <code>True</code> result if the tab panel is in front, and a <code>False</code> result otherwise. To determine which of all the tabs is in front, you can check them one by one:</p>
+<pre tabindex="0"><code>Case(
+  GetLayoutObjectAttribute ( “myFirstTab”, “isFrontTabPanel” ); 
+  “First tab is in front”;
+  
+  GetLayoutObjectAttribute ( “mySecondTab”, “isFrontTabPanel” ); 
+  “Second tab is in front”;
+  
+  GetLayoutObjectAttribute ( “myThirdtTab”, “isFrontTabPanel” ); 
+  “Third tab is in front”
+)
+</code></pre><p>Or, in a script:</p>
+<pre tabindex="0"><code>If [ GetLayoutObjectAttribute(“myFirstTab”, “isFrontTabPanel”) ]
+  # do stuff for the first tab
+Else If [ GetLayoutObjectAttribute ( “mySecondTab”, “isFrontTabPanel” ) ]
+  # do stuff for the second tab
+Else If [ GetLayoutObjectAttribute ( “myThirdtTab”, “isFrontTabPanel” ) ]
+  # do stuff for the third tab
+End If
+</code></pre><h2 id="restoring-tab-state">Restoring Tab State</h2>
+<p>Now that you know how to watch for tab changes, and figure out which tab is in front, you can take it one step further, and solve an age-old FileMaker problem in the process. Last year, we wrote up <a href="../restoring-active-tab-state/">a laborious technique</a> to remember which tab is in front before you leave a layout, then bring it back to the front when you come back. This way, if your scripts have to quickly zip to another layout to get some work done, your users don’t get distracted by tab controls that keep switching back to the first tab.</p>
+<p>That technique worked, but it was tedious. You had to write two long and complicated scripts. Then you had to call one every time you <em>leave</em> the layout, and the other every time you <em>come back</em>. What a nuisance.</p>
+<p>Using Script Triggers, you can save all the hassle. Now two very simple scripts can get the job done, and they can do it automatically every time you return to the layout.</p>
+<aside class="note">
+Note: In fact, this new, simpler version is even better than the old way. The tab will restore itself even if you manually leave the layout and come back later, making things a touch more stable for your users.
+</aside>
+<p>First, you need a simple script to remember the front most tab:</p>
+<pre tabindex="0"><code>Set Variable [ $$FRONT_TAB;
+  Case(
+    GetLayoutObjectAttribute(“myFirstTab”, “isFrontTabPanel” ; 
+    “myFirstTab”;
+    
+    GetLayoutObjectAttribute(“mySecondTab”, “isFrontTabPanel”); 
+    “mySecondTab”;
+    
+    GetLayoutObjectAttribute(“myThirdtTab”, “isFrontTabPanel”); 
+    “myThirdtTab”
+  )
+]
+</code></pre><p>That’s it (and its really a one line script, although we put it on a few lines here so it would be easier to read. Just set a global variable to the name of the font most tab.</p>
+<aside class="tip">
+Tip: If you have multiple tab controls to keep track of, make sure you use a unique variable name (or repetition) for each one. Otherwise, changes to one set of tabs will impact the others.
+</aside>
+<p>Now attach an <code>OnObjectModify</code> trigger to your tab control and set it to run the script. With these two steps complete, a new global variable will always remember which tab you last visited.</p>
+<p>Next, you need to make FileMaker restore the front most tab whenever you come to this layout. This part is equally easy. Start with a simple script:</p>
+<pre tabindex="0"><code>If [ Not IsEmpty($$FRONT_TAB) ]
+  Go to Object [ $$FRONT_TAB ]
+End If
+</code></pre><p>This script first checks to see if the <code>$$FRONT_TAB</code> variable has a value. If it does, it uses the <code>Go to Object</code> step to bring that tab to the front.</p>
+<p>Finally, tell FileMaker to run <em>this</em> script whenever the layout loads. You do this with (shocker) a script trigger. Choose Layout → Layout Setup, then switch to the Script Triggers tab. Turn on the <code>OnLayoutLoad</code> trigger and point it to your script.</p>
+<p>Here’s a video showing the tab behavior with and without the triggers:</p>
+<figure>
+	<video controls>
+	  <source src="automatic-tab-restore.mov" type="video/mp4" />
+	</video><figcaption><p>Normally FileMaker resets all tab controls to the first tab when you return to a layout. But with this technique, the user is still &ldquo;on&rdquo; the tab they last used when they come back.</p></figcaption></figure>
+
+<p>In the first version (before the fade-to-black) FileMaker switches back to the firs tab every time you leave the layout and come back. In the second, it seamlessly keeps things in order. This magic works whether your user leaves the layout manually, or you do it with script. Easy as pie.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

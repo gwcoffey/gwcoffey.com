@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Scaling Images in a Web Viewer</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Scaling Images in a Web Viewer</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2007-06-03 00:00:00 &#43;0000 UTC">3 June 2007</time>
+	</div>
+</hgroup>
+
+<p>A recent post on the <a href="https://community.claris.com/">TechNet</a> mailing list posed an interesting question <span class="editors-note">[ed: TechNet is now Claris Community. The link has been updated accordingly.]</span>:</p>
+<blockquote>
+When displaying an image in a web viewer, is there any way to scale the image to fit?
+
+</blockquote>
+<p>Of course container fields have this ability built right in (by way of the Format → Graphic command). But there are several reasons you might want to show pictures in a web viewer instead. Most notably, the images might already be on a web site. There’s no reason to copy them into the FileMaker database too, wasting space and adding more to your already busy schedule. Is there any way to give web viewers container-like scaling ability?</p>
+<p>This question inspired me, so I put together a solution that can be used generically. The result is a simple web page that can, using Javascript, load an image, figure out how big it is, and scale it appropriately. First, here’s the source of the page. If you’re curious about how it works, read on.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#633820">&lt;!DOCTYPE HTML PUBLIC &#34;-//W3C//DTD HTML 4.01 Transitional//EN&#34; &#34;http://www.w3.org/TR/html4/loose.dtd&#34;&gt;</span>
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#000">html</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#000">head</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000">style</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#000">body</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">border</span>: <span style="color:#1c01ce">0</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">margin</span>: <span style="color:#1c01ce">0</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000">img</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">display</span>: <span style="color:#a90d91">block</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">margin</span>: <span style="color:#1c01ce">0</span> <span style="color:#a90d91">auto</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000">style</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000">script</span> <span style="color:#836c28">type</span><span style="color:#000">=</span><span style="color:#c41a16">&#34;text/javascript&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">function</span> <span style="color:#000">resize_image</span>() {
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">var</span> <span style="color:#000">img</span> <span style="color:#000">=</span> <span style="color:#a90d91">document</span>.<span style="color:#000">getElementsByTagName</span>(<span style="color:#c41a16">&#39;img&#39;</span>).<span style="color:#000">item</span>(<span style="color:#1c01ce">0</span>);
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">if</span> (<span style="color:#000">img</span>.<span style="color:#000">offsetHeight</span> <span style="color:#000">&gt;</span> <span style="color:#000">img</span>.<span style="color:#000">offsetWidth</span>)
+</span></span><span style="display:flex;"><span>        <span style="color:#000">img</span>.<span style="color:#000">style</span>.<span style="color:#000">height</span> <span style="color:#000">=</span> <span style="color:#c41a16">&#39;100%&#39;</span>;
+</span></span><span style="display:flex;"><span>      <span style="color:#a90d91">else</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">img</span>.<span style="color:#000">style</span>.<span style="color:#000">width</span> <span style="color:#000">=</span> <span style="color:#c41a16">&#39;100%&#39;</span>;
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000">script</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">head</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#000">body</span> <span style="color:#836c28">onload</span><span style="color:#000">=</span><span style="color:#c41a16">&#39;resize_image();&#39;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000">script</span> <span style="color:#836c28">type</span><span style="color:#000">=</span><span style="color:#c41a16">&#34;text/javascript&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">document</span>.<span style="color:#000">write</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#c41a16">&#34;&lt;img src=&#39;&#34;</span> <span style="color:#000">+</span> 
+</span></span><span style="display:flex;"><span>      <span style="color:#000">location</span>.<span style="color:#000">search</span>.<span style="color:#000">replace</span>(<span style="color:#c41a16">/^\?/</span>, <span style="color:#c41a16">&#34;&#34;</span>) <span style="color:#000">+</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#c41a16">&#34;&#39;&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>    );
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000">script</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">html</span>&gt;
+</span></span></code></pre></div><p>To use this in your own systems, copy the source code into a new file. Name it “scale-image.html” (or anything you want) and put it on your web server. To show a properly scaled image in a web viewer, you load this web page, and tell it what image to load in the query string (in other words, add a question mark and then the image URL to the end of the page URL). Sounds complicated, but really it isn’t. Here are a few examples:</p>
+<pre tabindex="0"><code># Load an image with a complete URL:
+http://me.com/scale-image.html?http://foo.com/path/to/image.jpg
+
+# If the image is on the same web server:
+http://me.com/scale-image.html?/path/to/image.jpg
+
+# If the images are in the same folder as the page:
+http://me.com/scale-image.html?image.jpg
+</code></pre><p>Of course you can use any image type your browser supports: You’re not limited to JPEGs. Finally, note that this page only works properly if the web viewer itself is perfectly square (ie: 120px by 120px or 300px by 300px). Use the Object Info pallette (View → Object Info) to easily size your web viewer. If there is enough interest, I can revise the code to work in web viewers with any aspect ratio.</p>
+<h2 id="how-does-it-work">How Does it Work?</h2>
+<p>If you’re new to dynamic HTML the web page may seem a little mysterious, but it is actually pretty easy to understand if you are familiar with HTML and Javascript. Let’s dissect it.</p>
+<span class="editors-note">[ed: This may be <em>dynamic</em> and <em>HTML</em> but it is not <em>Dynamic HTML</em> in the formal sense. I think I just didn&rsquo;t know the details well enough when this was posted.]</span>
+<p>First, you see a pretty typical top-of-the-page. We declare the version of HTML we’re using, and start the page as normal.</p>
+<p>The first important bit is this:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#000">style</span>&gt;
+</span></span><span style="display:flex;"><span>  <span style="color:#000">body</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">border</span>: <span style="color:#1c01ce">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">margin</span>: <span style="color:#1c01ce">0</span>;
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>  
+</span></span><span style="display:flex;"><span>  <span style="color:#000">img</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">display</span>: <span style="color:#a90d91">block</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">margin</span>: <span style="color:#1c01ce">0</span> <span style="color:#a90d91">auto</span>;
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">style</span>&gt;
+</span></span></code></pre></div><p>This embedded CSS stylesheet tells the web viewer a few important things:</p>
+<ol>
+<li>
+<p>The <code>body</code> part ensures the page body has no margin or padding. In other words, we want the contents of the page to push right up to the edge of the web viewer, with no gap. Normally, page content is indented a little on all sides, but we want our image to fill things up completely.</p>
+</li>
+<li>
+<p>The <code>display: block</code> part tells the Web Viewer to treat images as <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements">block elements</a>. This makes it possible for us to size and position the image precisely.</p>
+</li>
+<li>
+<p>The <code>margin: 0 auto</code> part means the image should start at the very top of the web viewer (no top/bottom margin) and it should center itself right-to-left (automatic left and right margin).</p>
+</li>
+</ol>
+<p>Next, we define a Javascript function. This code doesn’t run right away, but later it will be called. It does the actual work of resizing the image. Here’s the function:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#000">script</span> <span style="color:#836c28">type</span><span style="color:#000">=</span><span style="color:#c41a16">&#34;text/javascript&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  <span style="color:#a90d91">function</span> <span style="color:#000">resize_image</span>() {
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">var</span> <span style="color:#000">img</span> <span style="color:#000">=</span> <span style="color:#a90d91">document</span>.<span style="color:#000">getElementsByTagName</span>(<span style="color:#c41a16">&#39;img&#39;</span>).<span style="color:#000">item</span>(<span style="color:#1c01ce">0</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">if</span> (<span style="color:#000">img</span>.<span style="color:#000">offsetHeight</span> <span style="color:#000">&gt;</span> <span style="color:#000">img</span>.<span style="color:#000">offsetWidth</span>)
+</span></span><span style="display:flex;"><span>  	<span style="color:#000">img</span>.<span style="color:#000">style</span>.<span style="color:#000">height</span> <span style="color:#000">=</span> <span style="color:#c41a16">&#39;100%&#39;</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">else</span>
+</span></span><span style="display:flex;"><span>  	<span style="color:#000">img</span>.<span style="color:#000">style</span>.<span style="color:#000">width</span> <span style="color:#000">=</span> <span style="color:#c41a16">&#39;100%&#39;</span>;
+</span></span><span style="display:flex;"><span>  }
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">script</span>&gt;
+</span></span></code></pre></div><p>In CSS, if we set just the <em>width</em> of the image to <code>100%</code> then the image will automatically be scaled so it is exactly the width of the web viewer. If you <em>don’t set the height at all</em> then the web viewer will keep the image’s aspect ratio. In other words, it will let the image be as tall as it needs to be so it doesn’t look squished. Likewise, if we set just the <em>height</em> to <code>100%</code>, the width will scale accordingly. All we need to do is decide if the image should be just as wide as the web viewer, or just as tall.</p>
+<span class="editors-note">[ed: CSS has come a long way since this was posted. All this information is very out of date. Today you can simply use <code>max-height: 100%</code> and <code>max-width: 100%</code> on the image and the browser will do the right thing. No Javascript is needed here at all.]</span>
+<p>If you think about it for a minute, you’ll agree that this depends on whether the image is taller than it is wide, or wider than it is tall. A tall image will fill the web viewer from top to bottom, and won’t be quite as wide as the web viewer itself. A wide image, on the other hand, will fill it from right to left, and be a little shorter.</p>
+<p>So this function first get ahold of the image, storing a reference to it in a variable called <code>img</code>. It looks at the <code>offsetHeight</code> and <code>offsetWidth</code> of the image (these are just funny ways to refer to its height and width). If the height is bigger, it sets the height to <code>100%</code>. If the width is bigger, it sets the width to <code>100%</code> instead.</p>
+<p>Remember though that this function is only defined at this point. We haven’t actually run the code yet. The reason is simple: the image doesn’t exist yet. Next, the HTML looks like this:</p>
+<aside class="warn">
+Warning: <span class="editors-note">[ed: This is an elegant code snippet for a more civilized age. Today the internet is a wretched hive of scum and villainy and <strong>you should definitely not do this</strong>. This code unquestioningly inserts the text from the query string into the HTML body of a page, which is, like, the textbook definition of a <a href="https://owasp.org/www-community/attacks/csrf">CSRF attack</a>. This code should be using <code>document.createElement()</code> to safely create images without injecting raw HTML. And it should be using some kind of allow-list or other checking to ensure only images coming from safe locations are displayed.]</span>
+</aside>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:2;-o-tab-size:2;tab-size:2;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#000">body</span> <span style="color:#836c28">onload</span><span style="color:#000">=</span><span style="color:#c41a16">&#39;resize_image();&#39;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#000">script</span> <span style="color:#836c28">type</span><span style="color:#000">=</span><span style="color:#c41a16">&#34;text/javascript&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>    <span style="color:#a90d91">document</span>.<span style="color:#000">write</span>(
+</span></span><span style="display:flex;"><span>      <span style="color:#c41a16">&#34;&lt;img src=&#39;&#34;</span> <span style="color:#000">+</span> 
+</span></span><span style="display:flex;"><span>      <span style="color:#000">location</span>.<span style="color:#000">search</span>.<span style="color:#000">replace</span>(<span style="color:#c41a16">/^\?/</span>, <span style="color:#c41a16">&#34;&#34;</span>)
+</span></span><span style="display:flex;"><span>      <span style="color:#000">+</span> <span style="color:#c41a16">&#34;&#39;&gt;&#34;</span>
+</span></span><span style="display:flex;"><span>    );
+</span></span><span style="display:flex;"><span>  &lt;/<span style="color:#000">script</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#000">body</span>&gt;
+</span></span></code></pre></div><p>In this very short HTML body, we use another Javascript snippet. This time we generate an HTML <code>img</code> tag with a <code>src</code> attribute that refers to the image we’re supposed to load.</p>
+<p>The image URL itself is loaded from the <code>location.search</code> property, which is just Javascript’s way of fetching the junk after the <code>?</code> in the page URL. Unfortunately, the value in <code>location.search</code> includes the <code>?</code> itself, so we use the <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace"><code>replace</code></a> function, with a <a href="http://en.wikipedia.org/wiki/Regular_expression">regular expression</a> to remove it.</p>
+<p>Now we have a web page with an image in it. If you look at the very top of the last code snippet, you’ll see where we call the <code>resize_image</code> function: in the <code>body</code>’s <code>onload</code> handler. This tells the web viewer to run the Javascript resize code only after the page (and the image on it) have finished loading.</p>
+<p>When the function runs, it adjusts the size setting for the image, and the image is properly scaled. Luckily, Javascript is very quick, so all you see is a perfectly scaled image from the start.</p>
+<p>This sample was thrown together quickly, so it has room for improvement. To wit:</p>
+<ul>
+<li>
+<p>The web viewer has to be square. It would be better if it inspected the page size and adjusted its decision making accordingly, so it could scale an image in any size web viewer.</p>
+</li>
+<li>
+<p>The image is centered left-to-right, but not top-to-bottom. Centering vertically in CSS is a bit of a nuisance, but there are several ways to do it, like <a href="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">this</a>, <a href="http://d-graff.de/fricca/center.html">this</a>, and <a href="http://www.student.oulu.fi/~laurirai/www/css/middle/">this</a>. I think for the sake of simplicity, I would look at two approaches: Calculate the appropriate margin in Javascript, and set it; or just put the whole thing in a single-cell table. <span class="editors-note">[ed: Or wait five of sixe years for CSS to catch up with reality. <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox">Vertical centering is now easy</a> in CSS.]</span></p>
+</li>
+</ul>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

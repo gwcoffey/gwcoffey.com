@@ -1,4 +1,7 @@
+{{- $markdown := .Inner | markdownify -}}
 <li>
 	<p><strong>{{ (.Get 0) | markdownify }}</strong></p>
-	<p>{{ .Inner | markdownify }}</p>
+	{{- if not ( strings.HasPrefix $markdown "<p>" ) -}}<p>{{- end -}}
+	{{ $markdown }}
+	{{- if not ( strings.HasSuffix $markdown "<p>" ) -}}<p>{{- end -}}
 </li>

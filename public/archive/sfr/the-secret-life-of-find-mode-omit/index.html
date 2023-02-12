@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: The Secret Life of Find Mode: Omit</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>The Secret Life of Find Mode: Omit</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2007-09-18 00:00:00 &#43;0000 UTC">18 September 2007</time>
+	</div>
+</hgroup>
+
+<p>Today’s Find mode article is short-and-sweet. If you ever feel it would be easier to tell FileMaker what you <em>don’t</em> want it to find, the Omit checkbox is your friend. In fact, you can use this esoteric Find mode widget to create incredibly complex queries that target exactly what you want.</p>
+<aside>
+
+This article is part of our series on Find mode. <a href="../the-secret-life-of-find-mode-requests/">Click here</a> to visit the <em>first</em> in the series, which links to all the others.
+</aside>
+<p>Normally, Find mode is all about telling FileMaker what you want: Everyone named Bob, or every shipment to Wisconsin. But sometimes there’s no concise way to articulate what you want. Imagine, for example, you need to send a letter to the parent of each student who <em>doesn’t</em> have an extracurricular activity. You know how to find the ones who <em>do</em> (just check the “Extracurricular Activities” check box in Find mode). But how do you tell FileMaker to find the folks who <em>don’t</em> have this box checked?</p>
+<p>The answer, my friend, is <em>Omit</em>. First, describe what you’re <em>not</em> looking for. Switch to Find mode and check that Extracurricular box, for instance. But before you actually perform the find (by pressing Enter or clicking the Find button), turn on the Omit checkbox in the status area. You can see it here:</p>
+<figure><img src="omit_checkbox.png"
+         alt="Detail of FileMaker&#39;s status area showing the Omit checkbox and the Symbols popup." height="94"/><figcaption>
+            <p>Omit. It&rsquo;s been hiding there all along.</p>
+        </figcaption>
+</figure>
+
+<p>Now, when you perform the find, FileMaker will find <em>everything but</em> what matches your find request. Put another way, it <em>omits</em> every matching record from the found set.</p>
+<p>Here’s another example: Suppose you want to find everybody who is <em>not in Arizona or California</em>. You know how to create <a href="../the-secret-life-of-find-mode-requests/">multiple requests</a>, so you <em>could</em> list out all 48 other states, each in its own find request. But that sure sounds like a lot of work.</p>
+<p>Instead, do a find with just two find requests: Put <code>Arizona</code> in the State field in one request, and <code>California</code> in the other. Also, make sure you turn on the Omit checkbox for <em>each request</em>. (Go to the first request, turn on the Omit checkbox, then navigate to the second request and turn it on again.) Now FileMaker will go through the records in the database, and omit any in California and Arizona. Whatever’s left over will be your new found set.</p>
+<h2 id="mixing-request-types">Mixing Request Types</h2>
+<p>It may not be obvious at first, but you can mix requests with and without Omit in the same find. To understand how this works, think about it this way:</p>
+<ol>
+<li>FileMaker starts with every record in the found set.</li>
+<li>If your <em>first</em> request has Omit turned on, it throws out every matching record. If the request does not Omit, FileMaker instead finds each matching record.</li>
+<li>It then moves on to the <em>next</em> find request. If this one should Omit, it looks in the records it found in step 2, and tosses out any that match. Otherwise, it looks through <em>all</em> the records in the database and adds any new ones it finds to the found set.</li>
+</ol>
+<p>Step 3 repeats for each additional request. As you have probably guessed, order is important when you start adding omit requests. If an omit request tosses a record out of the found set, it might be added back in by another request later in the list. Likewise, a record might be found by one request, only to be tossed out by an omit request later. In an argument about a particular record, the <em>last</em> request always wins.</p>
+<p>So for example, you might want to find everybody who has ordered from you in the last three weeks who does not live in Alaska or Hawaii. You can do this with three requests:</p>
+<ol>
+<li>Put an appropriate date range (like <code>6/1/2007…</code>) in the related Order Date field.</li>
+<li>Create a new request, turn on Omit, and put <code>Alaska</code> in the State field.</li>
+<li>Create a third request, turn on Omit again, and put <code>Hawaii</code> in the State field.</li>
+</ol>
+<p>When you perform this find, FileMaker first finds everybody who has ordered recently. From that list, it then omits anyone in Alaska. Finally, it kicks out the folks from Hawaii. You’re left with exactly the records you wanted.</p>
+<p>Mastering Omit can make the seemingly impossible suddenly easy.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Script Triggers: Filter as you Type</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Script Triggers: Filter as you Type</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2009-01-13 00:00:00 &#43;0000 UTC">13 January 2009</time>
+	</div>
+</hgroup>
+
+<p>For years, FileMaker developers have been devising various <em>filter</em> techniques. The idea is that you type all or part of a name, part number, description, etc… and a list of results filters down to show relevant matches. As handy as these techniques are, they always stop just short of perfect because, before FileMaker 10, you had to <em>exit the field</em> before the filter would take effect. Using FileMaker 10’s powerful Script Triggers, you can make the impact of your filtering more immediate.</p>
+<aside>
+
+We’ve never done this before, but the idea, scripts, and sample file for this technique come directly from FileMaker luminary and Six Fried Rice reader David Graham of <a href="https://web.archive.org/web/20090502215236/http://www.bittailor.com/">Bit Tailor</a>. We’re publishing it here (with David’s permission) because it is an excellent example of Script Triggers solving an age-old problem in an elegant way. <span class="editors-note">[ed: David’s site seems to no longer exist so I’ve updated the link to point to Web Archive.]</span>
+</aside>
+<p>There are as many ways to filter lists in FileMaker as there are developers implementing it. The beauty of this technique is that it doesn’t matter if you prefer exploded keys and filtered portals, aggregate text fields and a find, or (my personal favorite) scripted multi-request finds. Whatever you want, when it is fast, clean filtering you’re after, it is <em>always</em> better if the results appear as you type. This sort of thing was essentially impossible with FileMaker 9. Once a user started entering data in a field, you were hands-off until they finished.</p>
+<p>Some people dreamed up horrifying solutions with looping scripts and all manner of wackiness. These techniques, in my opinion, <em>never</em> worked well. Consequently, we were always resigned to the “press Enter when you’re done” model. But when the results appear as you type, the user gets immediate feedback, only needs to go as far as necessary to get the result they want, and doesn’t have to click back into the field to correct or make a change. So it is clearly a better model. See for yourself:</p>
+<figure>
+	<video controls>
+	  <source src="" type="video/mp4" />
+	</video><figcaption><p>This is what we&rsquo;ve always wanted: fast as-you-typ narrowing of results.</p></figcaption></figure>
+
+<p>David’s technique relies on the handy <code>OnObjectModify</code> trigger on the filter field to kick off a script every time the field changes. This includes:</p>
+<ul>
+<li>When you add a single letter to the field by typing a key.</li>
+<li>When you remove something by pressing Delete or Backspace.</li>
+<li>When you cut text from the field or paste it in.</li>
+</ul>
+<p>You may be tempted to use the <code>OnObjectKeystroke</code> trigger for something like this, but <code>OnObjectModify</code> gets you more bang for the buck: It handles cut and paste, and doesn’t require <a href="http://sixfriedrice.com/wp/script-triggers-using-the-keystroke-trigger/">all the complexity</a> of keystroke triggers.</p>
+<h2 id="the-code">The Code</h2>
+<p>I’ll let you explore David’s sample file for the full scoop, but the core of his technique can be found in two places. First, he uses an exploded key filtering technique, which I won’t cover here, except to say that the idea is to process some text data and produce a multi-line key that includes partial match values. In other words, if the value is “Test” then the key would match “T”, “Te”, “Tes” and “Test.” In this way, you can type all-or-part of the value and see the results. Look at David’s <code>ExplodeToMultikey</code> custom function to see how he accomplishes this.</p>
+<p>If you prefer, you can use scripted finds and a list view layout to do your filtering instead.</p>
+<p>But the interesting part is this very simple trigger script:</p>
+<pre tabindex="0"><code>Set Variable [$currentObject; Get ( ActiveLayoutObjectName )]
+Commit Records/Requests []
+Go to Object [ $currentObject ]
+Set Selection [ Start: Length (Get(ActiveFieldContents)) + 1]
+</code></pre><p>That’s it. This script really just does two things:</p>
+<ol>
+<li>It commits the record, causing anything you’ve typed in the filter field to take effect.</li>
+<li>It returns you to the field, so if you type again, your keystrokes will go right on the end of the field.</li>
+</ol>
+<p>In this way, as you type, your changes reflect immediately. Very cool.</p>
+<aside class="tip">
+Tip: If you were using finds instead of exploded keys, you would add a a few more steps to your script to switch to Find mode, build a find request or two, and then perform the find.
+</aside>
+<p>You can <a href="spotlight-filter.fp7.zip">download the working file right here</a>.</p>
+<p>Thanks to David for the great technique!</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

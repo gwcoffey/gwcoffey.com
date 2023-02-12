@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Six Fried Rice Archive on gwcoffey.com</title>
+    <link>http://gwcoffey.com/archive/sfr/</link>
+    <description>Recent content in Six Fried Rice Archive on gwcoffey.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://gwcoffey.com/archive/sfr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The OnObjectValidate Trigger</title>
+      <link>http://gwcoffey.com/archive/sfr/the-on-object-validate-trigger/</link>
+      <pubDate>Fri, 03 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/the-on-object-validate-trigger/</guid>
+      <description>FileMaker 11 added just one new object trigger, and it is a strange little dude: OnObjectValidate. This trigger fires after you edit a field, before it is validated. If you thought FileMaker already had enough after-you-change-a-field triggers, you were mistaken. In this article, I explain how the various field triggers fit together and why OnObjectValidate exits. You then get a simple example of how it can be used. And as a special bonus, I show you how to extend the technique so it can easily be reused over and over again.</description>
+    </item>
+    
+    <item>
+      <title>Here at the End of All Things</title>
+      <link>http://gwcoffey.com/archive/sfr/here-at-the-end-of-all-things/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/here-at-the-end-of-all-things/</guid>
+      <description>Let me start by saying: “Ouch.” It has been far, far, far too long since our last article. Someone much wiser than me once said something like this: “My only comfort is that I tried. My only regret is that I failed.” I’ll leave it at that.
+In short order, I’ll be posting our first new article in over 18 months. But first I thought I’d share a little news. For those who are here for great FileMaker info, feel free to skip ahead.</description>
+    </item>
+    
+    <item>
+      <title>Pop Goes the Variable</title>
+      <link>http://gwcoffey.com/archive/sfr/pop-goes-the-variable/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/pop-goes-the-variable/</guid>
+      <description>We start our return to semi-regular writing with a small-but-awesome custom function: Pop. If you grew up in the American mid-west like me you might think I’m talking about [ soda | soda pop | coke | soft drinks ]. But I’m actually talking about stacks. In the computer science world, pop means to take something off the top of a list, and it is exceptionally handy to add this to your FileMaker scripting toolkit.</description>
+    </item>
+    
+    <item>
+      <title>Script Triggers: Monitoring and Restoring Tabs</title>
+      <link>http://gwcoffey.com/archive/sfr/script-triggers-monitoring-and-restoring-tabs/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/script-triggers-monitoring-and-restoring-tabs/</guid>
+      <description>FileMaker 10’s new Script Triggers feature just keeps delivering. You might, at first, think triggers are limited to layouts and fields, but it turns out your triggers can fire with all kinds of objects. In this article we’ll show you how to run scripts when users switch tabs on your tab controls. In the end, we’ll also revisit a common FileMaker problem: tabs switch when you switch layouts. We’ll show you how to solve this problem quickly and easily using script triggers.</description>
+    </item>
+    
+    <item>
+      <title>Make the Status Toolbar Work for You</title>
+      <link>http://gwcoffey.com/archive/sfr/make-the-status-toolbar-work-for-you/</link>
+      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/make-the-status-toolbar-work-for-you/</guid>
+      <description>FileMaker 10’s most visible new feature is the completely redesigned Status toolbar (formerly called the Status area). Perhaps because of its prominent position, or because it is such a striking departure from a 20-year FileMaker mainstay, this change has been met with its fair share of controversy. In this article we’ll show you why you don’t need to worry, and how you can make the new Status toolbar work for you.</description>
+    </item>
+    
+    <item>
+      <title>Script Triggers: Filter as you Type</title>
+      <link>http://gwcoffey.com/archive/sfr/script-triggers-filter-as-you-type/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/script-triggers-filter-as-you-type/</guid>
+      <description>For years, FileMaker developers have been devising various filter techniques. The idea is that you type all or part of a name, part number, description, etc… and a list of results filters down to show relevant matches. As handy as these techniques are, they always stop just short of perfect because, before FileMaker 10, you had to exit the field before the filter would take effect. Using FileMaker 10’s powerful Script Triggers, you can make the impact of your filtering more immediate.</description>
+    </item>
+    
+    <item>
+      <title>Set Field by Name Exposed</title>
+      <link>http://gwcoffey.com/archive/sfr/set-field-by-name-exposed/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/set-field-by-name-exposed/</guid>
+      <description>In our article about FileMaker 10, we promised some tips on using the new Set Field by Name script step, which gives FileMaker the power of indirection. This is a complicated concept, and we’ll be posting some real world examples along the way, as well. But first, we’ll give you a full explanation of the new script step and function that make indirection possible.
+Set Field by Name The core of the new feature is the Set Field by Name script step.</description>
+    </item>
+    
+    <item>
+      <title>Welcome FileMaker Pro 10</title>
+      <link>http://gwcoffey.com/archive/sfr/welcome-filemaker-pro-10/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/welcome-filemaker-pro-10/</guid>
+      <description>If you thought FileMaker 9 was a big update (and we clearly did) you’ll be thrilled with number 10. It starts with some flagship new features like Script Triggers (finally!) and infinitely more useful Sub-Summary parts, plus the usual round of small tweaks and improvements. But this release takes it one step further with a total overhaul of FileMaker’s most ubiquitous interface element. Gone is the Status Area, replaced by a freshly designed, much more useful Status Toolbar.</description>
+    </item>
+    
+    <item>
+      <title>Alternating Color Based on Alternating Data</title>
+      <link>http://gwcoffey.com/archive/sfr/alternating-color-based-on-alternating-data/</link>
+      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/alternating-color-based-on-alternating-data/</guid>
+      <description>An interesting question popped up on the TechNet discussion list this evening:
+I have a list of records with dates, which often repeat from one record to the next. I want all the same dates to be one colour. Then the next date would be another color. The background color of the date field would alternate from one color to the other as the date changes.
+I’ve never run in to this need before, but it sounds like something that would come in handy.</description>
+    </item>
+    
+    <item>
+      <title>Fixing FileMaker PDF Crashes on Mac OS X</title>
+      <link>http://gwcoffey.com/archive/sfr/fixing-filemaker-pdf-crashes-on-mac-os-x/</link>
+      <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/fixing-filemaker-pdf-crashes-on-mac-os-x/</guid>
+      <description>FileMaker’s Save Records as PDF script step is, like, totally awesome. But there’s one teeny tiny issue: it sure likes to crash. We use this feature a lot with our customers, and under the right set of circumstances, we can see crashing on half or more of the machines our scripts run on. Luckily, it turns out this problem is easy to fix. It is such a frequent problem that I thought I’d save the googlers of the world some time and write up the solution here.</description>
+    </item>
+    
+    <item>
+      <title>Restoring Active Tab State</title>
+      <link>http://gwcoffey.com/archive/sfr/restoring-active-tab-state/</link>
+      <pubDate>Fri, 23 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/restoring-active-tab-state/</guid>
+      <description>This article is out of date now. If you’re using FileMaker Pro 10 or later, you can accomplish this goal more easily using script triggers. See this newer article for details. If you use Tab Controls a lot (and don’t we all?) then you may have run into a little snag: When you switch to a different layout, then come back again, the default tab panel comes back to the front.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker Gets Bento</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-gets-bento/</link>
+      <pubDate>Wed, 14 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-gets-bento/</guid>
+      <description>Many people were surprised by Tuesday’s announcement from FileMaker Inc.: A new “desktop database” application called Bento. Nobody I know had any idea this was in the works, and I’m pretty sure it is the first product from FMI that is not directly FileMaker Pro related since Claris Organizer was released back in 1827 or thereabouts. For a FileMaker announcement, Bento is getting a lot of coverage in the Mac media.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with External SQL Sources</title>
+      <link>http://gwcoffey.com/archive/sfr/getting-started-with-external-sql-sources/</link>
+      <pubDate>Wed, 17 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/getting-started-with-external-sql-sources/</guid>
+      <description>On the off chance you’ve been hiding under an old Microsoft Access box for the last couple weeks, let me be the first to tell you that FileMaker now supports direct links to SQL databases. In other words, you can use table from a MySql, Oracle, or Microsoft SQL Server database right in FileMaker with no synchronization, no imports, and no messy SQL programming. This is A Big Deal™ and many of you are justifiably very excited about it.</description>
+    </item>
+    
+    <item>
+      <title>Making FileMaker Object Grids Behave</title>
+      <link>http://gwcoffey.com/archive/sfr/making-filemaker-object-girds-behave/</link>
+      <pubDate>Sat, 06 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/making-filemaker-object-girds-behave/</guid>
+      <description>There’s a lively discussion on the TechNet mailing list right now about the pros and cons of FileMaker Pro’s Object Grids feature. [ed: TechNet is now Claris Community. The link has been updated accordingly.] This is certainly an opinionated discussion, and there is clearly no “right” way. A lot of people find Object Grids annoying because it makes it harder to line things up sometimes. Here’s a quick tip to help get Object Grids to behave themselves.</description>
+    </item>
+    
+    <item>
+      <title>Migrating from the Beta FileMaker PHP API</title>
+      <link>http://gwcoffey.com/archive/sfr/migrating-from-the-beta-filemaker-php-api/</link>
+      <pubDate>Tue, 25 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/migrating-from-the-beta-filemaker-php-api/</guid>
+      <description>This is a quickie: If you were using the beta release of the PHP API for FileMaker, there are some things you should know.
+First, the beta API expires in October 7th, 2007. If you have a live site using the API, you must update to FileMaker 9 and the new API before then or your site will stop working. Now is the time to make the switch, before you have to do it in a pinch.</description>
+    </item>
+    
+    <item>
+      <title>The Secret Life of Find Mode: Omit</title>
+      <link>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-omit/</link>
+      <pubDate>Tue, 18 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-omit/</guid>
+      <description>Today’s Find mode article is short-and-sweet. If you ever feel it would be easier to tell FileMaker what you don’t want it to find, the Omit checkbox is your friend. In fact, you can use this esoteric Find mode widget to create incredibly complex queries that target exactly what you want.
+This article is part of our series on Find mode. Click here to visit the first in the series, which links to all the others.</description>
+    </item>
+    
+    <item>
+      <title>Limiting Checkbox and Radio Button Choices</title>
+      <link>http://gwcoffey.com/archive/sfr/limiting-checkbox-and-radio-button-choices/</link>
+      <pubDate>Wed, 05 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/limiting-checkbox-and-radio-button-choices/</guid>
+      <description>Did you know that if you shift-click on a field formatted as radio buttons, you can select more than one choice? Even if you don’t know this, chances are some day some user will figure it out. Yuck. Here’s a short-but-sweet technique to deal with the problem. And you’ll see how to apply the same concept to do some cool stuff.
+Just in case you think I’m foolin’, here’s a picture.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Related Records</title>
+      <link>http://gwcoffey.com/archive/sfr/detecting-related-records/</link>
+      <pubDate>Mon, 03 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/detecting-related-records/</guid>
+      <description>If you have a relational database (one with several connected tables) and you do any scripting at all, you’ll almost certainly ask yourself a question at some point: How can I tell if the record I’m on has related records? This article explains the scenarios you may run in to, and how best to deal with them.
+Before I start pontificating, let’s set up a scenario. I have the simplest of all possible relational databases.</description>
+    </item>
+    
+    <item>
+      <title>The Secret Life of Find Mode: Dates and Times</title>
+      <link>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-dates-times/</link>
+      <pubDate>Tue, 28 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-dates-times/</guid>
+      <description>Date values (and to a lesser extent, time values) are exceptionally common in database applications. And it isn’t at all unusual to want to ask you database interesting date-related questions, like “How many orders do we get on Tuesdays?” or “What was our total enrollment for the first quarter?” In fact, it is probably more common to look at ranges of dates than any particular date. Of course, if you’ve read our previous article on Find mode, you know how to find whole ranges of dates easily using find symbols.</description>
+    </item>
+    
+    <item>
+      <title>The Secret Life of Find Mode: Symbols</title>
+      <link>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-symbols/</link>
+      <pubDate>Mon, 20 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-symbols/</guid>
+      <description>Once you’ve mastered multiple requests, you’re ready to move on to the next Find Mode gem: Find Symbols. Using these bits of punctuation, you can tell FileMaker, when it goes about matching records to your find criteria, to be a little more flexible, or a little more strict. In this article, you’ll learn about each one.
+This article is part of our series on Find mode. Click here to visit the first in the series, which links to all the others.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker DevCon 2007 Day One</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-devcon-2007-day-one/</link>
+      <pubDate>Tue, 07 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-devcon-2007-day-one/</guid>
+      <description>The show has officially started. I’m seeing faces I haven’t seen in ages and having a blast. Here’s a quick recap of the highlights of DevCon so far, from my perspective.
+The Keynote The day began with the keynote presentation. Dominique started with the classic “Here’s what we’re doing” presentation. The biggest highlight was a slide showing strong growth of TechNet (vs. the old Associate FSA program). This is great news because it means more people are getting more involved in the greater FileMaker community.</description>
+    </item>
+    
+    <item>
+      <title>We&#39;ll Be at the FileMaker Genius Bar</title>
+      <link>http://gwcoffey.com/archive/sfr/well-be-at-the-filemaker-genius-bar/</link>
+      <pubDate>Thu, 02 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/well-be-at-the-filemaker-genius-bar/</guid>
+      <description>I’m excited to let you all know that Jesse and I will be participating in a cool new dealio at DevCon. If you haven’t heard about it, here’s the scoop: Chris Kubica (author, developer, and all around FileMaker powerhouse), arranged for a special booth at DevCon to be staffed by reasonably good FileMaker folks like us. You can bring your problems, questions, and FileMaker challenges to the booth and get free advice.</description>
+    </item>
+    
+    <item>
+      <title>Automate FileMaker Plug-in Deployment</title>
+      <link>http://gwcoffey.com/archive/sfr/automate-filemaker-plugin-deployment/</link>
+      <pubDate>Tue, 31 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/automate-filemaker-plugin-deployment/</guid>
+      <description>Back in the late 19th century, when FileMaker Server 5.5 was released, one of its stellar new features was AutoUpdate. FileMaker Server can automatically install plug-ins on the connecting FileMaker Pro clients as needed. This is very cool, but there are a few gotchas, which are explained here.
+Note: AutoUpdate has been around since Server 5.5, and everything here applies in general. But this article was written with FileMaker Server 9 in mind.</description>
+    </item>
+    
+    <item>
+      <title>Configuring Firewall Ports for FileMaker 9</title>
+      <link>http://gwcoffey.com/archive/sfr/configuring-firewall-ports-for-filemaker-9/</link>
+      <pubDate>Fri, 27 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/configuring-firewall-ports-for-filemaker-9/</guid>
+      <description>[ed: This was the most popular post on Six Fried Rice by far. The diagram I made was translated into French and Japanese by community members (with permission) and passed around for years.] FileMaker Server 9 represents a pretty significant redesign of the FileMaker Server product line. One consequence of all the changes is that things may not work properly without reconfiguring your firewall(s). Improper firewall configuration can lead to all kinds of problems, some obvious (I can’t connect to my server) and some not-so-obvious (the Server Admin Console opens, and then hangs).</description>
+    </item>
+    
+    <item>
+      <title>The Secret Life of Find Mode: Requests</title>
+      <link>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-requests/</link>
+      <pubDate>Mon, 23 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/the-secret-life-of-find-mode-requests/</guid>
+      <description>FileMaker’s find mode is a great feature. You can tell because, like all great technologies, it is easy to understand the first time you try it, and yet has a depth of capability that can be unlocked if you know a little more. Unfortunately, many FileMaker developers (and users) never venture beyond the simplest of finds. This series of articles aims to change that.
+The Basics Everybody knows that to do a find, you first switch to find mode (View → Find Mode).</description>
+    </item>
+    
+    <item>
+      <title>Custom Page Numbers in PDFs and Printed Reports</title>
+      <link>http://gwcoffey.com/archive/sfr/custom-page-numbers-in-pdfs-and-printed-reports/</link>
+      <pubDate>Wed, 18 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/custom-page-numbers-in-pdfs-and-printed-reports/</guid>
+      <description>In FileMaker 9 Tip #6 we explained how to use the new Append to PDF feature in FileMaker 9. With it, you can build up a PDF file over many steps in a script, to produce a much more complex and data-rich PDF than was ever possible before. One of our readers, Norman Foster, asked a very sensible question:
+This Append looks great but can it paginate across the entire set of PDF files.</description>
+    </item>
+    
+    <item>
+      <title>Importing Non-Standard Text Files</title>
+      <link>http://gwcoffey.com/archive/sfr/importing-non-standard-text-files/</link>
+      <pubDate>Wed, 11 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/importing-non-standard-text-files/</guid>
+      <description>This question came up on Macintouch:
+Can you import an ASCII (.txt) file into Filemaker Pro 9 that uses a dollar sign ($) as a field delimiter within a record? The file is too big to bring into Excel first (on the way to filemaker). Macintouch Reader [ed: Alas the Macintouch link seems to be dead and it appears the site was blocking archive.org. I&amp;rsquo;ve left the original link in place.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #1: Hiding Something on the Layout</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-1-hiding-something-on-the-layout/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-1-hiding-something-on-the-layout/</guid>
+      <description>One of the most exciting new features in FileMaker 9 is Conditional Formatting. I think this is awesome because now you can apply dynamic custom styles to layout elements without adding dozens of crufty unstored calcs to your table. When I first started playing with conditional formatting, though, I felt a little let down by one thing: There’s apparently no way to make something disappear using conditional formatting. I often have the need to show something to my user — an informational message, indicator icon, or even a button — only under certain conditions.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #2: Disabling a Button</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-2-disabling-a-button/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-2-disabling-a-button/</guid>
+      <description>In the old days, we used to joke that FileMaker’s user interface tools were stuck in the 1970s. You could make a long list of things every application in the world did that were hard to do in your own FileMaker-based systems. In the last several years, though, FileMaker Inc. has knocked a lot of biggies off this list: Custom Menus, Tab Controls, modern-looking check boxes and radio buttons. Oh wait, scratch that last one.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #3: Get the Most from Autoresize</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-3-get-the-most-from-auto-resize/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-3-get-the-most-from-auto-resize/</guid>
+      <description>FileMaker Pro 9 has another awesome new feature: Autoresize. Now your layout elements can stretch their legs when you give them a bigger window. Auto-resize lets you tell FileMaker how different elements on the layout should stretch and move as the window is resized by the user. But it can be a little tough to understand exactly how it works. Here are three tips to help you take best advantage of this awesome new feature.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #4: Temporary Files</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-4-temporary-files/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-4-temporary-files/</guid>
+      <description>There comes a time in every FileMaker developer’s life when they need to export a file temporarily. Maybe you’re exporting records only to import them right back in again later. Or perhaps your creating a PDF file that you only want to email to someone.
+And with this need comes an eternal question: Where should you put it?
+Finally, in FileMaker 9, we have an answer.
+In fact, every modern operating system provides a perfect place for this sort of thing: The so-called “temp folder.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #6: Append to PDF</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-6-append-to-pdf/</link>
+      <pubDate>Tue, 10 Jul 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-6-append-to-pdf/</guid>
+      <description>How many times have you wanted to produce a report that showed two different lists of records? Or a couple pages of summary information, then a list of raw data? Or a title page, then a few pages of charts, then one list of data, then a few more charts, then a second list? In FileMaker, reports are tied to layouts, and a layout is tied to just one table. Of course you can just print several reports one after the other, but that doesn’t help if you want to email the report as a PDF, or store it on the file server.</description>
+    </item>
+    
+    <item>
+      <title>Scaling Images in a Web Viewer</title>
+      <link>http://gwcoffey.com/archive/sfr/scaling-images-in-a-web-viewer/</link>
+      <pubDate>Sun, 03 Jun 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/scaling-images-in-a-web-viewer/</guid>
+      <description>A recent post on the TechNet mailing list posed an interesting question [ed: TechNet is now Claris Community. The link has been updated accordingly.]:
+When displaying an image in a web viewer, is there any way to scale the image to fit? Of course container fields have this ability built right in (by way of the Format → Graphic command). But there are several reasons you might want to show pictures in a web viewer instead.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #5: Using the Self Function</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-5-using-the-self-function/</link>
+      <pubDate>Tue, 22 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-5-using-the-self-function/</guid>
+      <description>One of the least talked about features of FileMaker 9 is a new calculation doodad called Self. Although the primary purpose of this function is to facilitate the Conditional Formatting feature (which can perform calculations on such unnamed items as text objects and buttons), Self comes in handy in lots of common situations.
+The Self function is simple in concept: it returns the value of whatever object it lives in. For instance, if you put Self in a validation calculation, it will return the value in the field being validated.</description>
+    </item>
+    
+    <item>
+      <title>FileMaker 9 Tip #9: Web Viewers Without the Web</title>
+      <link>http://gwcoffey.com/archive/sfr/filemaker-9-tip-9-web-viewers-without-the-web/</link>
+      <pubDate>Tue, 22 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/filemaker-9-tip-9-web-viewers-without-the-web/</guid>
+      <description>Another day, another awesome new FileMaker 9 feature. Today&amp;rsquo;s special: so called data URLs. In a nutshell, you don&amp;rsquo;t need a web site to use web viewers anymore. Now they can easily (read: without crazy exports and obscene path hacks) show data pulled right from the FileMaker database itself. This is, like, way cooler than it sounds.
+Live HTML Previews Perhaps the most immediately obvious way to use data URLs is to allow live preview of HTML data right in FileMaker.</description>
+    </item>
+    
+    <item>
+      <title>Up To Speed with the FileMaker PHP API</title>
+      <link>http://gwcoffey.com/archive/sfr/up-to-speed-with-the-filemaker-php-api/</link>
+      <pubDate>Sun, 20 May 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://gwcoffey.com/archive/sfr/up-to-speed-with-the-filemaker-php-api/</guid>
+      <description>So you’ve heard about the new FileMaker PHP API. You want to put FileMaker data on the web, but you’re not sure where to start. It can be a bit overwhelming at first, but using PHP to publish FileMaker to the web is easy, fun, and totally awesome. This (admittedly lengthy) article tells you everything you need to know to get started.
+Way back in version 4, FileMaker added built-in web publishing capabilities to FileMaker Pro.</description>
+    </item>
+    
+  </channel>
+</rss>

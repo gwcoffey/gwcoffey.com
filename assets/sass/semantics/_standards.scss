@@ -98,6 +98,7 @@ main {
         font-family: var(--mono-font);
         background: var(--code-bg-color);
         font-style: normal;
+        font-variant-ligatures: no-common-ligatures;
     }
     
     pre {
@@ -159,11 +160,15 @@ main {
         	
         	&:after {
         		content: "⌘";
-        		display: inline-box;
+        		display: inline;
         		position: relative;
         		top: 3px;
         		font-size: 17px;
-        		padding-right: 3px;
+				padding-right: 3px;
+        	}
+        	
+        	&:last-child:after {
+        		padding-right: 0;
         	}
         }
     }
@@ -290,36 +295,6 @@ main {
 
 	hr:after {
 		content: '***';
-	}
-
-	figure {
-		position: relative;
-		padding: 12px;
-		box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
-		background: var(--figure-frame-bg-color);
-		
-		&:has(+ figure) {
-			margin-bottom: 36px;
-		}
-		
-		img, video {
-			display: block;
-			margin: 0 auto;
-			
-			&:not(+ figcaption) {
-				margin-bottom: 36px;
-			}
-		}
-		
-		figcaption p {
-			margin: 12px 0 3px 0;
-			font-style: italic;
-			text-align: center;
-			
-			em {
-				font-style: normal;
-			}
-		}
 	}
 	
 	sup {

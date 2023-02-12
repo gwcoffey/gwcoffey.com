@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Fixing uninitialized constant MysqlCompat::MysqlRes</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Fixing uninitialized constant MysqlCompat::MysqlRes</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2011-04-07 00:00:00 &#43;0000 UTC">7 April 2011</time>
+	</div>
+</hgroup>
+
+<p>For reasons I don&rsquo;t fully understand, using ActiveRecord in Rails 2.3 (or at least 2.3.11) with the MySQL gem version 2.8.1 on Mac OS X 10.6 (or at least 10.6.7) produces this error. With other versions of Rails, you may get a different error, but the underlying cause is the same. The internet is rife with suggestions that may or may not be helpful with various version combinations. But none of them helped in my case.</p>
+<p>The root cause of this problem is that the MySQL gem is built with a dependency on the MySQL client library by name only. This library is not in a standard library path. So you either need to update your library path to include <code>/usr/local/mysql/bin</code> (which is a pain) or fix the gem itself, which I what I decided to do.</p>
+<p>Once you have built the gem, you need to find it in the filesystem. For a normal Mac OS X install, it is in <code>/Library/Ruby/Gems/1.8/gems/</code>. If you use rvm, it is probably somwehere in <code>~/.rvm/gems</code> depending on the gemset you&rsquo;re using. If you&rsquo;re not sure, run:</p>
+<pre tabindex="0"><code>gem env
+</code></pre><p>Which will report, among other things, your <samp>GEM PATHS</samp>. Look in each path listed for <samp>mysql-2.8.1</samp>. Once you&rsquo;ve found it, run this command, substituting <var>{GEM_PATH}</var> with the path to your gems:</p>
+<pre tabindex="0"><code>install_name_tool -change libmysqlclient.18.dylib /usr/local/mysql/lib/libmysqlclient.18.dylib {GEM_PATH}/mysql-2.8.1/lib/mysql_api.bundle
+</code></pre><p>This command rewrites the compiled gem bundle so that its reference to the MySQL client library uses an absolute path. (The path I&rsquo;m using is the location where MySQL installs its libraries by default if you build from source or use the installer. It is possible you installed it somewhere else.)</p>
+<p>Hope it helps.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

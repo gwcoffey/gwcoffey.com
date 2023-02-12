@@ -1,0 +1,50 @@
+main {
+	figure {
+		position: relative;
+		padding: 12px;
+		box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+		background: var(--figure-frame-bg-color);
+	
+		// add a little space between consecutive figures
+		&:has(+ figure) {
+			margin-bottom: 36px;
+		}
+		
+		// make room for the title (which is in the caption but displays above the image)
+		&:has(> figcaption > h4) {
+			padding-top: 2.3em;
+		}
+		
+		img, video {
+			display: block;
+			margin: 0 auto;
+		
+			&:not(+ figcaption) {
+				margin-bottom: 36px;
+			}
+		}
+	
+		figcaption {
+			h4 {
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				text-align: center;
+				font-size: medium;
+				font-weight: bold;
+				padding-top: 0.4em;
+			}
+			
+			p {
+				margin: 12px 0 3px 0;
+				font-style: italic;
+				text-align: center;
+		
+				em {
+					font-style: normal;
+				}
+			}
+		}
+	}
+}

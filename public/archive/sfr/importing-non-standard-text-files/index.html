@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Importing Non-Standard Text Files</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Importing Non-Standard Text Files</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2007-07-11 00:00:00 &#43;0000 UTC">11 July 2007</time>
+	</div>
+</hgroup>
+
+<p>This question came up on <a href="http://www.macintouch.com/readerreports/filemaker9/index.html">Macintouch</a>:</p>
+<blockquote>
+Can you import an ASCII (.txt) file into Filemaker Pro 9 that uses a dollar sign ($) as a field delimiter within a record? The file is too big to bring into Excel first (on the way to filemaker).
+
+	<cite>Macintouch Reader</cite>
+
+</blockquote>
+<span class="editors-note">[ed: Alas the Macintouch link seems to be dead and it appears the site was blocking <a href="https://archive.org">archive.org</a>. I&rsquo;ve left the original link in place. (Aside: This is a good time to mention that I miss Roc Ford.)]</span>
+<p>Unfortunately, FileMaker 9 does not change the supported import formats, and $ delimited is <em>not</em> on the list. On the bright side, there are several ways to deal with this sort of thing in FileMaker.</p>
+<h2 id="import-and-parse">Import and Parse</h2>
+<p>You can go ahead and import the file. FileMaker will probably see each line in the file as one field value. Create a temporary text field in your table, then import the file, mapping its one line to the new field. Using a looping script, go through each record, parse the incoming text, and move it to your real fields:</p>
+<pre tabindex="0"><code>Go to Record/Request/Page [First]
+Loop
+  Set Field [My Field, GetValue(Substitute(TEMP, “$”, “¶”), 3)]
+  # add as many Set Field steps as you need
+  Go to Record/Request/Page [Next, Exit after Last]
+End Loop
+</code></pre><p>In the above code snippet, we use this calculation to parse the incoming text:</p>
+<pre tabindex="0"><code>GetValue(Substitute(TEMP, “$”, “¶”), 3)
+</code></pre><p>It grabs the <em>third</em> value from the $-delimited file. Here’s how it works:</p>
+<p>First, it turns every <code>$</code> into a newline. So instead of this:</p>
+<pre tabindex="0"><code>Sophia$Coffey$12/29/2001
+</code></pre><p>You now have this:</p>
+<pre tabindex="0"><code>Sophia
+Coffey
+12/29/2001
+</code></pre><p>Then, we call upon the <code>GetValue</code> function to pull one line out of this multi-line bit of text.</p>
+<h2 id="pre-clean-the-data">Pre-clean the Data</h2>
+<p>If you prefer, you can clean the file up before import. Many text editors have powerful search and replace functions, and can handle files that bring Excel to its knees.</p>
+<p>On Mac OS X, if you’re moderately comfortable on the command line, you can do this:</p>
+<pre tabindex="0"><code>tr $ ‘\t’ &lt; yourfile.txt &gt; thecleanfile.txt
+</code></pre><p>This command will [tr]anslate every <code>$</code> into a tab, and put the new cleaned-up data in a file called <code>thecleanfile.txt</code>. You can then import the file as a tab-delimited file.</p>
+<aside class="warn">
+Warning: If the original file contains tabs, they will get in the way, so you need to convert them to something else (like spaces) first.
+</aside>
+<p>Using these techniques, you can bring many atypical data formats into FileMaker, where they’re much easier to work with.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

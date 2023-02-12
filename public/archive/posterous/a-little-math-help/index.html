@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: A Little Math Help?</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>A Little Math Help?</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2011-02-09 00:00:00 &#43;0000 UTC">9 February 2011</time>
+	</div>
+</hgroup>
+
+<p>Anybody want to help me with some math? Consider:</p>
+<figure><img src="image-1.png"
+         alt="A geometric diagram showing two parallell lines and two intersecting lines at different angles. The point at which the intersecting lines meat is labeled with a star. The angles of the interseting lines against the parallel lines are labels &#34;A&#34; and &#34;A-question-mark&#34;." width="522" height="235"/><figcaption>
+            <p>Diagram 1</p>
+        </figcaption>
+</figure>
+
+<p>I know angle <code>A</code>, distance <code>D</code>, angle <code>AΔ</code> and distance <code>DΔ</code>. I&rsquo;m trying to find angle <code>A</code>?. This is what I came up with:</p>
+<figure><img src="image-2.png"
+         alt="A mathematical formula." width="345" height="81"/><figcaption>
+            <p>The proposed formula.</p>
+        </figcaption>
+</figure>
+
+<p>At first I thought I was all good, but this doesn&rsquo;t work for all <code>A</code> and <code>AΔ</code> (which is obvious in hindsight). For instance, this works fine if <code>A</code> is negative:</p>
+<figure><img src="image-3.png"
+         alt="Another diagram similar to the one above, but the angles are negative." width="522" height="226"/><figcaption>
+            <p>A working case with negative angles.</p>
+        </figcaption>
+</figure>
+
+<p>But this doesn&rsquo;t work…</p>
+<figure><img src="image-4.png"
+         alt="Another diagram similar to the one above, but the angles are now larger than 90 degrees." width="559" height="229"/><figcaption>
+            <p>A failing case with large angles.</p>
+        </figcaption>
+</figure>
+
+<p>…essentially because the range of arc tangent is <code>(-90,+90)</code> degrees. Or, put another way, because there is no right triangle with angle <code>A</code>.</p>
+<p>Is there a single formula that will work for all <code>A</code> and <code>AΔ</code> without the need for conditionals?</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: Welcome FileMaker Pro 10</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>Welcome FileMaker Pro 10</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2009-01-05 00:00:00 &#43;0000 UTC">5 January 2009</time>
+	</div>
+</hgroup>
+
+<p>If you thought FileMaker 9 was a big update (<a href="http://sixfriedrice.com/wp/category/filemaker-9-tips/">and we clearly did</a>) you’ll be thrilled with number 10. It starts with some flagship new features like Script Triggers (<em>finally!</em>) and infinitely more useful Sub-Summary parts, plus the usual round of small tweaks and improvements. But this release takes it one step further with a total overhaul of FileMaker’s most ubiquitous interface element. Gone is the Status Area, replaced by a freshly designed, much more useful Status Toolbar. Here, we’ll introduce you to everything new in FileMaker 10. Keep an eye out for more articles about how to use all this great new stuff.</p>
+<aside>
+
+<p>Update <time datetime="2009-01-05">Jan-5-2009</time>: Somehow I neglected to cover the new Modify Table View feature in Filemaker 10. I have updated the article with relevant information, as it is quite important.</p>
+<p>Update <time datetime="2009-01-06">Jan-6-2009</time>: I corrected the explanation of the [<code>Code</code>][code] function, which was stupidly dismissed in the original text.</p>
+<p>Update <time datetime="2009-01-15">Jan-15-2009</time>: I’ve uploaded the live sub-summaries demo file by request. Get it here: <a href="people.fp7.zip">People.fp7</a>.</p>
+
+</aside>
+<h2 id="everything-old-is-new-again">Everything Old is New Again</h2>
+<p>Here’s what a basic FileMaker database window looked like yesterday (and in fact, it looked a lot like this when I started using FileMaker 15 years ago):</p>
+<figure><img src="fm9-status-area.png"
+         alt="A FileMaker window with the FileMaker 9-style Status area sidebar. Of note, the Layout popup says &#34;My Datab&#34;— the layout name is cut off." width="600" height="306"/><figcaption>
+            <p>For as long as I can remember, a FileMaker window looked like this.</p>
+        </figcaption>
+</figure>
+
+<p>As of today, it looks like this:</p>
+<figure><img src="fm10-status-toolbar.png"
+         alt="The same database window, but now it shows a Mac OS X style toolbar at the top of the page instead of the Status area along the side. In this case the Layout popup has more space so the full name is displayed: &#34;My Database&#34;." width="600" height="318"/><figcaption>
+            <p>But as of FileMaker 10, it looks much more modern and consistent with other applications.</p>
+        </figcaption>
+</figure>
+
+<p>As my mother would say…<q cite="Brenda%20Coffey">holy catfish</q>. The most striking change, of course, is that the tools are on top now instead of along the side. This will almost certainly rub a lot of people the wrong way because carefully designed layouts that fit in perfectly sized windows on small screens will now be the wrong size and shape. After all, the maximum window size just got a little wider and a little shorter.</p>
+<aside class="note">
+Note: Of course, if you keep the status area hidden in your solution, your database windows are significantly smaller than the screen, or you make heavy use of <a href="http://sixfriedrice.com/wp/filemaker-9-tip3-get-the-most-from-autoresize/">auto-resize</a>, then you won’t have to worry about the size change.
+</aside>
+<p>I hope the uproar over this annoyance doesn’t overwhelm the chorus of praise, though. After all, the new Status toolbar (it’s not called the Status Area anymore) beats the old version in several important ways:</p>
+<ul>
+<li>It does lots more. In the picture above, you can see buttons to manipulate the found set, perform finds, and bring up the sort dialog box. Switching between views (you know, Form, List, and Table) is now a quick click away, and the Edit Layout button makes quick work for mousers.</li>
+<li>Its horizontal configuration makes better use of space. Finally, the Layout pop-up menu is wide enough to show reasonable layout names. You can see the difference by comparing the layout pop-up menu in both pictures above. The new version is clearly much bigger.</li>
+<li>It is customizable. Your more adept users can now add buttons to the status toolbar for common FileMaker functions, move things around, switch between large and small icons, and so on. The changes they make will apply to every database they use, introducing a little consistency for folks who use several different databases.</li>
+<li>This is probably a matter of opinion, but to my eye, it is a lot prettier. And I like <a href="https://hello.boygirlparty.com">pretty things</a>.</li>
+<li>Finally, it is more consistent with other applications, especially on Mac OS X. In fact, Mac OS X users will recognize this as a stock-standard toolbar that works just like other applications. And Windows users will still be comfortable with the more common buttons-across-the-top arrangement.</li>
+</ul>
+<aside class="note">
+Note: Before you get your hopes up, you should know that the status toolbar can be customized by the <em>user</em>, not by the <em>developer</em>. You can’t script the placement of buttons, add new buttons, or otherwise control how your users see things. They get to decide how their toolbar is arranged. Of course you can still hide the status toolbar, and keep it locked away from your users, so you haven’t <em>lost</em> any control here.
+</aside>
+<p>A full discussion of the new status toolbar would require an entire article, so for now it will suffice to say it really represents a massive refinement and rethink of the way people interact with FileMaker, both as users and as developers.</p>
+<p>It is not simply a cosmetic change. Instead, things have been reconsidered in intelligent, friendly ways. It makes common tasks easier to get to, and helps new users discover FileMaker’s features more naturally. On the thoughtful side, consider the black-ish layout bar which attaches itself under the status toolbar whenever you’re in layout mode:</p>
+<figure><img src="layout-bar.png"
+         alt="Detail of the toolbar when in Layout mode. A dark grey bar rests under the toolbar and offers information about the layout and buttons and tools for working with layouts." width="600" height="144"/><figcaption>
+            <p>The Layout toolbar shows more than ever before without sacrificing much space at all.</p>
+        </figcaption>
+</figure>
+
+<p>It politely shows you the context of the current layout (right after “Table:”) which is important information, and was squirreled away in a dialog box in FileMaker 9. And its little pencil icon gives you one-click access to the Layout Setup dialog box.</p>
+<p>One final staff favorite: In Browse mode, when you click the clever pie-chart representation of the found set, FileMaker runs the Records → Show Omitted Only command. You can quickly click to swap the found set in and out, and the pie chart makes it clear what is happening.</p>
+<p>New users will quickly discover the Edit Layout button when in Browse mode. In truth, it is simply another way to get to Layout mode, but it is presented here in a way that saves first-timer’s a trip to the online help. It switches to an Exit Layout button once you get to Layout mode, so getting back is just as easy and obvious.</p>
+<p>Individually, these may seem like inconsequential things, but FileMaker 10 is full of subtle refinements like this, and all together, they really make for a more sensible, approachable, and convenient interface. Once you get used to using 10, you’ll find yourself missing the new arrangement whenever you switch back to 9.</p>
+<aside class="note">
+Note: Although the interface redesign is a significant positive step, I don’t want to over sell it. Visually, nothing has changed <em>inside</em> the database window. Pop-up menus still look retro-80’s. Radio buttons still render funny on Windows. Checkboxes still look like something my 7 year old drew in KidPix. Alas, we get no shiny on our layouts in this release. Just a much better experience in the parts FileMaker controls directly.
+</aside>
+<h2 id="loaded-and-ready">Loaded and Ready</h2>
+<p>Without a doubt, Filemaker 10’s most significant new feature is script triggers. This fabled hero has, over the years, gone by many names: events, triggers, actions, behaviors… Whatever you call it, here’s the scoop: In FileMaker 10, you can cook things up so scripts run automatically in response to various actions. For instance, imagine you want some scripted magic to happen whenever someone clicks to a certain tab in your tab control. In FileMaker 9, the intrepid developer would have to delve into <a href="http://sixfriedrice.com/wp/tab-controls-without-the-tabs/">hidden tabs</a>, masked buttons, and who knows what else to pull this off. After all, scripts run when people click buttons, so you have to trick the user into clicking a button when they really want to select a tab.</p>
+<p>Imagine you could turn that reasoning upside down, though. Instead of thinking about clicks, think about actions. As in: When the user switches tabs, run this script. That’s the gist of triggers. FileMaker runs your script in response to something. In this example, you can tell FileMaker to run your script when the tabs are <em>modified</em>—when someone changes which tab is selected.</p>
+<p>Triggers are associated either with the layout (choose Layouts → Layout Setup, then switch to the Script Triggers tab) or a single layout object (select the object, then choose Format → Set Script Triggers). Some triggers even have the power to cancel the original action by exiting the script with a result of <code>False</code>. For instance, if a script triggers when a record is committed, and it exits with a result of <code>False</code>, then FileMaker won’t commit the record. In this way, your scripts can gain a little control over the under-the-hood behavior of the application itself.</p>
+<p>On the layout, you can trigger scripts in these scenarios:</p>
+<ul>
+<li><code>OnRecordLoad</code> fires when a new record is “loaded” when the user is on the layout. In other words, when the user flips to a new record with the book icon, performs a find, makes a new record, and so forth.</li>
+<li><code>OnRecordCommit</code> triggers when a record is committed. As mentioned before, this action can be canceled by the triggered script.</li>
+<li><code>OnRecordRevert</code> kicks in when a record is reverted. This one is cancelable too.</li>
+<li><code>OnLayoutLoad</code> fires when you switch to the layout. Imagine leaving the Status toolbar unlocked, and performing special finds, sorts, and so on automatically as your users switch layouts.</li>
+<li><code>OnLayoutKeystroke</code> has the power to act with every keystroke. This is sort of the super-power trigger, allowing you to build single-stroke navigation systems, filter keystrokes based on criteria, and probably a thousand other as-yet-unimagined things. As you probably guessed, your script can cancel the keystroke, as though it was never pressed.</li>
+<li><code>OnModeEnter</code> runs a script when the user switches to one or more specified modes. You could switch to a print-formatted layout automatically whenever the user goes to Preview mode, or use a special layout for Find mode, for instance.</li>
+<li><code>OnModeExit</code> is a slight variation on <code>OnModeEnter</code>: it fires right before you leave a mode. This way your script can see which mode the user is switching <em>from</em> and can even cancel the switch if you want.</li>
+</ul>
+<p>The triggers for layout objects are:</p>
+<ul>
+<li><code>OnObjectEnter</code> lets you know when a field has been entered, a button or tab has been tabbed to, or a portal row has become active. It also fires when you click on the page in a web viewer, or tab to a field on the page.</li>
+<li><code>OnObjectKeystroke</code> is just like <code>OnLayoutKeystroke</code>, except it only jumps to action when you press keys while the object has focus. In other words, when you’re clicked into a field, or a button or tab control has the thick black border you see when you tab to it. As before, you can cancel keystrokes.</li>
+<li><code>OnObjectModify</code> is the swiss army knife of triggers. For fields, it triggers whenever you’re in the field and change its value in any way (by typing, deleting, pasting, cutting, and so forth). Incidentally, it does not fire if you drag text from one field to another since, by definition, you’re not in the field you drag to. Bummer really. Many times, if you think you want an <code>OnObjectKeystroke</code> trigger, you really want an <code>OnObjectModify</code> trigger instead. For instance, <code>OnObjectModify</code> doesn’t fire when you use the arrow keys to move around in a field, or when you tab to another field. <code>OnObjectKeystroke</code> does fire in these situations, making it more powerful, but also much more difficult to work with. Finally, <code>OnObjectModify</code> also fires for tab controls when you switch from one tab to another.</li>
+<li><code>OnObjectSave</code> does its thing when you finish making changes to a field. You can type, delete, cut and paste, and otherwise mangle the field’s data to your heart’s content without firing scripts. Then, when you tab out of the field, commit the record, or otherwise cause FileMaker to get you out of the field, the <code>OnObjectSave</code> trigger kicks in. It only fires if the field was actually modified, and it can cancel, meaning the user is not able to exit the field until they satisfy the demands of your script.</li>
+<li><code>OnObjectExit</code> works just like <code>OnObjectEnter</code>, except it fires when you leave the object instead of when you go to it. Once again, it is cancelable, which prevents the user from moving on to something else.</li>
+</ul>
+<p>It is worth noting that the power to <em>cancel</em> runs deep. If you write an <code>OnObjectSave</code> script that exits with a <code>False</code> result, FileMaker won’t let the user leave the field. Period. Even if they try to switch to a different record, change layouts, close the window, or even quit FileMaker. In every case, the action will simply not happen at all. It is up to your script to provide reasonable feedback to the user (like a custom dialog box or a beep). And of course, if you make a mistake and your script always exits this way, you’ll essentially be stuck in the field forever, so you really need to be careful. (Luckily, triggered scripts work perfectly with the script debugger in FileMaker Pro Advanced, so you can just turn on the debugger, exit the field, then kill the trigger script to work around your troublesome code.)</p>
+<p>I’d be a fool to try and predict the kinds of techniques we’ll see popping up <a href="http://filemakermagazine.com/">here</a> and <a href="http://sixfriedrice.com/">there</a> once people really begin to explore script triggers. I think this is one of those game-changer features: Ball’s in the air and it’s anyone’s guess where it will come down.</p>
+<aside class="tip">
+Tip: A new View → Show → Script Triggers menu command was also added in Layout mode. Turn this on to see a little red star icon attached to any object on the layout that has script triggers. This is super useful, for instance, to help keep you from accidentally duplicating a trigger-happy field for some unrelated use.
+</aside>
+<h2 id="sub-summaries-like-never-before">Sub-Summaries Like Never Before</h2>
+<p>This is a feature that’s easy to explain, requires almost no new learning, and will knock your socks off. Everything you know about sub-summary reporting now works in Browse mode. It’s almost magical to see elegant grouped lists instantly adapt as you edit records, and change the sort order, all the while remaining fully clickable. In this case, a video says it better than words:</p>
+<figure>
+	<video controls>
+	  <source src="browse-mode-sub-summaries.mov" type="video/mp4" />
+	</video><figcaption><p>In FileMaker 10, summary parts work in browse mode, massively expanding the usefulness of these already-very-useful tools.</p></figcaption></figure>
+
+<aside>
+
+You can download the sample database used in the video here: <a href="people.fp7.zip">People.fp7</a>.
+</aside>
+<h2 id="the-persistent-sort">The Persistent Sort</h2>
+<p>If you paid close attention to the video above, you may have noticed something else new: Records stay sorted. If you sort your contact list by City, for instance, then update the address for someone who moved, the record you edit will instantly jump to the correct sorted position. In other words, the storied state of “semi-sorted” is almost a thing of the past. (“Almost” because it can still crop up when importing records into a sorted list, or when using the Replace Field Contents and Relookup Field Contents commands.)</p>
+<p>In truth, once you get used to this behavior, you’ll probably wonder why it didn’t work this way all along. It just feels natural. Best of all, you don’t have to do anything as a developer to take advantage of this feature. It Just Works™.</p>
+<h2 id="find-and-find-again">Find and Find Again</h2>
+<p>Here’s another feature that’s more for the users than the developers, but it’s still super cool. The Records menu now has a Saved Finds submenu, where FileMaker keeps track of the most recent find requests you’ve used, lets you perform them over again, and even lets you save a frequent find with a special name. You get the same menu if you click-and-hold on the Find button in the status toolbar:</p>
+<figure><img src="saved-finds.png"
+         alt="Detail of a database window where the user has held the mouse button down on the Find button in the toolbar, revealing a popup menu of recent searches they&#39;ve performed, and options to save them." width="555" height="508"/><figcaption>
+            <p>You users get powerful new saved find request features out of the box.</p>
+        </figcaption>
+</figure>
+
+<p>If your users often perform the same finds over and over, they no longer need to beg you to write them a script. Instead, they can do the find once, then choose Save Current Find… to add it to this menu. Now, the same find (with as many requests and criteria as they want) is just a few clicks away.</p>
+<p>The list of saved finds is stored with the user’s account, so if your users each log in with a separate account (even with External Authentication), they’ll have their own persistent set of saved finds. What could be simpler?</p>
+<h2 id="send-mail-the-old-fashioned-way">Send Mail the Old Fashioned Way</h2>
+<p>There are two kinds of people in the world: Those who see the following picture and think, “It’s about time!” and those who…don’t. Which one are you?</p>
+<figure><img src="send-via-smtp.png"
+         alt="Detail of the Send Email dialog box showing the new &#34;Send via SMTP Server&#34; option." width="560" height="209"/><figcaption>
+            <p>FileMaker can now send email directly via the server rather than relying on an installed email program.</p>
+        </figcaption>
+</figure>
+
+<p>Starting with FileMaker 10, your scripts (and users, if you so desire) can send email directly through a so called SMTP Server (in other words, an industry standard email handling system). When you send an email this way, it bypasses the mail program on the local computer completely. You don’t have to worry about configuring an email client on a robot computer, or supporting Lotus Notes version 9.2.8.8.3.1.3, or confusing your users with mysterious pop-ups. Instead, your FileMaker solutions can act just like real email programs, delivering any message you want to anybody you want with no interference.</p>
+<p>You can even customize the email address the message comes from, so long as it is allowed by your mail server. Put another way, you can now send email quickly, cleanly, and reliably without special plug-ins. As an added bonus, when you use this option in your scripts, they can be run by FileMaker Server as a scheduled script.</p>
+<p>Don’t be lulled into thinking you should always use the SMTP Server option in your scripts though. The older behavior is still available (and the default) by way of the E-mail Client option. And it is still the right choice if you want your users to customize the message before it sends, or if it is best for them to see it in their Sent Mail folder. Now, you get to decide which model works best in each situation.
+And remember, this feature should be used only for good, never for <a href="http://www.spam.com/">evil</a>.</p>
+<h2 id="all-hail-the-tab-order">All Hail the Tab Order</h2>
+<p>Have you ever had to add a new field to a layout that has lots of fields and a very particular tab order. If so, you have, no doubt, cursed the engineers at FileMaker Inc. a time or two, while you click…every…darn…field…over…again. Apparently one of those engineers ran in to the same problem when helping their partner keep track of their antique Pez dispensers. Because that person, bless them, stayed late one saturday night and fixed the problem.</p>
+<p>As of today, my friends, you can now insert a field into the tab order. For example, suppose you already have fields numbered 1, 2, 3, 4, and 5. You then add a sixth field to the layout, which really should go right between 2 and 3. No problem: Just choose Layout → Set Tab Order, put a 3 in the arrow by the new field, and marvel as FileMaker renumbers the rest for you. 3 becomes 4. 4 becomes 5. And yes, ladies and gentleman, for a limited time only, 5 becomes 6.</p>
+<p>We’d call this feature a great leap forward, but seriously, when you have nowhere to go but up, it’s more of an obligatory lurch forward. None the less, thank you engineer person. You’ve given us our lives back.</p>
+<h2 id="customizable-table-view">Customizable Table View</h2>
+<p>Hold on to your socks. In FileMaker 10, <em>users</em> can now add fields to table view without visiting the layout. This adds a level of dynamic data access that has never existed before, which is a great step. Now you can configure a table view layout for your users, and let them add or remove fields as they see fit:</p>
+<figure><img src="edit-table-view.png"
+         alt="A window called &#34;Modify Table View&#34; showing a list of fields with checkboxes by each one, and an Add button." width="308" height="363"/><figcaption>
+            <p>FileMaker&rsquo;s Table view now gives <em>end users</em> control over which fields display.</p>
+        </figcaption>
+</figure>
+
+<p>Many of you will gasp in horror at this, though. Now it is painfully obvious that a field that is not restricted by a Privilege Set is wide open for view <em>and</em> edit by a logged in user. That means someone can go to a table view layout, click Modify and add the Password field to the list, or drop in the Cost field and modify it. (If you keep the status area hidden and locked, then this feature is locked away too, so nothing has changed for you.)</p>
+<p>Of course this was always possible in a more round about way: If you have access to a database, you can use its tables in a <em>new</em> database of your creation, where your access to fields is limited only by your privilege set. But a lot of people ignored this problem either because they were unaware or considered it too abstruse to worry about. Now poor access privilege settings can lead to trouble much more easily.</p>
+<p>The <em>correct</em> solution to this problem is the same as it always has been: Depend on privilege sets to control who can see and edit what data. And “Run with full access” scripts to work around the restrictions as needed.</p>
+<p>Alas, this is a difficult change to make. If you are willing to live with the sort of half-baked security you’ve had all along, the simpler solution is to turn off Table view access for all relevant layouts. This can easily be done in the Layout Setup dialog box. Once you do this, users will no longer be able to pry in to fields without the level of effort required in 9. (And remember, if you have the status area hidden and locked, the user won’t be able to get to the Modify button in the first place.)</p>
+<aside class="warn">
+Warning: To reiterate, blocking table view <strong>is not secure</strong>. But if this new feature causes you trouble, then <strong>your system isn’t secure in 9 either</strong>. So it is a quick method to get back to the slightly more obscure insecurity you had before. As always, we recommend you use proper security if security really matters.
+</aside>
+<h2 id="indirection">Indirection</h2>
+<p>FileMaker 10 has one new feature that will almost certainly prove to be a sleeper sensation. At first it seems so weird, so obscure, that many will wonder why in the world they would ever use it. But in time, as clever developers put it to use and share their experiences, I’m confident we’ll begin to understand its true power. I’m talking about a new script step called <code>Set Field by Name</code>, and its companion function, <code>GetFieldName</code>. The first works just like the <code>Set Field</code> script step you know and love, except that instead of choosing the field you want to set from a list, you use a calculation formula. For instance, if you want to set the First Name field, you could use a formula like this:</p>
+<pre tabindex="0"><code>“Customers::First Name”
+</code></pre><p>Or this:</p>
+<pre tabindex="0"><code>Get ( ActiveFieldTableName ) &amp; “First Name”
+</code></pre><p>Or even this, if you like this sort of thing:</p>
+<pre tabindex="0"><code>“Customers::” &amp; LeftWords(“First things first”, 1) &amp; ” ” &amp; Filter(“Nxaxmxex”, “abcdefghijklmNopqrstuvwyz”)
+</code></pre><p>To put it succinctly, the result of the calculation is the name of the field you want to set. So if you do this mind-bender:</p>
+<pre tabindex="0"><code>Set Field by Name [ Globals::Name, “Something” ]
+</code></pre><p>It is not the Name field itself that gets modified, but rather the field whose name is <em>in the Name field</em>.</p>
+<p>Because storing field names in literal text values in your calculations is inherently fragile (if you rename a field, you script will break), FileMaker 10 also introduces the <code>GetFieldName</code> function. This function, at first blush, seems even weirder. Consider this formula:</p>
+<pre tabindex="0"><code>“You have a field called ” &amp;
+  GetFieldName(Customers::First Name) &amp; “.”
+</code></pre><p>If you put this in a calculation field or a Show Custom Dialog script step, you’ll see this: “You have a field called Customers::First Name.” When a field is inside <code>GetFieldName</code> in a calculation, you get its <em>name</em> instead of its <em>value</em>.</p>
+<p>If this just confuses you, don’t worry. You’re not alone. The popular name for this feature seems to be “indirection” or “field indirection.” This is probably because it is tangentially related to a <a href="http://en.wikipedia.org/wiki/Indirection">computer science concept</a> of the same name. But I like the dictionary definition better:</p>
+<blockquote>
+<em>indirection</em>: indirectness or lack of straightforwardness
+
+	<cite>New Oxford American Dictionary</cite>
+
+</blockquote>
+<p>That about sums it up. Truthfully, although its use will be rare, it is an exceptionally powerful feature. You’ll see an article or two appearing here on SFR soon showing techniques that take advantage of indirection.</p>
+<h2 id="where-to-print">Where to Print</h2>
+<p>When you use the Print script step, you can turn on the “Specify print options” checkbox to hard-code printer-related settings like the number of pages, the page range, collation, and so forth. In FileMaker 9 on Windows, in some cases, this checkbox would also cause FileMaker to automatically select the correct printer for you. In other words, if you wired the script to the printer called Sales Office Laser, then anybody who ran your script would get output on that printer too.</p>
+<p>This printer selection never worked on Mac OS X, and it was a little flaky on Windows. As of FileMaker 10, it is an officially supported feature, and works seamlessly with any printer and on any platform. Now you can force the Fax printer driver in your script, or send bar code labels to the thermal printer, with no user interaction, and no messy plug-ins.</p>
+<h2 id="file-recovery-and-maintenance">File Recovery and Maintenance</h2>
+<p>The Recover process has long been a source of anxiety for even the most capable FileMaker developers. Nobody knows quite what it does, everybody swears off recovered files like plague-stricken corpses, and you have zero control over the process. All that changes in FileMaker 10. Witness:</p>
+<figure><img src="recover-dialog.png"
+         alt="A window titled Advanced Recover Options with several radio buttons and checkboxes to select from." width="583" height="372"/><figcaption>
+            <p>FileMaker&rsquo;s new Advanced Recover Options let you pick which esoteric and terrifying steps the recovery process uses.</p>
+        </figcaption>
+</figure>
+
+<p>We’ll have an entire article devoted to all these knobs and switches, but as you can see, you have a much greater (and possibly more confusing) degree of control over the recovery process. What’s more, FileMaker now produces a comprehensive log of the entire recovery process, so you can see exactly what (if anything) it changed. On the down side, these logs are somewhat mystifying—you have to know a lot about FileMaker database internals to really make sense of them. Luckily, FMI has promised a whitepaper to help us mortals make the most of it. We’ll provide a link as soon as we find it.</p>
+<p>On a related note, we should mention the <a href="http://en.wikipedia.org/wiki/Milli_Vanilli">Milli Vanilli</a> of FileMaker features: File Maintenance. This handy command made its debut in or around FileMaker 7, to the cheers of FileMaker developers everywhere. Its compress and optimize operations seemed to speed up our databases while at the same time making the files smaller. Many of us started performing file maintenance as a part of our regular upkeep.</p>
+<p>But a couple years ago at the FileMaker Developer’s Conference, FileMaker personnel made an apparently official about face, suggesting that we should never use these commands. It turns out the ancient Save a Copy As command, with its “compacted copy” option, performs the same basic service. The difference is that file maintenance operates directly on the open database, which means if anything goes wrong, you can damage your file permanently. If you use Save a Copy As instead, you get a compressed and optimized copy. If a problem arises, the original file is still OK.</p>
+<p>Once this became clear, nobody wanted to use file maintenance anymore, and a few folks began to wonder why the feature even exists. Why offer an appealing, but unsafe version of an existing useful command? FileMaker apparently agrees. As of FileMaker 10, the File Maintenance command no longer exists.</p>
+<h2 id="miscellaneous-changes">Miscellaneous Changes</h2>
+<p>No new version would be complete without a laundry list of relatively minor changes. Here it is.</p>
+<h3 id="ess-enhancements">ESS enhancements…</h3>
+<p>FileMaker 9’s flagship feature was External SQL Sources, or ESS, so it is unsurprising that it ESS got a little love in 10:</p>
+<ul>
+<li>Value lists based on fields from ESS tables are now supported.</li>
+<li>ESS now supports Single Signon authentication with Microsoft SQL Server. If you don’t know what that means, you also don’t need it.</li>
+<li>DATETIME columns are now handled more intelligently with Microsoft SQL Server. You get to decide if you want just the Date portion of the value, just the Time portion, or both.</li>
+<li>You can now use the latest versions of MySQL and Oracle with ESS.</li>
+</ul>
+<h3 id="a-few-good-functions">A few good functions…</h3>
+<p>FileMaker 10 adds five more calculation functions we haven’t yet mentioned, and makes a subtle change to a sixth:</p>
+<ul>
+<li>
+<p>The <code>Char</code> function creates a text character from its numerical equivalent. Now you can insert a Line Feed character in your calculation easily: <code>Char(10)</code></p>
+</li>
+<li>
+<p>The <code>Code</code> function works opposite to <code>Char</code>. It gives you back the numerical equivalent of the text value you pass in. This is critical information when building scripts for Keystroke triggers. It allows you to handle complex keys like <code>escape</code>, <code>enter</code>, function keys, and so forth.</p>
+</li>
+<li>
+<p>The <code>Get(TriggerKeystroke)</code> and <code>Get(TriggerModifierKeys)</code> functions tell you which keys someone pressed to fire you <code>OnLayoutKeystroke</code> or <code>OnObjectKeystroke</code> script triggers.</p>
+</li>
+<li>
+<p>The <code>Get(DocumentPathListings)</code> function returns a list of paths to every file in the user’s Documents or My Documents folder. Again, I’m not sure what inspired this function. It seems odd that it is limited to just the Documents folder, but I’m sure there’s a reason in there somewhere.</p>
+</li>
+<li>
+<p>The <code>Get(TemporaryPath)</code> function has changed just a touch. It now returns a path to a special folder <em>inside</em> the user’s temporary items folder. Anything you store here will automatically be deleted by FileMaker when it quits. Before, files would stick around until the operating system decided to clean them up, potentially wasting space. In general, this should not effect your scripts at all, unless they make the (faulty) assumption that files created in the temporary folder will be there across restarts of FileMaker.</p>
+</li>
+</ul>
+<h3 id="import-and-export-formats">Import and export formats…</h3>
+<p>FileMaker can now import data directly from <a href="../filemaker-gets-bento/">Bento</a>, the Mac OS X only consumer database program FileMaker Inc. released last year. Time will tell if it proves useful, but this means you can now import data from the Mac OS X address book and calendar into FileMaker by way of Bento. Let us know if you come up with any cool uses for this.</p>
+<p>In addition, a few prehistoric formats are no longer supported for import or export: SYLK, DBF, DIF, WKS, and BASIC. Honestly, we might miss DBF a little, but the rest we haven’t used in years, if ever.</p>
+<p>Finally, FileMaker can now import and export the new .xslx format used by Microsoft Excel 2007 for Windows and 2008 for Mac OS X.</p>
+<h3 id="edit-scripts-tweaks">Edit scripts tweaks…</h3>
+<p>The Manage Scripts window has seen some minor changes too. Script groups, which were first introduced in FileMaker 9, are now called <em>folders</em> in keeping with their function and icon. Also, you can now create an empty script (just like before), or a so called Default Script, which, in homage to FileMaker 5-ish, is a script with a few pointless steps already inserted. I guess the idea here is to show people what a really small script will look like. Thankfully, Empty Script is still the default, so that’s what you’ll get if you just click New.</p>
+<h3 id="etcetera">Etcetera…</h3>
+<p>Some things really only warrant a bullet point:</p>
+<ul>
+<li>FileMaker now supports IPv6 for database sharing. We don’t have enough expertise here to comment, except to say, “sounds good to us.”</li>
+<li>The QuickStart panel, another FileMaker 9 newbie, has been redesigned a touch. It now includes recent database, a favorites list, and more. In other words, I haven’t turned it off yet, which is a first for me.</li>
+<li>A new Launch PHP Site Assistant command in the Tools menu gives you quick access to this web site builder if you have it installed.</li>
+<li>The Database Design Report has (duh) been enhanced to cover script triggers and the other new FileMaker 10 features.</li>
+<li>The Starter Solution (template) databases included with FileMaker are now a little less embarrassing. For instance, they actually use real tab controls now. And normalized tables. And other features introduced in the last five years.</li>
+<li>My notes say there is no longer a hard copy User Guide in the box. I suppose someone out there will care, and with you, I condole.</li>
+</ul>
+<h2 id="another-yearish-another-release">Another Year(ish), Another Release</h2>
+<p>FileMaker has been progressing so steadily since the 7 release, that it would be easy to get a little jaded. But when you look at it objectively, you can’t help but be impressed. I find it heartening that FMI put time into big new power features like script triggers and a less bullet-point-worthy but equally important user interface overhaul. This release certainly looks different, but it also has enough new power to keep people like us busy finding new solutions for a good while.</p>
+<p>Also, I don’t talk about this much, but because I write <a href="http://www.amazon.com/exec/obidos/search-handle-url/ref=ntt_athr_dp_sr_1?%5Fencoding=UTF8&amp;search-type=ss&amp;index=books&amp;field-author=Geoff%20Coffey">books on FileMaker</a>, I typically get to play with the software a little bit before release. I’ve been lucky enough to get pre-release access to most versions of FileMaker since 5.5, so I have a lot of experience toying with new releases at night while I use last year’s model all day. It took me a few days to get used to the new interface in 10 (I kept trying to show the already-visible status area, for instance). But once I was in the groove, I suddenly found FileMaker 9 to be aggravating in ways I’d never noticed before. I think this is the first time that’s happened.</p>
+<p>The new release completely supplanted my subconscious expectations almost over night. The Layout bar, the Preview button, the Formatting bar, the Status toolbar—all these little changes seem, to me, to fit the way my body wants to work better than FileMaker ever has before. I now feel like 9 is clunkier, like my workflow in 9 just isn’t as smooth as it is in 10. And for a software product I’ve been using almost daily for 15 years, that’s really saying something. I wasn’t convinced at first glance, but now I’m impressed.</p>
+<p>Only one question remains: Where do they go from here? You almost never see a Version 11 in major software. CompuGlobal Hyper FileMega Pro 1.0, anyone? Cheers, FMI, and cheers, FileMaker community. Let us know what you think in the comments.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>

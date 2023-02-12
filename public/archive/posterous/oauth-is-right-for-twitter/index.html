@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>gwcoffey.com: OAuth is Right for Twitter</title>
+
+    
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+	
+	
+	<script src="/js/main.js" defer></script>
+</head>
+
+<body>
+
+<header>
+	<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+</header>
+
+<main>
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	
+</section>
+
+<article>
+
+<hgroup>
+	<h1>OAuth is Right for Twitter</h1>
+	<div class="byline">
+		<address><a rel="author" href="/me">Geoff Coffey</a></address>
+		/
+		<time datetime="2011-05-18 00:00:00 &#43;0000 UTC">18 May 2011</time>
+	</div>
+</hgroup>
+
+<p>There&rsquo;s been <a href="https://daringfireball.net/2011/05/twitter_shit_sandwich">some grumbling</a> recently about OAuth and the Twitter API. Gruber posits that this is a bad thing dressed up to look like a good thing. But really, it is a good thing.</p>
+<p>The whole point of OAuth is to allow me to authorize one service (like Flickr, Posterous, FourSquare, Instagram, or, yes, even a full Twitter client) to interact with another service (like Twitter) on my behalf without giving them my password. From <a href="http://oauth.net/about/">the OAuth about page</a>:</p>
+<blockquote>
+<p>OAuth is about giving access to your stuff without sharing your identity at all.</p>
+</blockquote>
+<p>Here&rsquo;s the thing. When you give some service your Twitter username and password, at least three bad things happen:</p>
+<ol>
+<li>The service itself, anyone who works for whoever runs the service, or anyone who ever steals their data has your username and password. They can operate on your behalf on twitter in any way they see fit, including deleting your data, closing your account, sending tweets, approving follow request, following other people, reading private information, changing your profile, etc…</li>
+<li>If, like a vast majority of people, you use the same username and password for other services like Gmail, Amazon.com, or your work VPN, all those people can do all kinds of other things on your behalf. In this sense, it isn&rsquo;t just like giving away your house key. It&rsquo;s like giving away your entire keyring, with the keys to your office, mailbox and car.</li>
+<li>If you ever change your password, the service will stop working. This is especially annoying with something like Twitter, which you might have connected to several services.</li>
+</ol>
+<p>OAuth solves all these problems:</p>
+<ol>
+<li>Although in general OAuth still allows the service to act on your behalf, they are limited to the sorts of access appropriate from the API. They can&rsquo;t decide instead to log in as you, pretend to be you, and do things an API doesn&rsquo;t allow. And OAuth makes it easy for you to take away their access in the future if you decide to, without interfering with other systems you&rsquo;ve granted access. Finally, OAuth supports the idea that you might want to limit the kinds of access you&rsquo;re granting. This is exactly what Twitter is doing with OAuth: Allowing you to decide if the third party client can read your direct messages.</li>
+<li>Since you never divulge your password to any third party during an OAuth transaction, you don&rsquo;t need to trust every single third party application to treat your password with respect. You only need to trust Twitter with that sensitive information. This helps bolster the third party ecosystem by reducing the trust level required of a client.</li>
+<li>If I change my password, it has no impact on services that use my account with OAuth. Instead, I manage their access through a separate, and very straighforward interface.</li>
+</ol>
+<p>Gruber points out that with Twitter&rsquo;s old xAuth authentication system, the third party service only holds the password for a moment, while establishing the connection, They then forget the password. This solves problem #3, but it does absolutely nothing to fix the first two problems unless you trust the third party to do the right thing out of the goodness of their hearts.</p>
+<p>He also gripes about the fact that Twitter&rsquo;s own native client won&rsquo;t use OAuth, as though this proves that the OAuth requirement is bunk. But, of course, <em>Twitter already has your password</em>. If you don&rsquo;t trust Twitter with your username and password, then you don&rsquo;t trust Twitter, period. It is 100% reasonable for Twitter&rsquo;s own clients to use a less cumbersome authentication scheme.</p>
+<p>The most important thing to understand, though, is that the purpose of OAuth is not to make savvy hacker nerds safer. I am perfectly capable of protecting my Twitter credentials, using multiple passwords, sniffing out spammy sites, and so on. But Twitter has hundreds of millions of users, many of whom are not (and should not have to be) technology-savvy. If Twitter offers an alternate authentication mechanism to OAuth, then unscrupulous phishers and spammers will use it, and Twitter users will continue to be taken in. The only way to fix that problem is to remove the ability for third party applications to access Twitter accounts in an unsafe way.</p>
+<p>I completely agree that the OAuth flow is cumbersome compared to the alternative. But that just means we should be working to make OAuth better (or find a better alternative). Of course everybody gets that OAuth isn&rsquo;t ideal for native clients. (Although I think Gruber over-states the case. It is, in practice, fairly smooth and easy to get a client connected to Twitter using OAuth if the client is implemented well.)</p>
+<p>The OAuth people know, better than anyone, that this is a problem. From <a href="http://hueniverse.com/2010/05/introducing-oauth-2-0/">the proposed OAuth 2.0 introduction page</a>:</p>
+<blockquote>
+<p>In practice, the flow works fine for web-based applications but provides an inferior experience elsewhere.</p>
+</blockquote>
+<p>Let&rsquo;s keep our eyes on the ball.</p>
+
+
+</article>
+
+
+</main>
+
+<footer>
+    <nav>
+        
+        
+        
+        
+        
+			<h2>Writing</h2>
+			<menu>
+			
+				
+				<li><a href="/weblog/">Weblog</a></li>
+				
+			
+			</menu>
+		
+			<h2>Projects</h2>
+			<menu>
+			
+				
+				<li><a href="/maclanebot/">maclanebot</a></li>
+				
+			
+				
+				<li><a href="/wordplay/">Wordplay</a></li>
+				
+			
+			</menu>
+		
+			<h2>About</h2>
+			<menu>
+			
+				
+				<li><a href="/me/">Contact</a></li>
+				
+			
+				
+				<li><a href="/colophon/">Colophon</a></li>
+				
+			
+				
+				<li><a href="/license/">license</a></li>
+				
+			
+			</menu>
+		
+    </nav>
+</footer>
+
+</body>
+</html>
