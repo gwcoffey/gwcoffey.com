@@ -1,7 +1,6 @@
 ---
 title: For Hire Archive
 date: 2023-02-12
-client: FileMaker Inc.
 ---
 
 # For Hire Archive 

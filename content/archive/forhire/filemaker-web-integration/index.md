@@ -2,6 +2,7 @@
 title: FileMaker Web Integration
 date: 2007-02-27
 archive: forhire
+client: FileMaker Inc
 ---
 
 The fastest growing platform for data-rich interactive applications is not Microsoft Window, Mac OS X, or Linux. Instead, more and more businesses turn to the Web to deploy software systems. Theses so-called “Web Applications” are not limited to high-traffic public Internet services (like Google, MapQuest, or the Internet Movie Database). A web-based system can be made available only to key partners, clients, off-site employees, or even just in-office users.

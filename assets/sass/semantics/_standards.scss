@@ -31,6 +31,10 @@ main {
 				font-size: smaller;
 				color: #888;
 			}
+			
+			& > ul, > ol {
+				margin-top: 0;
+			}
 		}
     }
     
