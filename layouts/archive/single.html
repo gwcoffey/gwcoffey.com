@@ -22,6 +22,10 @@
 	<p>
 		This post is archived from the now-defunct MacAddict magazine. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. Image quality is poor because they are scans of printed pages. You can <a href="/archive/macaddict/">view the full archive here</a>.
 	</p>
+	{{ else if eq (.Param "archive") "forhire" }}
+	<p>
+		This post is an archive of documentation or a whitepaper I wrote for hire. Some posts have been edited slightly to fit the format of this site, and to remove unnecessarily-gendered language. You can <a href="/archive/forhire/">view the full archive here</a>.
+	</p>
 	{{ end }}
 </section>
 
