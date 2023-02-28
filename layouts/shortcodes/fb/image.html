@@ -1,0 +1,7 @@
+<figure>
+	<img src="{{ .Get "src" }}">
+	{{- with .Inner -}}
+	<figcaption><p>{{ . | markdownify }}</p></figcaption>
+	{{- end -}}
+</figure>
+  

@@ -7,7 +7,7 @@ archive: sfr
 For years, FileMaker developers have been devising various *filter* techniques. The idea is that you type all or part of a name, part number, description, etc… and a list of results filters down to show relevant matches. As handy as these techniques are, they always stop just short of perfect because, before FileMaker 10, you had to *exit the field* before the filter would take effect. Using FileMaker 10’s powerful Script Triggers, you can make the impact of your filtering more immediate.
 
 {{< aside >}}
-We’ve never done this before, but the idea, scripts, and sample file for this technique come directly from FileMaker luminary and Six Fried Rice reader David Graham of [Bit Tailor][bit]. We’re publishing it here (with David’s permission) because it is an excellent example of Script Triggers solving an age-old problem in an elegant way. {{< ed "David's site seems to no longer exist so I've updated the link to point to Web Archive." >}}
+We’ve never done this before, but the idea, scripts, and sample file for this technique come directly from FileMaker luminary and Six Fried Rice reader David Graham of [Bit Tailor][bit]. We’re publishing it here (with David’s permission) because it is an excellent example of Script Triggers solving an age-old problem in an elegant way. {{< ed inline="David's site seems to no longer exist so I've updated the link to point to Web Archive." >}}
 
 [bit]: https://web.archive.org/web/20090502215236/http://www.bittailor.com/
 {{< /aside >}}

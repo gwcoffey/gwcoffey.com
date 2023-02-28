@@ -105,7 +105,7 @@ And of course what applies to dates and times also applies to timestamps. Why no
 {10…12}/15/* 5pm
 ```
 
-Timestamp values are a little persnickety, though. If you use a day name (`Monday` or `Mon`, for instance) FileMaker has a habit of shoving the current date in the mix, which throws things off. To compensate, add `*/*/*` after your day name, to insist on *any* date that falls on that day. For instance, why not dig up all the Friday afternoon early punch-outs {{< ed "Jeez this article is a cop. I regret this decision." >}}:
+Timestamp values are a little persnickety, though. If you use a day name (`Monday` or `Mon`, for instance) FileMaker has a habit of shoving the current date in the mix, which throws things off. To compensate, add `*/*/*` after your day name, to insist on *any* date that falls on that day. For instance, why not dig up all the Friday afternoon early punch-outs {{< ed inline="Jeez this article is a cop. I regret this decision." >}}:
 
 ```
 Fri */*/* {3…4}:* pm

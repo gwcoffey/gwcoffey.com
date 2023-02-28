@@ -9,7 +9,7 @@ How many times have you wanted to produce a report that showed *two different* l
 Luckily, you can do all this (and more) with the new Append to PDF feature in FileMaker 9. Once you see it in action, you’ll agree it is very useful.
 
 {{< note >}}
-An expanded version of this tip will appear in the next issue of *Advisor Basics of FileMaker Pro*, a great magazine for folks learning FileMaker. The Advisor Basics version goes in to more detail, and covers page numbering and security considerations. You can subscribe [here](http://advisorstore.com/as-ztfmfu.html). {{< ed "FileMaker Advisor has ceased publishing since this was posted so this link is no longer valid." >}}
+An expanded version of this tip will appear in the next issue of *Advisor Basics of FileMaker Pro*, a great magazine for folks learning FileMaker. The Advisor Basics version goes in to more detail, and covers page numbering and security considerations. You can subscribe [here](http://advisorstore.com/as-ztfmfu.html). {{< ed inline="FileMaker Advisor has ceased publishing since this was posted so this link is no longer valid." >}}
 {{< /note >}}
 
 Here’s the deal: You operate a web retailer. As business grows, it becomes more and more important to get the right data in the hands of your employees, so they can make good decisions. You decide you want everybody to have a special report in their in box every monday morning. This report should show the week’s totals on the first page, then summary information about how many new customers ordered from you, broken down by region, a list of aggregate sales information for top selling products, and a list of every order that was returned.

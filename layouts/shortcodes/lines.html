@@ -1,0 +1,6 @@
+{{- $clean := replaceRE "^\n|\n$" "" .Inner -}}
+{{- $clean := htmlEscape $clean -}}
+{{- $clean := replace $clean "\n" "<br>" -}}
+<p>
+{{ $clean | safeHTML }}
+</p>

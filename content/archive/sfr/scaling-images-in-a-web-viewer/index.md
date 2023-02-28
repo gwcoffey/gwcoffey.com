@@ -11,7 +11,7 @@ archive: sfr
 [center2]: http://d-graff.de/fricca/center.html
 [center3]: http://www.student.oulu.fi/~laurirai/www/css/middle/
 
-A recent post on the [TechNet][technet] mailing list posed an interesting question {{< ed "TechNet is now Claris Community. The link has been updated accordingly." >}}:
+A recent post on the [TechNet][technet] mailing list posed an interesting question {{< ed inline="TechNet is now Claris Community. The link has been updated accordingly." >}}:
 
 {{< quote >}}
 When displaying an image in a web viewer, is there any way to scale the image to fit?
@@ -157,4 +157,4 @@ This sample was thrown together quickly, so it has room for improvement. To wit:
 
 * The web viewer has to be square. It would be better if it inspected the page size and adjusted its decision making accordingly, so it could scale an image in any size web viewer.
 
-* The image is centered left-to-right, but not top-to-bottom. Centering vertically in CSS is a bit of a nuisance, but there are several ways to do it, like [this][center1], [this][center2], and [this][center3]. I think for the sake of simplicity, I would look at two approaches: Calculate the appropriate margin in Javascript, and set it; or just put the whole thing in a single-cell table. {{< ed "Or wait five of sixe years for CSS to catch up with reality. [Vertical centering is now easy](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) in CSS." >}}
+* The image is centered left-to-right, but not top-to-bottom. Centering vertically in CSS is a bit of a nuisance, but there are several ways to do it, like [this][center1], [this][center2], and [this][center3]. I think for the sake of simplicity, I would look at two approaches: Calculate the appropriate margin in Javascript, and set it; or just put the whole thing in a single-cell table. {{< ed inline="Or wait five of sixe years for CSS to catch up with reality. [Vertical centering is now easy](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) in CSS." >}}

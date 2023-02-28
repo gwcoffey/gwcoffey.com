@@ -426,11 +426,11 @@ main aside.qna p:first-child {
   font-weight: bold;
 }
 
-main span.editors-note {
+main span.editors-note, main p.editors-note {
   font-style: italic;
 }
 
-main span.editors-note em {
+main span.editors-note em, main p.editors-note em {
   font-style: normal;
 }
 
@@ -452,6 +452,8 @@ main figure:has(> figcaption > h4) {
 main figure img, main figure video {
   display: block;
   margin: 0 auto;
+  max-width: 100%;
+  max-height: 700px;
 }
 
 main figure img:not(+ figcaption), main figure video:not(+ figcaption) {

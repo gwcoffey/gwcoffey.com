@@ -114,7 +114,7 @@ main {
   /* asides with a title are sidebars */
 }
 
-main h1, main h2, main h3 {
+main h1, main h2, main h3, main h4 {
   font-weight: bold;
   margin-top: 1.5em;
   margin-bottom: 1em;
@@ -145,6 +145,10 @@ main ol li, main ul li {
 main ol li::marker, main ul li::marker {
   font-size: smaller;
   color: #888;
+}
+
+main ol li > ul, main ol li > ol, main ul li > ul, main ul li > ol {
+  margin-top: 0;
 }
 
 main ol {
@@ -459,10 +463,10 @@ main figure figcaption h4 {
   top: 0;
   left: 0;
   right: 0;
+  margin: 0.4em 0 0 0;
   text-align: center;
   font-size: medium;
   font-weight: bold;
-  padding-top: 0.4em;
 }
 
 main figure figcaption p {

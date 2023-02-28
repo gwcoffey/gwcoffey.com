@@ -26,6 +26,10 @@
 	<p>
 		This post is an archive of documentation or a whitepaper I wrote for hire. Some posts have been edited slightly to fit the format of this site, and to remove unnecessarily-gendered language. You can <a href="/archive/forhire/">view the full archive here</a>.
 	</p>
+	{{ else if eq (.Param "archive") "fb" }}
+	<p>
+		This post is an archive from my Facebook account. I deleted my Facebook account in 2017 and have archived all the direct posts to my own timeline here. You can <a href="/archive/fb/">view the full archive here</a>.
+	</p>
 	{{ end }}
 </section>
 

@@ -1,6 +1,9 @@
 <figure>
 	<video controls>
 	  <source src="{{ .Get "src" }}" type="{{ with .Get "type" }}{{ . }}{{ else }}video/mp4{{ end }}" />
+	  {{- with .Get "description" -}}
+      <track kind="descriptions" src="{{ . }}" srclang="en" />
+	  {{- end -}}
 	</video>
 	{{- with .Get "caption" -}}
 	<figcaption><p>{{ . | markdownify }}</p></figcaption>
