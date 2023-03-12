@@ -40,7 +40,7 @@ The bot is implemented in *[TypeScript][ts]*. The [source code][code] is availab
 I curated the data for MacLane Bot myself using the plain text version of *I Await the Devil's Coming* from [Project Gutenberg][guten]. I am, as always, grateful for the Project Gutenberg volunteers for the valuable work they do.
 
 {{< note >}}
-Note: The Project Gutenberg version of the book carries the title <em>The Story of Mary MacLane</em>. This is the original publication title because Mary's preferred title was considered too provocative.
+The Project Gutenberg version of the book carries the title <em>The Story of Mary MacLane</em>. This is the original publication title because Mary's preferred title was considered too provocative.
 {{< /note >}}
 
 MacLane Bot itself is executed periodically as a [Netlify scheduled function][fn]. The code for the function and the raw passage data is in the GitHub repo for this website but I'm not going to link to it here---it is so much more fun to follow the bot and get little jolts of joy throughout the day.
