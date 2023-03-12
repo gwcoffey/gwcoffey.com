@@ -7,7 +7,6 @@
 	document.body.appendChild(dialog);
 
 	dialog.addEventListener("click", () => {
-		img.src = null;
 		dialog.close();
 	});
 	
