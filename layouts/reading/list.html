@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ range $.Site.Data.readings }}
+	<h2>Read in {{ .year }}</h2>
+	<ol class="booklist">
+	{{ range .readings }}
+		{{- $book := index $.Site.Data.books .id -}}
+		<li>
+			<div class="container">
+				<figure>
+					<img src="{{ path.Join "covers" "x120" (printf "%s.jpg" .id) }}" class="cover">
+				</figure>
+				<div class="info">
+					<p class="title">
+						{{ index $book "title" }}
+						<span class="format">({{ .format }})</span>
+					</p>
+					<p class="author">
+						{{ with index $book "author" }}
+							by {{ . }}
+						{{ end }}
+						{{ with index .translator -}}
+							(tr. {{ . }})
+						{{- end -}}
+					</p>
+					{{ with index $book "review" }}
+					<p class="review">
+						{{ . | markdownify }}
+						{{ with index $book "fav" }}❤️{{ end }}
+					</p>
+					{{ end }}
+				</div>
+			</div>
+		</li>	
+	{{ end }}
+	</ul>
+{{ end }}
+
+{{ end }}

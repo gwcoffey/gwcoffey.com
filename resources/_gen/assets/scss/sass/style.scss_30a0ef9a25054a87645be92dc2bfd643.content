@@ -689,6 +689,56 @@ a.archive-site:active, a.archive-site:visited {
   color: rgba(0, 0, 0, 0.6);
 }
 
+ol.booklist {
+  padding: 0;
+  margin: 0;
+}
+
+ol.booklist img.cover {
+  width: 60px;
+}
+
+ol.booklist li {
+  margin: 12px 0;
+}
+
+ol.booklist li div.container {
+  display: flex;
+}
+
+ol.booklist li div.container figure {
+  padding: 0;
+  margin: 6px 12px 6px 0;
+  width: 60px;
+}
+
+ol.booklist li div.container .info {
+  flex: 1;
+}
+
+ol.booklist li p {
+  margin: 0;
+  line-height: 1.2;
+}
+
+ol.booklist li p.title {
+  font-weight: bold;
+}
+
+ol.booklist li p.author {
+  font-style: italic;
+}
+
+ol.booklist li p.review {
+  margin-top: 12px;
+  color: #777;
+}
+
+ol.booklist li span.format {
+  color: #777;
+  font-size: smaller;
+}
+
 article hgroup {
   margin-bottom: 2em;
 }

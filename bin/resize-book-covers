@@ -1,0 +1,4 @@
+#! /bin/sh
+
+rm -rf content/reading/covers/x120/*
+mogrify -path content/reading/covers/x120 -resize 120 content/reading/covers/original/*.jpg

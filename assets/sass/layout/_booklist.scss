@@ -1,0 +1,50 @@
+ol.booklist {	
+	padding: 0;
+	margin: 0;
+	
+	img.cover {
+		width: 60px;
+	}
+
+
+	li {
+		margin: 12px 0;
+
+		div.container {
+			display: flex;
+
+			figure {
+				padding: 0;
+				margin: 6px 12px 6px 0;
+				width: 60px;
+			}
+			
+			.info {
+				flex: 1;
+			}
+		}
+				
+		p {
+			margin: 0;
+			line-height: 1.2;
+			
+			&.title {
+				font-weight: bold;
+			}
+
+			&.author {
+				font-style: italic;
+			}
+			
+			&.review {
+				margin-top: 12px;
+				color: #777;
+			}
+		}
+		
+		span.format {
+			color: #777;
+			font-size: smaller;
+		}
+	}
+}

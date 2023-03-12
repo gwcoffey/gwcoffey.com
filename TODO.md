@@ -9,7 +9,5 @@
 
 ## Content
 
-1. Port the old isabel site
-3. ? Port the SFR posts
-4. Consider non-OT courier, or else CSS to disable ligatures (see eg fi ligatures)
-5. Add sophie's sorting hat?
+1. Consider non-OT courier, or else CSS to disable ligatures (see eg fi ligatures)
+2. Add sophie's sorting hat?
