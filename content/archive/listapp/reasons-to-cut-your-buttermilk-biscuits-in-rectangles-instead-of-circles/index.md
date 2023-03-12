@@ -27,7 +27,7 @@ It took me way too many years to figure this out.
       desc="You can't really re-roll biscuit dough but you try to every time because all that waste enrages you. Free yourself from the tyranny of the round." >}}
 
    {{< listapp/item title="It's easier to fold fried egg into a rectangle than a circle."
-      desc="Of course the primary purpose of a biscuit is an egg sandwich. It is finals week for my girls after all." >}}
+      desc="Of course the primary purpose of a biscuit is an egg sandwich. It is finals week for my kids after all." >}}
 
    {{< listapp/item title="They make you look crafty."
       desc="Can't you just see this on Pinterest or whatever?" >}}
