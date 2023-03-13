@@ -6,6 +6,8 @@ likeCount: 43
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=true >}}
 
    {{< listapp/item title="Demand respect from them." >}}

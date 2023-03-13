@@ -8,6 +8,8 @@ relistCount: 10
 
 Gathered from the Internet, mostly in response to surveys sent by Bruce McAllister as recounted here: http://www.theparisreview.org/blog/2011/12/05/document-the-symbolism-survey/
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ernest Hemingway"

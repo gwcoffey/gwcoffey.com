@@ -8,6 +8,8 @@ relistCount: 0
 
 This list is built upon irrefutable fact.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Orange" >}}

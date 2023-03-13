@@ -8,6 +8,8 @@ relistCount: 2
 
 #4 of my last minute sharing week dump. Inspired by @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1978 Mesa Arizona"

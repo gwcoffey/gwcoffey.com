@@ -8,6 +8,8 @@ relistCount: 1
 
 …for a person relocating from Phoenix who likes the city, likes to walk, hates long commutes, works in Cupertino, has one college-aged kid and one high schooler, doesn't care a ton about square footage and isn't made of money. $800 and under probably. Doing some pre-shopping today. May be moving in a year.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Naglee Park in downtown San Jose" >}}

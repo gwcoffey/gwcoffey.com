@@ -8,6 +8,8 @@ relistCount: 14
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="...Perhaps the only thing about which the people who experience it the most are least qualified to understand it." >}}

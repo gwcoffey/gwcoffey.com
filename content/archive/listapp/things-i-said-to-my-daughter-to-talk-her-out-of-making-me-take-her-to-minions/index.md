@@ -8,6 +8,8 @@ relistCount: 0
 
 I have now seen minions but I did not want to.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="We could rent something!"

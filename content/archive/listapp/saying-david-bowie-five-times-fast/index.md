@@ -8,6 +8,8 @@ relistCount: 3
 
 Documenting @sophster here.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="David Bowie" >}}

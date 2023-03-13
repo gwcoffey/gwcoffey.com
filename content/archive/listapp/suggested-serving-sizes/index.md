@@ -6,6 +6,8 @@ likeCount: 106
 relistCount: 17
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Thin Mints: One sleeve."

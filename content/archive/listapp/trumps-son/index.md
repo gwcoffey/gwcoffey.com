@@ -8,6 +8,8 @@ relistCount: 16
 
 One of these is true. All of them are equally relevant.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="How do we stop \"cyber attacks\"?"

@@ -8,6 +8,8 @@ relistCount: 8
 
 Phoenix has a wonderful culture of mostly-Mexican-inspired urban murals. They are all over the city, often tucked away so you have to wander to find them. This list is long but it isn't close to comprehensive. I didn't do any South Phoenix, North Phoenix, or West Phoenix, or any of the surrounding cities. I'm sure they all have examples.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="〰 UPTOWN 〰"

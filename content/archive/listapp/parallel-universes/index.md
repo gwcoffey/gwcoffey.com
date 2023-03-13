@@ -6,6 +6,8 @@ likeCount: 13
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The one where Kim Davis is a fundamentalist Mormon customs official who won't allow coffee into the country." >}}

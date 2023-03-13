@@ -7,6 +7,8 @@ likeCount: 17
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I am the greatest dad in the world."

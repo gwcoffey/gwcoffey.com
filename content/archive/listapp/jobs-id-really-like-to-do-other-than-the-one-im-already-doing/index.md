@@ -8,6 +8,8 @@ relistCount: 3
 
 Note: I love my job. I look forward to work every morning and I love carving out some time late at night to dive deep in my work.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Appliance Guy at the dump."

@@ -6,6 +6,8 @@ likeCount: 13
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="The Lion, The Witch and the Wardrobe" >}}

@@ -8,6 +8,8 @@ relistCount: 6
 
 I've been away from my family for a week and I'm getting surly. You probably shouldn't read this indulgent judgmental BS.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cranberries don't belong on sandwiches."

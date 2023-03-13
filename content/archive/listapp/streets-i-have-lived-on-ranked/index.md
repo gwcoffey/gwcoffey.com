@@ -8,6 +8,8 @@ relistCount: 0
 
 Uhh. Hmm. I am going to have a hard time ranking these because they are roads.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="[somewhere], Indianapolis, Indiana"

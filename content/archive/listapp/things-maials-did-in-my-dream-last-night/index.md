@@ -8,6 +8,8 @@ relistCount: 3
 
 @MaiaLS
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Counted her calories."

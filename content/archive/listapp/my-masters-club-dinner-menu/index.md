@@ -8,6 +8,8 @@ relistCount: 1
 
 Ugh I can't believe Texas barbecue brisket was already taken. That will make this much harder.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Caprese"

@@ -8,6 +8,8 @@ relistCount: 0
 
 If I could control my appearance with no limitations. Come on science make these happen.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sideshow Bob's devil-may-care hair."

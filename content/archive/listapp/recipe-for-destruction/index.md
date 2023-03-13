@@ -8,6 +8,8 @@ relistCount: 0
 
 Spitballing here. There's definitely a speculative conspiratorial undercurrent here for which I apologize.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="“Lenin wanted to destroy the state, and that’s my goal too. I want to bring everything crashing down, and destroy all of today’s establishment.”"

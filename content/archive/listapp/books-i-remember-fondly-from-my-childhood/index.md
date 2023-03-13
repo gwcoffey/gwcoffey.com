@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by my feed right now. I limited this to fiction but I read mostly non-fiction as a kid.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Giving Tree"

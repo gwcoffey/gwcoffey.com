@@ -9,6 +9,8 @@ relistCount: 7
 
 @imc's high school has a cool tradition called Senior Tribute Night where the teaches prepare a roughly 2 minute speech about each and every graduating senior. Students and parents then get to hear smart, heartfelt, funny tributes to all these awesome kids. Isabel's beloved music teacher did hers. It was so sweet. Here are some things she said.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Although limited to two minutes, \"I could very easily talk for weeks on end about this super-human.\"" >}}

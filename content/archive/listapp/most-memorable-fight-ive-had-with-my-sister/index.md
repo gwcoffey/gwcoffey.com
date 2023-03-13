@@ -8,6 +8,8 @@ relistCount: 7
 
 Inspired by @jennifergster and many more. Sorry this list is so pretentious.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I never really fought with my big sisters." >}}

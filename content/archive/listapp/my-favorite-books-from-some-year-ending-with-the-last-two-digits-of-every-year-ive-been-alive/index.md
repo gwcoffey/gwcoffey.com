@@ -9,6 +9,8 @@ relistCount: 1
 
 Inspired by @amieshmamie but I don't read contemporary books enough so let's see how far we can stretch this concept.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1775: The Sorrows of Young Werther by Goethe"

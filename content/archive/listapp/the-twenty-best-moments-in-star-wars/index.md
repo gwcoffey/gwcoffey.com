@@ -8,6 +8,8 @@ relistCount: 4
 
 SPOILERS near the end I guess. Not really but sort of.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="\"I want to learn the ways of the force and become a Jedi like my father.\""

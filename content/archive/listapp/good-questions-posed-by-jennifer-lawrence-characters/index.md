@@ -8,6 +8,8 @@ relistCount: 1
 
 Merry #draftmas. Here is draft list type #1: BRILLIANT idea but insufficient data. You asked for this @aprilkquioh and now you live with the consequences.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Why did you order Raisin Bran?"

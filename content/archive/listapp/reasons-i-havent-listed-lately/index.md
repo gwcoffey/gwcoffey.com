@@ -6,6 +6,8 @@ likeCount: 21
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sophia's in a play and has rehearsal in Scottsdale Monday-Thursday and I take her two days a week."

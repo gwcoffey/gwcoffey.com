@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Best Writing (Original Screenplay)"

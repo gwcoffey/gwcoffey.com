@@ -8,6 +8,8 @@ relistCount: 2
 
 Just kidding I kind of love our backwards little city.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Die of heat exhaustion" >}}

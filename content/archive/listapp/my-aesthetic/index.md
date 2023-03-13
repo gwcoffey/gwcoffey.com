@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @nina et al...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My wife's prom dress, 1994"

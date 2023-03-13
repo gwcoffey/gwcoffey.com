@@ -8,6 +8,8 @@ relistCount: 8
 
 I love words. And I especially love words that came to us in interesting ways. Here are some of my favorites.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Bedlam"

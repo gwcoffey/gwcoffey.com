@@ -8,6 +8,8 @@ relistCount: 3
 
 This list is so dumb.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"GIF\" stands for \"Graphic Interchange Format\". It is a de facto standard for images released by CompuServe in 1987."

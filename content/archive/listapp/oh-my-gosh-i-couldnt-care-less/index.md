@@ -6,6 +6,8 @@ likeCount: 71
 relistCount: 10
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The orientation of the toilet paper roll."

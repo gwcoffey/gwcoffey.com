@@ -8,6 +8,8 @@ relistCount: 3
 
 You should not read this list.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When I feel someone's breath on me."

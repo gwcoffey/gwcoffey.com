@@ -8,6 +8,8 @@ relistCount: 7
 
 Nine years of my daughter saying things. (This list is ridiculously long. I've been keeping these for ages.)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sophia (13) on my singing."

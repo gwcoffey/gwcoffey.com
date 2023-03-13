@@ -8,6 +8,8 @@ relistCount: 47
 
 This was one of the most eye opening things I ever learned.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The \"Fundamental Attribution Error\" is a concept in social psychology." >}}

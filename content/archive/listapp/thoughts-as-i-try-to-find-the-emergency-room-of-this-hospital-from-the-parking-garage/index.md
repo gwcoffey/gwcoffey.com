@@ -7,6 +7,8 @@ likeCount: 10
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm glad I'm not dying." >}}

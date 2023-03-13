@@ -8,6 +8,8 @@ relistCount: 0
 
 This is a partial list. Full disclosure: I am mildly allergic to formaldehyde and chlorine. Swimming pools make me feel kind of gross for a few hours.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Latex" >}}

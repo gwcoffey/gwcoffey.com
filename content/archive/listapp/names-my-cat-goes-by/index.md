@@ -8,6 +8,8 @@ relistCount: 1
 
 Our cat was named by my daughters years ago, squarely in the goofy kids phase. They named her Biscus because they loved the idea of coming home from school and saying, "Hi Biscus!" Like all pets, she goes by many names.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hibiscus"

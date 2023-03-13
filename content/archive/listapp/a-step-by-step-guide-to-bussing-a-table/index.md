@@ -8,6 +8,8 @@ relistCount: 1
 
 This is for the lovely young woman at smashburger who asked twice.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Is the customer actively eating?"

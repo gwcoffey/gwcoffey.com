@@ -8,6 +8,8 @@ relistCount: 1
 
 They've all got at least a little of it, whatever you call it. Note: Not ranked by how good they are, just ranked by how much of it they have from most to least.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Iris Dement"

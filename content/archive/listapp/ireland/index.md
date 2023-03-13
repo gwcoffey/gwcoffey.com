@@ -8,6 +8,8 @@ relistCount: 4
 
 Happy St. Patrick's Day my friends.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"You live in Los Angeles with sun and palm trees day in and day out and you ask God if there's any chance He could give you one soft rainy Limerick day.\""

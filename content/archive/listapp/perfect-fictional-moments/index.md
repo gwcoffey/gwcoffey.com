@@ -8,6 +8,8 @@ relistCount: 3
 
 Some of my favorites.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When Bill Murray whispers in Scarlett Johansen’s ear at the end of Lost in Translation"

@@ -8,6 +8,8 @@ relistCount: 7
 
 A story of absentmindedness.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Time to pick @sophster up from school." >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @DG
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ever: 0%" >}}

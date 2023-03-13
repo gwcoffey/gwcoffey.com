@@ -8,6 +8,8 @@ relistCount: 13
 
 @sophster is arguably the most obsessive person on earth. Two of her many obsessions are Pixar and Ellen. She's been planning for Finding Dory for months. I know what you're thinking: isn't she too old to dress up for a cartoon? No she is not because she has a beautiful and infectious enthusiasm for life. We could all use a little of that.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The outfit."

@@ -8,6 +8,8 @@ relistCount: 1
 
 @imc played Tituba in her school's performance of The Crucible. It was awesome and she was super great. Chilling and moving. Picture time :)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"I have no power on this child sir.\""

@@ -8,6 +8,8 @@ relistCount: 2
 
 There are lots more Shakespeare movies but these are the ones I've seen recently enough to comment on.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="The Hollow Crown from the BBC (All four plays in the first henriad)"

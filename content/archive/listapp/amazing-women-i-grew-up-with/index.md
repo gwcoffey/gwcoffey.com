@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @katiesuzanne
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My mom. Super kind, meticulous, patient, loving, supportive, funny, bookish, stern when she needs to be, a major people person, educated, retired nurse, and a total hottie."

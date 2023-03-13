@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by @wallflower, who I respect immensely but she is misguided. From Rainbow Doughnuts in north phoenix (not the same as rainbow doughnuts in east phoenix).
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="5 glazed raised."

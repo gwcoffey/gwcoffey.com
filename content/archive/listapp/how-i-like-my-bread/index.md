@@ -8,6 +8,8 @@ relistCount: 16
 
 I'm bored waiting for this parent meeting about next year's high school trip to start.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Whole."

@@ -8,6 +8,8 @@ relistCount: 1
 
 I used to be terrible at making rice for some reason. It was always under cooked or soggy or gloppy. My friend would always tell me about water levels and finger joints and I'd be like "doesn't that depend on the size of the pot?!" Anyway, if you want *fluffy* rice with separate grains then this recipe is fool-proof and also requires no measuring.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Put a lot of water in a pot with a tablespoon  or so of salt."

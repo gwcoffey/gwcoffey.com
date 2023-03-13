@@ -8,6 +8,8 @@ relistCount: 4
 
 Girl can talk.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="There are too many words coming out of the hole in your face."

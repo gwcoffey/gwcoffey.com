@@ -6,6 +6,8 @@ likeCount: 21
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Over the top proposal videos"

@@ -8,6 +8,8 @@ relistCount: 0
 
 To keep it simple, I never correct people or try to make it accurate unless it's important. I couldn't care less if the gal at the restaurant puts me down as Jeff Coffee.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Geoff"

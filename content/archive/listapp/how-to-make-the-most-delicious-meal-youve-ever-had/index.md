@@ -6,6 +6,8 @@ likeCount: 95
 relistCount: 15
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Don't eat for 24 hours." >}}

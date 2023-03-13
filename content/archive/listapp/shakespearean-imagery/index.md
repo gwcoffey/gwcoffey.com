@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Like the swansdown feather, that stands upon the swell at the full of tide, and neither way inclines.\"" >}}

@@ -8,6 +8,8 @@ relistCount: 4
 
 People I think are both totally good at their thing and unique in that thing.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Paul Reubens / Pee Wee Herman"

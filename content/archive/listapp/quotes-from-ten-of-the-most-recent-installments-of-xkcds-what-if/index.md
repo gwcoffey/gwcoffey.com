@@ -8,6 +8,8 @@ relistCount: 1
 
 I love this web site. Enjoy!
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="\"Per pound, fireflies are brighter than the sun.\""

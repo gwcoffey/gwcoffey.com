@@ -6,6 +6,8 @@ likeCount: 15
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Salt Lake City"

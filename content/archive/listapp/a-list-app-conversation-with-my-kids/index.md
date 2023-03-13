@@ -6,6 +6,8 @@ likeCount: 38
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me: I've had like three or four lists trend this week. Not sure what happened." >}}

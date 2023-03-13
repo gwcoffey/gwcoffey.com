@@ -8,6 +8,8 @@ relistCount: 10
 
 We've known about Pluto since 1930 but it's so small and far away that we don't know much. Space probes have studied every planet in the solar system but we've never had a probe to Pluto. The New Horizons mission has its closest Pluto encounter on July 14. It will dramatically expand our understanding. Here's how our view of Pluto has evolved.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1930: The photograph from which Clyde Tombaugh discovered Pluto"

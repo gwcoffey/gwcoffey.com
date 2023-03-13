@@ -8,6 +8,8 @@ relistCount: 0
 
 "Ce corps qui s'appelait et qui s'appelle encore le saint empire romain n'était en aucune manière ni saint, ni romain, ni empire." https://en.m.wikipedia.org/wiki/Holy_Roman_Empire
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Holy" >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @brimattia
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="I'm perfect." >}}

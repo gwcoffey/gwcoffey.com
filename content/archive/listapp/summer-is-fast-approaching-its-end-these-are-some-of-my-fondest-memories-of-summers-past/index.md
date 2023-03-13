@@ -9,6 +9,8 @@ relistCount: 5
 
 Inspired by @NumbahTwo
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I live in Phoenix." >}}

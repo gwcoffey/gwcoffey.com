@@ -8,6 +8,8 @@ relistCount: 1
 
 SPOILERS for Terminator, Harry Potter and the Prisoner of Azkaban, and Harry Potter and the Cursed Child ahead.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="What is it about sequels of time travel stores that they don't seem to understand the mechanics of their own predecessor?" >}}

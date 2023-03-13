@@ -8,6 +8,8 @@ relistCount: 9
 
 Chef John of Food Wishes is bar none my favorite YouTube star. His recipes are amazing and his banter is 💯. http://youtube.com/foodwishes
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"You see how that sauerkraut looks dry? That's because it's not wet.\"" >}}

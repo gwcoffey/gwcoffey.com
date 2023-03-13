@@ -8,6 +8,8 @@ relistCount: 9
 
 This is inspired by the very existence of @evan.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="🤔 The cynical philosophy of Ecclesiastes — I love this whole book from beginning to end, for all is vanity."

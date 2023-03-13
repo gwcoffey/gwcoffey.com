@@ -6,6 +6,8 @@ likeCount: 52
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The time in second grade when I just really wanted to kiss her and my teacher taught me about boundaries." >}}

@@ -8,6 +8,8 @@ relistCount: 10
 
 My kids' elementary school had a form you had to sign when you were late. It asked why you were late. This is none of their business of course (not that I fault them for asking). These are the reasons I gave over the years. I hope they're in a database somewhere.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Misplaced glass eye." >}}

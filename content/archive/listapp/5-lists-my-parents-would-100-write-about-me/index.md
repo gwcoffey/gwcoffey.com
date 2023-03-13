@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @EmmaA
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Dad: How do I do it I make a list? About Geoff? Is there a purpose? This is a waste of time. Brenda, come do this. I can't stand this social media or whatever they call it. It is the disgrace of your generation. I know I'm retired but believe me we are quite busy. We don't just sit around. I have a long list of ... Wait! Here's a list about me." >}}

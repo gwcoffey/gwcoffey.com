@@ -8,6 +8,8 @@ relistCount: 0
 
 From the Book of the Dead, the Ancient Egyptian funerary text.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I harmed no one." >}}

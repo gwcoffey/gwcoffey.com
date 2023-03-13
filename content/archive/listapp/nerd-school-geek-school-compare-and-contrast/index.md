@@ -6,6 +6,8 @@ likeCount: 37
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="🤓 @imc goes to Veritas Preparatory Academy, a very nerdy school." >}}

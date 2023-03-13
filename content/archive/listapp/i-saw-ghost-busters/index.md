@@ -6,6 +6,8 @@ likeCount: 52
 relistCount: 6
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Fair disclosure: I'm not really a fan of the original. I genuinely don't get why it is so popular. I was really young when I first saw it though so maybe that tainted me."

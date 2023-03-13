@@ -8,6 +8,8 @@ relistCount: 4
 
 @imc graduates high school this week. She has had a long run of truly great teachers. I'm sure I'm leaving off a few that belong here.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Kindergarten: Miss Mason."

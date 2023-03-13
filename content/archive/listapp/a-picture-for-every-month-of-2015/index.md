@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts. I don't take a lot of pictures.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="January: Reached my goal weight."

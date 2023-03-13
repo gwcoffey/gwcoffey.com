@@ -6,6 +6,8 @@ likeCount: 11
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Your own research" >}}

@@ -8,6 +8,8 @@ relistCount: 0
 
 Some say it's crazy, some say it's charmed. YOU BE THE JUDGE. (This list could also be called "People I've kissed")
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Coleen — Part of junior year in high school"

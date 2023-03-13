@@ -6,6 +6,8 @@ likeCount: 67
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Before you own a car with a backup camera."

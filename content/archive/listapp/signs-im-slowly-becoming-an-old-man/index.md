@@ -6,6 +6,8 @@ likeCount: 20
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My barber has always trimmed my eyebrows and nostrils. This last time she did something with the trimmers in my ears." >}}

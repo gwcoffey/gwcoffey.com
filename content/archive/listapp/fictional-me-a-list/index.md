@@ -8,6 +8,8 @@ relistCount: 4
 
 Thanks for the rec! This was fun.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Werther / The Sorrows of Young Werther"

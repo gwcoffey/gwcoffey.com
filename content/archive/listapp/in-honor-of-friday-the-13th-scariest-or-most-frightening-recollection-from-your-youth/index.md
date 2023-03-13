@@ -9,6 +9,8 @@ relistCount: 4
 
 I wrote this without realizing you said "youth" so I'm embarrassed to admit this was very much when I was an adult.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Prerequisite: I am a giant baby. I hate scary movies. Always have. And my definition of scary is broad. I HATED the queen of hearts in the Disney Alice in Wonderland when I was little, for instance. She scared me to death and she was so so so mean."

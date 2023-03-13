@@ -6,6 +6,8 @@ likeCount: 28
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm cool with this." >}}

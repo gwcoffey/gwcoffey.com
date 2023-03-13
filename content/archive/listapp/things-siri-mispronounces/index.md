@@ -8,6 +8,8 @@ relistCount: 0
 
 This draft is so old it predates the open list feature. From way back in the beta days when we put our own plus sign in the title to say we were soliciting suggestions. Never published because it is stupid. #draftmas
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Mamie (my wife's name)"

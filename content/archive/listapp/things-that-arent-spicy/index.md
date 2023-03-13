@@ -6,6 +6,8 @@ likeCount: 8
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Everything labeled \"spicy\" in the Bay Area."

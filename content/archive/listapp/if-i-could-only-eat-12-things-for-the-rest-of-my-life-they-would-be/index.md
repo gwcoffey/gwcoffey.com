@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @scherzy. I put some thought into this. Twelve isn't enough but this is my best effort.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Water." >}}

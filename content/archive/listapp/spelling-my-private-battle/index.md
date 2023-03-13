@@ -8,6 +8,8 @@ relistCount: 0
 
 I was a lousy speller as a kid. And it spilled over to an inability to sort out strangely spelled words. This is the story of my suffering.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Girl"

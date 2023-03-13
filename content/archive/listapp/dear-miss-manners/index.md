@@ -6,6 +6,8 @@ likeCount: 18
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Is it wrong to put a little smear of soft butter on this cookie before I eat it?" >}}

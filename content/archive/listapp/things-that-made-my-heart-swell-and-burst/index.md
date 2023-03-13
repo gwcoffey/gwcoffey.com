@@ -6,6 +6,8 @@ likeCount: 8
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When Maia said goodbye"

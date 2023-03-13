@@ -6,6 +6,8 @@ likeCount: 70
 relistCount: 15
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Calling your teacher to find out about sensory deprivation tanks instead of just googling it." >}}

@@ -8,6 +8,8 @@ relistCount: 0
 
 I told you all how I get in a little groove sometimes right?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Alexander Hamilton by Ron Chernow"

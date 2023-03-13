@@ -8,6 +8,8 @@ relistCount: 0
 
 "I wanted Mary Ann on Gilligan's Island ugly, not Cornelius on Planet of the Apes ugly. TV-ugly, not ugly-ugly."
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ugly" >}}

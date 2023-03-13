@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When you think that you’ve lost everything you find out you can always lose a little more."

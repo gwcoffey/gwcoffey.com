@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @kcupcaker. It's not lost on me the fact that none of these women would be particularly interested in an introverted homebody like me :)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Elizabeth Bennett"

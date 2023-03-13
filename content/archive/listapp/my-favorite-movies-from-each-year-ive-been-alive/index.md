@@ -8,6 +8,8 @@ relistCount: 17
 
 Inspired by @nessa_please. This will be a long list because I am older than all you youths of today. But I am one of you! See: Bae. Fleek. Who let the dogs out.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1975: One Flew Over the Cuckoo's Nest"

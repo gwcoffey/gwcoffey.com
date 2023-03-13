@@ -6,6 +6,8 @@ likeCount: 23
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The words of Seneca's Phaedra which mean something like:"

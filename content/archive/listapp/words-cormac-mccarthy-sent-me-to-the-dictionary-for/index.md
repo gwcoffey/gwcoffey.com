@@ -8,6 +8,8 @@ relistCount: 4
 
 Some people say Cormac McCarthy is a pretensions poseur. I'm not sure this list will help but I love that he writes unapologetically in language relevant to the time, place, and circumstance of the story. Harold Bloom calls Blood Meridian one of the great American novels, equal to Moby Dick. It is well worth the time. Just bring a dictionary.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Adduce"

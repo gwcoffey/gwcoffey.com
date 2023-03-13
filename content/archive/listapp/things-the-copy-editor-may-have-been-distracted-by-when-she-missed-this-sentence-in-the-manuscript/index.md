@@ -9,6 +9,8 @@ relistCount: 6
 
 This train wreck: "Although it's not required most of the time, but if in case we need to set some global options for the JVM that Gradle will use, Gradle provides us a convenient way to do that." 🚇
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sexy daydream about an Oxford comma." >}}

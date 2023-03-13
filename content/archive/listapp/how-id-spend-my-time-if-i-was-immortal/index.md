@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts. Immortality sucks.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When you say \"immortal\" do you mean I'm entirely exempt from death?" >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 Henry V, Act I, Scene ii, starting at line 281. I was reminded of this today. I love it so much. Emphasis mine.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="And tell the pleasant prince this MOCK of his" >}}

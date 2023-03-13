@@ -9,6 +9,8 @@ relistCount: 2
 
 Inconsistent smugness is one of my pet peeves.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Corn" >}}

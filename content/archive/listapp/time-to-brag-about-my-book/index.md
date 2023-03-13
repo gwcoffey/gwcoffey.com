@@ -8,6 +8,8 @@ relistCount: 13
 
 @Lisa_Fav requested this just so we're clear.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I wrote a book about FileMaker Pro. Some day I'll list about that process which was somewhat harrowing." >}}

@@ -8,6 +8,8 @@ relistCount: 5
 
 I need a vacation from all my struggles. 😓
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Starting my car"

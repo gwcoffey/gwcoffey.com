@@ -8,6 +8,8 @@ relistCount: 6
 
 He's finally listening to his advisors and softening his tone.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I didn't actually see secret footage of Obama paying a ransom. It was actually a Samuel L Jackson film. But you know how all black people look the same?" >}}

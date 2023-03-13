@@ -6,6 +6,8 @@ likeCount: 65
 relistCount: 19
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Let everyone down equally." >}}

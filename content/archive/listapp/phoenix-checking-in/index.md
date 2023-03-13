@@ -8,6 +8,8 @@ relistCount: 0
 
 Apparently about 20,000.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

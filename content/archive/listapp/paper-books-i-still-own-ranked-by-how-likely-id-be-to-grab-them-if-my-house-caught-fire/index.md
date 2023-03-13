@@ -9,6 +9,8 @@ relistCount: 4
 
 I got my first kindle maybe 5 or 6 years ago and began buying mostly eBooks. Then I started replacing my paper books with eBooks and slowly got rid of them all. Here are the ones I kept.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="The Where the Sidewalk Ends my wife (@mamiecoffey) gave me when our first child (@imc) was born. Complete with beautiful inscription."

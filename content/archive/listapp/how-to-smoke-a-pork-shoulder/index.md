@@ -8,6 +8,8 @@ relistCount: 1
 
 Pork Shoulder (sometimes called Pork Butt) is a great first-time "big" thing to smoke because it is delicious, special, and very forgiving. If you have a smoker or have access to one, this is easy, fun, delicious, and people will think you're amazing 💅🏽
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Get some meat"

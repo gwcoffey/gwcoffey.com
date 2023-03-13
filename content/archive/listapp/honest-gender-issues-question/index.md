@@ -6,6 +6,8 @@ likeCount: 26
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Does it make sense to have separate awards categories for male and female actors?" >}}

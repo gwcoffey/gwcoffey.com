@@ -7,6 +7,8 @@ likeCount: 34
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Decided to stay for homework help, forgot to text me."

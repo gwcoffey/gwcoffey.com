@@ -6,6 +6,8 @@ likeCount: 9
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="What's up with list title input when it puts things you did not type all around your insertion point?" >}}

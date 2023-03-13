@@ -6,6 +6,8 @@ likeCount: 27
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Write a list one handed while my left hand is comfortably perched behind my head."

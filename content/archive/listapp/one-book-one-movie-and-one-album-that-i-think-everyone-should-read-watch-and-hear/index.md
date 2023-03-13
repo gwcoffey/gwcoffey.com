@@ -9,6 +9,8 @@ relistCount: 3
 
 This list is impossible but here goes.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Book: Sophie's World by Jostein Gaarder"

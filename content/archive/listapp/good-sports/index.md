@@ -6,6 +6,8 @@ likeCount: 11
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The drive through cashier at Hardee's in West Lafayette Indiana ca 1993"

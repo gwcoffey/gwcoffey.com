@@ -6,6 +6,8 @@ likeCount: 45
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I shower every day."

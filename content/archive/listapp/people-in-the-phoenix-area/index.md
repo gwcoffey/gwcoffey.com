@@ -8,6 +8,8 @@ relistCount: 1
 
 Anybody else who doesn't mind sharing?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@gwcoffey" >}}

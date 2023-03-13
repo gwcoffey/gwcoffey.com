@@ -8,9 +8,11 @@ relistCount: 1
 
 (These captions brought to you by a dad...)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
-   {{< listapp/item title="Look at my* girls!"
+   {{< listapp/item title="Look at my* kids!"
       desc="* The middle one is Maia who technically isn't mine but I claim her anyway."
       image="1.jpg" >}}
 

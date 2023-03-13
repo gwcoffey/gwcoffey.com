@@ -6,6 +6,8 @@ likeCount: 15
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My Dad's Shelves — Birth through high school"

@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by @shanaz. I tried to do the boy version but I think I just ended up with the introverted jerk version instead. Anybody want to be my friend?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Can you tease and insult them relentlessly and feel a little left out if they don't tease you back? Have they called you lazy fat and stupid? Do they sometimes shake their head and say you are such a loser?"

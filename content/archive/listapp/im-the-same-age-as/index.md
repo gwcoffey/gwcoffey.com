@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @shanaz
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Wilford Brimley"

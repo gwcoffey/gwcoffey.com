@@ -8,6 +8,8 @@ relistCount: 3
 
 I got a little flack for leaving my oldest daughter, @imc, out of my daily life list. The truth is she's in there. But not like in there, you know? I'm doing this in a public list so @ChrisK doesn't think I'm a terrible father and because hey, I love to gush publicly about my amazing kids. 😊
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"The sun's going down and the moon is just holding its breath.\""

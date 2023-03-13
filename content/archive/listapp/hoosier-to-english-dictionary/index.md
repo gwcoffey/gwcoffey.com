@@ -8,6 +8,8 @@ relistCount: 0
 
 I grew up in Indiana and I am here to help you understand the dialect of these mysterious people.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Swole : Swollen"

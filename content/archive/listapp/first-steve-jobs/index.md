@@ -8,6 +8,8 @@ relistCount: 4
 
 This is what I see at a glance with every "First Seven Jobs" list.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="First-ish highly successful personal computer."

@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My father's initials are GMC and my mother's are BMW." >}}

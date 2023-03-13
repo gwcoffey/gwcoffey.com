@@ -8,6 +8,8 @@ relistCount: 5
 
 I wrote this last night on Facebook (where I go to be close to the people I know personally). I'm still processing but I thought it probably had a place here too.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="America learned a lesson tonight. I think it is fair to say that Trump found a market for his populist appeal despite his hatefulness, and we who were so deeply opposed to his presidency should not ignore that. Many Trump supporters don’t trust their leaders to attend to their needs. That is real and important." >}}

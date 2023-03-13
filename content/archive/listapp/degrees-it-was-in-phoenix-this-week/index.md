@@ -8,6 +8,8 @@ relistCount: 0
 
 It's always hot in the summer in Phoenix but 117 is a special kind of hot.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Monday: 105° F" >}}

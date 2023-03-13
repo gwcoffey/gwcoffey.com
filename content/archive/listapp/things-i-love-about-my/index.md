@@ -8,6 +8,8 @@ relistCount: 2
 
 Central Barber Shop / 5026 N Central Ave, Phoenix
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="It is a block from my house."

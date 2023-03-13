@@ -8,6 +8,8 @@ relistCount: 2
 
 I've paid my dues.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1991: I bought a VHS copy in high school so I didn't have to rent it anymore." >}}

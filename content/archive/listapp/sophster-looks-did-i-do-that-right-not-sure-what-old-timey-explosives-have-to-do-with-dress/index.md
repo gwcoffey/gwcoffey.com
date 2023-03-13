@@ -9,6 +9,8 @@ relistCount: 2
 
 @sophster
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

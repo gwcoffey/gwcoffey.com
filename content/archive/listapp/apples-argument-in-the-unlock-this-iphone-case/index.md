@@ -8,6 +8,8 @@ relistCount: 4
 
 Apple filed their motion to vacate the court order that they "unlock" an iPhone yesterday. In other words they've made their formal argument for why they believe the order is invalid. https://www.documentcloud.org/documents/2722199-5-15-MJ-00451-SP-USA-v-Black-Lexus-IS300.html It is quite readable but here're the basics of Apple's 3-part argument.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1️⃣ The All Writs Act does not give the government the authority to make this order because:" >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm not sure it's fair to call it a horror story. At the time of course I thought lots of judgmental thoughts about my first college roommate. But looking back I think he probably struggled in ways I didn't understand." >}}

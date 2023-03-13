@@ -6,6 +6,8 @@ likeCount: 23
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"If we enroll in the [interest free] monthly payment plan can we pay it off early?\""

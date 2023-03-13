@@ -6,6 +6,8 @@ likeCount: 35
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="One of my favorite passages in Cormac McCarthy's All The Pretty Horses comes about three quarters of the way through..." >}}

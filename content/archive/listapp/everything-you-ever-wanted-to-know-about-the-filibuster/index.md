@@ -8,6 +8,8 @@ relistCount: 0
 
 You will read a lot over the next few weeks about how the filibuster is an essential part of our checks and balances installed by the founders to protect us from the mob. That Republicans have unilaterally undermined that protection. This is baloney. (My primary source is: http://www.law.harvard.edu/students/orgs/jlpp/Gold_Gupta_JLPP_article.pdf )
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The filibuster allows a minority party in the senate to undermine progress through “dilatory” debate: debate only for the purpose of delay, rather than persuasion." >}}

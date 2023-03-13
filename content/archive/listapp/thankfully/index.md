@@ -8,6 +8,8 @@ relistCount: 18
 
 "There, but by the grace of God, go I."
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Once when @imc was a few weeks old I forgot her in the car when I went in to FedEx to pick up a package."

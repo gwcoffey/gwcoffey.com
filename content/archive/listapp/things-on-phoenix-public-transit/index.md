@@ -8,6 +8,8 @@ relistCount: 0
 
 I used to ride the light rail to my office every day and sometimes came home late at night. For the most part fellow riders were normal, friendly folks. But there were a few weirdos.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Fume Guy"

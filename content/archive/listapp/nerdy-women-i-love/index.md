@@ -8,6 +8,8 @@ relistCount: 3
 
 International Women's Day you say? I too think women are neat.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ada Lovelace"

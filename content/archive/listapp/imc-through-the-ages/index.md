@@ -8,6 +8,8 @@ relistCount: 10
 
 @imc finished her senior thesis this week, which was the last big milestone before high school graduation. Indulge me while I reminisce about the milestones that came before.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A few days before she was born 18 years ago I sat awake late into the night trying to process the fact that a human would be moving in with us soon. It was impossible."

@@ -8,6 +8,8 @@ relistCount: 8
 
 Don't bother opening. Just swipe right here in your feed on your way to the next great list.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="🌤"

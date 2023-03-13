@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I have small hands."

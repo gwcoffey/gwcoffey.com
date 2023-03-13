@@ -6,6 +6,8 @@ likeCount: 67
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I've always thought the most famous line from the Declaration of Independence is hilariously snarky." >}}

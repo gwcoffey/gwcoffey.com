@@ -8,6 +8,8 @@ relistCount: 1
 
 This list ... is dumb.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Burning embers" >}}

@@ -8,6 +8,8 @@ relistCount: 10
 
 Inspired by @amieshmamie
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Do you hate your birthday because of all the attention?"

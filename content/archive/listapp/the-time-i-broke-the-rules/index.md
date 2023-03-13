@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @ListPrompts. This list.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=true >}}
 
    {{< listapp/item title="Scout" >}}

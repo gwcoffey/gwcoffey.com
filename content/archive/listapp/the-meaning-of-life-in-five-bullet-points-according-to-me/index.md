@@ -8,6 +8,8 @@ relistCount: 7
 
 Inspired by @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I want to be happy."

@@ -8,6 +8,8 @@ relistCount: 11
 
 Excerpted from "Dreamfields" by Runrig. https://youtu.be/me8Mie8AAZA
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="You can talk the tongue of Angels" >}}

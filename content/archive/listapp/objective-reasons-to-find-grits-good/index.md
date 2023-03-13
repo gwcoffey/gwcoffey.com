@@ -8,6 +8,8 @@ relistCount: 2
 
 Grits, like all grain-based hot cereals, are objectively good.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="They are warm and comforting."

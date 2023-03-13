@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @ListPrompts. I've listed a lot about books and authors so here I'm going to cast a wide net and pick some favorites across the spectrum.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Giving Tree by Shel Silverstein"

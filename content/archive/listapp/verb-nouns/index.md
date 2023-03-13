@@ -8,6 +8,8 @@ relistCount: 6
 
 I ran out of steam on this. Someone take over...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Answer answers" >}}

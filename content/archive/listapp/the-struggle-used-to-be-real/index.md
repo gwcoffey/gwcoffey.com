@@ -6,6 +6,8 @@ likeCount: 70
 relistCount: 20
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When your sister picked up the phone in the middle of a big download and you had to start over."

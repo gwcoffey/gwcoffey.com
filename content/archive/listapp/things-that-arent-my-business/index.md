@@ -6,6 +6,8 @@ likeCount: 67
 relistCount: 9
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Taylor Swift's love life." >}}

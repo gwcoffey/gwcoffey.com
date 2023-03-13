@@ -6,6 +6,8 @@ likeCount: 52
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="For years I carried a normal wallet like this."

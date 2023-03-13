@@ -8,6 +8,8 @@ relistCount: 5
 
 I feel sorry for the majority of you who are probably too young to have experienced this splendor in situ between Saturday morning cartoon episodes. It was an amazing time.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The preamble of the Constitution"

@@ -9,6 +9,8 @@ relistCount: 2
 
 Couldn't possibly love two humans more.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Isabel, 17"

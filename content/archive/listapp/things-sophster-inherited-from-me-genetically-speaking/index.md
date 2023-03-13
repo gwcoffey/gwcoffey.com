@@ -6,6 +6,8 @@ likeCount: 17
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Funny" >}}

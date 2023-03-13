@@ -6,6 +6,8 @@ likeCount: 12
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="NPR Pledge Drive days" >}}

@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @ListPrompts. This was crowd sourced from my family while we are out to dinner. @mamiecoffey, @imc and @sophster.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Age" >}}

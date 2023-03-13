@@ -8,6 +8,8 @@ relistCount: 2
 
 Source: http://etymonline.com/index.php?term=congress&allowed_in_frame=0
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="From Latin \"congressus\"..." >}}

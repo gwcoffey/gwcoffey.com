@@ -8,6 +8,8 @@ relistCount: 6
 
 Inspired by @ListPrompts. Age-dependent obv.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="~~~ 10 years old and younger ~~~" >}}

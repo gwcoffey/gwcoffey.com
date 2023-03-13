@@ -8,6 +8,8 @@ relistCount: 1
 
 Dunno why. I just always get lucky.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Poison Ivy"

@@ -6,6 +6,8 @@ likeCount: 40
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My lists will never trend again." >}}

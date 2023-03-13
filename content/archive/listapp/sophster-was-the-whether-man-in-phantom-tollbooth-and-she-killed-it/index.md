@@ -8,6 +8,8 @@ relistCount: 1
 
 cc @sophster
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Look!"

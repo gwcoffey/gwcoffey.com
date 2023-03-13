@@ -8,6 +8,8 @@ relistCount: 15
 
 This finally makes sense to me.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="You know how the moon often looks bigger on the horizon than when it is high in the sky?"

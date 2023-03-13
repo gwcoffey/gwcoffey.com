@@ -9,6 +9,8 @@ relistCount: 0
 
 Professional advice from a computer professional.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Check to see if anybody has already responded informing the sender of the mistake."

@@ -8,6 +8,8 @@ relistCount: 3
 
 Conspicuously absent from this list: pictures of me.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This guy."

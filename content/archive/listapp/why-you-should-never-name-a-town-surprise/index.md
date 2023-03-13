@@ -8,6 +8,8 @@ relistCount: 20
 
 Surprise, Arizona. Causing headline skimmers to do a double-take since 1938.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="🎉"

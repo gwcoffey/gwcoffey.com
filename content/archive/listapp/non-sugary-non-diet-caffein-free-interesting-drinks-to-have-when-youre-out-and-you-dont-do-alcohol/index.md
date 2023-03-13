@@ -7,6 +7,8 @@ likeCount: 32
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="[this space intentionally left blank]" >}}

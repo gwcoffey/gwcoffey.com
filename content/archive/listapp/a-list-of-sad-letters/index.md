@@ -6,6 +6,8 @@ likeCount: 24
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="A letter to the family of a Lockerbie bombing victim from the family on whose property his body landed, four years on."

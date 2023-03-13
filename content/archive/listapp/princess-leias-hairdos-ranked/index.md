@@ -8,6 +8,8 @@ relistCount: 13
 
 Not much room for debate here people.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Hoth Leia"

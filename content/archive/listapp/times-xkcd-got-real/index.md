@@ -8,6 +8,8 @@ relistCount: 5
 
 XKCD is my favorite web comic. Actually it is the only web comic I read. It is well suited to programmers and math/science nerds but also general-interest funny from time to time. Every once in a while though it gets a little touching.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

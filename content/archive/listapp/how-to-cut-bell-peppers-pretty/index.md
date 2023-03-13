@@ -8,6 +8,8 @@ relistCount: 2
 
 So you're making a veggie tray (or what I suppose @lisa_fav would call crudités) and you want everything even and pretty. You guys have probably always known this but I managed to go like 30 years before I figured it out.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Start with a pepper with a relatively uniform shape."

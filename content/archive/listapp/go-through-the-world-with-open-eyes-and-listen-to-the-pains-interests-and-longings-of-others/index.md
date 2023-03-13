@@ -9,6 +9,8 @@ relistCount: 15
 
 Milada Horáková was a politician and dissident executed by the communist Czech government on June 27th 1950. The night before her execution she wrote a remarkable letter to her 16 year old daughter, including this advice about listening, learning, and the importance and limitations of positivity.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Learn from everybody, no matter how unimportant! Go through the world with open eyes, and listen not only to your own pains and interest but also to the pains interests and longings of others." >}}

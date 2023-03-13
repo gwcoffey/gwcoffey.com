@@ -6,6 +6,8 @@ likeCount: 14
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Never touch another person again."

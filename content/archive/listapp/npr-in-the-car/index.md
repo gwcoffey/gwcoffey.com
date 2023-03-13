@@ -8,6 +8,8 @@ relistCount: 6
 
 cc @npr
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I've heard the answer to a million puzzlers and the question to a million more but only a few times have I heard them both together." >}}

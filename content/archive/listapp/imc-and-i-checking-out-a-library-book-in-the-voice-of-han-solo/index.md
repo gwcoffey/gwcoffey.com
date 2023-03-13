@@ -8,6 +8,8 @@ relistCount: 1
 
 @ChrisK this is fun.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="[scans book, computer makes an ominous buzzing sound]" >}}

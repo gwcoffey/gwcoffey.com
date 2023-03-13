@@ -8,6 +8,8 @@ relistCount: 5
 
 This is why I turn off all Facebook notifications.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Commenting on an engagement announcement post." >}}

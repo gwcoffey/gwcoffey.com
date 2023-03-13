@@ -6,6 +6,8 @@ likeCount: 30
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Pedant in Taming of the Shrew when Biondello hatches his plan."

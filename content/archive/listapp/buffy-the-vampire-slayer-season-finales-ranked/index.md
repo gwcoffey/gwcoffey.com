@@ -8,6 +8,8 @@ relistCount: 0
 
 Best to worst.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Season 5: The Gift"

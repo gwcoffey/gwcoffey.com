@@ -8,6 +8,8 @@ relistCount: 9
 
 I've been spending a couple lovely vacation days alone seeing the sights.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Tried to take a picture of this Boojum tree but some dummy was standing in the way."

@@ -8,6 +8,8 @@ relistCount: 3
 
 An exploration of the mundane, by request.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="From my wife."

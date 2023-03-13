@@ -8,6 +8,8 @@ relistCount: 0
 
 Side note: I 💗 my Apple Watch.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Finally has an exercise category for \"going to Costco\"." >}}

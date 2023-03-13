@@ -7,6 +7,8 @@ likeCount: 27
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Old white men" >}}

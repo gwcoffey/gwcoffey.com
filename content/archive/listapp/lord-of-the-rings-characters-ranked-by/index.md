@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 7
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Tom Bombadil"

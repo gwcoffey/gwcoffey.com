@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="FOR: Apparently has access to unlimited nuclear bombs and the means to deliver them anywhere in the inner solar system." >}}

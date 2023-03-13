@@ -8,6 +8,8 @@ relistCount: 1
 
 I can't believe I've never made this list.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1989-90: Akard's True Value Hardware — Stocker/Customer Assistance"

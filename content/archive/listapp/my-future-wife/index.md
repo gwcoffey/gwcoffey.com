@@ -8,6 +8,8 @@ relistCount: 15
 
 My future wife will be my present wife. We've been married almost 21 years and I see no reason to change. Here're a few of the things I love about her.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="She loved me at 17-18 when I was lost and confused and didn't love myself."

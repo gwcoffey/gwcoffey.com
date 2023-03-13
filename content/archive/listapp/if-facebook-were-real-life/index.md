@@ -6,6 +6,8 @@ likeCount: 95
 relistCount: 19
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hello [friend name] I am inviting you to like my stupid business. Do you like it? Like it. LIKE IT." >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 Thanks for the rec! I'm really kind of cheap in the sense that I don't really "get" buying fancy things like nice cars and clothes. I'm a-ok with basic and dependable. And pretty much anytime I buy something frivolous I regret it about 24 hours later. But all these things are more expensive than the alternatives and totally worth it...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="iPhone" >}}

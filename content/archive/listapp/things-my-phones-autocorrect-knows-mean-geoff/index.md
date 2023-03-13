@@ -8,6 +8,8 @@ relistCount: 0
 
 Although I fear by making this list I will undermine its assumptions and it will stop fixing these for me.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="GEoff" >}}

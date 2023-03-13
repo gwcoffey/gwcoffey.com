@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @sarahdessen
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="What the heck is a \"channel\"?" >}}

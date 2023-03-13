@@ -8,6 +8,8 @@ relistCount: 0
 
 This may be the dumbest nerdiest list I've ever made. It embarrasses me.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Fast Inverse Square Root ~ 0x5f3759df"

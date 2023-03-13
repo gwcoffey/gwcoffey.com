@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I've used kindles and the kindle app for years." >}}

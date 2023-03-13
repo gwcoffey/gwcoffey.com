@@ -6,6 +6,8 @@ likeCount: 27
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Definitely an android."

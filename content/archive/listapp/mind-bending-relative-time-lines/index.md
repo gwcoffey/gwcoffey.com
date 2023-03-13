@@ -8,6 +8,8 @@ relistCount: 33
 
 I'm not sure if these are really "mind bending". Maybe I should have said "somewhat interesting". But anyway these all interested me!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Dinosaurs ruled the earth for a very very long time."

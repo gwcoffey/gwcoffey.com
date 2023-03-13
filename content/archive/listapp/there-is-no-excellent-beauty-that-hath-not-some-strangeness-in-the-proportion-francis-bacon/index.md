@@ -9,6 +9,8 @@ relistCount: 2
 
 Alternate title: A HISTORY OF MY CRUSHES in no particular order.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item

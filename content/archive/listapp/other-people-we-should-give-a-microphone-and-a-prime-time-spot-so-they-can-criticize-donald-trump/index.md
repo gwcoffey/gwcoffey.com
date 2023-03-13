@@ -9,6 +9,8 @@ relistCount: 9
 
 This is working people. Let's bait him some more. He can't help saying hateful things. I suggest a rolling schedule of attacks from things everybody likes, all the way to Election Day.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Jimmy Carter" >}}

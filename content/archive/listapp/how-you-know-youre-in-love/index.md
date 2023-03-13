@@ -6,6 +6,8 @@ likeCount: 54
 relistCount: 10
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I don't know" >}}

@@ -8,6 +8,8 @@ relistCount: 1
 
 I was listening to an audio book of Candide yesterday and caught a funny line I didn't remember. I looked it up in both print editions of the book I have and here is how the translations compare.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Audio book: \"With the aid of medicines and blood-letting, Candide's illness became serious.\""

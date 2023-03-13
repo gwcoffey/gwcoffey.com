@@ -8,6 +8,8 @@ relistCount: 0
 
 This is a very short list because Rice Krispy treats are near-perfect for what they are: The treat with the highest yum:easy ratio on earth.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="50% more butter than the recipe says"

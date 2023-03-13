@@ -6,6 +6,8 @@ likeCount: 26
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The time I bought a bag of pretzels before my 4 hour flight and they turned out to have peanut butter in them." >}}

@@ -8,6 +8,8 @@ relistCount: 8
 
 Well, @GargiBera, it just so happens I'm having tacos for lunch today! I love tacos so much and we have them a lot. Everything in this "recipe" can be adjusted/swapped/augmented in a million ways which is one of the things that makes tacos so wonderful. 🌮🌮🌮
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Corn tortillas, toasted in a dry pan to warm them up and make them a little toasty."

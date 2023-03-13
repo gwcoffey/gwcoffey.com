@@ -8,6 +8,8 @@ relistCount: 5
 
 If you are:
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Over 20"

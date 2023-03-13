@@ -8,6 +8,8 @@ relistCount: 2
 
 This is something I do a lot of.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Identify an unsuspecting stranger."

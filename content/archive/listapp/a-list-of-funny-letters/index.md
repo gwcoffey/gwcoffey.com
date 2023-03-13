@@ -6,6 +6,8 @@ likeCount: 3
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Letter from Tom Hanks to the producers of the \"Nerdist\" podcast cursing their ingenuity  in securing him as a guest."

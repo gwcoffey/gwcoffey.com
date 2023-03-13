@@ -8,6 +8,8 @@ relistCount: 16
 
 Making oodles of these for @imc's graduation open house right now.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="375 F oven." >}}

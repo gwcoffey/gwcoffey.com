@@ -8,6 +8,8 @@ relistCount: 12
 
 In which I share with you all what a happy day this is.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This is @sophster and her very special friend Maia when they were in 4th grade."

@@ -6,6 +6,8 @@ likeCount: 162
 relistCount: 42
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="I love that the day we met when she was 14 she was so tan I thought she was a foreign exchange student from ... somewhere." >}}

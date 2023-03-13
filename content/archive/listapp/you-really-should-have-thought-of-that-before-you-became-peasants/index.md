@@ -8,6 +8,8 @@ relistCount: 0
 
 @sophster's latest costume took her a lot of time and engineering to execute. Yzma the evil witch (?) from Emperor's New Groove.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

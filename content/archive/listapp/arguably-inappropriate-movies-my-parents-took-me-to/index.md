@@ -8,6 +8,8 @@ relistCount: 1
 
 The tv lists reminded me of my parents' penchant for taking me to movies I probably shouldn't have been at. I was the youngest and I think they just got tired of kid movies and, apparently, babysitters.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Age 4: Jaws"

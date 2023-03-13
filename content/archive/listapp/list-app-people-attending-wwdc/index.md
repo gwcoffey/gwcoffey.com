@@ -8,6 +8,8 @@ relistCount: 1
 
 Anybody here?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me"

@@ -8,6 +8,8 @@ relistCount: 7
 
 In which we learn that women are far more likely to smile in their pictures than men. I need this list sometimes. Please suggest!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@alishakurji" >}}

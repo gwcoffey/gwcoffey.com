@@ -8,6 +8,8 @@ relistCount: 14
 
 INT. CANTINA. Diverse strange space creatures mill about. Roguish space pirate HAN SOLO is about to leave the cantina to transport LUKE SKYWALKER, OBI WAN KENOBI and the DROIDS to ALDERAAN.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="JAR JAR BINKS taps Han Solo on the shoulder from behind. When Solo turns Jar Jar smiles stupidly with his tongue out and waves. Han Solo turns and walks away." >}}

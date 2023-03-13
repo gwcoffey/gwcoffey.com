@@ -8,6 +8,8 @@ relistCount: 1
 
 I should say that I have zero knowledge of the story outside the six films and I hate the prequels so much I basically pretend they don't exist.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Here there be" >}}

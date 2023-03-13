@@ -8,6 +8,8 @@ relistCount: 1
 
 Watched this insufferable movie again a few years ago for the first time since I was a little kid.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me age 5: This lady is kind of scary." >}}

@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @semioccasional by way of @biz
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Reading @imc's poetry."

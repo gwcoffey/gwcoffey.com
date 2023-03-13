@@ -8,6 +8,8 @@ relistCount: 2
 
 Because I just watched Eye in the Sky which was basically a (very good) two hour trolley problem.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="You are a switch operator and you see there are five people tied up on the tracks. The empty trolley (no passengers and unmanned) is coming and will certainly kill them all. If you throw the switch the trolley will divert down a side track and kill one person who happens to be standing on the track. What do you do?" >}}

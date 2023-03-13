@@ -6,6 +6,8 @@ likeCount: 7
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Their ability to make my hair lay flat."

@@ -8,6 +8,8 @@ relistCount: 23
 
 You haven't lived til you've taken a toddler on her first Halloween trick-or-treat outing. Oh @imc I remember it like it was yesterday.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Mom looks weird. Dad looks weird." >}}

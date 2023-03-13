@@ -6,6 +6,8 @@ likeCount: 7
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"The air was as still as the throttle on a funeral train.\""

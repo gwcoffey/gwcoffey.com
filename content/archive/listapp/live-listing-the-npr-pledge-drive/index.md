@@ -8,6 +8,8 @@ relistCount: 4
 
 I ❤️ you @npr
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ooh deadline." >}}

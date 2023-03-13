@@ -8,6 +8,8 @@ relistCount: 2
 
 #6 of my last minute sharing week dump. Inspired by @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I treat men and women differently."

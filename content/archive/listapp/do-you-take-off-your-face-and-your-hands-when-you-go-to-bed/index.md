@@ -8,6 +8,8 @@ relistCount: 2
 
 I miss this.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="And if so are you some kind of robot?" >}}

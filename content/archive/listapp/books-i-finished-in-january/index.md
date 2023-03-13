@@ -8,6 +8,8 @@ relistCount: 0
 
 In which you see why I don't get much literature read these days. Inspired by @bookishclaire.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="RESTful Java with JAX-RS 2.0 by Bull Burke"

@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="In second grade the poem I wrote for our poetry unit was published in The Peanut Butter Press." >}}

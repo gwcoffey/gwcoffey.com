@@ -8,6 +8,8 @@ relistCount: 4
 
 Tom Waits loves the moon (don't we all?) By my count he has mentioned the moon in a song more than 80 times. Here's all the things he says the moon is like.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Yellow Silver"

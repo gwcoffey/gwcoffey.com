@@ -6,6 +6,8 @@ likeCount: 6
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="To the airport to pick up my wife who I haven't seen in over two weeks. ❤️" >}}

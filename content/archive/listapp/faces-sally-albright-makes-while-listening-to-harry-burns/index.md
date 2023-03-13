@@ -8,6 +8,8 @@ relistCount: 20
 
 Jumping on the Harry and Sally bandwagon here. In my defense, I watch this movie almost every New Year's Eve. One of the infinity things I love about it is Meg Ryan's facial expressions. Behold.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Why don't you tell me the story of your life?\""

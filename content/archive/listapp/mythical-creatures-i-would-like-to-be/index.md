@@ -6,6 +6,8 @@ likeCount: 5
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Everybody knows the four elements are:" >}}

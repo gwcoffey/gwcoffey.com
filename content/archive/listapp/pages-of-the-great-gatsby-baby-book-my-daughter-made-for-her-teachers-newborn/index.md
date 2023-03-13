@@ -8,6 +8,8 @@ relistCount: 9
 
 A couple years ago my daughter's teacher was pregnant. The teacher's favorite book was Gatsby so Sophia decided to make her a soft baby-book version. She did the cutting and sewing. Her older sister and I did the textual adaptation. The result was arguably the coolest gift a kid has ever given a teacher.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cover"

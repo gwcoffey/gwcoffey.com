@@ -6,6 +6,8 @@ likeCount: 26
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A lot of people think the \"twin paradox\" of relativity just means if you fly away in a space ship going close to the speed of light you'll age more slowly than your twin at home and then you'll paradoxically have twins two different ages." >}}

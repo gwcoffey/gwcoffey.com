@@ -6,6 +6,8 @@ likeCount: 39
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I've always had the sense that maybe my perception is broken." >}}

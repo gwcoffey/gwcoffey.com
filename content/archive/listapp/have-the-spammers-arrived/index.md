@@ -8,6 +8,8 @@ relistCount: 1
 
 cc @list
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

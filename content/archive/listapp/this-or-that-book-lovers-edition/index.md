@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @jaidub
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Physical Book or eBook?"

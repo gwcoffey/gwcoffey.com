@@ -8,6 +8,8 @@ relistCount: 0
 
 The tale of a surprisingly debilitating injury.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="My cat attacked my thumb and \"scratched\" it so deeply it bled profusely and I had to put on a bandaid. It is much more a deep cut than a scratch. I did not know those little monsters could do that."

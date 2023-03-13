@@ -8,6 +8,8 @@ relistCount: 6
 
 Inspired by @nathanveshecco
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Admitting fault." >}}

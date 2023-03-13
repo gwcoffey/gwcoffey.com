@@ -9,6 +9,8 @@ relistCount: 0
 
 My smoker is my new hobby and @ChrisK will find out first hand if he comes for a visit.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="One"

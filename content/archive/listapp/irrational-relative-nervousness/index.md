@@ -6,6 +6,8 @@ likeCount: 12
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Interviewing a candidate at work with my coworkers makes me more nervous than interviewing for a job."

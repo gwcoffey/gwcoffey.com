@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I would have to say..." >}}

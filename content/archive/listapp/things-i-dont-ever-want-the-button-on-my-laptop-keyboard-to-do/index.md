@@ -6,6 +6,8 @@ likeCount: 4
 relistCount: 0
 ---
 
+<!--more-->
+
 Can this just be perma-linked to *music* please?
 
 {{< listapp/list order=false reverse=false >}}

@@ -9,6 +9,8 @@ relistCount: 1
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Jack Links \"Small Batch\" Peppered Beef Jerky"

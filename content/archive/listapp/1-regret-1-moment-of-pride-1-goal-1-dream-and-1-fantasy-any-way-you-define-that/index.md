@@ -7,6 +7,8 @@ likeCount: 24
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Regret: I'm not big on regret but that's a lousy response to the question so I'll say this: That it took me so long to figure out there's nothing wrong with me and I can do and be and love anything I want."

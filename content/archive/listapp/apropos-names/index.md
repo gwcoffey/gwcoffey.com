@@ -6,6 +6,8 @@ likeCount: 8
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Bud Starling"

@@ -8,6 +8,8 @@ relistCount: 2
 
 A dystopian novel-list inspired by @ErinFlaherty in which she and @sky press on.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The sun set cold in the north, a distant blue pebble in the otherwise featureless gray sky." >}}

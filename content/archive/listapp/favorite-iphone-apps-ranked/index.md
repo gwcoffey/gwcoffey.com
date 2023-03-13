@@ -6,6 +6,8 @@ likeCount: 23
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="My Fitness Pal"

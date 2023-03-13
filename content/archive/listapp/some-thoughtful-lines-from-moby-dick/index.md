@@ -8,6 +8,8 @@ relistCount: 6
 
 This is my oldest extant list. I made it in a text document maybe 10 years ago, then copied it to my iPhone notes app, then a new app I used for a while, then Evernote, and recently back to the (improved) iPhone notes app.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"See how elastic our stiff prejudices grow when love once comes to bend them.\""

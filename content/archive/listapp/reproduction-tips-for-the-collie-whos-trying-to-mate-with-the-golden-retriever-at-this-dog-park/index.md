@@ -7,6 +7,8 @@ likeCount: 55
 relistCount: 6
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="He's male." >}}

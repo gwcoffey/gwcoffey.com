@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @ListPrompts. Except I don't claim these are the top movies of all time because I am WAY under qualified to do that. I'm not much of a movie person at all and I haven't even seen most of the big movies of the past. This is just movies I watch a lot, unranked.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Eternal Sunshine of the Spotless Mind" >}}

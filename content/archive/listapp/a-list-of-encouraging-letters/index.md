@@ -6,6 +6,8 @@ likeCount: 16
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Letter from Stephen Fry to a fan suffering from depression."

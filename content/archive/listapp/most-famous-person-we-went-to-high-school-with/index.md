@@ -8,6 +8,8 @@ relistCount: 4
 
 Now add yours!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Brad Stevens, coach of the Boston Celtics and former kid up the street."

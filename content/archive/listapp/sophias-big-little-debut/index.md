@@ -8,6 +8,8 @@ relistCount: 1
 
 Sophie landed the part of Lieutenant Ward of the 17th Precinct in a local youth theater production of Annie. She worked hard for weeks and had the time of her life. She was smiling from ear to ear after the first show.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="First scene!"

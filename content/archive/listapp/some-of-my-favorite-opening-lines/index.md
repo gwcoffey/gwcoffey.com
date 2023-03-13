@@ -6,6 +6,8 @@ likeCount: 28
 relistCount: 7
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Shantaram\" by Gregory David Roberts"

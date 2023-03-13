@@ -8,6 +8,8 @@ relistCount: 11
 
 If you are...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Under 25"

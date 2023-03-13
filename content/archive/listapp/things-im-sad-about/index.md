@@ -6,6 +6,8 @@ likeCount: 36
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="That I published my MY AESTHETIC list before the neat new scrolling-thumbnails-in-the-main-feed feature." >}}

@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @qimster
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When Harry met Sally"

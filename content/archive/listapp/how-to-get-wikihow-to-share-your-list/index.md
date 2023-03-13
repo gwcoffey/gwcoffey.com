@@ -8,6 +8,8 @@ relistCount: 3
 
 This is a social experiment. @wikiHow
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="⬆️" >}}

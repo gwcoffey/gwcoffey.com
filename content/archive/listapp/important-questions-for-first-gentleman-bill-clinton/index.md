@@ -6,6 +6,8 @@ likeCount: 175
 relistCount: 71
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Will you be redecorating the presidential bedroom right away or do you plan to take your time?" >}}

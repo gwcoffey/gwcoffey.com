@@ -8,6 +8,8 @@ relistCount: 2
 
 I love the idea of creative workarounds to constitutional hangups. None of these are a slam dunk but they remind me that government is a complicated imaginative aggregate force of the people far more than a set of laws and that is neat. Any other cool ones?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="If the government is blocked from borrowing by a stonewalling congress:"

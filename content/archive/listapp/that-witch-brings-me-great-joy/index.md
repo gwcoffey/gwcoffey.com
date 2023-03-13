@@ -8,6 +8,8 @@ relistCount: 13
 
 Inspired by @LeahG
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

@@ -6,6 +6,8 @@ likeCount: 30
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Liberals rigging the republican primaries." >}}

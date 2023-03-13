@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @xtineengels
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I already wrote this list guys." >}}

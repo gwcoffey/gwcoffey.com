@@ -8,6 +8,8 @@ relistCount: 3
 
 Not in my yard. In my my mamma's neighbor's yard.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The irreproachable and beautiful Eliza Bennett..."

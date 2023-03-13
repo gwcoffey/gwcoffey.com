@@ -8,6 +8,8 @@ relistCount: 3
 
 She's one of a kind and couldn't be more awesome.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Regina Spektor"

@@ -6,6 +6,8 @@ likeCount: 27
 relistCount: 6
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Assume they are competent."

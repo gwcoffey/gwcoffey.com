@@ -9,6 +9,8 @@ relistCount: 6
 
 Inspired by @kate81. I'm so hate-able.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="People who never call" >}}

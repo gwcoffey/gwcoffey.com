@@ -6,6 +6,8 @@ likeCount: 12
 relistCount: 0
 ---
 
+<!--more-->
+
 Yes this really just happened. Yes I had to go back to pay.
 
 {{< listapp/list order=true reverse=false >}}

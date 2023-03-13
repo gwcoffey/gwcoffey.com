@@ -8,6 +8,8 @@ relistCount: 1
 
 This was inevitable right? Also it was hard... Thanks to @imc and @sophster for the help!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cat, skeleton" >}}

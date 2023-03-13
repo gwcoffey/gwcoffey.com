@@ -8,6 +8,8 @@ relistCount: 2
 
 This is for you @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Thin Mints" >}}

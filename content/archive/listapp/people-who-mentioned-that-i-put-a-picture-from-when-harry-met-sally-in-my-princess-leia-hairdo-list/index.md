@@ -9,6 +9,8 @@ relistCount: 0
 
 For reference: https://li.st/l/57f3d405-ca3d-4869-af87-7b5ae26cd609
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="..."

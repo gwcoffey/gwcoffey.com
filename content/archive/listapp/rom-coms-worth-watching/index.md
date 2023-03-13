@@ -8,6 +8,8 @@ relistCount: 2
 
 I love a good romantic comedy but most of them aren't very good. I'm no expert but to me this is how the genre family tree looks. Hop on the 400 year romantic comedy train.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Much Ado About Nothing ~ 1598"

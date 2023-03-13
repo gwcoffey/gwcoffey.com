@@ -8,6 +8,8 @@ relistCount: 1
 
 Who wants to join us? Thanks for the rec, @BWN_7! This was fun.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cormac McCarthy"

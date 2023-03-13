@@ -8,6 +8,8 @@ relistCount: 2
 
 I love all these voices so much.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Iris Dement" >}}

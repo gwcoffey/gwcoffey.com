@@ -6,6 +6,8 @@ likeCount: 29
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Filling out paperwork with pen and paper like some 20th century troglodyte." >}}

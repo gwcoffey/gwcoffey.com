@@ -8,6 +8,8 @@ relistCount: 2
 
 I'm at Universal Studios park in Orlando so this is very fresh in my mind.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The MFA in Creative Writing"

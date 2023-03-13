@@ -8,6 +8,8 @@ relistCount: 18
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I mean you can't see right?" >}}

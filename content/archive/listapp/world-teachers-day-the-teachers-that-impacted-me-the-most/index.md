@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @Nicholas
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I should probably just apologize. In grade order." >}}

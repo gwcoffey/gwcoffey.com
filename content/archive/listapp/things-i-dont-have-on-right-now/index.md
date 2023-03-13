@@ -6,6 +6,8 @@ likeCount: 6
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Pants" >}}

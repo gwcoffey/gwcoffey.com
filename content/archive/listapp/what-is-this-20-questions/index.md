@@ -8,6 +8,8 @@ relistCount: 6
 
 Inspired by @dad3
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="First Concert?"

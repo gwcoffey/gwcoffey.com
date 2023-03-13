@@ -8,6 +8,8 @@ relistCount: 1
 
 There's a period of time when your kids are little enough that you need some kid-friendly music to entertain them in the car. Unfortunately most children's music is insufferable. Here are some good albums.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Smithsonian Folkways Children's Music Collection / Various"

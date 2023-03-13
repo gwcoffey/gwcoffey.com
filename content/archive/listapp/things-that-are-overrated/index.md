@@ -8,6 +8,8 @@ relistCount: 1
 
 Time to make some enemies on List App.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="In n Out"

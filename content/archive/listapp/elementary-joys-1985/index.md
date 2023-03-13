@@ -6,6 +6,8 @@ likeCount: 24
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A warm ditto." >}}

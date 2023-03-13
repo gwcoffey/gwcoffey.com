@@ -8,6 +8,8 @@ relistCount: 8
 
 Yes I know what's going on and I can't keep it a secret anymore.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="@ChrisK is actually the secret super-genius eight year old love child of @bjnovak and @mindy and he's using his list app popularity to exact calculated revenge on the father he hardly knows." >}}

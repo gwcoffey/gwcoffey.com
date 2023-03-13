@@ -8,6 +8,8 @@ relistCount: 5
 
 🚗🚕🚙🚐
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="If you're first."

@@ -8,6 +8,8 @@ relistCount: 5
 
 Antony and Cleopatra may be my favorite play by Shakespeare, and not *just* because of all the funny innuendo. But here's a list of the more obvious ones. For the middle school crowd + me.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When she was jealous of a horse."

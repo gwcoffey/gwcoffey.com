@@ -8,6 +8,8 @@ relistCount: 2
 
 The perks and perils of growing your music library from 6,000 to 30,000,000 songs.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hey Siri play the song You Can't Hold Back Spring"

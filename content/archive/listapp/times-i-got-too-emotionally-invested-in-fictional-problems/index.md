@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This face still haunts me 23 years later."

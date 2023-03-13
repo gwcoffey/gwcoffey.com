@@ -9,6 +9,8 @@ relistCount: 6
 
 @Lisa_Fav
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="It's true." >}}

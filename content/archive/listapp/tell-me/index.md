@@ -8,6 +8,8 @@ relistCount: 1
 
 Adapted from the song by Tom Waits. Apple Music: https://itun.es/us/e6_tB?i=458227440 Spotify: https://open.spotify.com/album/7Ah3DkGxil3UE6b5R4qlif YouTube: https://m.youtube.com/watch?v=vg2SBPaxoe8
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Why plant a seed deep in the ground?" >}}

@@ -8,6 +8,8 @@ relistCount: 1
 
 http://53eig.ht/1L6QSm3
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Or do they!?" >}}

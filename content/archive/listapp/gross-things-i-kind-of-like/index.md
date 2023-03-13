@@ -6,6 +6,8 @@ likeCount: 15
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Chocodiles"

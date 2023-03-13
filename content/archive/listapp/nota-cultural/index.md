@@ -6,6 +6,8 @@ likeCount: 20
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I took Spanish in high school." >}}

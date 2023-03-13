@@ -6,6 +6,8 @@ likeCount: 39
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="[on why Isabel was sitting on the couch watching tv instead of at school when I got up] \"She only has like a month til she graduates, dad.\""

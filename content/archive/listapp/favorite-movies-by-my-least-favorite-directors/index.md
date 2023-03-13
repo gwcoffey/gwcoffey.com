@@ -8,6 +8,8 @@ relistCount: 0
 
 This list is mostly a lie.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Michael Bay: Armageddon"

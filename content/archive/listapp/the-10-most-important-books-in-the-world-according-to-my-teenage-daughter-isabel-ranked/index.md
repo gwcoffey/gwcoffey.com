@@ -1,5 +1,5 @@
 ---
-title: THE 10 MOST IMPORTANT BOOKS IN THE WORLD ACCORDING TO MY TEENAGE DAUGHTER,
+title: THE 10 MOST IMPORTANT BOOKS IN THE WORLD ACCORDING TO MY TEENAGE CHILD,
   ISABEL, RANKED
 date: '2015-10-03T05:23:58+00:00'
 archive: listapp
@@ -7,7 +7,9 @@ likeCount: 17
 relistCount: 1
 ---
 
-Requested by @ChrisK (She said "this is not in the world, this is in the western tradition because I don't know any books in the world. Make sure you edit it to say that.")
+Requested by @ChrisK (They said "this is not in the world, this is in the western tradition because I don't know any books in the world. Make sure you edit it to say that.")
+
+<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 
@@ -24,7 +26,7 @@ Requested by @ChrisK (She said "this is not in the world, this is in the western
 
    {{< listapp/item title="My Antonia" >}}
 
-   {{< listapp/item title="(Paused here, mumbled to herself, said she wanted to think of something from Ancient Rome but couldn't remember, maybe Horace or Caesar's De Bello Gallico.)" >}}
+   {{< listapp/item title="(Paused here, mumbled, said they wanted to think of something from Ancient Rome but couldn't remember, maybe Horace or Caesar's De Bello Gallico.)" >}}
 
    {{< listapp/item title="Plato's Phaedo" >}}
 

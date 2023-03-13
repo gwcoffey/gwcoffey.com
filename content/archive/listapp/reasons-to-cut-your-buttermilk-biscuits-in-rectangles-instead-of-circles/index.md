@@ -8,6 +8,8 @@ relistCount: 5
 
 It took me way too many years to figure this out.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="They look great."

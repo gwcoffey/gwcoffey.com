@@ -8,6 +8,8 @@ relistCount: 1
 
 Like that Simpson’s episode: "I wanted Mary Ann on 'Gilligan's Island' ugly, not Cornelius on 'The Planet if Apes' ugly. TV ugly, not... ugly ugly."
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Jeneane Garofalo in The Truth About Cats and Dogs"

@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cutest scene"

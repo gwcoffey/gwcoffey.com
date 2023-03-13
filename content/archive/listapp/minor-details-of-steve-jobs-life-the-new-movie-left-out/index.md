@@ -8,6 +8,8 @@ relistCount: 1
 
 He was definitely a jerk in a lot of ways. Not denying it. But the movie left a few things out.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="His happy marriage" >}}

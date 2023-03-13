@@ -6,6 +6,8 @@ likeCount: 28
 relistCount: 14
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Contingency speech written for Richard Nixon in the event that the Apollo 11 astronauts were stranded on the moon during their historic moon landing."

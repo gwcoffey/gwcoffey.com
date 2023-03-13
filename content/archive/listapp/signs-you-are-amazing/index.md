@@ -6,6 +6,8 @@ likeCount: 37
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="You're reading this list." >}}

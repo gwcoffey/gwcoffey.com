@@ -8,6 +8,8 @@ relistCount: 0
 
 I liked the move and I've only seen it once so I may be wrong on one or two of these but what gives? The previews were assembled mostly from scenes and lines that weren't in the movie.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This line..."

@@ -6,6 +6,8 @@ likeCount: 30
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Because I did not play." >}}

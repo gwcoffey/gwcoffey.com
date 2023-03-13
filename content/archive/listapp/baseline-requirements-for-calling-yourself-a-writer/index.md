@@ -8,6 +8,8 @@ relistCount: 18
 
 Inspired by @ashleycardiff.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Write."

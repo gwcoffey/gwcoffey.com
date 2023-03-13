@@ -8,6 +8,8 @@ relistCount: 14
 
 I don't even have the app because I am an inept gamer who doesn't get it most of the time. What do you do with a Pokémon once you catch it? Nobody can explain this to me.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Watching people play Pokémon Go around the neighborhood." >}}

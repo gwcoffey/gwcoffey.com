@@ -8,6 +8,8 @@ relistCount: 3
 
 I was trying to create an online account for my car loan. At one point it needs to call or text me with a code to enter on the web page. I tried four times and never got the call or text so I called the listed phone number and...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="... For help with Internet banking please press 2️⃣!" >}}

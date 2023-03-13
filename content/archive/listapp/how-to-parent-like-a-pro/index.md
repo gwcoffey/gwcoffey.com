@@ -6,6 +6,8 @@ likeCount: 29
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@imc: so no more rides tomorrow?" >}}

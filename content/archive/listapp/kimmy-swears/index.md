@@ -6,6 +6,8 @@ likeCount: 167
 relistCount: 53
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="What in the ham sandwich?" >}}

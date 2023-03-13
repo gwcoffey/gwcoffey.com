@@ -6,6 +6,8 @@ likeCount: 23
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Zeno's Tortoise Paradox"

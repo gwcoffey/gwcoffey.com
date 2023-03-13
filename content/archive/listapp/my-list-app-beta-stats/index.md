@@ -8,6 +8,8 @@ relistCount: 3
 
 I was on The List App beta for 20 weeks. Invited by @ChrisK. For whatever reason I never invited anyone. This was a natural outlet for me because I've always been a fan of keeping lists of semi-random things.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="In that time I made 160 lists, received 2,129 likes, 326 shares, 688 comments, and 37 suggestions. My average list has 9 items, one has 70 and thee have just one." >}}

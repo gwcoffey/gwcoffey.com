@@ -8,6 +8,8 @@ relistCount: 1
 
 This is the most honest portrayal of my personality I've ever listed.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I would probably forget to check." >}}

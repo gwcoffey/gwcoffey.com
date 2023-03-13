@@ -6,6 +6,8 @@ likeCount: 37
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="PRO: You can sit around all day with no responsibility doing whatever you want while someone else happily provides for your every need." >}}

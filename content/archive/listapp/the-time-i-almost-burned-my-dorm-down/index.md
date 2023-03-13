@@ -8,6 +8,8 @@ relistCount: 7
 
 I exaggerated. I didn't almost burn my dorm down. But I did cause a scene.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When I was a freshman at Purdue University living on the eight floor of Shreve Hall in 1993," >}}

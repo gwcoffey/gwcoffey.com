@@ -6,6 +6,8 @@ likeCount: 24
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Patrick Stewart in 1973 at 33"

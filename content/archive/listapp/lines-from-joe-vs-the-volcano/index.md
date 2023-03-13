@@ -8,6 +8,8 @@ relistCount: 2
 
 I love this underrated movie. It's silly and a little weird but that's because it is a fairy tale about capitalist greed subjugating the common man and distracting him with consumerism, which was ahead of its time for the '80s. Best of all it is funny and even a little touching and has Meg Ryan in three parts.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"What takes more courage? To twice traverse a staircase in flames or to make a one-time leap into the mouth of a smoking volcano? Damned if I know, Kemosabe, but when you're making those kinds of calls you're up in the high country.\""

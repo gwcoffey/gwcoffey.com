@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @originalamericantreat and @gabimoskowitz
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Grateful Dead"

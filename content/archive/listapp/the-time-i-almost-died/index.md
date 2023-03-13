@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @ListPrompts. I've never almost died because I am a coward. 🏃🏃🏃🏃
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="One time in Indianapolis I was on the freeway and a car came right up on my tail. He was so close I couldn't even see his lights. Eventually I got mad and slowed down to about 30. Then he pulled up beside me with his window down and the passenger had his arm out the window with a handgun pointed right at me. I scooted right out of there. 🏃"

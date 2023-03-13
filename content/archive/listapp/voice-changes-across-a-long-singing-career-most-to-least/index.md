@@ -8,6 +8,8 @@ relistCount: 2
 
 There's a big hole between 1 and 2 so suggest away…
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Tom Waits"

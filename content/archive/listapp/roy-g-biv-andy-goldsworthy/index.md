@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @semioccasional
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

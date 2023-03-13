@@ -8,6 +8,8 @@ relistCount: 8
 
 This is a Buffy-fans-only list. Others please disregard.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"I'm sixteen years old. I don't want to die.\""

@@ -6,6 +6,8 @@ likeCount: 71
 relistCount: 11
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm not normally this way..." >}}

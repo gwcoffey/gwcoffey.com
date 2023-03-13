@@ -6,6 +6,8 @@ likeCount: 31
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Then for the first time ever it would be a winning move to buy every possible ticket." >}}

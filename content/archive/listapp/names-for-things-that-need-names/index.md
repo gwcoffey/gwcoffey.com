@@ -8,6 +8,8 @@ relistCount: 16
 
 Some of these are real. Some are my proposals.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Canadian Standoff"

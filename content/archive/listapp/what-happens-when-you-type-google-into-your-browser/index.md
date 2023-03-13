@@ -8,6 +8,8 @@ relistCount: 5
 
 Leaving out all the low level detail here because otherwise this would have 26,000 items.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="As you type your web browser consults a list it maintains of recently and frequently visited URLs and offers them as choices. It refreshes  the list with each keystroke."

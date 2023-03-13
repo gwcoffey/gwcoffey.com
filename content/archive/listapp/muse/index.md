@@ -8,6 +8,8 @@ relistCount: 0
 
 From Rabindranath Tagore's immeasurably beautiful Gitanjali.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"" >}}

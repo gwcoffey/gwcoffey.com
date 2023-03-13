@@ -9,6 +9,8 @@ relistCount: 1
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="[the content of this speech may be written by the highest bidder]" >}}

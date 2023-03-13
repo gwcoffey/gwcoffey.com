@@ -8,6 +8,8 @@ relistCount: 2
 
 (See https://li.st/l/2GZ8WdVCQ4F2UeLOlskBjz) This is the standard round. If no winner is selected we move on to round two with a GUARANTEED winner.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The first number is..."

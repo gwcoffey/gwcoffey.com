@@ -8,6 +8,8 @@ relistCount: 1
 
 This is for you @ChrisK.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="WATER SOFTENER SALT FOR THE WATER SOFTENER." >}}

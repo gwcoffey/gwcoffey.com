@@ -8,6 +8,8 @@ relistCount: 3
 
 I love to bake...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sophia always asks for pineapple upside down cake."

@@ -8,6 +8,8 @@ relistCount: 15
 
 All words I've confused at one point or another. Explained poorly.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Abstruse / Obtuse"

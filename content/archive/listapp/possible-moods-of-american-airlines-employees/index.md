@@ -6,6 +6,8 @@ likeCount: 37
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Angry" >}}

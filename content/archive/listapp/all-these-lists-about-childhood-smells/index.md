@@ -8,6 +8,8 @@ relistCount: 3
 
 They are lovely. They remind me of the beautiful passage from Proust when as a grown man his mother offered him tea and a Madeline cookie and he sought to understand the pleasant feeling it elicited. The whole passage is beautiful but here's the part about the recovered memories. Inspired by people inspired by @ChrisK.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="And suddenly the memory revealed itself." >}}

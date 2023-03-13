@@ -8,6 +8,8 @@ relistCount: 0
 
 In my defense I have never been an eat-the-raw-cookie-dough type. I think chocolate chip cookie dough ice cream was the darkest period in human dessert fad history. This may have tainted my expectations.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ca. 2009: I read an online post extolling the virtues of Trader Joe's \"Cookie Butter\""

@@ -6,6 +6,8 @@ likeCount: 61
 relistCount: 9
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I hate white chocolate..."

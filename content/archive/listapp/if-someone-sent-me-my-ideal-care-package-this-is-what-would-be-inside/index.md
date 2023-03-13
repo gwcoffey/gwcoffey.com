@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Homemade cookies. Good ones that are a bit crips on the edges with some texture and some chew. Surprise me on the type." >}}

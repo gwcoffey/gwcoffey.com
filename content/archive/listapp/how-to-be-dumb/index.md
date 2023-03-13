@@ -6,6 +6,8 @@ likeCount: 31
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me: \"He's a drama queen sometimes.\"" >}}

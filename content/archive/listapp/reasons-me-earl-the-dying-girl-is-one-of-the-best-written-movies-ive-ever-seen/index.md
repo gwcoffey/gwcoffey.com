@@ -9,6 +9,8 @@ relistCount: 3
 
 I got to see this movie the other day at an early screening. I honestly only went because I'm traveling alone and was bored and it was free. I watched the preview and thought "Meh, high school Juno-quirky comedy. Boring." But I'm so glad I went because it was wonderful. I'm not a film buff at all but to my amateur eye the writing was superb.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="It makes dialog seem effortless"

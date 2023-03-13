@@ -8,6 +8,8 @@ relistCount: 7
 
 As requested.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sophie IS amazing!" >}}

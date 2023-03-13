@@ -8,6 +8,8 @@ relistCount: 4
 
 Merry #draftmas. Not sure why I never published this one. I think I was trying to give it a theme or something and abandoned it.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Permian-Triassic Extinction Event ~ 252 million years ago"

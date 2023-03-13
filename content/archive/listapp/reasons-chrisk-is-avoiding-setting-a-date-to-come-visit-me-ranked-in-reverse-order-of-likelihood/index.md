@@ -9,6 +9,8 @@ relistCount: 1
 
 Hey I thought mentions in list titles would work. Hmm. Here? @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="A refrigerator has fallen on him and he can't get to his phone." >}}

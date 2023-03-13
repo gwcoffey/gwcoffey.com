@@ -6,6 +6,8 @@ likeCount: 28
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A Donald Trump supporter" >}}

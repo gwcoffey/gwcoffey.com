@@ -8,6 +8,8 @@ relistCount: 6
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="I" >}}

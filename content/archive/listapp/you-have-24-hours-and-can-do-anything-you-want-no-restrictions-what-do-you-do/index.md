@@ -7,6 +7,8 @@ likeCount: 28
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sleep in til 8:00, quick shower." >}}

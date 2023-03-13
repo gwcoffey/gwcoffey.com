@@ -8,6 +8,8 @@ relistCount: 2
 
 Thanks @mianguyen for the suggestion. Of course it is harder to be constructive than to complain so this list took a lot more thought than THINGS THAT ARE OVERRATED. But that's good because it made me happier in the end.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="People"

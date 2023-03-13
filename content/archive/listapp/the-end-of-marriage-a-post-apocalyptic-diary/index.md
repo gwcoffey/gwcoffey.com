@@ -8,6 +8,8 @@ relistCount: 2
 
 As you know, marriage was undermined last week. Here's my diary of the aftermath in this lonely post-marriage outpost. I hope there's somebody left to read this.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Day 1: The beginning of the end"

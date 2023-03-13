@@ -6,6 +6,8 @@ likeCount: 52
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Squad"

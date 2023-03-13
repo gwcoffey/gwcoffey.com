@@ -8,6 +8,8 @@ relistCount: 1
 
 Add your own.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="People standing outside bathrooms"

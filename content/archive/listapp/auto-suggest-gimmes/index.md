@@ -8,6 +8,8 @@ relistCount: 1
 
 If your phone doesn't guess the word that comes next it's time for a new phone.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Chilean sea __________." >}}

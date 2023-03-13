@@ -9,6 +9,8 @@ relistCount: 37
 
 I saw on Facebook that Black Lives Matter is a violent terrorist organization so we went to a meeting to see how bad it was. Look what we found.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Phoenix Mayor Greg Stanton"

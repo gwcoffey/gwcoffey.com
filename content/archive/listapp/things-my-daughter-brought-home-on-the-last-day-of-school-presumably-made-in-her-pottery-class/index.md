@@ -9,6 +9,8 @@ relistCount: 1
 
 What she lacks in skill she makes up for in vision. I guess.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This polka dot pitcher"

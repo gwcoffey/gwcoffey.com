@@ -8,6 +8,8 @@ relistCount: 3
 
 I'm an expert French Toast maker here to tell you what you're doing wrong. With apologies to @Lisa_Fav and @MaiaLS; I'm sure this stuff isn't really French.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Eggy coated bready bread."

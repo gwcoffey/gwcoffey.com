@@ -6,6 +6,8 @@ likeCount: 54
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="The one where you know someone is behind you." >}}

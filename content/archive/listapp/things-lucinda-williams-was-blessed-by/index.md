@@ -8,6 +8,8 @@ relistCount: 0
 
 According to her beautiful song, "Blessed".
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Minister"

@@ -9,6 +9,8 @@ relistCount: 0
 
 Inspired by @ListPrompts. I only had trouble sleeping once that I can remember and that was after taking a new allergy medication. Never took that again. This is my usual pre-sleep thought process...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Mmm. This is comfy." >}}

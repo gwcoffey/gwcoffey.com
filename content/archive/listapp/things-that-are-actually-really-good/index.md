@@ -8,6 +8,8 @@ relistCount: 4
 
 Confessions of a part time snob.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Phineas and Ferb"

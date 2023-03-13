@@ -6,6 +6,8 @@ likeCount: 49
 relistCount: 7
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Oh my stars and garters!\"" >}}

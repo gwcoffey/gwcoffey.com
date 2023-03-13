@@ -6,6 +6,8 @@ likeCount: 24
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm definitely not as in to music as many of you." >}}

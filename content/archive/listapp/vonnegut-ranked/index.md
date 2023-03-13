@@ -8,6 +8,8 @@ relistCount: 0
 
 Sentimentally skewed by the order/age in which I read them. Featuring the covers I owned. Limiting myself to major works I read cover to cover here.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item

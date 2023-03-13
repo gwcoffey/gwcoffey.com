@@ -8,6 +8,8 @@ relistCount: 1
 
 I'm difficult to please.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cords" >}}

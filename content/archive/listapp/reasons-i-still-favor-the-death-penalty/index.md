@@ -8,6 +8,8 @@ relistCount: 0
 
 (Yes I'm sitting on the toilet. Deal with it.)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="These super-stiff toilet paper rolls earn the designer life in prison."

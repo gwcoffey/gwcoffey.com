@@ -8,6 +8,8 @@ relistCount: 2
 
 The more you know.  (I'm bored and tired waiting for a build...)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="😘 FACE THROWING A KISS" >}}

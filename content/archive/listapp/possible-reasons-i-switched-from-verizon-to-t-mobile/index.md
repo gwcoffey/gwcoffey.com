@@ -6,6 +6,8 @@ likeCount: 9
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="❌ I have a thing for leather clad ladies on motorcycles."

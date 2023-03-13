@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @Lisa_Fav
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Watch them." >}}

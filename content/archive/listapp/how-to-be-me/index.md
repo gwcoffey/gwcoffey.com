@@ -6,6 +6,8 @@ likeCount: 69
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Hold your wife's purse while she runs in to the bathroom. 😃" >}}

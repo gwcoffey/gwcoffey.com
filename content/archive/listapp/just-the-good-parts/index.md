@@ -8,6 +8,8 @@ relistCount: 2
 
 Examples of good things stripped of the inessential to reveal their truest value.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Caramel"

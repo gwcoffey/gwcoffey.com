@@ -8,6 +8,8 @@ relistCount: 2
 
 Etgar Keret is an Israeli short story writer I adore. His work is fast, moving, tight, beautiful, satirical, surreal and explosive. Here is one of his tiny stories. You should buy his book. NYT: http://mobile.nytimes.com/2012/04/15/books/review/suddenly-a-knock-on-the-door-by-etgar-keret.html Amazon: http://www.amazon.com/gp/aw/d/0374533334/ref=mp_
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="PARALLEL UNIVERSES"

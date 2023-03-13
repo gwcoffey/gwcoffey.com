@@ -8,6 +8,8 @@ relistCount: 12
 
 So you're refinancing your house, filling out college paperwork, signing a lease, starting a new job...and they emailed you stuff to sign. Ugh, right? Print, sign, scan or photograph or fax. 😷 If you have a Mac, Apple has you covered. But sadly nobody seems to know it's there. THAT'S WHERE I COME IN.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Start with a PDF."

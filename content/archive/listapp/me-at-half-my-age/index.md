@@ -8,6 +8,8 @@ relistCount: 13
 
 Inspired by @nathanveshecco
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I am 20 + six months." >}}

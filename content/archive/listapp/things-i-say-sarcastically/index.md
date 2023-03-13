@@ -8,6 +8,8 @@ relistCount: 3
 
 I'm kind of a jerk.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm sure this is all true." >}}

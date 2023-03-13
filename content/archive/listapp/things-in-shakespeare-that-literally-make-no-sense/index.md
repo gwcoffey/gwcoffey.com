@@ -8,6 +8,8 @@ relistCount: 2
 
 If you think Shakespeare is a little hard to understand you're not alone! These are passages *nobody* understands. I love that given all that's been written about Shakespeare, and his continuous popularity since he was alive, there can still be a little mystery.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Flim-flam the zim-zam?"

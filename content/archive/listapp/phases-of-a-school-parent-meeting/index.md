@@ -6,6 +6,8 @@ likeCount: 28
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The teachers awkwardly alternating who's speaking phase." >}}

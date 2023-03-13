@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @Evie et al
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Launched list app the first time" >}}

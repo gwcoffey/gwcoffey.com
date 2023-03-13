@@ -8,6 +8,8 @@ relistCount: 0
 
 Sorry for being so judgey.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Is batman." >}}

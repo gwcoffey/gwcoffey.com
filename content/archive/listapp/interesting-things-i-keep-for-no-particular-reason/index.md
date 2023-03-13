@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I keep almost nothing." >}}

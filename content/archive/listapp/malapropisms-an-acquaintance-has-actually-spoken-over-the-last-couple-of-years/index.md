@@ -8,6 +8,8 @@ relistCount: 0
 
 I used to think Shakespeare's malapropism-spewing characters were over the top. Then I met this guy...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"It was an adjunct failure.\""

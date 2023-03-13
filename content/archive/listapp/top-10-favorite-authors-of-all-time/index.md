@@ -8,6 +8,8 @@ relistCount: 0
 
 Unranked. Thanks for the rec @elizabeef! This list would probably be different in five ways if I wrote it five times.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Bill Bryson"

@@ -8,6 +8,8 @@ relistCount: 5
 
 How well do you know your sometimes-apocryphal pictographic history?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="👴🏼⬅️👑: ️👫👬👭⁉️🚫…👦🏼👦🏻👦🏽⚔👴🏼➡️😵…👦🏼⚔👦🏻⚔👦🏽…👦🏼⬅️️👑…️👫👬👭💯"

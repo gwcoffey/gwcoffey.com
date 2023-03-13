@@ -6,6 +6,8 @@ likeCount: 16
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I don't have a fold." >}}

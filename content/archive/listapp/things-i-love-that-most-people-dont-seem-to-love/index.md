@@ -6,6 +6,8 @@ likeCount: 54
 relistCount: 8
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The long \"boring\" parts of novels like Les Miserbales and Moby Dick."

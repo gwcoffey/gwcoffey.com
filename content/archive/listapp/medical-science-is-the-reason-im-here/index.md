@@ -8,6 +8,8 @@ relistCount: 5
 
 I'll put the people I love. You add you!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me: hospitalized with serious asthma at age 3" >}}

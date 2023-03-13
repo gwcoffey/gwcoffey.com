@@ -8,6 +8,8 @@ relistCount: 3
 
 Ok you wieners. This is why I don't just abandon Facebook.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I see that my mom is active and excited about spring after a long recovery from heart surgery."

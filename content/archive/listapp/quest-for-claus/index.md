@@ -6,6 +6,8 @@ likeCount: 21
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This is the latest play @sophster is in."

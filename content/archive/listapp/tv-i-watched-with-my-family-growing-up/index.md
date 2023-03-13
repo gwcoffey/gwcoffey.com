@@ -8,6 +8,8 @@ relistCount: 0
 
 We didn't have a tv from birth to 5 and again from 12 to 16. And when we did have a tv I mostly watched with my brother. My mom never watched tv and my dad usually worked until close to bed time. But here's what I remember watching together.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Twin Peaks"

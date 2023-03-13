@@ -8,6 +8,8 @@ relistCount: 1
 
 http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Arizona" >}}

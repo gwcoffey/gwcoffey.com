@@ -8,6 +8,8 @@ relistCount: 9
 
 Sometimes the universe likes to troll.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The sun is 400 times larger than the moon and 400 times farther away."

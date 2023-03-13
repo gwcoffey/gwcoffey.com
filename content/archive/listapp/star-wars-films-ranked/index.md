@@ -8,6 +8,8 @@ relistCount: 2
 
 Yeah I know this is unoriginal and a pot shot.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="The Empire Strikes Back" >}}

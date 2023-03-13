@@ -8,6 +8,8 @@ relistCount: 1
 
 All the gifs I remember thinking were very funny.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

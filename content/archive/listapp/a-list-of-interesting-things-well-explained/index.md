@@ -6,6 +6,8 @@ likeCount: 5
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The singular Vi Hart’s beautiful three part exposition of the Fibonacci sequence, culminating in a clear explanation of why it shows up in plants. (Hint: It’s not magic.)"

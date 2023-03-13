@@ -6,6 +6,8 @@ likeCount: 47
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Sentimental ~ This is unearned emotion. If you tell me she's devastated, if you tell me her voice cracks, if you show me her tears, none of that matters if any of it had to be said."

@@ -6,6 +6,8 @@ likeCount: 25
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Car sickness"

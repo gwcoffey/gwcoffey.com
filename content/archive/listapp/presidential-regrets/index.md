@@ -8,6 +8,8 @@ relistCount: 0
 
 Cueing this up in case it needs any additions.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"I am not a crook.\"" >}}

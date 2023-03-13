@@ -6,6 +6,8 @@ likeCount: 85
 relistCount: 6
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="They let WOMEN vote." >}}

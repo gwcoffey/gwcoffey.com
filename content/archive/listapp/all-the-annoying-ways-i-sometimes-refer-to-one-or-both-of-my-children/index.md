@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @alligeeshow
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@imc: eeberbinkie" >}}

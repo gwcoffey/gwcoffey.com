@@ -6,6 +6,8 @@ likeCount: 58
 relistCount: 21
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Salad"

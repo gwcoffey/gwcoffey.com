@@ -8,6 +8,8 @@ relistCount: 1
 
 I'm sure this is very inspiring for all you little people.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This Kurt Vonnegut finger puppet my daughter gave me a few years ago."

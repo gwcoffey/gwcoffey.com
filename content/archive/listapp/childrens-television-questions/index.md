@@ -6,6 +6,8 @@ likeCount: 13
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="What was up with Caillou's hair? Also what was up with Caillou?" >}}

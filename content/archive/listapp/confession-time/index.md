@@ -6,6 +6,8 @@ likeCount: 16
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I didn't invite any of you to my bar mitzva"

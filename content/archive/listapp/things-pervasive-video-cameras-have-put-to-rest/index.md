@@ -6,6 +6,8 @@ likeCount: 61
 relistCount: 13
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="UFOs aren't real." >}}

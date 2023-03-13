@@ -8,6 +8,8 @@ relistCount: 2
 
 I'm a little anti-social which might factor in to these. Please note: there's no judgement here. I'm not suggesting these things are unworthy of time. I have great respect for our culture. I just don't understand it sometimes or don't feel a compulsion to engage. I'm not sure why.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I've only watched one television show for its entire run in my life."

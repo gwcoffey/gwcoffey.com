@@ -6,6 +6,8 @@ likeCount: 24
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="🤔 So what're the guidelines here? People I wish I looked like? ..." >}}

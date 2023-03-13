@@ -8,6 +8,8 @@ relistCount: 3
 
 This is an ill-formed set of primordial thoughts demanding deeper understanding on my part. Stuff I've been thinking about a lot.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Assumption #1: We elect presidents and making that selection should be democratic."

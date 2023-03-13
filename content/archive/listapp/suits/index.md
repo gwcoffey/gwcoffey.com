@@ -8,6 +8,8 @@ relistCount: 3
 
 Following up my previous very successful list with this nonsense.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Pant Suit"

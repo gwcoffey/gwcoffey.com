@@ -8,6 +8,8 @@ relistCount: 4
 
 I'm going to make some lists about lyrics I love. I'll start with R.E.M. which was my first lyric love way back in middle school. You kids today don't know what it was like back then listening over and over with headphones and a pen and paper trying to work out the words so you can process them. R.E.M. was the first to put me through that.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Find the River - http://youtu.be/l0RCmOF1ACU (This is arguably their most beautiful and esoteric song and the whole thing could go on this list,  but here's the end.)"

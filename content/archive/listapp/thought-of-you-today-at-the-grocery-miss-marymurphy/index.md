@@ -8,6 +8,8 @@ relistCount: 3
 
 @marymurphy
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item

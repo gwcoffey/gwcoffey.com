@@ -6,6 +6,8 @@ likeCount: 14
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The all caps dialog of Owen Meany" >}}

@@ -8,6 +8,8 @@ relistCount: 3
 
 Inspired by @BWN_7 / CORRECTED
 
+<!--more-->
+
 {{< listapp/list order=true reverse=true >}}
 
    {{< listapp/item title="Honorable Mention: Rainforest Crunch"

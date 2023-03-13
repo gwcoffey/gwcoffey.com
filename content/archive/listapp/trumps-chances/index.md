@@ -8,6 +8,8 @@ relistCount: 8
 
 Maybe I'm just an optimist but this is my read.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Chances he will win the most delegates: High"

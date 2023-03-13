@@ -6,6 +6,8 @@ likeCount: 53
 relistCount: 13
 ---
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Press hard on the keyboard when typing"

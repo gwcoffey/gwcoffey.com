@@ -8,6 +8,8 @@ relistCount: 1
 
 I'm a sucker for a story-song. They don't even have to be singing.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Lake Marie / John Prine"

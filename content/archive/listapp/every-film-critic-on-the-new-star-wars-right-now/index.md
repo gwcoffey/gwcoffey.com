@@ -6,6 +6,8 @@ likeCount: 16
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="No spoilers here..." >}}

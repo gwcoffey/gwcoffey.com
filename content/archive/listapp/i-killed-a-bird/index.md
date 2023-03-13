@@ -6,6 +6,8 @@ likeCount: 26
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Once when I was 13 or 14 a bird came down our chimney." >}}

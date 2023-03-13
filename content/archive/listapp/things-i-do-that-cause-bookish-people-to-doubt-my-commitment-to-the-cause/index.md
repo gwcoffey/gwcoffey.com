@@ -6,6 +6,8 @@ likeCount: 29
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Send all my paper books to goodwill and switch to almost 100% eBooks."

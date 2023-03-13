@@ -8,6 +8,8 @@ relistCount: 12
 
 This was a hard list request. I rethought my approach three times and I'm still not sure I'm making the case correctly. But here you go!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Because passionate interests are infectious."

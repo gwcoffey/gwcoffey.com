@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @ListPrompts
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I'm not entirely sure..." >}}

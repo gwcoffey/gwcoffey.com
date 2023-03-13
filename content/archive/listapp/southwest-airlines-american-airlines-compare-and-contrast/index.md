@@ -6,6 +6,8 @@ likeCount: 40
 relistCount: 13
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Southwest: Yes! Bringing luggage is an implied aspect of travel so of course you can check bags. Some reasonable restrictions on size and quantity apply. Here let me take your bag!"

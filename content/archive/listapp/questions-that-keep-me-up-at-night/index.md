@@ -8,6 +8,8 @@ relistCount: 6
 
 Inspired by @joemurphy
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Am I ready to give up on this day?" >}}

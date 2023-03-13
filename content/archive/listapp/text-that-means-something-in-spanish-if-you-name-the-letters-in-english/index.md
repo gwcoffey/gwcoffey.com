@@ -8,6 +8,8 @@ relistCount: 0
 
 Any others?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="S O C K S"

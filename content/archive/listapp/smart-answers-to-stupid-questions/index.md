@@ -6,6 +6,8 @@ likeCount: 21
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@ChrisK 's three guests at a literary dinner party"

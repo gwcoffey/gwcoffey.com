@@ -6,6 +6,8 @@ likeCount: 32
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="@mamiecoffey: reading lists on list app" >}}

@@ -8,6 +8,8 @@ relistCount: 4
 
 Inspired by @sophster
 
+<!--more-->
+
 {{< listapp/list order=true reverse=true >}}
 
    {{< listapp/item title="[Cars 2 and Monsters University]"

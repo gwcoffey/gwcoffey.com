@@ -8,6 +8,8 @@ relistCount: 0
 
 Who remembers this song from my senior year of high school?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I love you." >}}

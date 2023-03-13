@@ -8,6 +8,8 @@ relistCount: 2
 
 Isabel is a lot of great things like nerdy and funny and dedicated and creative. But she also happens to be lovely on the outside. Somehow we have to pick one or two of these...
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item

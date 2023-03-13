@@ -8,6 +8,8 @@ relistCount: 1
 
 This was my thought process just now...happens more often than I care to admit.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hmm, there are barricades up. Must be some parade happening today." >}}

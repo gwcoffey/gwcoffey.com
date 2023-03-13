@@ -8,6 +8,8 @@ relistCount: 16
 
 Assorted musings from my journal, shortened and reworded for consistency.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Sometimes when I count the people in the room so I can set the right number of places at the table, I forget to count myself." >}}

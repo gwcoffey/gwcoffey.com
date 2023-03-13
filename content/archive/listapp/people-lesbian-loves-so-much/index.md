@@ -8,6 +8,8 @@ relistCount: 2
 
 [in which I try to get @lesbian to say she loves me]
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Everybody?" >}}

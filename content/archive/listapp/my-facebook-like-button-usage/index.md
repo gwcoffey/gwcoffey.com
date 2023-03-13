@@ -8,6 +8,8 @@ relistCount: 4
 
 This is what it means when I click Like.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"I really like this\" — 5%" >}}

@@ -6,6 +6,8 @@ likeCount: 23
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="1940s and 1950s science fiction" >}}

@@ -8,6 +8,8 @@ relistCount: 2
 
 This is an apology gift to all my new followers, who I mistakenly called spammers. Forgive me. I'm not usually so cynical. Wait...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The problem with The Grinch Who Stole Christmas is it's bullshit and everyone knows it." >}}

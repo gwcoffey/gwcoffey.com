@@ -8,6 +8,8 @@ relistCount: 7
 
 My daughter @sophster calls this "special oatmeal" and it is one of her favorite foods. It is creamy, oaty, and has a silky texture.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Melt a couple tablespoons of butter in a pot on medium heat." >}}

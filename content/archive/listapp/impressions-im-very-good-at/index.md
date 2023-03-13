@@ -8,6 +8,8 @@ relistCount: 0
 
 Inspired by @sarahgorman
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me when I'm happy." >}}

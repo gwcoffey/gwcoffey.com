@@ -8,6 +8,8 @@ relistCount: 6
 
 This is why reading on the web sucks.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Not sizing pictures so the stuff I'm reading moves around as parts continue to load." >}}

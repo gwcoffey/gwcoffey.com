@@ -8,6 +8,8 @@ relistCount: 21
 
 People in my generation lived right through what will, when my great grand children study history in school, be taught the way we all learned about the "Industrial Revolution". It took its first baby steps in the 1940s, was in full swing in the 1970s, and is in its third wave today. Women have been and continue to be instrumental in this change.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Ada Lovelace ~ 1815 –1852"

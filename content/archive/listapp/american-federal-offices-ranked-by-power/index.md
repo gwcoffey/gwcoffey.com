@@ -8,6 +8,8 @@ relistCount: 0
 
 Remember remember...
 
+<!--more-->
+
 {{< listapp/list order=true reverse=true >}}
 
    {{< listapp/item title="Congressional Representative" >}}

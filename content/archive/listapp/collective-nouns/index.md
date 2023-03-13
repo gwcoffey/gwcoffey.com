@@ -8,6 +8,8 @@ relistCount: 3
 
 A few of the lesser-knowns.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A Cantaloupe of Antelope" >}}

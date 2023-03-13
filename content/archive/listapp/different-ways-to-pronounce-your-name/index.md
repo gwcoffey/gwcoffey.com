@@ -8,6 +8,8 @@ relistCount: 0
 
 I'm interpreting this as ways people have pronounced my name. When I was a kid people seemed to universally be confused by my name but now almost everyone gets it right. I think I have Geoffrey the Giraffe to thank for that.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Jeff"

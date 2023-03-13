@@ -9,6 +9,8 @@ relistCount: 7
 
 Inspired by @hels, highly opinionated. Meant to be an open list with just a couple entries but I got carried away.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="American Pastoral by Philip Roth"

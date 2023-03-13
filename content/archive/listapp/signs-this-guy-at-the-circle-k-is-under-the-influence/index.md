@@ -6,6 +6,8 @@ likeCount: 22
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="He is moving his limbs strangely." >}}

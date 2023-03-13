@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by @bjnovak. I'm a deep sleeper.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="What am I?" >}}

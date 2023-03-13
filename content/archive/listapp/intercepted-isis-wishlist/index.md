@@ -8,6 +8,8 @@ relistCount: 13
 
 America, if you would be so kind...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="ISIS would like a Trump presidency please." >}}

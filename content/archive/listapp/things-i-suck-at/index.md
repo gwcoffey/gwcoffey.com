@@ -8,6 +8,8 @@ relistCount: 0
 
 Obligatory follow up to my previous list.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hearing"

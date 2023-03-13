@@ -6,6 +6,8 @@ likeCount: 18
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Surrendering to the unforgiving emptiness of sleep." >}}

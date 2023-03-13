@@ -9,6 +9,8 @@ relistCount: 4
 
 In order from least to most embarrassing.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Lost in Translation"

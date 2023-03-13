@@ -8,6 +8,8 @@ relistCount: 7
 
 Source: https://www.facebook.com/mamie.coffey/videos/1227803777134/
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Sun" >}}

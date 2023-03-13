@@ -6,6 +6,8 @@ likeCount: 48
 relistCount: 7
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Guinea Pig"

@@ -8,6 +8,8 @@ relistCount: 11
 
 Inspired by @maggieannre
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Kill me."

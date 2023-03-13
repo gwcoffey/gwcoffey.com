@@ -8,6 +8,8 @@ relistCount: 2
 
 Inspired by @ListPrompts. Certain to be as boring a list as ever was writ.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="7:00am: Wake up, get @sophster out of bed using one of my varied techniques. Send her to the shower." >}}

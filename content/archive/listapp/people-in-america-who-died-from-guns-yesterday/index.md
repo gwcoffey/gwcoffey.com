@@ -8,6 +8,8 @@ relistCount: 6
 
 Statistically if it's like a typical day, 65% suicide, 30% homicide, 5% accidental.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="9 people in Charleston"

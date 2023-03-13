@@ -8,6 +8,8 @@ relistCount: 0
 
 To all my gay friends and list app associates: this is your day. We love you.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Justice Kennedy is an eloquent supporter of gay rights and we're lucky to have him."

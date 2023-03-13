@@ -8,6 +8,8 @@ relistCount: 3
 
 You know the movie The Emperor's New Groove? My girls loved the movie when they were little. I was talking to Sophie today (she's 13 now) and she made these related confessions...
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="First, she thought the man who \"threw off the Emperor's groove\" in this scene was a woman."

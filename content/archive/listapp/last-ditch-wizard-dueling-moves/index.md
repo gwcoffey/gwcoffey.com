@@ -8,6 +8,8 @@ relistCount: 0
 
 For when it looks like you're going to lose.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"Accio opponent's tonsils\"" >}}

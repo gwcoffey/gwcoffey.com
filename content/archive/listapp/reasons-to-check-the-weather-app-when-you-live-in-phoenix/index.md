@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by https://li.st/l/ac3873c7-b418-4109-ae04-05a7d6f7e057 . I used to wonder why people cared about weather apps. Then I remembered you don't all live here.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="To see what kind of hot, sunny, and dry it will be today."

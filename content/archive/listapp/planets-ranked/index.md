@@ -8,6 +8,8 @@ relistCount: 3
 
 I love them all but here's my attempt at a ranking.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Jupiter"

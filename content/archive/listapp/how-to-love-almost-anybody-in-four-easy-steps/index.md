@@ -8,6 +8,8 @@ relistCount: 17
 
 Before you start ask yourself, out of all the people in the world, how many are good enough? I don't mean do calculus, or study statistics. I'm asking philosophically. What does it mean, fundamentally, if people—so far as we know the only things in the universe to which goodness really applies—aren't mostly good enough for you? Now you're ready…
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Step 1: Forgive"

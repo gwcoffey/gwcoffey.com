@@ -8,6 +8,8 @@ relistCount: 2
 
 Sometimes I wonder what it would be like to feel.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="This young lady liked the Beatles more than I like anything."

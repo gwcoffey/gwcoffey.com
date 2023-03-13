@@ -8,6 +8,8 @@ relistCount: 16
 
 Disclaimer: I am an Apple employee. So 1: My bias is showing. 2: It should go without saying that I don't speak for Apple in any way. These are my own thoughts.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="As has been widely reported, Apple is fighting a court order to \"unlock\" an iPhone used by one of the shooters in the San Bernardino terrorist attack last year." >}}

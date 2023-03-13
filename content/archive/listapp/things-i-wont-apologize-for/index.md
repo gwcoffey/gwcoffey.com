@@ -6,6 +6,8 @@ likeCount: 30
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Saying I'm sorry too much." >}}

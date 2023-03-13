@@ -8,6 +8,8 @@ relistCount: 0
 
 She loves loves loves this fun extracurricular at her school. These are all iPhone 6s "Live Photos" which work great for this kind of thing but you can't see that here. Hey @thelistapp, feature request!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Back..."

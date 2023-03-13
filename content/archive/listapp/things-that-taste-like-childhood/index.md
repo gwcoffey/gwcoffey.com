@@ -6,6 +6,8 @@ likeCount: 37
 relistCount: 2
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Hershey's chocolate syrup on vanilla ice cream."

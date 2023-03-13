@@ -9,6 +9,8 @@ relistCount: 4
 
 This list turned out way more depressing than I intended.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I am \"The one I probably will become\"." >}}

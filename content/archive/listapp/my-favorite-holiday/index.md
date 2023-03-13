@@ -8,6 +8,8 @@ relistCount: 2
 
 #7 of my last minute sharing week dump. Inspired by @ChrisK
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Thanksgiving is my favorite holiday."

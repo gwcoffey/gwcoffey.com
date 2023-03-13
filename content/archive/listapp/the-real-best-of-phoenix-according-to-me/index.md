@@ -8,6 +8,8 @@ relistCount: 2
 
 This list is light on high end dining because I'm not a big partaker of fancy restaurants. Also it skews heavily toward stuff around my house. But everything on this list is 💯. I guarantee it.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Best Bread: Mediterra Bakehouse"

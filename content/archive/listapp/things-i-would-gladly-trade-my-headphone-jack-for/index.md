@@ -6,6 +6,8 @@ likeCount: 31
 relistCount: 5
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A combination washer-dryer so I don't have to swap loads." >}}

@@ -6,6 +6,8 @@ likeCount: 61
 relistCount: 9
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Cashier: Are you going to eat your cookie right now or do you want it in a bag?" >}}

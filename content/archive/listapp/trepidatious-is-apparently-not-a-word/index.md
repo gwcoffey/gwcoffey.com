@@ -8,6 +8,8 @@ relistCount: 0
 
 I love language. Learned this the other day. Follow the steps... (* in the prescriptivist sense. It is obviously a word by usage.)
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="There's an old word \"Trepid\". OED calls it \"rare\" meaning nobody really uses it anymore. It is an adjective."

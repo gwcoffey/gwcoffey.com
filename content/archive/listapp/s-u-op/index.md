@@ -6,6 +6,8 @@ likeCount: 63
 relistCount: 15
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="WELL?" >}}

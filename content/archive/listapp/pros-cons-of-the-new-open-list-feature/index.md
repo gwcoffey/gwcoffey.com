@@ -8,6 +8,8 @@ relistCount: 1
 
 What is good about it? What is bad about it?
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="GOOD: You can make a list with no items." >}}

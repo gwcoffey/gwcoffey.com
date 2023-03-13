@@ -6,6 +6,8 @@ likeCount: 56
 relistCount: 12
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="That is all" >}}

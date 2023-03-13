@@ -8,6 +8,8 @@ relistCount: 3
 
 If I were being honest I'd put my wife and kids as 1 2 3 here. They are truly the length, breadth, and depth of my happiness, each individually. But in the interest of space I shall combine. In the words of Seymour from Ghost World (see #5!) "My top five interests? I'd have to put traditional jazz, blues, and then ragtime at the top of the list…"
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="My Family"

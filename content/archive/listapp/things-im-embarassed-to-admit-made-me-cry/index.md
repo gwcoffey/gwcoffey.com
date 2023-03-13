@@ -8,6 +8,8 @@ relistCount: 1
 
 I'm sentimentally challenged which made reading to my girls difficult.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When Beezus Quimby's mother tells her she and her sister didn't get along either when they were little." >}}

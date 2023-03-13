@@ -6,6 +6,8 @@ likeCount: 9
 relistCount: 1
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"The rights of the people to find joy in cooking their family and their dog shall not be infringed.\""

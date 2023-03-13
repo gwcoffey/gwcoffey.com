@@ -8,6 +8,8 @@ relistCount: 0
 
 Note: Edward is the lion in this version. A metaphorical lion monster.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="The Lion, The Witch, and The Awakening" >}}

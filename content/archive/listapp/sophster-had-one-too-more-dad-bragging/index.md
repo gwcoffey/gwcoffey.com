@@ -8,6 +8,8 @@ relistCount: 4
 
 Maybe this is just a thing schools do now because @sophster goes to a totally different school from @imc and her "8th Grade Promotion" included a personal message/tribute to each kid too! Once again these lovely lovely teachers spoke truth.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="\"As teachers we could only hope for more students like Sophia:\"" >}}

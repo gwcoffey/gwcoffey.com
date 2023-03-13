@@ -8,6 +8,8 @@ relistCount: 1
 
 Hat tip to @ChrisK for the list idea.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="An archeologist."

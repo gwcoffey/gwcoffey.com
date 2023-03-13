@@ -8,6 +8,8 @@ relistCount: 2
 
 I think about this sometimes.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="A reasonable guess of the number of atoms in the universe is around 4e79. That's a very big number." >}}

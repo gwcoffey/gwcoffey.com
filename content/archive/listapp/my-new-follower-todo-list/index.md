@@ -8,6 +8,8 @@ relistCount: 1
 
 I try to do this but I miss some because I get busy. Sorry if I missed you.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Read your list history." >}}

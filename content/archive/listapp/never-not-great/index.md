@@ -8,6 +8,8 @@ relistCount: 1
 
 An abridged list because I'm sure I would come up with five or six more if I tried.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Eddie Redmayne"

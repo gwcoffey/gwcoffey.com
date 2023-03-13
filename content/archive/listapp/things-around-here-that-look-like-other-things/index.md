@@ -1,10 +1,12 @@
 ---
-title: THINSG AROUND HERE THAT LOOK LIKE OTHER THINGS
+title: THINGS AROUND HERE THAT LOOK LIKE OTHER THINGS
 date: '2015-06-01T02:52:17+00:00'
 archive: listapp
 likeCount: 10
 relistCount: 1
 ---
+
+<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

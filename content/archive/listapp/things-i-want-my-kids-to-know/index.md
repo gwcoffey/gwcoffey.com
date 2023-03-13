@@ -6,6 +6,8 @@ likeCount: 20
 relistCount: 3
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="There's a difference between \"it's not my fault\" and \"I can't help it.\""

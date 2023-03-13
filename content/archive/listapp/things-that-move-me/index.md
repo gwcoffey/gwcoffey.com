@@ -6,6 +6,8 @@ likeCount: 47
 relistCount: 13
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Courage" >}}

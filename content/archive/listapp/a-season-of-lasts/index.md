@@ -6,6 +6,8 @@ likeCount: 68
 relistCount: 4
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Last school concert I attend to watch Isabel." >}}

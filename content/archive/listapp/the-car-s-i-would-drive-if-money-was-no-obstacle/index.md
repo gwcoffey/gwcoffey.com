@@ -8,6 +8,8 @@ relistCount: 5
 
 I'm not much of a car person so I expanded the scope a bit.
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Tesla Model S"

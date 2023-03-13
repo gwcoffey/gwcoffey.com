@@ -6,6 +6,8 @@ likeCount: 17
 relistCount: 0
 ---
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="0-10 Years"

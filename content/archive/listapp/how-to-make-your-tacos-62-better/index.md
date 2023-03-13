@@ -8,6 +8,8 @@ relistCount: 12
 
 This is how you make Cebolla en Escabeche (sometimes called Cebollita), the beautiful, super simple, mild "pickled" red onion they serve at street side taco stands in Mexico.
 
+<!--more-->
+
 {{< listapp/list order=true reverse=false >}}
 
    {{< listapp/item title="Cut a red onion in half, slice it thin, and put it in a bowl. Pour boiling water to cover the onion. Count to ten, then immediately drain off the water."

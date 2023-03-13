@@ -8,6 +8,8 @@ relistCount: 0
 
 Source for all: etymonline.com
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Assassin"

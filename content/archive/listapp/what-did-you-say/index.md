@@ -8,6 +8,8 @@ relistCount: 1
 
 Inspired by @dad3 / https://li.st/l/7N4c6eoB9bFWZ3GoyYRwdU Did I do it right? Ok, analyze me!
 
+<!--more-->
+
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Me — Too" >}}
