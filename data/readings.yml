@@ -1,6 +1,13 @@
 ---
 - year: 2023
   readings:
+    - id: interesting-book
+      format: print
+      translator: Katherine Kernberger
+    
+    - id: peripheral
+      format: print
+      
     - id: three-minutes
       format: print
 
