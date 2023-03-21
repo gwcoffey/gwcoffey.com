@@ -7,11 +7,4 @@
 
 {{ .Content }}
 
-<figure>
-{{ $alt := .Params.alt }}
-{{ with .Resources.GetMatch "image.*" }}
-	<img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="{{ $alt }}">
-{{ end }}
-</figure>
-
 {{ end }}

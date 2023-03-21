@@ -1,25 +1,20 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+{{ if eq (.Param "crumb") false }}
+	<h1>{{ .Title }}</h1>
+{{ else }}
+	<hgroup>
+		<h1>{{ .Title }}</h1>
+		<p class="crumb"><a href="/archive/">/archive/</a></p>
+	</hgroup>
+{{ end }}
 
 {{ .Content }}
 
-{{- $pages := .Pages -}}
-
-{{ range (.Paginate $pages).Pages }}
+{{ range (.Paginate .Pages).Pages }}
 {{ partial "post-preview.html" . }}
 {{ end }}
 
-{{- if (or .Paginator.HasPrev .Paginator.HasNext) -}}
-	<div class="paginator-links">
-	{{- if .Paginator.HasPrev -}}
-		<a class="prev" href="{{ .Paginator.Prev.URL }}">Newer Posts</a>
-	{{- end -}}
-
-	{{- if .Paginator.HasNext -}}
-		<a class="next" href="{{ .Paginator.Next.URL }}">Older Posts</a>
-	{{- end -}}
-	</div>
-{{- end -}}
+{{ partial "pagination-links.html" . }}
 
 {{ end }}

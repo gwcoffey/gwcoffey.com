@@ -1,5 +1,5 @@
 ---
-title: "MacLane Bot on Mastodon"
+title: "Mary MacLane Bot on Mastodon"
 date: 2023-01-23
 menu: Projects
 menuTitle: "maclanebot"

@@ -453,7 +453,6 @@ main figure img, main figure video {
   display: block;
   margin: 0 auto;
   max-width: 100%;
-  max-height: 700px;
 }
 
 main figure img:not(+ figcaption), main figure video:not(+ figcaption) {
@@ -815,8 +814,6 @@ ol.booklist li span.format {
 }
 
 .post-preview figure img, .post-preview figure video {
-  max-height: 200px;
-  max-width: 700px;
   margin: 0;
   border: 1px solid #eee;
 }

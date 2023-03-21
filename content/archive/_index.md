@@ -4,6 +4,5 @@ menu: About
 menuTitle: "archive"
 weight: 5
 hidden: true
+crumb: false
 ---
-
-This is an archive of older personal sites, blogs, and social media posts.

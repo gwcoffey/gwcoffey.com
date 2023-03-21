@@ -6,7 +6,7 @@
       translator: Katherine Kernberger
     
     - id: peripheral
-      format: print
+      format: audio
       
     - id: three-minutes
       format: print
