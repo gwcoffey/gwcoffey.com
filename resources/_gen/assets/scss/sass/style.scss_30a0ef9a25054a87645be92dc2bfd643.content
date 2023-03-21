@@ -576,6 +576,37 @@ main hgroup p.crumb a:hover {
   color: var(--active-link-text-color);
 }
 
+main .paginator-links {
+  margin-top: 3em;
+  font-family: var(--mono-font);
+}
+
+main .paginator-links:has(.next) {
+  text-align: right;
+}
+
+main .paginator-links a {
+  color: #999;
+  text-decoration: none;
+}
+
+main .paginator-links a:hover {
+  text-decoration: underline;
+}
+
+main .paginator-links a.prev:before {
+  content: "< ";
+}
+
+main .paginator-links a.next {
+  display: inline-block;
+  margin-left: 2ex;
+}
+
+main .paginator-links a.next:after {
+  content: " >";
+}
+
 /* HEADER: 
    style the site header */
 header h2 {
@@ -737,6 +768,61 @@ ol.booklist li p.review {
 ol.booklist li span.format {
   color: #777;
   font-size: smaller;
+}
+
+.post-preview {
+  display: flex;
+  margin-top: 20px;
+}
+
+.post-preview .icon {
+  width: 40px;
+  margin-right: 12px;
+}
+
+.post-preview .content {
+  flex: 1;
+}
+
+.post-preview h4 {
+  margin: 0 0 4px 0;
+}
+
+.post-preview .byline {
+  font-family: var(--mono-font);
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+}
+
+.post-preview .byline, .post-preview .byline a {
+  color: var(--deemphasized-text-color);
+}
+
+.post-preview .images {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.post-preview .summary > p {
+  margin-top: 0;
+}
+
+.post-preview figure {
+  border: none;
+  box-shadow: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-preview figure img, .post-preview figure video {
+  max-height: 200px;
+  max-width: 700px;
+  margin: 0;
+  border: 1px solid #eee;
+}
+
+.post-preview figure figcaption {
+  display: none;
 }
 
 article hgroup {

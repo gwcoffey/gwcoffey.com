@@ -6,4 +6,4 @@ id: '1530059248'
 
 https://web.archive.org/web/20180624102200/http://icecreamsandwichcomics.com/post/157923361474/you-are-only-making-him-more-powerful-full-image
 
-{{< ed "The original tumbl account no longer exists so I updated this link to point to archive.org." >}}
+{{< ed "The original tumblr account no longer exists so I updated this link to point to archive.org." >}}

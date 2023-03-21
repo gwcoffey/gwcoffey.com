@@ -2,10 +2,20 @@
 
 {{ .Content }}
 
-<ul>
-{{ range .Pages }}
-{{ partial "page-summary.html" . }}
+{{ range .Paginator.Pages }}
+{{ partial "post-preview.html" . }}
 {{ end }}
-</ul>
+
+{{- if (or .Paginator.HasPrev .Paginator.HasNext) -}}
+	<div class="paginator-links">
+	{{- if .Paginator.HasPrev -}}
+		<a class="prev" href="{{ .Paginator.Prev.URL }}">Newer Posts</a>
+	{{- end -}}
+
+	{{- if .Paginator.HasNext -}}
+		<a class="next" href="{{ .Paginator.Next.URL }}">Older Posts</a>
+	{{- end -}}
+	</div>
+{{- end -}}
 
 {{ end }}

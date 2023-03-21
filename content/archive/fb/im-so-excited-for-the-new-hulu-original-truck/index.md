@@ -4,7 +4,7 @@ archive: fb
 id: '1526831127'
 ---
 
-Iâm so excited for the new Hulu Original, "Truck Clattering".
+I'm so excited for the new Hulu Original, "Truck Clattering".
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

@@ -36,10 +36,42 @@ main {
     		a {
     			color: #999;
     			
-    			&:hover {
+				&:hover {
     				color: var(--active-link-text-color);
     			}
     		}
+    	}
+    }
+    
+    .paginator-links {
+    	margin-top: 3em;
+		font-family: var(--mono-font);
+
+    	&:has(.next) {
+	    	text-align: right;
+		}
+
+		a {
+			color: #999;
+			text-decoration: none;
+			
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+		
+    	a.prev {
+    		&:before {
+	    		content: "< ";
+	    	}
+    	}
+
+    	a.next {
+    		display: inline-block;
+    		margin-left: 2ex;
+    		&:after {
+	    		content: " >";
+	    	}
     	}
     }
 }

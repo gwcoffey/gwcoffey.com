@@ -6,6 +6,6 @@ id: '1493150508'
 
 Amazing. 
 
-http://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant
+[An artificial womb successfully grew baby sheep — and humans could be next]( http://www.theverge.com/2017/4/25/15421734/artificial-womb-fetus-biobag-uterus-lamb-sheep-birth-premie-preterm-infant)
 
 (Slightly misleading headline... sheep was not grown from an embryo. Rather, premature sheep babies were incubated to a more viable age, which is the point of this research.)

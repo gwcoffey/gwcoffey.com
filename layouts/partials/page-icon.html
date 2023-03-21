@@ -1,0 +1,19 @@
+<img 
+{{ if eq (.Param "archive") "listapp" }}
+src="/img/sites/listapp.png"
+{{ else if eq (.Param "archive") "posterous" }}
+src="/img/sites/posterous.png"
+{{ else if eq (.Param "archive") "sfr" }}
+src="/img/sites/sfr.png"
+{{ else if eq (.Param "archive") "advisor" }}
+src="/img/sites/fmadvisor.png"
+{{ else if eq (.Param "archive") "macaddict" }}
+src="/img/sites/macaddict.png"
+{{ else if eq (.Param "archive") "forhire" }}
+src="/img/sites/gwcoffey.png"
+{{ else if eq (.Param "archive") "fb" }}
+src="/img/sites/facebook.png"
+{{ else }}
+src="/img/sites/gwcoffey.png"
+{{ end }}
+width="40" height="40">

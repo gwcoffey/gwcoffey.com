@@ -1,0 +1,24 @@
+<div class="post-preview">
+
+	<div class="icon">
+		{{ partial "page-icon" . }}
+	</div>
+
+	{{ if eq (.Param "archive") "fb" }}
+	<div class="content fb">
+		<div class="byline">
+			<a href="{{.Permalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
+		</div>
+		<div class="summary">{{ .Content }}</div>
+	</div>
+	{{ else }}
+	<div class="content">
+		<h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+		<div class="byline">
+			<time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time>
+		</div>
+		<p class="summary">{{ .Summary }}</p>
+	</div>
+	{{ end }}
+	
+</div>

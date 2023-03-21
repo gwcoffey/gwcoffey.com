@@ -5,4 +5,5 @@ id: '1530893191'
 ---
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
+{{< fb/image src="image-2.jpg" />}}
 {{< /fb/images >}}
