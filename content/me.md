@@ -2,9 +2,8 @@
 title: Contact
 menu: About
 weight: 1
+hidden: true
 ---
-
-# Contact
 
 Hello! I'm **Geoff Coffey**. I'm a husband and father, a software engineer, an avid reader, an author, and a hobbyist writer and programmer.
 

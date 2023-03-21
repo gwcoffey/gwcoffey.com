@@ -1,10 +1,11 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-
 {{ .Content }}
 
-{{- $pages := .Pages -}}
+{{- $pages := .Site.RegularPages -}}
+{{- $pages := where $pages ".Params.archive" "!=" "fb" -}}
+{{- $pages := where $pages ".Params.archive" "!=" "listapp" -}}
+{{- $pages := where $pages ".Params.hidden" "!=" true -}}
 
 {{ range (.Paginate $pages).Pages }}
 {{ partial "post-preview.html" . }}
@@ -23,3 +24,4 @@
 {{- end -}}
 
 {{ end }}
+

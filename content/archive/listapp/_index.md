@@ -1,9 +1,8 @@
 ---
 title: The List App Archive
-date: 2023-02-05
+date: 2017-08-21
+icon: listapp
 ---
-
-# The List App Archive 
 
 [The List App][tla], later rebranded *li.st*, was a short-lived social media app from, of all people, BJ Novak of The Office fame. A friend of mine who's way more looped in to this kind of thing than I am sent me an invitation during the pre-release beta period, when The List App was tiny and finding its footing. 
 

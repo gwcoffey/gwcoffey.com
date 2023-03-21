@@ -1,17 +1,19 @@
+{{- $icon := or (.Param "archive") (.Param "icon") -}}
+
 <img 
-{{ if eq (.Param "archive") "listapp" }}
+{{ if eq $icon "listapp" }}
 src="/img/sites/listapp.png"
-{{ else if eq (.Param "archive") "posterous" }}
+{{ else if eq $icon "posterous" }}
 src="/img/sites/posterous.png"
-{{ else if eq (.Param "archive") "sfr" }}
+{{ else if eq $icon "sfr" }}
 src="/img/sites/sfr.png"
-{{ else if eq (.Param "archive") "advisor" }}
+{{ else if eq $icon "advisor" }}
 src="/img/sites/fmadvisor.png"
-{{ else if eq (.Param "archive") "macaddict" }}
+{{ else if eq $icon "macaddict" }}
 src="/img/sites/macaddict.png"
-{{ else if eq (.Param "archive") "forhire" }}
+{{ else if eq $icon "forhire" }}
 src="/img/sites/gwcoffey.png"
-{{ else if eq (.Param "archive") "fb" }}
+{{ else if eq $icon "fb" }}
 src="/img/sites/facebook.png"
 {{ else }}
 src="/img/sites/gwcoffey.png"
