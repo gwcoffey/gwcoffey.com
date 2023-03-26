@@ -1,6 +1,9 @@
 ---
 - year: 2023
   readings:
+    - id: hello-beautiful
+      format: audio
+
     - id: interesting-book
       format: print
       translator: Katherine Kernberger
