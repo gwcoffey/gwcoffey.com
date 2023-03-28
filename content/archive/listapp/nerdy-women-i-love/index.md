@@ -1,5 +1,5 @@
 ---
-title: "NERDY WOMEN I LOVE \U0001F913\U0001F483\U0001F3FB"
+title: "Nerdy Women I Love \U0001F913\U0001F483\U0001F3FB"
 date: '2016-03-08T17:24:15+00:00'
 archive: listapp
 likeCount: 22

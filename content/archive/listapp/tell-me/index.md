@@ -1,5 +1,5 @@
 ---
-title: TELL ME
+title: Tell Me
 date: '2015-11-28T20:53:11+00:00'
 archive: listapp
 weblog: false

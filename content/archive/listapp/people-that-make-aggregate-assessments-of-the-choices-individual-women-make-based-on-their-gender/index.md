@@ -1,6 +1,6 @@
 ---
-title: PEOPLE THAT MAKE AGGREGATE ASSESSMENTS OF THE CHOICES INDIVIDUAL WOMEN MAKE
-  BASED ON THEIR GENDER
+title: People That Make Aggregate Assessments of the Choices Individual Women Make
+  Based on Their Gender
 date: '2016-02-16T05:56:17+00:00'
 archive: listapp
 weblog: false

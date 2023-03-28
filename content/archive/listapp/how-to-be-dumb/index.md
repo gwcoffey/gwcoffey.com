@@ -1,5 +1,5 @@
 ---
-title: HOW TO BE DUMB
+title: How to Be Dumb
 date: '2016-02-22T01:49:06+00:00'
 archive: listapp
 weblog: false

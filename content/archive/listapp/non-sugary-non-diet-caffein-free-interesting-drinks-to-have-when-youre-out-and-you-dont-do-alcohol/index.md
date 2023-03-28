@@ -1,6 +1,6 @@
 ---
-title: NON-SUGARY NON-DIET CAFFEIN FREE INTERESTING DRINKS TO HAVE WHEN YOU'RE OUT
-  AND YOU DON'T DO ALCOHOL
+title: Non-Sugary Non-Diet Caffein Free Interesting Drinks to Have When You're Out
+  and You Don't Do Alcohol
 date: '2016-03-31T04:53:40+00:00'
 archive: listapp
 weblog: false

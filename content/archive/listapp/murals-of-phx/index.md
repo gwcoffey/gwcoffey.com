@@ -1,5 +1,5 @@
 ---
-title: MURALS OF PHX
+title: Murals of Phx
 date: '2016-01-24T21:33:50+00:00'
 archive: listapp
 weblog: false

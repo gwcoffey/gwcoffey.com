@@ -1,5 +1,5 @@
 ---
-title: CONSTITUTIONAL AMENDMENTS I WOULD SUPPORT
+title: Constitutional Amendments I Would Support
 date: '2015-06-26T19:38:10+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THINGS THAT WILL PASS IN TIME
+title: Things That Will Pass in Time
 date: '2016-02-09T05:08:29+00:00'
 archive: listapp
 weblog: false

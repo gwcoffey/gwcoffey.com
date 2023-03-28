@@ -1,5 +1,5 @@
 ---
-title: PHINEAS AND FERB HAS BETTER MUSIC THAN FROZEN
+title: Phineas and Ferb Has Better Music Than Frozen
 date: '2016-01-31T03:31:50+00:00'
 archive: listapp
 weblog: false

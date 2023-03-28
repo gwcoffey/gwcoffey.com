@@ -1,5 +1,5 @@
 ---
-title: FAVORITE WEB SITES
+title: Favorite Web Sites
 date: '2015-08-30T00:53:06+00:00'
 archive: listapp
 likeCount: 9

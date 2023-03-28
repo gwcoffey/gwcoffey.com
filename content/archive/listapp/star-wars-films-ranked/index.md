@@ -1,5 +1,5 @@
 ---
-title: STAR WARS FILMS RANKED
+title: Star Wars Films Ranked
 date: '2015-10-03T19:23:16+00:00'
 archive: listapp
 weblog: false

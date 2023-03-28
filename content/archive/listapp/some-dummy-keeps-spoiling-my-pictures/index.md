@@ -1,5 +1,5 @@
 ---
-title: SOME DUMMY KEEPS SPOILING MY PICTURES
+title: Some Dummy Keeps Spoiling My Pictures
 date: '2016-03-23T20:23:58+00:00'
 archive: listapp
 weblog: false

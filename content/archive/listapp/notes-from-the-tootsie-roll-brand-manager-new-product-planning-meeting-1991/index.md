@@ -1,5 +1,5 @@
 ---
-title: NOTES FROM THE TOOTSIE ROLL BRAND MANAGER NEW PRODUCT PLANNING MEETING, 1991
+title: Notes From the Tootsie Roll Brand Manager New Product Planning Meeting, 1991
 date: '2015-12-15T21:16:56+00:00'
 archive: listapp
 weblog: false

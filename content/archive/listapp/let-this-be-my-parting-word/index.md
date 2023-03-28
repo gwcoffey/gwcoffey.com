@@ -1,5 +1,5 @@
 ---
-title: LET THIS BE MY PARTING WORD
+title: Let This Be My Parting Word
 date: '2016-03-31T15:38:37+00:00'
 archive: listapp
 likeCount: 22

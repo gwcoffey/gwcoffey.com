@@ -1,5 +1,5 @@
 ---
-title: "IF I COULD DO IT ALL OVER AGAIN... \U0001F519"
+title: "If I Could Do It All Over Again... \U0001F519"
 date: '2016-01-22T23:24:34+00:00'
 archive: listapp
 weblog: false

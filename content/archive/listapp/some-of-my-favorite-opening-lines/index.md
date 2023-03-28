@@ -1,5 +1,5 @@
 ---
-title: SOME OF MY FAVORITE OPENING LINES
+title: Some of My Favorite Opening Lines
 date: '2015-06-02T15:51:00+00:00'
 archive: listapp
 likeCount: 28

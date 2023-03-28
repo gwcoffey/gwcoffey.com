@@ -1,5 +1,5 @@
 ---
-title: "IF SOMEONE SENT ME MY IDEAL CARE PACKAGE, THIS IS WHAT WOULD BE INSIDE \U0001F49A\U0001F4E6"
+title: "If Someone Sent Me My Ideal Care Package, This Is What Would Be Inside \U0001F49A\U0001F4E6"
 date: '2016-01-30T15:53:20+00:00'
 archive: listapp
 weblog: false

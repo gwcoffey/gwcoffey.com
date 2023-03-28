@@ -1,5 +1,5 @@
 ---
-title: UNDERSTANDING THE APPLE/FBI ENCRYPTION DEBATE
+title: Understanding the Apple/FBI Encryption Debate
 date: '2016-02-18T17:22:07+00:00'
 archive: listapp
 likeCount: 57

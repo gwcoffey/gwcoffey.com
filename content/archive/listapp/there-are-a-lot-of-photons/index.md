@@ -1,5 +1,5 @@
 ---
-title: THERE ARE A LOT OF PHOTONS
+title: There Are a Lot of Photons
 date: '2015-12-08T21:07:46+00:00'
 archive: listapp
 weblog: false

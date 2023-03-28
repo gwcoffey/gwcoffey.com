@@ -1,6 +1,6 @@
 ---
-title: PEOPLE WHO MENTIONED THAT I PUT A PICTURE FROM WHEN HARRY MET SALLY IN MY PRINCESS
-  LEIA HAIRDO LIST
+title: People Who Mentioned That I Put a Picture From When Harry Met Sally in My Princess
+  Leia Hairdo List
 date: '2015-10-17T03:22:11+00:00'
 archive: listapp
 weblog: false

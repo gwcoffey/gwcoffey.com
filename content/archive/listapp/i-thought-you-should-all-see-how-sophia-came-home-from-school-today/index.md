@@ -1,5 +1,5 @@
 ---
-title: I THOUGHT YOU SHOULD ALL SEE HOW SOPHIA CAME HOME FROM SCHOOL TODAY
+title: I Thought You Should All See How Sophia Came Home From School Today
 date: '2016-03-31T00:34:59+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: AN OPINIONATED LIST OF THINGS THAT DON'T BELONG ON THINGS
+title: An Opinionated List of Things That Don't Belong on Things
 date: '2015-06-07T00:37:00+00:00'
 archive: listapp
 weblog: false

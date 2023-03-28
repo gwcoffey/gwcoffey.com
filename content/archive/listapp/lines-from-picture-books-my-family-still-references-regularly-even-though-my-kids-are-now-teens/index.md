@@ -1,6 +1,6 @@
 ---
-title: LINES FROM PICTURE BOOKS MY FAMILY STILL REFERENCES REGULARLY EVEN THOUGH MY
-  KIDS ARE NOW TEENS
+title: Lines From Picture Books My Family Still References Regularly Even Though My
+  Kids Are Now Teens
 date: '2015-06-27T01:42:41+00:00'
 archive: listapp
 likeCount: 14

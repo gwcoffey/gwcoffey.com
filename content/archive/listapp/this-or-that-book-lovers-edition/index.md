@@ -1,5 +1,5 @@
 ---
-title: 'THIS OR THAT: BOOK LOVERS EDITION'
+title: 'This or That: Book Lovers Edition'
 date: '2016-04-07T16:54:42+00:00'
 archive: listapp
 likeCount: 20

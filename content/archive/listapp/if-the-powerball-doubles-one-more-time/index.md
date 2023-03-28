@@ -1,5 +1,5 @@
 ---
-title: IF THE POWERBALL DOUBLES ONE MORE TIME...
+title: If the Powerball Doubles One More Time...
 date: '2016-01-11T18:14:14+00:00'
 archive: listapp
 weblog: false

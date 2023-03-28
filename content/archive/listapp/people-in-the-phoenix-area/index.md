@@ -1,5 +1,5 @@
 ---
-title: PEOPLE IN THE PHOENIX AREA
+title: People in the Phoenix Area
 date: '2015-10-23T04:54:58+00:00'
 archive: listapp
 weblog: false

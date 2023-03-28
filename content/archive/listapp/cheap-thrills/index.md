@@ -1,5 +1,5 @@
 ---
-title: CHEAP THRILLS
+title: Cheap Thrills
 date: '2016-02-19T20:35:12+00:00'
 archive: listapp
 weblog: false

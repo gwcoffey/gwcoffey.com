@@ -1,5 +1,5 @@
 ---
-title: LIST OF THE BEST LISTS LISTS ON THE LIST APP
+title: List of the Best Lists Lists on the List App
 date: '2015-10-22T18:42:21+00:00'
 archive: listapp
 weblog: false

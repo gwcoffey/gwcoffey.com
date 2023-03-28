@@ -1,5 +1,5 @@
 ---
-title: THINGS PEOPLE LIKE MORE THAN I LIKE ANYTHING
+title: Things People Like More Than I Like Anything
 date: '2015-07-20T16:56:09+00:00'
 archive: listapp
 weblog: false

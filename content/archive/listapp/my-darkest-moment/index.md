@@ -1,5 +1,5 @@
 ---
-title: MY DARKEST MOMENT ⚫️
+title: My Darkest Moment ⚫️
 date: '2016-01-02T17:35:53+00:00'
 archive: listapp
 weblog: false

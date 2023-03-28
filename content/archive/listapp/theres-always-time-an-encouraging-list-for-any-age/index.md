@@ -1,5 +1,5 @@
 ---
-title: 'THERE''S ALWAYS TIME: AN ENCOURAGING LIST FOR ANY AGE'
+title: 'There''s Always Time: An Encouraging List for Any Age'
 date: '2015-05-25T18:12:20+00:00'
 archive: listapp
 likeCount: 44

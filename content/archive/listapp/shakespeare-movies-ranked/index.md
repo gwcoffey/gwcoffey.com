@@ -1,5 +1,5 @@
 ---
-title: SHAKESPEARE MOVIES RANKED
+title: Shakespeare Movies Ranked
 date: '2015-07-11T01:46:54+00:00'
 archive: listapp
 likeCount: 14

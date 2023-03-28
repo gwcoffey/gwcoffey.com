@@ -1,5 +1,5 @@
 ---
-title: WHAT I WANTED TO BE GROWING UP, CHRONOLOGICALLY
+title: What I Wanted to Be Growing Up, Chronologically
 date: '2015-05-27T14:58:52+00:00'
 archive: listapp
 likeCount: 11

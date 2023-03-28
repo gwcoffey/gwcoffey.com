@@ -1,5 +1,5 @@
 ---
-title: BOOKS I REMEMBER FONDLY FROM MY CHILDHOOD
+title: Books I Remember Fondly From My Childhood
 date: '2015-08-13T05:47:57+00:00'
 archive: listapp
 likeCount: 11

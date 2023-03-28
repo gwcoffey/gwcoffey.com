@@ -1,5 +1,5 @@
 ---
-title: THINGS THE HOLY ROMAN EMPIRE WAS NOT, ACCORDING TO VOLTAIRE
+title: Things the Holy Roman Empire Was Not, According to Voltaire
 date: '2016-01-24T21:19:59+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THINGS I'D DO TO TRY AND CHEER YOU UP ☀️
+title: Things I'd Do to Try and Cheer You Up ☀️
 date: '2015-12-31T03:52:12+00:00'
 archive: listapp
 weblog: false

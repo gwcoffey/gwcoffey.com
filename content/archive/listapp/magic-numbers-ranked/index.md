@@ -1,5 +1,5 @@
 ---
-title: MAGIC NUMBERS, RANKED
+title: Magic Numbers, Ranked
 date: '2015-10-27T14:15:10+00:00'
 archive: listapp
 likeCount: 10

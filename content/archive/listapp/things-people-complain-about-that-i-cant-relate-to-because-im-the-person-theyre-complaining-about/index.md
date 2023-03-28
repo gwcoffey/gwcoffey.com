@@ -1,6 +1,6 @@
 ---
-title: THINGS PEOPLE COMPLAIN ABOUT THAT I CAN'T RELATE TO BECAUSE I'M THE PERSON
-  THEY'RE COMPLAINING ABOUT
+title: Things People Complain About That I Can't Relate to Because I'm the Person
+  They're Complaining About
 date: '2016-03-31T21:39:18+00:00'
 archive: listapp
 weblog: false

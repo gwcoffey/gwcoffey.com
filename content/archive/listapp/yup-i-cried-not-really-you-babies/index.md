@@ -1,5 +1,5 @@
 ---
-title: YUP, I CRIED (NOT REALLY YOU BABIES)
+title: Yup, I Cried (Not Really You Babies)
 date: '2016-03-28T18:46:50+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THINGS I WISH I KNEW MORE ABOUT
+title: Things I Wish I Knew More About
 date: '2016-01-12T00:54:22+00:00'
 archive: listapp
 weblog: false

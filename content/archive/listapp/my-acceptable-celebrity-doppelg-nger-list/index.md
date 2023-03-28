@@ -1,5 +1,5 @@
 ---
-title: MY ACCEPTABLE CELEBRITY DOPPELGÄNGER LIST
+title: My Acceptable Celebrity Doppelgänger List
 date: '2016-02-23T18:00:15+00:00'
 archive: listapp
 weblog: false

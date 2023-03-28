@@ -1,5 +1,5 @@
 ---
-title: MY FUTURE WIFE
+title: My Future Wife
 date: '2015-06-28T04:40:00+00:00'
 archive: listapp
 likeCount: 132

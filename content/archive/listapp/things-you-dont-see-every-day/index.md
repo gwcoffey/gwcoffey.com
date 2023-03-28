@@ -1,5 +1,5 @@
 ---
-title: THINGS YOU DON'T SEE EVERY DAY
+title: Things You Don't See Every Day
 date: '2016-01-13T01:32:40+00:00'
 archive: listapp
 weblog: false

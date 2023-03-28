@@ -1,5 +1,5 @@
 ---
-title: THE "HAN SHOT FIRST" SCENE IF GREEDO WERE REPLACED BY AN AGING JAR JAR BINKS
+title: The "Han Shot First" Scene if Greedo Were Replaced by an Aging Jar Jar Binks
 date: '2016-03-10T17:31:15+00:00'
 archive: listapp
 likeCount: 24

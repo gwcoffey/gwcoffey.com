@@ -1,5 +1,5 @@
 ---
-title: REASONS LIST APP NEEDS DIRECT MESSAGING
+title: Reasons List App Needs Direct Messaging
 date: '2015-10-06T06:38:06+00:00'
 archive: listapp
 weblog: false

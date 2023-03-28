@@ -1,5 +1,5 @@
 ---
-title: SOME OF MY FAVORITE LITERARY CONCEITS
+title: Some of My Favorite Literary Conceits
 date: '2015-10-31T19:37:12+00:00'
 archive: listapp
 likeCount: 14

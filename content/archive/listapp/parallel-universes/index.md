@@ -1,5 +1,5 @@
 ---
-title: PARALLEL UNIVERSES
+title: Parallel Universes
 date: '2015-09-06T15:46:11+00:00'
 archive: listapp
 weblog: false

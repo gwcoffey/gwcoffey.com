@@ -1,5 +1,5 @@
 ---
-title: IF I WON THE POWER BALL...
+title: If I Won the Power Ball...
 date: '2016-01-11T20:40:42+00:00'
 archive: listapp
 weblog: false

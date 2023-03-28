@@ -1,5 +1,5 @@
 ---
-title: WHAT I LOVE ABOUT MUSIC
+title: What I Love About Music
 date: '2016-04-08T01:20:32+00:00'
 archive: listapp
 weblog: false

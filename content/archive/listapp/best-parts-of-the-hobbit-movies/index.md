@@ -1,5 +1,5 @@
 ---
-title: BEST PARTS OF THE HOBBIT MOVIES
+title: Best Parts of the Hobbit Movies
 date: '2015-10-31T19:49:32+00:00'
 archive: listapp
 weblog: false

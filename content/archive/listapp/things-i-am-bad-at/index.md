@@ -1,5 +1,5 @@
 ---
-title: THINGS I AM BAD AT
+title: Things I Am Bad At
 date: '2016-04-01T19:48:43+00:00'
 archive: listapp
 weblog: false

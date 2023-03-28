@@ -1,5 +1,5 @@
 ---
-title: FUN WITH PANORAMA MODE
+title: Fun With Panorama Mode
 date: '2016-03-16T06:49:48+00:00'
 archive: listapp
 weblog: false

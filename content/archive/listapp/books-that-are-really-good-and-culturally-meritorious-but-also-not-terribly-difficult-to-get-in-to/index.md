@@ -1,6 +1,6 @@
 ---
-title: BOOKS THAT ARE REALLY GOOD AND CULTURALLY MERITORIOUS, BUT ALSO NOT TERRIBLY
-  DIFFICULT TO GET IN TO
+title: Books That Are Really Good and Culturally Meritorious, but Also Not Terribly
+  Difficult to Get in To
 date: '2015-10-15T07:31:37+00:00'
 archive: listapp
 weblog: false

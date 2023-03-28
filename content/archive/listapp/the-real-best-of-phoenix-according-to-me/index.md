@@ -1,5 +1,5 @@
 ---
-title: THE REAL BEST OF PHOENIX ACCORDING TO ME
+title: The Real Best of Phoenix According to Me
 date: '2015-08-10T01:03:25+00:00'
 archive: listapp
 likeCount: 11

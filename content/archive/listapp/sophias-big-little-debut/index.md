@@ -1,5 +1,5 @@
 ---
-title: SOPHIA'S BIG (LITTLE) DEBUT
+title: Sophia's Big (Little) Debut
 date: '2015-10-11T18:43:04+00:00'
 archive: listapp
 weblog: false

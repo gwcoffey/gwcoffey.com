@@ -1,6 +1,6 @@
 ---
-title: PAPER BOOKS I STILL OWN RANKED BY HOW LIKELY I'D BE TO GRAB THEM IF MY HOUSE
-  CAUGHT FIRE
+title: Paper Books I Still Own Ranked by How Likely I'd Be to Grab Them if My House
+  Caught Fire
 date: '2016-04-04T18:15:34+00:00'
 archive: listapp
 likeCount: 40

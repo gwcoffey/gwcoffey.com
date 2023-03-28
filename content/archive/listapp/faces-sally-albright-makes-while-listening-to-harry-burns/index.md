@@ -1,5 +1,5 @@
 ---
-title: FACES SALLY ALBRIGHT MAKES WHILE LISTENING TO HARRY BURNS
+title: Faces Sally Albright Makes While Listening to Harry Burns
 date: '2016-01-01T05:44:20+00:00'
 archive: listapp
 likeCount: 59

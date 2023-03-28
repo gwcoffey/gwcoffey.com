@@ -1,5 +1,5 @@
 ---
-title: QUESTIONS FOR LIST APP PROS
+title: Questions for List App Pros
 date: '2015-05-26T03:49:18+00:00'
 archive: listapp
 weblog: false

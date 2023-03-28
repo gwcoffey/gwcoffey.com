@@ -1,5 +1,5 @@
 ---
-title: REASONS TO EAT LUNCH AT PANERA WHILE MY HOUSE IS UNINHABITABLE
+title: Reasons to Eat Lunch at Panera While My House Is Uninhabitable
 date: '2015-08-06T19:16:39+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: MY MASTERS CLUB DINNER MENU
+title: My Masters Club Dinner Menu
 date: '2016-04-06T23:38:25+00:00'
 archive: listapp
 weblog: false

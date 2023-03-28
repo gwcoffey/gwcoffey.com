@@ -1,5 +1,5 @@
 ---
-title: "MY COSTCO SHOPPING LIST IN THE VOICE OF OWEN MEANY \U0001F465"
+title: "My Costco Shopping List in the Voice of Owen Meany \U0001F465"
 date: '2016-01-27T05:44:23+00:00'
 archive: listapp
 likeCount: 20

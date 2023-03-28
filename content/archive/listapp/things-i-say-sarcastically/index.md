@@ -1,5 +1,5 @@
 ---
-title: THINGS I SAY SARCASTICALLY
+title: Things I Say Sarcastically
 date: '2015-08-13T17:01:01+00:00'
 archive: listapp
 weblog: false

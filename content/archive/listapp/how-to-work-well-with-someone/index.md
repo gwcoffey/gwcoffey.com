@@ -1,5 +1,5 @@
 ---
-title: HOW TO WORK WELL WITH SOMEONE
+title: How to Work Well With Someone
 date: '2016-04-01T04:02:41+00:00'
 archive: listapp
 likeCount: 27

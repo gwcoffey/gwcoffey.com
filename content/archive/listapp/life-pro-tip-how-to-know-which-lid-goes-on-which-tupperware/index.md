@@ -1,5 +1,5 @@
 ---
-title: 'LIFE PRO TIP: HOW TO KNOW WHICH LID GOES ON WHICH TUPPERWARE'
+title: 'Life Pro Tip: How to Know Which Lid Goes on Which Tupperware'
 date: '2015-10-24T17:18:09+00:00'
 archive: listapp
 weblog: false

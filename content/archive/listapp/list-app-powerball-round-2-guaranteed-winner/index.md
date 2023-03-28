@@ -1,5 +1,5 @@
 ---
-title: LIST APP POWERBALL ROUND 2! GUARANTEED WINNER!
+title: List App Powerball Round 2! Guaranteed Winner!
 date: '2016-01-10T02:56:43+00:00'
 archive: listapp
 weblog: false

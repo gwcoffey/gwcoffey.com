@@ -1,5 +1,5 @@
 ---
-title: MOVIES THAT ARE ACTUALLY SURPRISINGLY SUPER AWESOME
+title: Movies That Are Actually Surprisingly Super Awesome
 date: '2016-04-16T19:34:26+00:00'
 archive: listapp
 weblog: false

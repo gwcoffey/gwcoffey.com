@@ -1,5 +1,5 @@
 ---
-title: SOME FUN PARADOXES, RANKED
+title: Some Fun Paradoxes, Ranked
 date: '2015-10-30T04:08:43+00:00'
 archive: listapp
 weblog: false

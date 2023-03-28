@@ -1,5 +1,5 @@
 ---
-title: HOW TO LOVE (ALMOST) ANYBODY IN FOUR EASY STEPS
+title: How to Love (Almost) Anybody in Four Easy Steps
 date: '2015-10-27T23:25:07+00:00'
 archive: listapp
 likeCount: 57

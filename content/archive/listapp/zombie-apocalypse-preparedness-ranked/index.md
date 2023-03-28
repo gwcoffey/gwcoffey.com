@@ -1,5 +1,5 @@
 ---
-title: ZOMBIE APOCALYPSE PREPAREDNESS RANKED
+title: Zombie Apocalypse Preparedness Ranked
 date: '2015-08-28T18:47:25+00:00'
 archive: listapp
 weblog: false

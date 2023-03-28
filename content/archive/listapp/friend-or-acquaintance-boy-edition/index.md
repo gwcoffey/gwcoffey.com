@@ -1,5 +1,5 @@
 ---
-title: FRIEND OR ACQUAINTANCE? (BOY EDITION)
+title: Friend or Acquaintance? (Boy Edition)
 date: '2015-10-23T15:56:20+00:00'
 archive: listapp
 weblog: false

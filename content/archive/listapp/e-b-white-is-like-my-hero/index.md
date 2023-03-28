@@ -1,5 +1,5 @@
 ---
-title: E.B. WHITE IS LIKE MY HERO
+title: E.B. White Is Like My Hero
 date: '2015-12-15T18:28:27+00:00'
 archive: listapp
 likeCount: 40

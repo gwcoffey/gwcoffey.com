@@ -1,5 +1,5 @@
 ---
-title: THINGS I WON'T APOLOGIZE FOR
+title: Things I Won't Apologize For
 date: '2016-03-30T15:53:42+00:00'
 archive: listapp
 weblog: false

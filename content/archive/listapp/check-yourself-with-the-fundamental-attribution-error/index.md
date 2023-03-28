@@ -1,5 +1,5 @@
 ---
-title: CHECK YOURSELF WITH THE FUNDAMENTAL ATTRIBUTION ERROR
+title: Check Yourself With the Fundamental Attribution Error
 date: '2016-01-14T15:16:35+00:00'
 archive: listapp
 likeCount: 115

@@ -1,5 +1,5 @@
 ---
-title: NOTA CULTURAL
+title: Nota Cultural
 date: '2016-02-16T17:36:52+00:00'
 archive: listapp
 likeCount: 20

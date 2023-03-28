@@ -1,5 +1,5 @@
 ---
-title: PERFECT FICTIONAL MOMENTS
+title: Perfect Fictional Moments
 date: '2015-06-20T18:46:12+00:00'
 archive: listapp
 likeCount: 15

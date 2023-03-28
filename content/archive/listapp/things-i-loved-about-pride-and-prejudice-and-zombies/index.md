@@ -1,5 +1,5 @@
 ---
-title: THINGS I LOVED ABOUT PRIDE AND PREJUDICE AND ZOMBIES
+title: Things I Loved About Pride and Prejudice and Zombies
 date: '2016-02-07T02:25:53+00:00'
 archive: listapp
 likeCount: 25

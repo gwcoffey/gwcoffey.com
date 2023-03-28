@@ -1,5 +1,5 @@
 ---
-title: THE PHONETIC SPELLING OF YOUR NAME POR FAVOR (HOW YOU PRONOUNCE)
+title: The Phonetic Spelling of Your Name Por Favor (How You Pronounce)
 date: '2016-03-28T03:34:31+00:00'
 archive: listapp
 weblog: false

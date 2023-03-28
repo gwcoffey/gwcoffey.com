@@ -1,5 +1,5 @@
 ---
-title: 'WORLD TEACHER''S DAY: THE TEACHERS THAT IMPACTED ME THE MOST'
+title: 'World Teacher''s Day: The Teachers That Impacted Me the Most'
 date: '2015-10-06T06:27:26+00:00'
 archive: listapp
 likeCount: 9

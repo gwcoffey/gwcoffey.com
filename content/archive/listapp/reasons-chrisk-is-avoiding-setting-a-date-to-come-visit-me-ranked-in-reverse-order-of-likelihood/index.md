@@ -1,6 +1,6 @@
 ---
-title: REASONS @CHRISK IS AVOIDING SETTING A DATE TO COME VISIT ME, RANKED IN REVERSE
-  ORDER OF LIKELIHOOD
+title: Reasons @chrisk Is Avoiding Setting a Date to Come Visit Me, Ranked in Reverse
+  Order of Likelihood
 date: '2015-05-24T23:15:52+00:00'
 archive: listapp
 weblog: false

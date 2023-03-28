@@ -1,6 +1,6 @@
 ---
-title: THOUGHTS AS I TRY TO FIND THE EMERGENCY ROOM OF THIS HOSPITAL FROM THE PARKING
-  GARAGE
+title: Thoughts as I Try to Find the Emergency Room of This Hospital From the Parking
+  Garage
 date: '2015-10-03T03:47:23+00:00'
 archive: listapp
 weblog: false

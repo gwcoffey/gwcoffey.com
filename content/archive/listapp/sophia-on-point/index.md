@@ -1,5 +1,5 @@
 ---
-title: SOPHIA ON POINT
+title: Sophia on Point
 date: '2015-06-30T02:37:44+00:00'
 archive: listapp
 likeCount: 31

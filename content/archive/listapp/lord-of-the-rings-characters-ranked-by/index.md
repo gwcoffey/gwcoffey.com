@@ -1,5 +1,5 @@
 ---
-title: LORD OF THE RINGS CHARACTERS RANKED BY ¯\_(ツ)_/¯
+title: Lord of the Rings Characters Ranked by ¯\_(ツ)_/¯
 date: '2016-02-04T00:48:46+00:00'
 archive: listapp
 likeCount: 25

@@ -1,5 +1,5 @@
 ---
-title: "MY FIVE MINUTES OF FAME \U0001F60E"
+title: "My Five Minutes of Fame \U0001F60E"
 date: '2016-01-16T05:37:46+00:00'
 archive: listapp
 likeCount: 45

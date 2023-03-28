@@ -1,5 +1,5 @@
 ---
-title: POSSIBLE REASONS I SWITCHED FROM VERIZON TO T-MOBILE
+title: Possible Reasons I Switched From Verizon to T-Mobile
 date: '2015-10-26T21:17:35+00:00'
 archive: listapp
 weblog: false

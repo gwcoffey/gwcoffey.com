@@ -1,5 +1,5 @@
 ---
-title: FAVORITE MOVIES BY MY LEAST FAVORITE DIRECTORS
+title: Favorite Movies by My Least Favorite Directors
 date: '2015-07-19T01:53:26+00:00'
 archive: listapp
 weblog: false

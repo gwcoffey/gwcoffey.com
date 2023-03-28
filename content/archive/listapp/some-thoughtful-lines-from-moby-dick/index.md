@@ -1,5 +1,5 @@
 ---
-title: SOME THOUGHTFUL LINES FROM MOBY–DICK
+title: Some Thoughtful Lines From Moby–Dick
 date: '2015-10-30T20:39:07+00:00'
 archive: listapp
 likeCount: 34

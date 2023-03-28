@@ -1,5 +1,5 @@
 ---
-title: POSSIBLE MOODS OF AMERICAN AIRLINES EMPLOYEES
+title: Possible Moods of American Airlines Employees
 date: '2015-11-04T00:13:07+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: SOME OF MY FAVORITE STUFF FROM THE OLD TESTAMENT
+title: Some of My Favorite Stuff From the Old Testament
 date: '2016-02-18T14:08:53+00:00'
 archive: listapp
 weblog: false

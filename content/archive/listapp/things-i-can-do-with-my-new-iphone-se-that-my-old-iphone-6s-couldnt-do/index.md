@@ -1,5 +1,5 @@
 ---
-title: THINGS I CAN DO WITH MY NEW IPHONE SE THAT MY OLD IPHONE 6S COULDN'T DO
+title: Things I Can Do With My New iPhone SE That My Old iPhone 6S Couldn't Do
 date: '2016-04-17T21:01:01+00:00'
 archive: listapp
 weblog: false

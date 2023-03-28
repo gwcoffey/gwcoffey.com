@@ -1,5 +1,5 @@
 ---
-title: REASONS TO CUT YOUR BUTTERMILK BISCUITS IN RECTANGLES INSTEAD OF CIRCLES
+title: Reasons to Cut Your Buttermilk Biscuits in Rectangles Instead of Circles
 date: '2015-05-19T02:36:31+00:00'
 archive: listapp
 likeCount: 24

@@ -1,5 +1,5 @@
 ---
-title: THINGS I SAID TO MY DAUGHTER TO TALK HER OUT OF MAKING ME TAKE HER TO MINIONS
+title: Things I Said to My Daughter to Talk Her Out of Making Me Take Her to Minions
 date: '2015-08-04T00:04:30+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THINGS @IMC JUST DID
+title: Things @imc Just Did
 date: '2015-10-23T05:04:37+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: A LIST OF FUNNY LETTERS
+title: A List of Funny Letters
 date: '2015-05-24T14:17:36+00:00'
 archive: listapp
 weblog: false

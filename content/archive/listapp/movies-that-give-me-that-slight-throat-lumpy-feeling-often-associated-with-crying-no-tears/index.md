@@ -1,6 +1,6 @@
 ---
-title: "MOVIES THAT GIVE ME THAT SLIGHT THROAT LUMPY FEELING OFTEN ASSOCIATED WITH
-  CRYING (NO TEARS \U0001F645\U0001F3FC)"
+title: "Movies That Give Me That Slight Throat Lumpy Feeling Often Associated With
+  Crying (No Tears \U0001F645\U0001F3FC)"
 date: '2015-10-10T08:18:42+00:00'
 archive: listapp
 likeCount: 34

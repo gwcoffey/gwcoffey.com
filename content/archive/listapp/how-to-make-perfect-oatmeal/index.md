@@ -1,5 +1,5 @@
 ---
-title: HOW TO MAKE PERFECT OATMEAL
+title: How to Make Perfect Oatmeal
 date: '2015-12-30T16:43:05+00:00'
 archive: listapp
 likeCount: 45

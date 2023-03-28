@@ -1,5 +1,5 @@
 ---
-title: MY AESTHETIC
+title: My Aesthetic
 date: '2016-01-03T23:04:15+00:00'
 archive: listapp
 likeCount: 48

@@ -1,5 +1,5 @@
 ---
-title: REASONS I'LL NEVER REALLY BE TOTALLY OK WITH THE WHOLE ÜBER THING
+title: Reasons I'll Never Really Be Totally Ok With the Whole Über Thing
 date: '2016-03-17T03:05:44+00:00'
 archive: listapp
 weblog: false

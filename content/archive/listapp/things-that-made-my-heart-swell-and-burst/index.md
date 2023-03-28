@@ -1,5 +1,5 @@
 ---
-title: THINGS THAT MADE MY HEART SWELL AND BURST
+title: Things That Made My Heart Swell and Burst
 date: '2015-06-08T16:43:38+00:00'
 archive: listapp
 weblog: false

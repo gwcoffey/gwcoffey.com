@@ -1,5 +1,5 @@
 ---
-title: "@IMC AND I CHECKING OUT A LIBRARY BOOK IN THE VOICE OF HAN SOLO \U0001F465"
+title: "@imc and I Checking Out a Library Book in the Voice of Han Solo \U0001F465"
 date: '2016-01-27T16:21:52+00:00'
 archive: listapp
 likeCount: 21

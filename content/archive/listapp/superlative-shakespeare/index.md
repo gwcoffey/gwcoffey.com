@@ -1,5 +1,5 @@
 ---
-title: SUPERLATIVE SHAKESPEARE
+title: Superlative Shakespeare
 date: '2015-12-08T14:12:55+00:00'
 archive: listapp
 weblog: false

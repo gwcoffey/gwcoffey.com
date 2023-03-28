@@ -1,5 +1,5 @@
 ---
-title: NOT REASONS I JUST BOUGHT AN IPHONE SE
+title: Not Reasons I Just Bought an iPhone SE
 date: '2016-03-25T17:34:28+00:00'
 archive: listapp
 weblog: false

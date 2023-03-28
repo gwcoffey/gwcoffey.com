@@ -1,5 +1,5 @@
 ---
-title: SIMPLE LINES THAT MAKE A GREAT POINT
+title: Simple Lines That Make a Great Point
 date: '2015-05-23T16:34:06+00:00'
 archive: listapp
 weblog: false

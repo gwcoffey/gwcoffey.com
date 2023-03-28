@@ -1,6 +1,6 @@
 ---
-title: TOP TEN WAYS I HAVE BROKEN MY BONES OR INJURED MYSELF ACCORDING TO MY TEEN
-  DAUGHTER, SOPHIA, RANKED
+title: Top Ten Ways I Have Broken My Bones or Injured Myself According to My Teen
+  Daughter, Sophia, Ranked
 date: '2015-10-04T05:01:47+00:00'
 archive: listapp
 weblog: false

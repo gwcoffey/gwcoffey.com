@@ -1,5 +1,5 @@
 ---
-title: THINGS THAT ARE HARD
+title: Things That Are Hard
 date: '2015-08-18T08:05:47+00:00'
 archive: listapp
 weblog: false

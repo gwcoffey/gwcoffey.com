@@ -1,5 +1,5 @@
 ---
-title: WOMEN OF THE COMPUTATION REVOLUTION
+title: Women of the Computation Revolution
 date: '2016-01-02T14:43:38+00:00'
 archive: listapp
 likeCount: 52

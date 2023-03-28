@@ -1,5 +1,5 @@
 ---
-title: NAMES FOR THINGS THAT NEED NAMES
+title: Names for Things That Need Names
 date: '2016-02-17T21:36:21+00:00'
 archive: listapp
 likeCount: 63

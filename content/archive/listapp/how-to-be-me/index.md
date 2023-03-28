@@ -1,5 +1,5 @@
 ---
-title: HOW TO BE ME
+title: How to Be Me
 date: '2016-04-21T05:23:38+00:00'
 archive: listapp
 likeCount: 69

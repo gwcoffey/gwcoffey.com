@@ -1,5 +1,5 @@
 ---
-title: PICTURES PEOPLE HAVE DRAWN OF ME
+title: Pictures People Have Drawn of Me
 date: '2016-01-07T16:07:44+00:00'
 archive: listapp
 weblog: false

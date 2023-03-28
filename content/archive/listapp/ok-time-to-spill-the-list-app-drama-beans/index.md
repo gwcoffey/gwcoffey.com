@@ -1,5 +1,5 @@
 ---
-title: OK TIME TO SPILL THE LIST APP DRAMA BEANS
+title: Ok Time to Spill the List App Drama Beans
 date: '2016-01-03T04:21:28+00:00'
 archive: listapp
 weblog: false

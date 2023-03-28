@@ -1,5 +1,5 @@
 ---
-title: THINGS YOU DIDN'T REALLY DO
+title: Things You Didn't Really Do
 date: '2016-03-25T20:03:44+00:00'
 archive: listapp
 weblog: false

@@ -1,6 +1,6 @@
 ---
-title: THINGS MY DAUGHTER BROUGHT HOME ON THE LAST DAY OF SCHOOL, PRESUMABLY MADE
-  IN HER POTTERY CLASS
+title: Things My Daughter Brought Home on the Last Day of School, Presumably Made
+  in Her Pottery Class
 date: '2015-05-29T20:04:04+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THE MURALS OF PHOENIX
+title: The Murals of Phoenix
 date: '2015-07-12T01:10:37+00:00'
 archive: listapp
 likeCount: 26

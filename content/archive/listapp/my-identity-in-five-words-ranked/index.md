@@ -1,5 +1,5 @@
 ---
-title: MY IDENTITY IN FIVE WORDS, RANKED
+title: My Identity in Five Words, Ranked
 date: '2016-01-14T04:12:42+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: WORDS CORMAC MCCARTHY SENT ME TO THE DICTIONARY FOR
+title: Words Cormac McCarthy Sent Me to the Dictionary For
 date: '2015-05-19T19:12:32+00:00'
 archive: listapp
 likeCount: 17

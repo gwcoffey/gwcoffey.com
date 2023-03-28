@@ -1,5 +1,5 @@
 ---
-title: MY FAVORITE MOVIES FROM EACH YEAR I'VE BEEN ALIVE
+title: My Favorite Movies From Each Year I've Been Alive
 date: '2016-03-27T20:19:09+00:00'
 archive: listapp
 weblog: false

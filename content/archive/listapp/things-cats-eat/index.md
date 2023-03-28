@@ -1,5 +1,5 @@
 ---
-title: THINGS CATS EAT
+title: Things Cats Eat
 date: '2015-12-17T22:14:25+00:00'
 archive: listapp
 weblog: false

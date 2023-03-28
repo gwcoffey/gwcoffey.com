@@ -1,5 +1,5 @@
 ---
-title: THINGS I SUCK AT
+title: Things I Suck At
 date: '2015-08-27T17:05:50+00:00'
 archive: listapp
 weblog: false

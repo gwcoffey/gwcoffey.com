@@ -1,6 +1,6 @@
 ---
-title: MY TWO CHILDREN SUMMED UP BY THE TEXT MESSAGES THEY EACH SENT ME TODAY WHILE
-  THEY TRAVEL
+title: My Two Children Summed Up by the Text Messages They Each Sent Me Today While
+  They Travel
 date: '2015-06-21T20:22:03+00:00'
 archive: listapp
 weblog: false

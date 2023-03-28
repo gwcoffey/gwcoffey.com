@@ -1,5 +1,5 @@
 ---
-title: 'THE END OF MARRIAGE: A POST-APOCALYPTIC DIARY'
+title: 'The End of Marriage: A Post-Apocalyptic Diary'
 date: '2015-07-03T15:07:34+00:00'
 archive: listapp
 weblog: false

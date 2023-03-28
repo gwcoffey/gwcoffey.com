@@ -1,5 +1,5 @@
 ---
-title: HONEST GENDER ISSUES QUESTION
+title: Honest Gender Issues Question
 date: '2015-12-10T16:46:52+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: HOW TO MAKE YOUR TACOS 62% BETTER
+title: How to Make Your Tacos 62% Better
 date: '2016-01-20T03:17:23+00:00'
 archive: listapp
 likeCount: 87

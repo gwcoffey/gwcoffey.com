@@ -1,5 +1,5 @@
 ---
-title: JOYFUL LIST APP PROFILE PICTURE SMILES
+title: Joyful List App Profile Picture Smiles
 date: '2015-12-09T07:28:10+00:00'
 archive: listapp
 weblog: false

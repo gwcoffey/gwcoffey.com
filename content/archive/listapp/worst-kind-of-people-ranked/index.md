@@ -1,5 +1,5 @@
 ---
-title: WORST KIND OF PEOPLE, RANKED
+title: Worst Kind of People, Ranked
 date: '2015-12-10T19:50:51+00:00'
 archive: listapp
 weblog: false

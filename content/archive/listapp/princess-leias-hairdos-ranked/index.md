@@ -1,5 +1,5 @@
 ---
-title: PRINCESS LEIA'S HAIRDOS RANKED
+title: Princess Leia's Hairdos Ranked
 date: '2015-10-14T15:43:59+00:00'
 archive: listapp
 likeCount: 39

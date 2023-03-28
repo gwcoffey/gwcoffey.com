@@ -1,6 +1,6 @@
 ---
-title: "\"THERE IS NO EXCELLENT BEAUTY THAT HATH NOT SOME STRANGENESS IN THE PROPORTION.”
-  — FRANCIS BACON"
+title: "\"There Is No Excellent Beauty That Hath Not Some Strangeness in the Proportion.”
+  — Francis Bacon"
 date: '2016-02-17T14:22:23+00:00'
 archive: listapp
 weblog: false

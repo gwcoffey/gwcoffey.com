@@ -1,6 +1,6 @@
 ---
-title: WORDS THAT GET THEIR MEANING FROM A POOR INTERPRETATION OF THE FORMAL PHILOSOPHY
-  THEY'RE NAMED AFTER
+title: Words That Get Their Meaning From a Poor Interpretation of the Formal Philosophy
+  They're Named After
 date: '2016-03-30T14:57:22+00:00'
 archive: listapp
 weblog: false

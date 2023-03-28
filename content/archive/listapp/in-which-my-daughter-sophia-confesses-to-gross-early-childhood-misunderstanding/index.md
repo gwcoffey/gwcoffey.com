@@ -1,5 +1,5 @@
 ---
-title: IN WHICH MY DAUGHTER SOPHIA CONFESSES TO GROSS EARLY CHILDHOOD MISUNDERSTANDING
+title: In Which My Daughter Sophia Confesses to Gross Early Childhood Misunderstanding
 date: '2015-10-29T04:55:00+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: LINES FROM JOE VS. THE VOLCANO
+title: Lines From Joe vs. The Volcano
 date: '2015-08-15T15:56:00+00:00'
 archive: listapp
 likeCount: 12

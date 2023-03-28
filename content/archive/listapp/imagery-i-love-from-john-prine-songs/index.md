@@ -1,5 +1,5 @@
 ---
-title: IMAGERY I LOVE FROM JOHN PRINE SONGS
+title: Imagery I Love From John Prine Songs
 date: '2015-06-04T14:34:16+00:00'
 archive: listapp
 likeCount: 7

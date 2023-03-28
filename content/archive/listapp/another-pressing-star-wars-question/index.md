@@ -1,5 +1,5 @@
 ---
-title: ANOTHER PRESSING STAR WARS QUESTION
+title: Another Pressing Star Wars Question
 date: '2015-12-23T13:42:57+00:00'
 archive: listapp
 weblog: false

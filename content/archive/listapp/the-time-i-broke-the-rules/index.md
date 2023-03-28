@@ -1,5 +1,5 @@
 ---
-title: THE TIME I BROKE THE RULES
+title: The Time I Broke the Rules
 date: '2016-01-12T03:51:06+00:00'
 archive: listapp
 weblog: false

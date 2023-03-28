@@ -1,5 +1,5 @@
 ---
-title: THINGS CHEF JOHN SAYS
+title: Things Chef John Says
 date: '2016-02-01T05:10:43+00:00'
 archive: listapp
 weblog: false

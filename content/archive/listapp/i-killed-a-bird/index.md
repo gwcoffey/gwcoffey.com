@@ -1,5 +1,5 @@
 ---
-title: I KILLED A BIRD
+title: I Killed a Bird
 date: '2015-12-14T06:05:11+00:00'
 archive: listapp
 likeCount: 26

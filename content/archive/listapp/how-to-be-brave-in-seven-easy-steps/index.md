@@ -1,5 +1,5 @@
 ---
-title: HOW TO BE BRAVE IN SEVEN EASY STEPS
+title: How to Be Brave in Seven Easy Steps
 date: '2016-01-06T05:37:22+00:00'
 archive: listapp
 likeCount: 65

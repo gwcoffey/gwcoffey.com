@@ -1,5 +1,5 @@
 ---
-title: LAST DITCH WIZARD DUELING MOVES
+title: Last Ditch Wizard Dueling Moves
 date: '2016-01-06T16:12:49+00:00'
 archive: listapp
 weblog: false

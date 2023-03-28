@@ -1,5 +1,5 @@
 ---
-title: MY LIST APP BETA STATS
+title: My List App Beta Stats
 date: '2015-10-17T22:56:10+00:00'
 archive: listapp
 weblog: false

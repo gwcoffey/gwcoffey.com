@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4AF SHAKESPEAREAN IMAGERY"
+title: "\U0001F4AF Shakespearean Imagery"
 date: '2015-10-25T14:29:40+00:00'
 archive: listapp
 likeCount: 22

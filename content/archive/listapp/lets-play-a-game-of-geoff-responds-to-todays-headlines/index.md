@@ -1,5 +1,5 @@
 ---
-title: LET'S PLAY A GAME OF "GEOFF RESPONDS TO TODAY'S HEADLINES"
+title: Let's Play a Game of "Geoff Responds to Today's Headlines"
 date: '2016-02-25T20:26:25+00:00'
 archive: listapp
 weblog: false

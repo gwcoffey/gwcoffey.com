@@ -1,5 +1,5 @@
 ---
-title: THINGS HOSPITALS AND AIRPORTS HAVE IN COMMON
+title: Things Hospitals and Airports Have in Common
 date: '2016-02-13T02:52:50+00:00'
 archive: listapp
 weblog: false

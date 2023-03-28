@@ -1,5 +1,5 @@
 ---
-title: MY FAVORITE SNIPPETS FROM THE LEAKED STAR WARS EPISODE VIII SCRIPT
+title: My Favorite Snippets From the Leaked Star Wars Episode Viii Script
 date: '2016-03-12T16:25:20+00:00'
 archive: listapp
 weblog: false

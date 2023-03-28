@@ -1,5 +1,5 @@
 ---
-title: The problem with The Grinch Who Stole Christmas
+title: The Problem with The Grinch Who Stole Christmas
 date: '2016-05-12T08:22:14+00:00'
 archive: listapp
 likeCount: 18

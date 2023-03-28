@@ -1,5 +1,5 @@
 ---
-title: THINGS MY 13 YEAR OLD DAUGHTER SOPHIA IS OBSESSED WITH
+title: Things My 13 Year Old Daughter Sophia Is Obsessed With
 date: '2015-05-23T00:51:01+00:00'
 archive: listapp
 weblog: false

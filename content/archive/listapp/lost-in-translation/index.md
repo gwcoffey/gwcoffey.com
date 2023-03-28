@@ -1,5 +1,5 @@
 ---
-title: LOST IN TRANSLATION
+title: Lost in Translation
 date: '2016-03-31T07:02:28+00:00'
 archive: listapp
 weblog: false

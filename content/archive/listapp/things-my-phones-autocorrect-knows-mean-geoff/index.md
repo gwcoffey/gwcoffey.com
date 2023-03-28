@@ -1,5 +1,5 @@
 ---
-title: THINGS MY PHONE'S AUTOCORRECT KNOWS MEAN "GEOFF"
+title: Things My Phone's Autocorrect Knows Mean "Geoff"
 date: '2015-07-11T23:11:54+00:00'
 archive: listapp
 weblog: false

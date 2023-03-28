@@ -1,5 +1,5 @@
 ---
-title: AFFECTING BUFFY MOMENTS
+title: Affecting Buffy Moments
 date: '2015-08-11T14:18:14+00:00'
 archive: listapp
 likeCount: 24

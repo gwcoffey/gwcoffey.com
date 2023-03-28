@@ -1,5 +1,5 @@
 ---
-title: "THE SPEECH I WOULD GIVE IF I KNEW EVERY HUMAN BEING ON EARTH WAS LISTENING
+title: "The Speech I Would Give if I Knew Every Human Being on Earth Was Listening
   \U0001F399"
 date: '2016-01-17T03:12:22+00:00'
 archive: listapp

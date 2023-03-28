@@ -1,5 +1,5 @@
 ---
-title: MOMENTS IN SHAKESPEARE WHEN SOMEONE SHOULD HAVE SAID "WAIT A MINUTE"
+title: Moments in Shakespeare When Someone Should Have Said "Wait a Minute"
 date: '2015-05-28T14:05:57+00:00'
 archive: listapp
 likeCount: 30

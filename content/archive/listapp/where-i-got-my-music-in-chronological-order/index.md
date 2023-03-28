@@ -1,5 +1,5 @@
 ---
-title: WHERE I GOT MY MUSIC, IN CHRONOLOGICAL ORDER
+title: Where I Got My Music, in Chronological Order
 date: '2015-12-17T06:57:57+00:00'
 archive: listapp
 weblog: false

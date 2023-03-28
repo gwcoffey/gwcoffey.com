@@ -1,5 +1,5 @@
 ---
-title: QUESTIONS FOR GOD
+title: Questions for God
 date: '2016-03-30T19:47:13+00:00'
 archive: listapp
 likeCount: 103

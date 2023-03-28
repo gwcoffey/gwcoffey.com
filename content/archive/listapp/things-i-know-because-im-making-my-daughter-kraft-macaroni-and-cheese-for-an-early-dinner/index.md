@@ -1,6 +1,6 @@
 ---
-title: THINGS I KNOW BECAUSE I'M MAKING MY DAUGHTER KRAFT MACARONI AND CHEESE FOR
-  AN EARLY DINNER
+title: Things I Know Because I'm Making My Daughter Kraft Macaroni and Cheese for
+  an Early Dinner
 date: '2015-12-07T23:08:41+00:00'
 archive: listapp
 weblog: false

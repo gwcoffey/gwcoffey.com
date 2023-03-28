@@ -1,5 +1,5 @@
 ---
-title: FICTIONAL WOMEN I WOULD FOR SURE DATE
+title: Fictional Women I Would for Sure Date
 date: '2016-03-02T15:42:23+00:00'
 archive: listapp
 likeCount: 30

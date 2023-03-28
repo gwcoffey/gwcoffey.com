@@ -1,5 +1,5 @@
 ---
-title: VOICE CHANGES ACROSS A LONG SINGING CAREER, MOST TO LEAST➕
+title: Voice Changes Across a Long Singing Career, Most to Least➕
 date: '2015-07-01T14:27:34+00:00'
 archive: listapp
 weblog: false

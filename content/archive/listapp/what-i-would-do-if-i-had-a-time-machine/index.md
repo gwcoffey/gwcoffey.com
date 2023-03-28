@@ -1,5 +1,5 @@
 ---
-title: WHAT I WOULD DO IF I HAD A TIME MACHINE
+title: What I Would Do if I Had a Time Machine
 date: '2015-07-23T16:12:13+00:00'
 archive: listapp
 weblog: false

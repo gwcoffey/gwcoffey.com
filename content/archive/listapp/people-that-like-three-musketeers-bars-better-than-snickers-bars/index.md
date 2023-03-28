@@ -1,5 +1,5 @@
 ---
-title: PEOPLE THAT LIKE THREE MUSKETEERS BARS BETTER THAN SNICKERS BARS
+title: People That Like Three Musketeers Bars Better Than Snickers Bars
 date: '2015-11-02T17:10:57+00:00'
 archive: listapp
 weblog: false

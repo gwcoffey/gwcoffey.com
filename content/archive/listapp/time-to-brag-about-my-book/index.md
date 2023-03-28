@@ -1,5 +1,5 @@
 ---
-title: TIME TO BRAG ABOUT MY BOOK
+title: Time to Brag About My Book
 date: '2016-04-04T04:43:28+00:00'
 archive: listapp
 weblog: false

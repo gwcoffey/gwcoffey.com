@@ -1,5 +1,5 @@
 ---
-title: THINGS I DON'T EVER WANT THE ⏯ BUTTON ON MY LAPTOP KEYBOARD TO DO
+title: Things I Don't Ever Want the ⏯ Button on My Laptop Keyboard to Do
 date: '2015-10-22T18:34:10+00:00'
 archive: listapp
 weblog: false

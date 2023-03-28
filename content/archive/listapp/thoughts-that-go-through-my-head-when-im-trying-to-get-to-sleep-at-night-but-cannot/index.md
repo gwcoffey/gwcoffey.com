@@ -1,6 +1,6 @@
 ---
-title: "THOUGHTS THAT GO THROUGH MY HEAD WHEN I'M TRYING TO GET TO SLEEP AT NIGHT
-  BUT CANNOT \U0001F4AC"
+title: "Thoughts That Go Through My Head When I'm Trying to Get to Sleep at Night
+  but Cannot \U0001F4AC"
 date: '2016-01-28T16:18:53+00:00'
 archive: listapp
 weblog: false

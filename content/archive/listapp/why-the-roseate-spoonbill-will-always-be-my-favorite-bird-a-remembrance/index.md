@@ -1,5 +1,5 @@
 ---
-title: 'WHY THE ROSEATE SPOONBILL WILL ALWAYS BE MY FAVORITE BIRD: A REMEMBRANCE'
+title: 'Why the Roseate Spoonbill Will Always Be My Favorite Bird: A Remembrance'
 date: '2015-10-12T22:39:45+00:00'
 archive: listapp
 likeCount: 10

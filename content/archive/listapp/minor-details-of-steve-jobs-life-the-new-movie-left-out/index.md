@@ -1,5 +1,5 @@
 ---
-title: MINOR DETAILS OF STEVE JOBS' LIFE THE NEW MOVIE LEFT OUT
+title: Minor Details of Steve Jobs' Life the New Movie Left Out
 date: '2015-10-22T00:19:48+00:00'
 archive: listapp
 weblog: false

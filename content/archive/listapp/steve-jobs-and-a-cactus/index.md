@@ -1,5 +1,5 @@
 ---
-title: STEVE JOBS AND A CACTUS
+title: Steve Jobs and a Cactus
 date: '2015-11-01T00:57:20+00:00'
 archive: listapp
 weblog: false

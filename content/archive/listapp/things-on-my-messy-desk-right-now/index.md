@@ -1,5 +1,5 @@
 ---
-title: THINGS ON MY MESSY DESK RIGHT NOW
+title: Things on My Messy Desk Right Now
 date: '2015-09-03T19:03:18+00:00'
 archive: listapp
 weblog: false

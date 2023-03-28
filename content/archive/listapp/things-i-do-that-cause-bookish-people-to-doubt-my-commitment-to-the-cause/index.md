@@ -1,5 +1,5 @@
 ---
-title: THINGS I DO THAT CAUSE BOOKISH PEOPLE TO DOUBT MY COMMITMENT TO THE CAUSE
+title: Things I Do That Cause Bookish People to Doubt My Commitment to the Cause
 date: '2016-02-17T03:11:40+00:00'
 archive: listapp
 likeCount: 29

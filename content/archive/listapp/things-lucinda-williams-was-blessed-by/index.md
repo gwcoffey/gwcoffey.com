@@ -1,5 +1,5 @@
 ---
-title: THINGS LUCINDA WILLIAMS WAS BLESSED BY
+title: Things Lucinda Williams Was Blessed By
 date: '2015-08-19T02:27:07+00:00'
 archive: listapp
 likeCount: 1

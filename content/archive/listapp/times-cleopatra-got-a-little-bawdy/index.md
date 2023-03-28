@@ -1,5 +1,5 @@
 ---
-title: TIMES CLEOPATRA GOT A LITTLE BAWDY
+title: Times Cleopatra Got a Little Bawdy
 date: '2015-05-20T14:16:01+00:00'
 archive: listapp
 likeCount: 18

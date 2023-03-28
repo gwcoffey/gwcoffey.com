@@ -1,6 +1,6 @@
 ---
-title: THINGS THAT ARE JUST AS MUCH FRUIT AS TOMATOES BUT NOBODY GETS SMUG WHEN YOU
-  CALL THEM VEGETABLES
+title: Things That Are Just as Much Fruit as Tomatoes but Nobody Gets Smug When You
+  Call Them Vegetables
 date: '2016-02-29T23:21:16+00:00'
 archive: listapp
 weblog: false

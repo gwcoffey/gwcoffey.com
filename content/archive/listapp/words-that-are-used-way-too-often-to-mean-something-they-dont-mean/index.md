@@ -1,5 +1,5 @@
 ---
-title: WORDS THAT ARE USED WAY TOO OFTEN TO MEAN SOMETHING THEY  DON'T MEAN
+title: Words That Are Used Way Too Often to Mean Something They Don't Mean
 date: '2015-06-06T14:39:27+00:00'
 archive: listapp
 weblog: false

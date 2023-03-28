@@ -1,5 +1,5 @@
 ---
-title: THINGS THAT AREN'T THE SAME THING
+title: Things That Aren't the Same Thing
 date: '2016-04-05T00:49:06+00:00'
 archive: listapp
 likeCount: 64

@@ -1,5 +1,5 @@
 ---
-title: HOW TO PERFORM THE HEIMLICH MANEUVER ON A STRANGER WHO IS NOT CHOKING
+title: How to Perform the Heimlich Maneuver on a Stranger Who Is Not Choking
 date: '2015-09-09T00:37:41+00:00'
 archive: listapp
 weblog: false

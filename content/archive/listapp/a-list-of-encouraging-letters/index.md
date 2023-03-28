@@ -1,5 +1,5 @@
 ---
-title: A LIST OF ENCOURAGING LETTERS
+title: A List of Encouraging Letters
 date: '2015-05-26T20:12:51+00:00'
 archive: listapp
 weblog: false

@@ -1,6 +1,6 @@
 ---
-title: DO I HAVE TO "CONVERT" MY OLD TITLES BEFORE I CAN USE MIXED CASE TITLES IN
-  NEW LISTS? (No I Do Not)
+title: Do I Have to "Convert" My Old Titles Before I Can Use Mixed Case Titles In
+  New Lists? (No I Do Not)
 date: '2016-04-27T19:56:32+00:00'
 archive: listapp
 weblog: false

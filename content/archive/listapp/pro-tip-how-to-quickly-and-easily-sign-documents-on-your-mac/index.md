@@ -1,5 +1,5 @@
 ---
-title: 'PRO TIP: HOW TO QUICKLY AND EASILY SIGN DOCUMENTS ON YOUR MAC'
+title: 'Pro Tip: How to Quickly and Easily Sign Documents on Your Mac'
 date: '2016-01-09T18:47:36+00:00'
 archive: listapp
 likeCount: 59

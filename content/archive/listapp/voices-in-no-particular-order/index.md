@@ -1,5 +1,5 @@
 ---
-title: "\U0001F4AF VOICES IN NO PARTICULAR ORDER"
+title: "\U0001F4AF Voices in No Particular Order"
 date: '2015-11-03T23:21:34+00:00'
 archive: listapp
 likeCount: 11

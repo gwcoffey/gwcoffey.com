@@ -1,5 +1,5 @@
 ---
-title: MY AMAZING DAUGHTER (@SOPHSTER)
+title: My Amazing Daughter (@sophster)
 date: '2016-04-02T17:54:05+00:00'
 archive: listapp
 weblog: false

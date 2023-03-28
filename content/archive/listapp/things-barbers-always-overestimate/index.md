@@ -1,5 +1,5 @@
 ---
-title: THINGS BARBERS ALWAYS OVERESTIMATE
+title: Things Barbers Always Overestimate
 date: '2015-12-10T16:43:04+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: OH MY GOSH I COULDN'T CARE LESS
+title: Oh My Gosh I Couldn't Care Less
 date: '2016-02-02T16:18:10+00:00'
 archive: listapp
 weblog: false

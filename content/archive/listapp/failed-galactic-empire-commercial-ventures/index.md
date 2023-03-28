@@ -1,5 +1,5 @@
 ---
-title: FAILED GALACTIC EMPIRE COMMERCIAL VENTURES
+title: Failed Galactic Empire Commercial Ventures
 date: '2015-12-03T18:17:27+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: COVERS THAT ARE BETTER THAN THE ORIGINAL➕
+title: Covers That Are Better Than the Original➕
 date: '2015-05-22T14:23:57+00:00'
 archive: listapp
 weblog: false

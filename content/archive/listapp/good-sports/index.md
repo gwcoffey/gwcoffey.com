@@ -1,5 +1,5 @@
 ---
-title: GOOD SPORTS➕
+title: Good Sports➕
 date: '2015-07-28T14:59:52+00:00'
 archive: listapp
 weblog: false

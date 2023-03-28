@@ -1,5 +1,5 @@
 ---
-title: MY NAME MADE UP OF SENTENCES I WOULD NEVER SAY
+title: My Name Made Up of Sentences I Would Never Say
 date: '2015-12-04T00:21:43+00:00'
 archive: listapp
 weblog: false

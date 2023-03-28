@@ -1,5 +1,5 @@
 ---
-title: 'IS ELON MUSK A SUPERVILLAIN: EVIDENCE FOR AND AGAINST'
+title: 'Is Elon Musk a Supervillain: Evidence for and Against'
 date: '2015-10-04T17:00:21+00:00'
 archive: listapp
 weblog: false

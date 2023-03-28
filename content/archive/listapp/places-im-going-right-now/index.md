@@ -1,5 +1,5 @@
 ---
-title: PLACES I'M GOING RIGHT NOW
+title: Places I'm Going Right Now
 date: '2015-07-13T18:31:51+00:00'
 archive: listapp
 weblog: false

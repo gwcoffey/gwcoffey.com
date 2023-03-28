@@ -1,5 +1,5 @@
 ---
-title: UGLY CHARACTERS WHO AREN'T
+title: Ugly Characters Who Aren't
 date: '2015-06-05T02:16:42+00:00'
 archive: listapp
 likeCount: 14

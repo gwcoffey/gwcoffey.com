@@ -1,5 +1,5 @@
 ---
-title: THINGS I WANT MY KIDS TO KNOW
+title: Things I Want My Kids to Know
 date: '2015-06-10T20:25:56+00:00'
 archive: listapp
 likeCount: 20

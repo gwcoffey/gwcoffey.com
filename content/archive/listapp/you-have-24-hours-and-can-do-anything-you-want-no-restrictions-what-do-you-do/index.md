@@ -1,6 +1,6 @@
 ---
-title: YOU HAVE 24 HOURS AND CAN DO ANYTHING YOU WANT NO RESTRICTIONS...WHAT DO YOU
-  DO?
+title: You Have 24 Hours and Can Do Anything You Want No restrictions...what Do You
+  Do?
 date: '2016-04-11T18:02:48+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: PLANETS, RANKED
+title: Planets, Ranked
 date: '2015-05-19T03:42:56+00:00'
 archive: listapp
 likeCount: 12

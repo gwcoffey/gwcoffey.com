@@ -1,5 +1,5 @@
 ---
-title: LIFE'S GREATEST MYSTERY
+title: Life's Greatest Mystery
 date: '2016-04-20T00:44:04+00:00'
 archive: listapp
 weblog: false

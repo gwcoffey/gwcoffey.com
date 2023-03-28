@@ -1,5 +1,5 @@
 ---
-title: "THE ULTIMATE SANDWICH \U0001F60B"
+title: "The Ultimate Sandwich \U0001F60B"
 date: '2016-01-19T15:00:28+00:00'
 archive: listapp
 weblog: false

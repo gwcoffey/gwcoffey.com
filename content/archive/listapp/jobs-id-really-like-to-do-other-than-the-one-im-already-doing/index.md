@@ -1,5 +1,5 @@
 ---
-title: JOBS I'D REALLY LIKE TO DO OTHER THAN THE ONE I'M ALREADY DOING
+title: Jobs I'd Really Like to Do Other Than the One I'm Already Doing
 date: '2016-04-06T00:42:41+00:00'
 archive: listapp
 weblog: false

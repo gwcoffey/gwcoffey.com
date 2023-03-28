@@ -1,5 +1,5 @@
 ---
-title: APPLE'S ARGUMENT IN THE "UNLOCK-THIS-IPHONE" CASE
+title: Apple's Argument in the "Unlock-This-iPhone" Case
 date: '2016-02-26T16:05:33+00:00'
 archive: listapp
 weblog: false

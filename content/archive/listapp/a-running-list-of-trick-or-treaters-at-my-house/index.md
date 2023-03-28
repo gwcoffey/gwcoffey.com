@@ -1,5 +1,5 @@
 ---
-title: A RUNNING LIST OF TRICK OR TREATERS AT MY HOUSE
+title: A Running List of Trick or Treaters at My House
 date: '2015-11-01T04:13:15+00:00'
 archive: listapp
 weblog: false

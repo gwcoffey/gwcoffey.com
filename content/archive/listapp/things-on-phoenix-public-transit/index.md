@@ -1,5 +1,5 @@
 ---
-title: THINGS ON PHOENIX PUBLIC TRANSIT
+title: Things on Phoenix Public Transit
 date: '2015-08-14T15:05:04+00:00'
 archive: listapp
 weblog: false

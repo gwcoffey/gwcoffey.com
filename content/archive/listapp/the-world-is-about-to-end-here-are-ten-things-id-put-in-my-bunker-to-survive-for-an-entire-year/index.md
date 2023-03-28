@@ -1,6 +1,6 @@
 ---
-title: THE WORLD IS ABOUT TO END. HERE ARE TEN THINGS I'D PUT IN MY BUNKER TO SURVIVE
-  FOR AN ENTIRE YEAR...
+title: The World Is About to End. Here Are Ten Things I'd Put in My Bunker to Survive
+  for an Entire Year...
 date: '2016-01-06T03:51:04+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: THE ONLY THING WORSE THAN BEN AFLEK AS BATMAN...
+title: The Only Thing Worse Than Ben Aflek as Batman...
 date: '2016-03-26T20:36:12+00:00'
 archive: listapp
 weblog: false

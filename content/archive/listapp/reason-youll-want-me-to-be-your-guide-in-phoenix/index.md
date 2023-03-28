@@ -1,5 +1,5 @@
 ---
-title: REASON YOU'LL WANT ME TO BE YOUR GUIDE IN PHOENIX
+title: Reason You'll Want Me to Be Your Guide in Phoenix
 date: '2016-04-06T00:51:30+00:00'
 archive: listapp
 weblog: false

@@ -1,5 +1,5 @@
 ---
-title: AN HONEST EXCHANGE
+title: An Honest Exchange
 date: '2015-11-10T02:42:38+00:00'
 archive: listapp
 likeCount: 61
