@@ -1,6 +1,8 @@
 .post-preview {
+	position: relative;
 	display: flex;
-	margin-top: 20px;
+	align-items: flex-start;
+	margin-bottom: 3em;
 	
 	.icon {
 		width: 40px;
@@ -9,6 +11,11 @@
 	
 	.content {
 		flex: 1;
+	}
+	
+	a.more {
+		font-style: italic;
+		color: #555;
 	}
 	
 	h4 {
@@ -22,12 +29,45 @@
 			
 		&, a {
 			color: var(--deemphasized-text-color);
-		}		
+		}
+		
 	}
 	
-	.images {
-		display: flex;
-		flex-wrap: wrap;
+	// don't underline byline dates on posts with a title link
+	h4 + .byline a {
+		text-decoration: none;
+	}	
+
+	&:has(.thumbs) {
+		padding-right: 20px;
+	}
+
+	.thumbs {
+		width: 80px;
+		height: 80px;
+
+		img {
+			display: block;
+			position: absolute;
+			right: 10px;
+			object-fit: cover;
+			width: 80px;
+			height: 80px;
+			padding: 4px;
+			border: 1px solid #eee;
+			background: white;
+			border-radius: 3px;
+		}
+		
+		a:nth-child(2) img {
+			transform: rotate(3deg);
+			right: 5px;
+		}
+
+		a:nth-child(3) img {
+			transform: rotate(6deg);
+			right: 0;
+		}
 	}
 	
 	.summary > p {

@@ -3,12 +3,10 @@
 {{ .Content }}
 
 {{- $pages := .Site.RegularPages -}}
-{{- $pages := where $pages ".Params.archive" "!=" "fb" -}}
-{{- $pages := where $pages ".Params.archive" "!=" "listapp" -}}
-{{- $pages := where $pages ".Params.hidden" "!=" true -}}
+{{- $pages := where $pages ".Params.weblog" "!=" false -}}
 
 {{ range (.Paginate $pages).Pages }}
-{{ partial "post-preview.html" . }}
+{{ partial "post-preview/post-preview.html" . }}
 {{ end }}
 
 {{ partial "pagination-links.html" . }}

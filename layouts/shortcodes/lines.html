@@ -2,5 +2,5 @@
 {{- $clean := htmlEscape $clean -}}
 {{- $clean := replace $clean "\n" "<br>" -}}
 <p>
-{{ $clean | safeHTML }}
+{{ $clean | safeHTML | markdownify }}
 </p>

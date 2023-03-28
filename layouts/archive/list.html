@@ -12,7 +12,7 @@
 {{ .Content }}
 
 {{ range (.Paginate .Pages).Pages }}
-{{ partial "post-preview.html" . }}
+{{ partial "post-preview/post-preview.html" . }}
 {{ end }}
 
 {{ partial "pagination-links.html" . }}

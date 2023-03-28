@@ -1,0 +1,26 @@
+{{- $pageUrl := .Permalink -}}
+{{- 
+	$summarize := or
+        (.Truncated) 
+        (isset .Params "summary") 
+        (eq (.Param "archive") "listapp") 
+-}} 
+
+	<div class="content">
+	{{- with (.Param "title") -}}
+		<h4><a href="{{ $pageUrl }}">{{ . }}</a></h4>
+	{{- end -}}
+	<div class="byline">
+		<a href="{{.Permalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
+	</div>
+				
+		<div class="summary">
+			{{- if $summarize }}
+			{{ .Summary | markdownify }}
+			<a class="more" href="{{.Permalink}}">Read more…</a>
+			{{- else -}}
+			{{ .Content }}
+			{{- end }}
+		</div>
+	</div>
+

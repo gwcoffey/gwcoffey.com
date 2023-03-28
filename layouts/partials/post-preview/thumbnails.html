@@ -1,0 +1,10 @@
+{{- $pageUrl := .Permalink -}}
+{{- $images := .Resources.ByType "image" -}}
+
+	{{ if gt (len $images) 0 }}
+	<div class="thumbs">
+		{{ range (first 3 $images) }}
+			<a href="{{ $pageUrl }}"><img src="{{ .Permalink }}"></a>
+		{{ end }}
+	</div>
+	{{ end }}
