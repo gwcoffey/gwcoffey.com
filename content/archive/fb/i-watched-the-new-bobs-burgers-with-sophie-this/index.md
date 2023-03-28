@@ -2,6 +2,7 @@
 date: 2018-10-09 11:36:20.000000000 -07:00
 archive: fb
 id: '1539110180'
+weblog: false
 ---
 
 I watched the new Bob's Burgers with Sophie this morning. Mr. Fischoeder said:

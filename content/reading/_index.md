@@ -2,7 +2,7 @@
 title: Booklist
 menu: About
 weight: 4
-hidden: true
+weblog: false
 ---
 
 # Booklist

@@ -2,6 +2,7 @@
 date: 2017-01-19 18:33:29.000000000 -08:00
 archive: fb
 id: '1484879609'
+weblog: false
 ---
 
 Sophia is working on her short play for creative writing and just asked me if I could think of a good way to describe someone drawing with a crayon across the page one way and then back the other, back and forth in rows. 

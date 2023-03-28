@@ -2,6 +2,7 @@
 title: "A PICTURE FOR EVERY MONTH OF 2015 \U0001F5BC"
 date: '2016-01-01T13:03:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 40
 relistCount: 2
 ---

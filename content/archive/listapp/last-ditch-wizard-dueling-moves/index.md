@@ -2,6 +2,7 @@
 title: LAST DITCH WIZARD DUELING MOVES
 date: '2016-01-06T16:12:49+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 0
 ---

@@ -2,6 +2,7 @@
 date: 2018-10-10 12:43:01.000000000 -07:00
 archive: fb
 id: '1539200581'
+weblog: false
 ---
 
 Lunch date with this ragamuffin.

@@ -2,11 +2,11 @@
 title: MY ACCEPTABLE CELEBRITY DOPPELGÄNGER LIST
 date: '2016-02-23T18:00:15+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

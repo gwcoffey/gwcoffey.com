@@ -2,6 +2,7 @@
 title: INTERESTING THINGS I KEEP FOR NO PARTICULAR REASON
 date: '2016-02-04T03:25:34+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 1
 ---

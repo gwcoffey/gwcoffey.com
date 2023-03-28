@@ -2,6 +2,7 @@
 date: 2017-09-27 21:06:29.000000000 -07:00
 archive: fb
 id: '1506571589'
+weblog: false
 ---
 
 Huh. They have boxed software at the Apple Store right now.

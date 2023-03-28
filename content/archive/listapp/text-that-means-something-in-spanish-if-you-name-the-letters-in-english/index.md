@@ -2,6 +2,7 @@
 title: TEXT THAT MEANS SOMETHING IN SPANISH IF YOU NAME THE LETTERS IN ENGLISH➕
 date: '2015-05-24T05:17:31+00:00'
 archive: listapp
+weblog: false
 likeCount: 3
 relistCount: 0
 ---

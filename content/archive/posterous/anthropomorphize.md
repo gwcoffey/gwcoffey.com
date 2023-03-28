@@ -2,6 +2,7 @@
 title: "Anthropomorphize"
 date: 2011-04-04
 archive: posterous
+weblog: false
 ---
 
 [the smoke detector in our house chirps a low battery warning]

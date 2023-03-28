@@ -2,11 +2,11 @@
 title: I Found a Wallet
 date: '2017-01-14T22:42:13+00:00'
 archive: listapp
+weblog: false
 likeCount: 52
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

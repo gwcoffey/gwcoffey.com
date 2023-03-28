@@ -6,6 +6,8 @@ archive: posterous
 
 I've seen this error a time or two. It happens sometimes when I dump/load a database to copy it on the same server. Today I decided to fix it on my development machine. These entries in my my.cnf did the trick:
 
+<!--more-->
+
 ```
 wait_timeout=600
 connect_timeout=60

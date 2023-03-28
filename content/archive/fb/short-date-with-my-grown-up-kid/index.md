@@ -2,6 +2,7 @@
 date: 2018-06-30 16:21:23.000000000 -07:00
 archive: fb
 id: '1530400883'
+weblog: false
 ---
 
 Short date with my grown up kid.

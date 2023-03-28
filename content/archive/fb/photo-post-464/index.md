@@ -2,6 +2,7 @@
 date: 2013-08-14 11:11:47.000000000 -07:00
 archive: fb
 id: '1376503907'
+weblog: false
 ---
 
 Laundry day at my new favorite place. 6 quadruple load washers all going at once make me so happy.

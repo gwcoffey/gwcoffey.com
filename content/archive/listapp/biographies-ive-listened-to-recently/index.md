@@ -2,6 +2,7 @@
 title: Biographies I've listened to recently
 date: '2016-12-05T00:19:30+00:00'
 archive: listapp
+weblog: false
 likeCount: 43
 relistCount: 0
 ---

@@ -2,6 +2,7 @@
 date: 2017-04-06 19:56:51.000000000 -07:00
 archive: fb
 id: '1491533811'
+weblog: false
 ---
 
 Important historical note: The senate was designed to be insulated from the mob in three ways:

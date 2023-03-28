@@ -2,6 +2,7 @@
 date: 2016-02-24 20:34:30.000000000 -08:00
 archive: fb
 id: '1456374870'
+weblog: false
 ---
 
 Here's a solid update on the Apple/FBI encryption disagreement, including a pretty clear illustration of the major problem for the future of data security when you pit a company against itself.

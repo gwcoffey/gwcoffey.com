@@ -2,6 +2,7 @@
 date: 2018-08-27 20:19:16.000000000 -07:00
 archive: fb
 id: '1535426356'
+weblog: false
 ---
 
 Sophie had fun spending the day Saturday with Zhazha at Harry Potter World and we had fun hanging out with her parents. We saw T last summer but we hadn’t seen Farzad for a few years. Fun times.

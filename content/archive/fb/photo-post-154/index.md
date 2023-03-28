@@ -2,6 +2,7 @@
 date: 2015-10-30 10:35:42.000000000 -07:00
 archive: fb
 id: '1446226542'
+weblog: false
 ---
 
 Steve Jobs just stopped by my house!

@@ -2,6 +2,7 @@
 title: IN WHICH I CONFESS TO A TOTAL LACK OF POPULAR CULTURE CREDIBILITY
 date: '2015-07-10T17:50:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 2
 ---

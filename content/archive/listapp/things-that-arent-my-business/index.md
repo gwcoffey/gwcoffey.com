@@ -2,11 +2,11 @@
 title: Things That Aren't My Business
 date: '2016-07-05T23:41:44+00:00'
 archive: listapp
+weblog: false
 likeCount: 67
 relistCount: 9
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

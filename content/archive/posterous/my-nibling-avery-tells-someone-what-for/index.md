@@ -2,6 +2,7 @@
 title: "My Nibling Avery Tells Someone What For"
 date: 2011-03-05
 archive: posterous
+weblog: false
 ---
 
 I love this kid.

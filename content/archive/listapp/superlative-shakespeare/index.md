@@ -2,11 +2,11 @@
 title: SUPERLATIVE SHAKESPEARE
 date: '2015-12-08T14:12:55+00:00'
 archive: listapp
+weblog: false
 likeCount: 22
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

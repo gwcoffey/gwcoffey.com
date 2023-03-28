@@ -2,6 +2,7 @@
 title: "This Boggles my Mind"
 date: 2011-09-29
 archive: posterous
+weblog: false
 ---
 
 {{< figure 

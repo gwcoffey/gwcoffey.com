@@ -2,11 +2,11 @@
 title: THINGS THAT MAKE NOISE IN MY HOUSE
 date: '2015-06-20T04:33:21+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

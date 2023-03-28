@@ -2,11 +2,11 @@
 title: POSSIBLE REASONS I'M NOT WEARING MY WEDDING BAND TODAY
 date: '2015-10-09T23:10:08+00:00'
 archive: listapp
+weblog: false
 likeCount: 4
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: REASONS I'LL NEVER REALLY BE TOTALLY OK WITH THE WHOLE ÜBER THING
 date: '2016-03-17T03:05:44+00:00'
 archive: listapp
+weblog: false
 likeCount: 25
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

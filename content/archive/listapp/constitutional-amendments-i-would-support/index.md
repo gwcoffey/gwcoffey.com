@@ -2,11 +2,11 @@
 title: CONSTITUTIONAL AMENDMENTS I WOULD SUPPORT
 date: '2015-06-26T19:38:10+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

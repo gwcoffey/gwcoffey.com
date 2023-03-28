@@ -9,6 +9,8 @@ Found this strange beauty at the wonderful [Desert Botanical Gardens][dbg] here 
 [dbg]: https://dbg.org
 [boojum]: https://en.wikipedia.org/wiki/Boojum_tree
 
+<!--more-->
+
 {{< figure 
 	src="image-1.jpg" 
 	height="1296" 

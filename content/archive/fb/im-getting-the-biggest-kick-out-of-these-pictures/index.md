@@ -2,6 +2,7 @@
 date: 2017-02-16 14:22:46.000000000 -08:00
 archive: fb
 id: '1487283766'
+weblog: false
 ---
 
 I'm getting the biggest kick out of these pictures. This is exactly how I look at Canada. 

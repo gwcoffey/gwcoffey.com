@@ -6,8 +6,6 @@ likeCount: 69
 relistCount: 14
 ---
 
-<!--more-->
-
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="CON: Total jerk." >}}

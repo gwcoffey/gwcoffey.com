@@ -2,6 +2,7 @@
 date: 2016-05-17 07:18:59.000000000 -07:00
 archive: fb
 id: '1463494739'
+weblog: false
 ---
 
 Least surprising tech news of the decade: MCX CurrentC has failed. 

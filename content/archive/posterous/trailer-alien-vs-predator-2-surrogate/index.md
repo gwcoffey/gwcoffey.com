@@ -4,9 +4,12 @@ date: 2011-09-22
 archive: posterous
 ---
 
+{{< ed "I wrote this utter nonsense as a very extended joke with a friend of mine. Enjoy." >}}
+
 EXT. JUNGLE — DAY
 
-A dark shape rocks gently among the foliage. The camera approaches and the shape resolves into the unmistakable outline of an Alien from behind. The camera shakes and the Alien, still chewing a piece of some animal, turns its head, staring directly into camera as we...
+A dark shape rocks gently among the foliage. The camera approaches and the shape resolves into the unmistakable outline of an Alien from behind.<!--more-->
+The camera shakes and the Alien, still chewing a piece of some animal, turns its head, staring directly into camera as we...
 
 FADE THROUGH BLACK TO
 

@@ -2,6 +2,7 @@
 date: 2013-10-31 20:52:22.000000000 -07:00
 archive: fb
 id: '1383277942'
+weblog: false
 ---
 
 {{< fb/images >}}

@@ -2,11 +2,11 @@
 title: FAVORITE IPHONE APPS, RANKED
 date: '2015-08-20T15:30:12+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

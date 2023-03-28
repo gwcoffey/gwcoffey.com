@@ -2,11 +2,11 @@
 title: SUPER HEROES IN A PARALLEL UNIVERSE
 date: '2015-08-16T03:19:26+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

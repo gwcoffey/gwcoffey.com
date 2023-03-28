@@ -2,6 +2,7 @@
 date: 2017-08-21 12:35:09.000000000 -07:00
 archive: fb
 id: '1503344109'
+weblog: false
 ---
 
 Seeing a partial solar eclipse: Excellent 

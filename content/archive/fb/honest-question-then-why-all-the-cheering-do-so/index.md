@@ -2,6 +2,7 @@
 date: 2017-07-29 19:05:48.000000000 -07:00
 archive: fb
 id: '1501380348'
+weblog: false
 ---
 
 Honest question: Then why all the cheering? Do so many of your officers secretly wish they could brutalize suspects? Are they just waiting for a hero to tell them they can?

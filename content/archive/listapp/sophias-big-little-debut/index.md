@@ -2,6 +2,7 @@
 title: SOPHIA'S BIG (LITTLE) DEBUT
 date: '2015-10-11T18:43:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 1
 ---

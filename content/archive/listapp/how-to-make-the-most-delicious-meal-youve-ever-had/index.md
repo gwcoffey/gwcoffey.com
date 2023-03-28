@@ -2,11 +2,11 @@
 title: How to Make the Most Delicious Meal You've Ever Had
 date: '2016-06-22T03:07:09+00:00'
 archive: listapp
+weblog: false
 likeCount: 95
 relistCount: 15
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

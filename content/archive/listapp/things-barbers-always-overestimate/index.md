@@ -2,11 +2,11 @@
 title: THINGS BARBERS ALWAYS OVERESTIMATE
 date: '2015-12-10T16:43:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 7
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

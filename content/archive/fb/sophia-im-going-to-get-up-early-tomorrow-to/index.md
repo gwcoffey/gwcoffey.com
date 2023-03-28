@@ -2,6 +2,7 @@
 date: 2017-11-17 20:31:20.000000000 -08:00
 archive: fb
 id: '1510979480'
+weblog: false
 ---
 
 Sophia: I’m going to get up early tomorrow to work on my film project before we go out. 

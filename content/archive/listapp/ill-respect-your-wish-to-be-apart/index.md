@@ -2,11 +2,11 @@
 title: I'LL RESPECT YOUR WISH TO BE APART
 date: '2016-04-01T14:53:02+00:00'
 archive: listapp
+weblog: false
 likeCount: 12
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

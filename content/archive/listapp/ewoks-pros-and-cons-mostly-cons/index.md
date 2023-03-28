@@ -2,11 +2,11 @@
 title: 'EWOKS: PROS AND CONS (MOSTLY CONS)'
 date: '2015-10-04T16:20:33+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

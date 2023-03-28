@@ -2,6 +2,7 @@
 title: HOW MY PROFILE PIC CAME TO BE.
 date: '2016-03-19T04:27:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 32
 relistCount: 2
 ---

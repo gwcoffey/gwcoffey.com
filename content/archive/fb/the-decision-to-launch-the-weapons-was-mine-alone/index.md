@@ -2,6 +2,7 @@
 date: 2017-02-19 13:11:47.000000000 -08:00
 archive: fb
 id: '1487538707'
+weblog: false
 ---
 
 {{< quote cite="Ronald Regan" >}}

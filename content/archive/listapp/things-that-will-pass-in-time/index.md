@@ -2,11 +2,11 @@
 title: THINGS THAT WILL PASS IN TIME
 date: '2016-02-09T05:08:29+00:00'
 archive: listapp
+weblog: false
 likeCount: 58
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

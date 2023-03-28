@@ -2,6 +2,7 @@
 title: "Sewing Party"
 date: 2011-05-07
 archive: posterous
+weblog: false
 ---
 
 My wife (not pictured) is teaching kids to sew today.

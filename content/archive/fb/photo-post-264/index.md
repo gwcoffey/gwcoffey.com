@@ -2,6 +2,7 @@
 date: 2014-11-16 21:57:07.000000000 -08:00
 archive: fb
 id: '1416203827'
+weblog: false
 ---
 
 My art appreciator off to see a choral performance.

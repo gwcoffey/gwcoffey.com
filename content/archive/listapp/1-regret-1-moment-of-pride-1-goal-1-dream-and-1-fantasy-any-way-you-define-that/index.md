@@ -7,7 +7,6 @@ likeCount: 24
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: "My New Kindle Case"
 date: 2011-02-02
 archive: posterous
+weblog: false
 ---
 
 This is my glorious new dinosaur kindle case, courtesy of Mamie and a Saturday afternoon at her sewing machine. :heart::heart::heart:

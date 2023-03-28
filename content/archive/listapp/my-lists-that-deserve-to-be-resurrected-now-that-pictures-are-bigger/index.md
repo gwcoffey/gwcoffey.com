@@ -2,11 +2,11 @@
 title: MY LISTS THAT DESERVE TO BE RESURRECTED NOW THAT PICTURES ARE BIGGER
 date: '2016-01-07T05:47:01+00:00'
 archive: listapp
+weblog: false
 likeCount: 25
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

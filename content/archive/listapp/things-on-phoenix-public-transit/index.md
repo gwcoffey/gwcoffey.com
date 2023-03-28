@@ -2,6 +2,7 @@
 title: THINGS ON PHOENIX PUBLIC TRANSIT
 date: '2015-08-14T15:05:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 6
 relistCount: 0
 ---

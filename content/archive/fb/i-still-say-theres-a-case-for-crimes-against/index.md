@@ -2,6 +2,7 @@
 date: 2018-08-24 10:35:06.000000000 -07:00
 archive: fb
 id: '1535132106'
+weblog: false
 ---
 
 I still say there's a case for crimes against humanity here, all up and down the chain. Just absolutely disgusting. One of the greatest evils perpetrated by the US government in history. My children's children will be talking about this. About how their country systematically and intentionally abused children while millions of Americans turned a blind eye.

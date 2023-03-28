@@ -2,11 +2,11 @@
 title: BEST PARTS OF THE HOBBIT MOVIES
 date: '2015-10-31T19:49:32+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

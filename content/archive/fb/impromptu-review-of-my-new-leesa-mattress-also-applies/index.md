@@ -2,6 +2,7 @@
 date: 2017-05-10 19:09:18.000000000 -07:00
 archive: fb
 id: '1494468558'
+weblog: false
 ---
 
 Impromptu review of my new Leesa mattress. (Also applies to my two Tuft & Needle mattresses)

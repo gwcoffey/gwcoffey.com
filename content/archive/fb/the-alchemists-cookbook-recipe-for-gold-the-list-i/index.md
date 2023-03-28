@@ -2,6 +2,7 @@
 date: 2017-10-16 10:59:35.000000000 -07:00
 archive: fb
 id: '1508176775'
+summary: "The Alchemists Cookbook: Recipe for Gold."
 ---
 
 The Alchemists Cookbook: Recipe for Gold
@@ -14,7 +15,7 @@ The Alchemists Cookbook: Recipe for Gold
 
 3. Allow the clouds to rest for 5 to 8 billion years. They will condense, fuse, expand, then contract, then explode. (Stand clear during this process.)
 
-Note: This process may also produce intelligent life, but it should go extinct before (or during) the final explosion.
+{{< note >}}This process may inadvertently produce a little intelligent life, but don't worry. It should go extinct relatively quickly.{{< /note >}}
 
 4. You should now have two neutron stars within a cloud of matter. Sweep away this cloud — you do not want it to begin to accrete on the stars or it may alter the recipe.
 

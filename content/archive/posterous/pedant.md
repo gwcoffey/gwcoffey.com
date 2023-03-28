@@ -10,9 +10,9 @@ http://www.cultofmac.com/did-picasso-influence-the-mac-finder-icon/75608
 
 The association itself is neat because it seems crazy to me that nobody noticed this before. But I have to put on my old-mac-user-pedant hat for a second.The article says:
 
-<blockquote>
+{{< quote >}}
 But did the concept for this graphic originate in Cupertino in the 1980s, or much earlier on another continent?
-</blockquote>
+{{< /quote >}}
 
 The blue Mac OS logo definitely did not originate in the 1980s. I remember clearly when this logo was introduced, first in the press and then in the Mac OS startup splash screen. If memory serves, this was somewhere around 1994 or 1995 and Mac OS 7.6ish. (Incidentally, it was around the same time Mac OS started being called Mac OS. Before that, if you can believe it, it was just called "The System" or more specifically, System 7.)
 

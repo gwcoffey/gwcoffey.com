@@ -2,6 +2,9 @@
 date: 2014-04-28 09:29:00.000000000 -07:00
 archive: fb
 id: '1398702540'
+weblog: false
+linklist: true
+weblog: false
 ---
 
 "According to Iger, Disney believes it now has the cultural cachet to make its most misogynist movie in years, perhaps by going back to a female lead whose life is empty, unfulfilling, and valueless until the moment she receives true love’s first kiss."

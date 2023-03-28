@@ -2,6 +2,7 @@
 date: 2017-09-27 10:56:08.000000000 -07:00
 archive: fb
 id: '1506534968'
+weblog: false
 ---
 
 I kind of want to read this book real quick before I do any more work. 

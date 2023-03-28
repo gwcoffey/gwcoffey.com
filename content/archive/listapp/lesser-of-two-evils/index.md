@@ -2,11 +2,11 @@
 title: Lesser of Two Evils
 date: '2016-10-13T04:31:46+00:00'
 archive: listapp
+weblog: false
 likeCount: 72
 relistCount: 15
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: "The Best Part of Apple Ping"
 date: 2010-09-03
 archive: posterous
+weblog: false
 ---
 
 Love the presentation of this option on Ping. I've always made the same distinction.

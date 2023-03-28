@@ -2,6 +2,7 @@
 title: THINGS I AM BAD AT
 date: '2016-04-01T19:48:43+00:00'
 archive: listapp
+weblog: false
 likeCount: 32
 relistCount: 6
 ---

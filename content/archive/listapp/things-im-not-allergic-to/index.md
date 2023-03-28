@@ -2,6 +2,7 @@
 title: THINGS I'M NOT ALLERGIC TO
 date: '2015-08-26T00:46:56+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 0
 ---

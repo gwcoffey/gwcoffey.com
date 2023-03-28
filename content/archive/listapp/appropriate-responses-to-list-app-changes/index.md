@@ -2,11 +2,11 @@
 title: Appropriate Responses to List App Changes
 date: '2016-07-26T17:19:45+00:00'
 archive: listapp
+weblog: false
 likeCount: 49
 relistCount: 7
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

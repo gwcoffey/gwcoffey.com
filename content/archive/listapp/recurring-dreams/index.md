@@ -2,11 +2,11 @@
 title: Recurring Dreams
 date: '2016-12-01T07:17:55+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

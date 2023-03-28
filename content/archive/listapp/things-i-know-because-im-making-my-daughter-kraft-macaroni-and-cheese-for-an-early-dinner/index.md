@@ -3,11 +3,11 @@ title: THINGS I KNOW BECAUSE I'M MAKING MY DAUGHTER KRAFT MACARONI AND CHEESE FO
   AN EARLY DINNER
 date: '2015-12-07T23:08:41+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

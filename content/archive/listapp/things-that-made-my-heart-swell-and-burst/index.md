@@ -2,11 +2,11 @@
 title: THINGS THAT MADE MY HEART SWELL AND BURST
 date: '2015-06-08T16:43:38+00:00'
 archive: listapp
+weblog: false
 likeCount: 8
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

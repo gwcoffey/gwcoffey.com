@@ -2,6 +2,7 @@
 date: 2017-04-21 19:40:46.000000000 -07:00
 archive: fb
 id: '1492828846'
+weblog: false
 ---
 
 This passage cracked me up when I read it yesterday and then cracked me up again today.

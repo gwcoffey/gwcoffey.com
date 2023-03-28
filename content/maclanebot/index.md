@@ -3,11 +3,12 @@ title: "Mary MacLane Bot on Mastodon"
 date: 2023-01-23
 menu: Projects
 menuTitle: "maclanebot"
+summary: "I'm a big fan of the Moby Dick at Sea Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, Mary MacLane. *And* I'm a computer programmer. So I suppose this was inevitable."
 ---
 
 I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, [Mary MacLane][mary]. *And* I'm a computer programmer. So I suppose this was inevitable…
 
-<iframe src="https://botsin.space/@maclane/109657266831978744/embed" class="mastodon-embed" style="max-width: 100%; border: 0; width: 100%;" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://botsin.space/embed.js" async="async"></script>
+{{< mastodon host="https://botsin.space" post="@maclane/109657266831978744" >}}
 
 I give you, the **[Mary MacLane Bot][bot]** on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every two hours.
 
@@ -30,7 +31,7 @@ I think the thing I love most about her writing is that it pulls no punches. In 
 
 I love her pleading prose. I love her dry humor. I love her strangeness in all its forms.  Some people are turned off by her ego. Some by her irreverence. Some by her dramatics. (And some, of course because she's bisexual.) But I love her. I love her not in spite of these things but because of them.
 
-As Mary says in her entry on <time datetime="1901-04-13">April 13</time>, <q>I have given my heart into the keeping of this.</q> And now *I* give it to *you*. 
+As Mary says in her entry on {{< time "1901-04-13" "April 13" >}}, {{< q "I have given my heart into the keeping of this." >}} And now *I* give it to *you*. 
 
 ## Technical Details
 
@@ -39,7 +40,7 @@ The bot is implemented in *[TypeScript][ts]*. The [source code][code] is availab
 I curated the data for MacLane Bot myself using the plain text version of *I Await the Devil's Coming* from [Project Gutenberg][guten]. I am, as always, grateful for the Project Gutenberg volunteers for the valuable work they do.
 
 {{< note >}}
-The Project Gutenberg version of the book carries the title <em>The Story of Mary MacLane</em>. This is the original publication title because Mary's preferred title was considered too provocative.
+The Project Gutenberg version of the book carries the title *The Story of Mary MacLane*. This is the original publication title because Mary's preferred title was considered too provocative.
 {{< /note >}}
 
 MacLane Bot itself is executed periodically as a [Netlify scheduled function][fn]. The code for the function and the raw passage data is in the GitHub repo for this website but I'm not going to link to it here---it is so much more fun to follow the bot and get little jolts of joy throughout the day.

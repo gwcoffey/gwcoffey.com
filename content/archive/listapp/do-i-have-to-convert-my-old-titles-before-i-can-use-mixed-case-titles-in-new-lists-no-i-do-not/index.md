@@ -3,6 +3,7 @@ title: DO I HAVE TO "CONVERT" MY OLD TITLES BEFORE I CAN USE MIXED CASE TITLES I
   NEW LISTS? (No I Do Not)
 date: '2016-04-27T19:56:32+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 3
 ---

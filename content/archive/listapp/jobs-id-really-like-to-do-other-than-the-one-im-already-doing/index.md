@@ -2,6 +2,7 @@
 title: JOBS I'D REALLY LIKE TO DO OTHER THAN THE ONE I'M ALREADY DOING
 date: '2016-04-06T00:42:41+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 3
 ---

@@ -2,11 +2,11 @@
 title: QUESTIONS FOR LIST APP PROS
 date: '2015-05-26T03:49:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

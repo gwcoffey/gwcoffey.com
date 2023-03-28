@@ -2,6 +2,7 @@
 date: 2014-09-22 16:21:09.000000000 -07:00
 archive: fb
 id: '1411428069'
+weblog: false
 ---
 
 So this happened. All I have to say is: Nothing compares to Sophia.

@@ -2,6 +2,7 @@
 title: "I Made Chocolate Pie for Vince for Thanksgiving"
 date: 2010-09-25
 archive: posterous
+weblog: false
 ---
 
 This is obviously a break from tradition but he's Canadian so he doesn't know any better.

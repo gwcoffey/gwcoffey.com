@@ -2,15 +2,16 @@
 title: "Jony Ive's Steve Jobs Eulogy"
 date: 2011-10-26
 archive: posterous
+summary: "Steve used to say to me (and he used to say this a lot), \"Hey Jony, here's a dopey idea.\" And sometimes they were — really dopey. Sometimes they were truly dreadful. But sometimes they took the air from the room, and they left us both completely silent."
 ---
 
 {{< aside >}}
-I'm leaving this here because I'm afraid Apple will take <a href="http://events.apple.com.edgesuite.net/10oiuhfvojb23/event/index.html">the video</a> down in time, and it is too good not to be able to re-read later. All emphasis is my own. <em>[ed: The link did indeed stop working sometime since this was posted.]</em>
+I'm leaving this here because I'm afraid Apple will take [the video](http://events.apple.com.edgesuite.net/10oiuhfvojb23/event/index.html) down in time, and it is too good not to be able to re-read later. All emphasis is my own. {{< ed "The link did indeed stop working sometime since this was posted." >}}
 {{< /aside >}}
 
 ## Jony Ive's Eulogy to Steve Jobs at Apple's "Celebrating Steve" Event
 
-<time datetime="2011-10-19">October 19, 2011</time>
+{{< time "2011-10-19" "October 19, 2011" >}}
 
 Steve used to say to me (and he used to say this a lot), "Hey Jony, here's a dopey idea." And sometimes they were — really dopey. Sometimes they were truly dreadful. But **sometimes they took the air from the room, and they left us both completely silent.** Bold, crazy, magnificent ideas. Or quiet, simple ones which, in their subtlety, their detail, were utterly profound.
 

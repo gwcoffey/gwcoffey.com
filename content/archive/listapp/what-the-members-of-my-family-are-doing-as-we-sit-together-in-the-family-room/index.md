@@ -2,11 +2,11 @@
 title: WHAT THE MEMBERS OF MY FAMILY ARE DOING AS WE SIT TOGETHER IN THE FAMILY ROOM
 date: '2016-01-08T04:51:09+00:00'
 archive: listapp
+weblog: false
 likeCount: 32
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

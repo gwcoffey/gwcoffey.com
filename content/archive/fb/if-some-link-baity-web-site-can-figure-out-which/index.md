@@ -2,6 +2,7 @@
 date: 2014-02-01 14:27:30.000000000 -08:00
 archive: fb
 id: '1391293650'
+weblog: false
 ---
 
 {{< ed "This post is no longer funny. It is now just sadly true." >}}

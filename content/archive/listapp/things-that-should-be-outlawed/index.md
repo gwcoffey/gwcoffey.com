@@ -2,11 +2,11 @@
 title: THINGS THAT SHOULD BE OUTLAWED
 date: '2015-12-13T01:02:19+00:00'
 archive: listapp
+weblog: false
 likeCount: 12
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

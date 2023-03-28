@@ -2,6 +2,7 @@
 title: TRUMP'S CHANCES
 date: '2016-03-01T07:10:19+00:00'
 archive: listapp
+weblog: false
 likeCount: 71
 relistCount: 8
 ---

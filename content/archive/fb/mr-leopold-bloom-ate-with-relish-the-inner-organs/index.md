@@ -2,6 +2,7 @@
 date: 2016-03-17 10:55:07.000000000 -07:00
 archive: fb
 id: '1458237307'
+weblog: false
 ---
 
 {{< quote cite="from Ulysses by James Joyce" >}}

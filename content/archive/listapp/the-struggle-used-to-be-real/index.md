@@ -2,11 +2,11 @@
 title: THE STRUGGLE USED TO BE REAL...
 date: '2016-05-17T19:03:13+00:00'
 archive: listapp
+weblog: false
 likeCount: 70
 relistCount: 20
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

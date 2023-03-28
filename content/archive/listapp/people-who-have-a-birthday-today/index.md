@@ -2,11 +2,11 @@
 title: People Who Have a Birthday Today
 date: '2016-08-31T23:42:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

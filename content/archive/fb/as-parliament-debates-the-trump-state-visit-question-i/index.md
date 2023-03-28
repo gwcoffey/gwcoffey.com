@@ -2,6 +2,7 @@
 date: 2017-02-20 10:41:07.000000000 -08:00
 archive: fb
 id: '1487616067'
+weblog: false
 ---
 
 As Parliament debates the Trump State Visit question, I am reminded of this passage from Pride and Prejudice.

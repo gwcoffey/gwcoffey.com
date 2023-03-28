@@ -2,6 +2,7 @@
 date: 2017-05-16 14:48:28.000000000 -07:00
 archive: fb
 id: '1494971308'
+weblog: false
 ---
 
 My biggest beef with this is that, whatever your position on the Russia investigations, Flynn is *not* a good guy.

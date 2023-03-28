@@ -2,11 +2,11 @@
 title: THINGS I CAN DO WITH MY NEW IPHONE SE THAT MY OLD IPHONE 6S COULDN'T DO
 date: '2016-04-17T21:01:01+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

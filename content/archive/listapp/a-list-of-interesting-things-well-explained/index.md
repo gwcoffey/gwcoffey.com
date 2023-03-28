@@ -2,11 +2,11 @@
 title: A LIST OF INTERESTING THINGS WELL EXPLAINED
 date: '2015-05-27T16:47:22+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

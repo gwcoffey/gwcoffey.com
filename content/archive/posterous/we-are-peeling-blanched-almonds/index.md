@@ -2,6 +2,7 @@
 title: "We're Peeling Blanched Almonds"
 date: 2010-12-24
 archive: posterous
+weblog: false
 ---
 
 This may be the most tedious thing I've ever done.

@@ -2,6 +2,7 @@
 date: 2016-09-11 16:14:50.000000000 -07:00
 archive: fb
 id: '1473635690'
+weblog: false
 ---
 
 We saw "Sully" last night and thought it was good. BUT it suffers from the same problem as essentially every "based on a true story" Hollywood film which is that in the absence of a villain (except some geese I guess) it makes one up. In this case the NTSB. 

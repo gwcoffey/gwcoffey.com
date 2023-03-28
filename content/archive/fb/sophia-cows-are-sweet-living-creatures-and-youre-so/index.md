@@ -2,6 +2,7 @@
 date: 2014-12-03 22:58:06.000000000 -08:00
 archive: fb
 id: '1417676286'
+weblog: false
 ---
 
 Sophia: "Cows are sweet living creatures and you're so cruel all you care about is their meat."

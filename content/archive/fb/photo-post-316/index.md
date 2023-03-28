@@ -2,6 +2,7 @@
 date: 2014-07-14 19:15:46.000000000 -07:00
 archive: fb
 id: '1405390546'
+weblog: false
 ---
 
 Isabel will be home for 19 hours tomorrow and I CAN'T WAIT.

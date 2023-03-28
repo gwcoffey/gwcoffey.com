@@ -2,6 +2,7 @@
 title: WHO WANTS TO PLAY LIST APP POWERBALL?
 date: '2016-01-08T22:20:55+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 7
 ---

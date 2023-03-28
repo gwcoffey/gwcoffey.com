@@ -2,11 +2,11 @@
 title: PHASES OF A SCHOOL PARENT MEETING
 date: '2016-03-03T01:35:09+00:00'
 archive: listapp
+weblog: false
 likeCount: 28
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

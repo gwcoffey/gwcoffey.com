@@ -2,6 +2,7 @@
 title: THINGS CHEF JOHN SAYS
 date: '2016-02-01T05:10:43+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 9
 ---

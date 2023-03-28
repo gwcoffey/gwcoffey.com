@@ -2,6 +2,7 @@
 title: "Deception Inflection"
 date: 2011-06-27
 archive: posterous
+weblog: false
 ---
 
 Sometimes I'm accused of being a good person, and I have to remind people that it *being evil* and *appearing evil* are only positively correlated for sufficiently small values of evil.

@@ -9,12 +9,14 @@ archive: posterous
 [poet]: https://poets.org/poet/kathleen-sheeder-bonanno
 [book]: https://www.alicejamesbooks.org/bookstore/slamming-open-the-door
 
+<!--more-->
+
 ## Death Barged In
 
 {{< note >}}
 Note: The original version of this post included a sample poem from the book. But I suspect this was a copyright violation so it has been removed from this archive. You can find the same poem published freely with permission here:
 
-<a href="https://poets.org/poem/death-barged">https://poets.org/poem/death-barged</a>
+https://poets.org/poem/death-barged
 {{< /note >}}
 
 

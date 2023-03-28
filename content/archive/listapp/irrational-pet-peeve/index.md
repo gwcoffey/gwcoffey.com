@@ -2,11 +2,11 @@
 title: IRRATIONAL PET PEEVE
 date: '2016-03-18T08:47:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 71
 relistCount: 11
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

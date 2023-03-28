@@ -2,6 +2,7 @@
 title: FUN WITH PANORAMA MODE
 date: '2016-03-16T06:49:48+00:00'
 archive: listapp
+weblog: false
 likeCount: 41
 relistCount: 1
 ---

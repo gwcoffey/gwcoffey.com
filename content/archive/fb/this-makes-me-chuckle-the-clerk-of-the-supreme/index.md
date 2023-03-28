@@ -2,6 +2,7 @@
 date: 2017-02-24 19:13:59.000000000 -08:00
 archive: fb
 id: '1487992439'
+weblog: false
 ---
 
 This makes me chuckle. The Clerk of the Supreme Court reprimands anti-LGBT groups for mis-gendering Gavin Grimm in their amicus brief. It is against the rules to not use the correct caption on your brief so they have to call him "him".

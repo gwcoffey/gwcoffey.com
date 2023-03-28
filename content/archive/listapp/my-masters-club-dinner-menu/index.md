@@ -2,6 +2,7 @@
 title: MY MASTERS CLUB DINNER MENU
 date: '2016-04-06T23:38:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 1
 ---

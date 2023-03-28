@@ -2,11 +2,11 @@
 title: WORST KIND OF PEOPLE, RANKED
 date: '2015-12-10T19:50:51+00:00'
 archive: listapp
+weblog: false
 likeCount: 34
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=true >}}
 

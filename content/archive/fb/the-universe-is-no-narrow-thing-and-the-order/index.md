@@ -2,6 +2,7 @@
 date: 2018-07-13 10:49:06.000000000 -07:00
 archive: fb
 id: '1531504146'
+weblog: false
 ---
 
 {{< quote cite="from Blood Meridian" >}}

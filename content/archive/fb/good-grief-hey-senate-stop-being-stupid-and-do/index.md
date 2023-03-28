@@ -2,6 +2,7 @@
 date: 2017-05-10 13:58:42.000000000 -07:00
 archive: fb
 id: '1494449922'
+weblog: false
 ---
 
 Good grief. Hey Senate, stop being stupid and do your job. 

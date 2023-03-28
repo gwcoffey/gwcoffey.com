@@ -2,11 +2,11 @@
 title: MY LIST APP CRUSHES
 date: '2015-12-19T15:24:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

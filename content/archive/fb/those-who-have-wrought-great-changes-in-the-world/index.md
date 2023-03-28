@@ -2,6 +2,7 @@
 date: 2017-02-09 23:21:55.000000000 -08:00
 archive: fb
 id: '1486711315'
+weblog: false
 ---
 
 {{< quote cite="Martin Van Buren (who, incidentally, never really managed to excite any multitudes…)" >}}

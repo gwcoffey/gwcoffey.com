@@ -2,11 +2,11 @@
 title: THINGS THAT GET WEIRDER THE MORE YOU THINK ABOUT THEM
 date: '2015-06-18T15:31:05+00:00'
 archive: listapp
+weblog: false
 likeCount: 30
 relistCount: 6
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

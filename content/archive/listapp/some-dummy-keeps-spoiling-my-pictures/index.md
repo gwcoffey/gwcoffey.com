@@ -2,6 +2,7 @@
 title: SOME DUMMY KEEPS SPOILING MY PICTURES
 date: '2016-03-23T20:23:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 55
 relistCount: 9
 ---

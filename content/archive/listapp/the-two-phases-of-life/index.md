@@ -2,11 +2,11 @@
 title: THE TWO PHASES OF LIFE
 date: '2016-02-04T00:57:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 67
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: Things I Would Gladly Trade My Headphone Jack For
 date: '2016-09-10T22:26:29+00:00'
 archive: listapp
+weblog: false
 likeCount: 31
 relistCount: 5
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

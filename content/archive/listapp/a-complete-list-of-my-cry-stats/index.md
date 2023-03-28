@@ -2,6 +2,7 @@
 title: A complete list of my cry stats..
 date: '2016-06-23T01:13:57+00:00'
 archive: listapp
+weblog: false
 likeCount: 20
 relistCount: 2
 ---

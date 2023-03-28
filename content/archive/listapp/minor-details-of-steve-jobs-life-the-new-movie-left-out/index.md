@@ -2,6 +2,7 @@
 title: MINOR DETAILS OF STEVE JOBS' LIFE THE NEW MOVIE LEFT OUT
 date: '2015-10-22T00:19:48+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 1
 ---

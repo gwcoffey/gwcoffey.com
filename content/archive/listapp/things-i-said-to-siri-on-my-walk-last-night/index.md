@@ -2,6 +2,7 @@
 title: THINGS I SAID TO SIRI ON MY WALK LAST NIGHT
 date: '2015-07-02T04:40:45+00:00'
 archive: listapp
+weblog: false
 likeCount: 6
 relistCount: 2
 ---

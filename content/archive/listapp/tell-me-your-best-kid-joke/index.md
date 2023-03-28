@@ -2,11 +2,11 @@
 title: TELL ME YOUR BEST KID JOKE
 date: '2015-10-20T01:20:13+00:00'
 archive: listapp
+weblog: false
 likeCount: 19
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

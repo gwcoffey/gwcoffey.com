@@ -2,6 +2,7 @@
 title: SOME OF MY FAVORITE STUFF FROM THE OLD TESTAMENT
 date: '2016-02-18T14:08:53+00:00'
 archive: listapp
+weblog: false
 likeCount: 35
 relistCount: 9
 ---

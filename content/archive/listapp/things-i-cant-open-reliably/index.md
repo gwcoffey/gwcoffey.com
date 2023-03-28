@@ -2,11 +2,11 @@
 title: THINGS I CAN'T OPEN RELIABLY
 date: '2015-06-08T02:45:10+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 date: 2014-06-27 13:41:01.000000000 -07:00
 archive: fb
 id: '1403901661'
+weblog: false
 ---
 
 The lovely Sarah P. Duke Gardens at Duke University with my pal Chris. Thinking of you today, aunt Mary Greist :)

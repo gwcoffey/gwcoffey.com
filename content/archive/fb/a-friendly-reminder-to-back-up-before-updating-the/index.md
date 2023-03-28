@@ -2,6 +2,7 @@
 date: 2016-09-13 10:57:43.000000000 -07:00
 archive: fb
 id: '1473789463'
+weblog: false
 ---
 
 A friendly reminder to back up before updating the operating system on your iPhone (or anything else for that matter).

@@ -2,11 +2,11 @@
 title: THINGS THAT SEEM LIKE THEY WERE JUST YESTERDAY
 date: '2016-03-28T13:50:22+00:00'
 archive: listapp
+weblog: false
 likeCount: 22
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

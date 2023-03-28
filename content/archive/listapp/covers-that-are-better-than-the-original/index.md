@@ -2,11 +2,11 @@
 title: COVERS THAT ARE BETTER THAN THE ORIGINAL➕
 date: '2015-05-22T14:23:57+00:00'
 archive: listapp
+weblog: false
 likeCount: 3
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

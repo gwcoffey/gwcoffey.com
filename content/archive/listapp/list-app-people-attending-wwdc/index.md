@@ -2,6 +2,7 @@
 title: LIST APP PEOPLE ATTENDING WWDC➕➕
 date: '2015-06-11T21:16:10+00:00'
 archive: listapp
+weblog: false
 likeCount: 2
 relistCount: 1
 ---

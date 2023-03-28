@@ -2,6 +2,7 @@
 date: 2017-06-06 15:55:01.000000000 -07:00
 archive: fb
 id: '1496789701'
+weblog: false
 ---
 
 1. Trump starts the "Trump Foundation" to which he contributes no money of his own, but which receives private donations.

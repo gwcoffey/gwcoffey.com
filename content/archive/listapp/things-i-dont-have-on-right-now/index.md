@@ -2,11 +2,11 @@
 title: THINGS I DON'T HAVE ON RIGHT NOW
 date: '2016-01-28T15:44:24+00:00'
 archive: listapp
+weblog: false
 likeCount: 6
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

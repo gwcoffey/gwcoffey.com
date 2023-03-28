@@ -3,6 +3,7 @@ title: øAzium Charts
 date: 1998-11-03
 archive: forhire
 client: Waves in Motion
+weblog: false
 ---
 
 FileMaker Pro is generally considered the easiest to use powerful relational database available, but it does not have built in support for graphical charting of Data. To accomplish the common and powerful task, developers had two options: Get fast flexible charting from a separate application, which required a time consuming multi step process, or get slow inflexible charting in FileMaker through incredibly complicated and tedious tricks. øAzium Charts puts easy to use, flexible and fast charting right in FileMaker Pro. Finally developers can integrate charts and graphs directly with their FileMaker solutions, and even build a flexible charting module into commercial products, with the help of øAzium Charts.

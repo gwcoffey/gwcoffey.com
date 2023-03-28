@@ -2,11 +2,11 @@
 title: EVERY FILM CRITIC ON THE NEW STAR WARS RIGHT NOW
 date: '2015-12-18T02:57:42+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

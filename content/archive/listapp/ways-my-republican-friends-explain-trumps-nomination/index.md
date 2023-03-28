@@ -2,11 +2,11 @@
 title: Ways My Republican Friends Explain Trump's Nomination
 date: '2016-10-22T20:20:29+00:00'
 archive: listapp
+weblog: false
 likeCount: 30
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

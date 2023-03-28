@@ -2,6 +2,7 @@
 title: Parts of the Rogue One trailer that weren't in the movie
 date: '2016-12-20T05:18:03+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 0
 ---

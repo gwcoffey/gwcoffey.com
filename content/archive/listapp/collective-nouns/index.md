@@ -2,6 +2,7 @@
 title: COLLECTIVE NOUNS
 date: '2015-08-24T01:16:44+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 3
 ---

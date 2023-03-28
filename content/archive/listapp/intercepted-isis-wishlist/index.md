@@ -2,6 +2,7 @@
 title: 'Intercepted: ISIS Wishlist'
 date: '2016-06-21T21:21:06+00:00'
 archive: listapp
+weblog: false
 likeCount: 45
 relistCount: 13
 ---

@@ -2,6 +2,7 @@
 title: 'ROY G. BIV : ANDY GOLDSWORTHY'
 date: '2016-02-29T15:57:12+00:00'
 archive: listapp
+weblog: false
 likeCount: 31
 relistCount: 3
 ---

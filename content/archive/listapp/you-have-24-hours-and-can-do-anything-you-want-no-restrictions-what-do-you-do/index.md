@@ -3,11 +3,11 @@ title: YOU HAVE 24 HOURS AND CAN DO ANYTHING YOU WANT NO RESTRICTIONS...WHAT DO 
   DO?
 date: '2016-04-11T18:02:48+00:00'
 archive: listapp
+weblog: false
 likeCount: 28
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 date: 2016-11-17 18:33:35.000000000 -08:00
 archive: fb
 id: '1479436415'
+weblog: false
 ---
 
 Our new national security advisor posted this video to his twitter account in February. This is utterly unacceptable. How is this happening?

@@ -2,6 +2,7 @@
 date: 2013-05-23 09:08:14.000000000 -07:00
 archive: fb
 id: '1369325294'
+weblog: false
 ---
 
 Sophia is demonstrating the Maori "Haka" for her class today and I can't tell you how much I wish I could be there to watch.

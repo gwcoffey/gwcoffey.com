@@ -6,7 +6,7 @@ likeCount: 21
 relistCount: 0
 ---
 
-I used to think Shakespeare's malapropism-spewing characters were over the top. Then I met this guy...
+I used to think Shakespeare's malapropism-spewing characters were over the top. Then I met this guy... {{< ed "To be clear, this man was dear to me. But he *really* had a way with words." >}}
 
 <!--more-->
 

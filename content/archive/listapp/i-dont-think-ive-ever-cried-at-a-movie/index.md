@@ -2,11 +2,11 @@
 title: I DON'T THINK I'VE EVER CRIED AT A MOVIE
 date: '2015-10-09T02:37:05+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

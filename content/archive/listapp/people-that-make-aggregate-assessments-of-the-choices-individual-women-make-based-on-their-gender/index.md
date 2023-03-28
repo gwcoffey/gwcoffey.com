@@ -3,11 +3,11 @@ title: PEOPLE THAT MAKE AGGREGATE ASSESSMENTS OF THE CHOICES INDIVIDUAL WOMEN MA
   BASED ON THEIR GENDER
 date: '2016-02-16T05:56:17+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

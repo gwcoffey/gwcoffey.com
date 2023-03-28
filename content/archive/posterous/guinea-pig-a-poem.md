@@ -6,25 +6,27 @@ archive: posterous
 
 I wrote this poem for Isabel's friend, who was collecting poems about Guinea Pigs for a project:
 
-<blockquote>
-Guinea Pig, O’ Guinea Pig<br>
+<!--more-->
+
+{{< quote >}}{{< lines >}}
+Guinea Pig, O’ Guinea Pig
 I have bad news for thee
 
-Tho’ your name is Guinea Pig<br>
+Tho’ your name is Guinea Pig
 You are no pig to me
 
-For pigs are big, and round, and snort<br>
-And dig all day in dirt<br>
-But all you ever seem to do<br>
+For pigs are big, and round, and snort
+And dig all day in dirt
+But all you ever seem to do
 Is pee upon my shirt
 
-Pigs, what's more, make bacon crisp<br>
-A truly perfect food<br>
-But bacon from a Guinea Pig<br>
+Pigs, what's more, make bacon crisp
+A truly perfect food
+But bacon from a Guinea Pig
 Is never very good
 
-Guinea Pig, O’ Guinea Pig<br>
-You furry little friend<br>
-I'm glad you don't belong to me<br>
+Guinea Pig, O’ Guinea Pig
+You furry little friend
+I'm glad you don't belong to me
 For I would be your end
-</blockquote>
+{{< /lines >}}{{< /quote >}}

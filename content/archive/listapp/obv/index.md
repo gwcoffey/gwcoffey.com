@@ -2,11 +2,11 @@
 title: Obv
 date: '2016-07-05T05:05:01+00:00'
 archive: listapp
+weblog: false
 likeCount: 67
 relistCount: 5
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

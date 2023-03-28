@@ -2,6 +2,7 @@
 date: 2018-04-18 08:40:27.000000000 -07:00
 archive: fb
 id: '1524066027'
+weblog: false
 ---
 
 One of my favorite Barbara Bush stories. 

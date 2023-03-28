@@ -2,6 +2,7 @@
 date: 2014-07-11 10:54:06.000000000 -07:00
 archive: fb
 id: '1405101246'
+weblog: false
 ---
 
 I'm unwittingly eavesdropping on a Century Link guy interviewing another guy for a direct sales position. The conversation is funny on a lot of levels, but my favorite part was this:

@@ -2,6 +2,7 @@
 date: 2017-03-24 13:01:54.000000000 -07:00
 archive: fb
 id: '1490385714'
+weblog: false
 ---
 
 The Phone app on my iPhone should let me point the camera at a printed phone number to dial it.

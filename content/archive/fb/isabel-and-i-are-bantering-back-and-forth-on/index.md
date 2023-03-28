@@ -2,6 +2,7 @@
 date: 2018-04-11 09:43:34.000000000 -07:00
 archive: fb
 id: '1523465014'
+weblog: false
 ---
 
 Isabel and I are bantering back and forth on twitter. Then Sophia chimes in:

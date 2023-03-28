@@ -2,11 +2,11 @@
 title: PICTURES PEOPLE HAVE DRAWN OF ME
 date: '2016-01-07T16:07:44+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

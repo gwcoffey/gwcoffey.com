@@ -3,6 +3,7 @@ title: Lisa is such a wonderful person! And I'm not saying that cause @imc will 
   in Paris by herself soon
 date: '2016-05-30T00:08:17+00:00'
 archive: listapp
+weblog: false
 likeCount: 34
 relistCount: 6
 ---

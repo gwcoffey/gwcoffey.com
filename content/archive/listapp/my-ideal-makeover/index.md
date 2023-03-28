@@ -2,6 +2,7 @@
 title: MY IDEAL MAKEOVER
 date: '2015-09-12T23:09:37+00:00'
 archive: listapp
+weblog: false
 likeCount: 13
 relistCount: 0
 ---

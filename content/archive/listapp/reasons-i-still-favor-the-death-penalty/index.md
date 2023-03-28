@@ -2,6 +2,7 @@
 title: REASONS I STILL FAVOR THE DEATH PENALTY
 date: '2015-10-05T21:00:48+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---

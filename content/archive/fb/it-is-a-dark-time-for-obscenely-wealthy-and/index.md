@@ -2,6 +2,7 @@
 date: 2018-10-11 10:36:41.000000000 -07:00
 archive: fb
 id: '1539279401'
+weblog: false
 ---
 
 It is a dark time for obscenely wealthy and powerful people in America. I feel for them. 

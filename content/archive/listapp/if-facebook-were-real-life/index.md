@@ -2,11 +2,11 @@
 title: IF FACEBOOK WERE REAL LIFE
 date: '2016-04-16T04:01:01+00:00'
 archive: listapp
+weblog: false
 likeCount: 95
 relistCount: 19
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 date: 2014-10-31 11:00:54.000000000 -07:00
 archive: fb
 id: '1414778454'
+weblog: false
 ---
 
 Sophia's Hannibal costume, which she made herself. Lots and lots of work and I think it came out great.

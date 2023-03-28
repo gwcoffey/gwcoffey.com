@@ -2,11 +2,11 @@
 title: IF THE POWERBALL DOUBLES ONE MORE TIME...
 date: '2016-01-11T18:14:14+00:00'
 archive: listapp
+weblog: false
 likeCount: 31
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

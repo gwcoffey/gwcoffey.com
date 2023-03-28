@@ -2,6 +2,7 @@
 title: ROM COMS WORTH WATCHING
 date: '2015-10-16T06:17:56+00:00'
 archive: listapp
+weblog: false
 likeCount: 28
 relistCount: 2
 ---

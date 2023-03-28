@@ -2,6 +2,7 @@
 date: 2016-11-06 20:11:59.000000000 -08:00
 archive: fb
 id: '1478491919'
+weblog: false
 ---
 
 I had a few minutes tonight to read something short and moving before I go to bed early. I chose to revisit Rabindranath Tagore which turned out to be a wise choice. Every word he ever wrote was simply beautiful. 

@@ -2,11 +2,11 @@
 title: THINGS THAT HAPPENED ON MY BIRTHDAY
 date: '2016-07-21T23:26:22+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

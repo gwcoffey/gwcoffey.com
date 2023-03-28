@@ -2,11 +2,11 @@
 title: LIFE'S GREATEST MYSTERY
 date: '2016-04-20T00:44:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 61
 relistCount: 9
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

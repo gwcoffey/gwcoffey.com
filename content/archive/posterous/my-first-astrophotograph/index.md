@@ -2,6 +2,7 @@
 title: "My First Astrophotograph"
 date: 2011-01-11
 archive: posterous
+weblog: false
 ---
 
 Jupiter through Sophia's Celestrong FirstScope telescope taken with my iPhone through thin clouds and central Phoenix's terrible light pollution. Moons were barely visible through the eyepiece but my iPhone didn't pick them up. I assume Steve Jobs is working on this.

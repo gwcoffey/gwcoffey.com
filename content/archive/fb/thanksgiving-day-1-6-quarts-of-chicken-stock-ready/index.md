@@ -2,6 +2,7 @@
 date: 2016-11-19 21:50:22.000000000 -08:00
 archive: fb
 id: '1479621022'
+weblog: false
 ---
 
 Thanksgiving Day 1:

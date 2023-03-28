@@ -2,6 +2,7 @@
 title: "Go Mamie Go"
 date: 2011-01-16
 archive: posterous
+weblog: false
 ---
 
 {{< figure 

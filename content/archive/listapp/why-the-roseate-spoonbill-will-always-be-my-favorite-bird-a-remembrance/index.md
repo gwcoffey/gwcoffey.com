@@ -6,7 +6,6 @@ likeCount: 10
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 
@@ -22,7 +21,7 @@ relistCount: 1
 
    {{< listapp/item title="There were signs about the spoonbill. They explained that this majestic animal was threatened because it's breeding area was dwindling." >}}
 
-   {{< listapp/item title="They explained that this preserve was one of the few places left for these birds to nest in the United States." >}}
+   {{< listapp/item title="They explained that this preserve was one of the few places left in the United States for these birds to nest." >}}
 
    {{< listapp/item title="They explained that the Roseate Spoonbill was a rare natural treasure." >}}
 

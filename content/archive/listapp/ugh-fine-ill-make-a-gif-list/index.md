@@ -2,6 +2,7 @@
 title: UGH FINE I'LL MAKE A GIF LIST
 date: '2016-05-19T02:42:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 29
 relistCount: 1
 ---

@@ -2,6 +2,7 @@
 date: 2014-10-30 21:53:13.000000000 -07:00
 archive: fb
 id: '1414731193'
+weblog: false
 ---
 
 Sophia made these super-cute mummy cupcakes for her school Halloween party tomorrow. Eyeballs too. 

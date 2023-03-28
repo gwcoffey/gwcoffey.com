@@ -2,6 +2,7 @@
 title: MOVIES I WILL ALWAYS STOP FLIPPING CHANNELS TO WATCH
 date: '2015-09-15T02:38:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 0
 ---

@@ -2,11 +2,11 @@
 title: BIGGEST DISAPPOINTMENTS
 date: '2016-03-11T02:30:05+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

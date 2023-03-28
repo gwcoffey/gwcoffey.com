@@ -2,11 +2,11 @@
 title: COMPREHENSIVE LIST OF REASONS TO SELL THIS KIND OF SOCK IN MULTIPLE COLORS
 date: '2015-12-11T16:49:16+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

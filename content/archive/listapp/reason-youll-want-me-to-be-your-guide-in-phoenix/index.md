@@ -2,6 +2,7 @@
 title: REASON YOU'LL WANT ME TO BE YOUR GUIDE IN PHOENIX
 date: '2016-04-06T00:51:30+00:00'
 archive: listapp
+weblog: false
 likeCount: 19
 relistCount: 1
 ---

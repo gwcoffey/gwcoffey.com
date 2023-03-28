@@ -2,6 +2,7 @@
 title: "MY ROOMMATE HORROR STORY \U0001F631"
 date: '2016-01-20T04:08:54+00:00'
 archive: listapp
+weblog: false
 likeCount: 39
 relistCount: 2
 ---

@@ -3,11 +3,11 @@ title: WORDS THAT GET THEIR MEANING FROM A POOR INTERPRETATION OF THE FORMAL PHI
   THEY'RE NAMED AFTER
 date: '2016-03-30T14:57:22+00:00'
 archive: listapp
+weblog: false
 likeCount: 39
 relistCount: 7
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

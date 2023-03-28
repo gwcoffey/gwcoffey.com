@@ -2,6 +2,7 @@
 title: THINGS I SAY SARCASTICALLY
 date: '2015-08-13T17:01:01+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 3
 ---

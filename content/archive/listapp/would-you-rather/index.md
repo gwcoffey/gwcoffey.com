@@ -2,11 +2,11 @@
 title: WOULD YOU RATHER...
 date: '2016-03-04T18:56:55+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

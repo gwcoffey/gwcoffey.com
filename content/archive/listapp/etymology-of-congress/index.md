@@ -2,6 +2,7 @@
 title: Etymology of Congress
 date: '2016-08-02T16:39:50+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 2
 ---

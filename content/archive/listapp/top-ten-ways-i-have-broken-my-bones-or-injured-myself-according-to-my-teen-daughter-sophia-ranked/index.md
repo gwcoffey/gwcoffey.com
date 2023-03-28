@@ -3,11 +3,11 @@ title: TOP TEN WAYS I HAVE BROKEN MY BONES OR INJURED MYSELF ACCORDING TO MY TEE
   DAUGHTER, SOPHIA, RANKED
 date: '2015-10-04T05:01:47+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

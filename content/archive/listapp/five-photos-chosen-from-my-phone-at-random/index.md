@@ -2,11 +2,11 @@
 title: FIVE PHOTOS CHOSEN FROM MY PHONE AT RANDOM
 date: '2015-10-08T01:42:47+00:00'
 archive: listapp
+weblog: false
 likeCount: 12
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: APPLE'S ARGUMENT IN THE "UNLOCK-THIS-IPHONE" CASE
 date: '2016-02-26T16:05:33+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 4
 ---

@@ -6,7 +6,8 @@ likeCount: 167
 relistCount: 53
 ---
 
-<!--more-->
+
+{{< ed "This is in reference to the delightful Netflix show Unbreakable Kimmy Schmidt" >}}
 
 {{< listapp/list order=false reverse=false >}}
 

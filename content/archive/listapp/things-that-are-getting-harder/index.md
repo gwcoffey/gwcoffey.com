@@ -2,6 +2,7 @@
 title: THINGS THAT ARE GETTING HARDER
 date: '2016-01-12T21:53:26+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 5
 ---

@@ -2,6 +2,7 @@
 title: "My Wife Put This Up in the Kitchen"
 date: 2010-09-18
 archive: posterous
+weblog: false
 ---
 
 Oh boy. Called out.

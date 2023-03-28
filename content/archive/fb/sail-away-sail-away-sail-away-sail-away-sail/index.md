@@ -2,6 +2,7 @@
 date: 2017-06-25 12:22:37.000000000 -07:00
 archive: fb
 id: '1498418557'
+weblog: false
 ---
 
 {{< quote cite="Enya" >}}{{< lines >}}

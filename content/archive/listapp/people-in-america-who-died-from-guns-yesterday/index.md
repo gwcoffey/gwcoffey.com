@@ -2,6 +2,7 @@
 title: PEOPLE IN AMERICA WHO DIED FROM GUNS YESTERDAY
 date: '2015-06-19T07:27:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 22
 relistCount: 6
 ---

@@ -2,6 +2,7 @@
 date: 2018-02-04 10:40:54.000000000 -08:00
 archive: fb
 id: '1517769654'
+weblog: false
 ---
 
 Actual work conversation between Dave Van Tassell and myself several weeks ago:

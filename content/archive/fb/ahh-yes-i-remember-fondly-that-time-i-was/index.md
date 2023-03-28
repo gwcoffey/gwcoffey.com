@@ -2,6 +2,7 @@
 date: 2017-08-01 17:01:38.000000000 -07:00
 archive: fb
 id: '1501632098'
+weblog: false
 ---
 
 Ahh yes, I remember fondly that time *I* was plotting treason with a foreign national, got caught, and my dear ol' papa helped me craft my misleading statement. Just dad stuff.

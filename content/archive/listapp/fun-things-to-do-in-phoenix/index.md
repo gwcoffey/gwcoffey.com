@@ -2,6 +2,7 @@
 title: FUN THINGS TO DO IN PHOENIX
 date: '2015-05-19T00:35:34+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 2
 ---

@@ -2,6 +2,7 @@
 date: 2017-03-24 20:48:16.000000000 -07:00
 archive: fb
 id: '1490413696'
+weblog: false
 ---
 
 “I’m going to surround myself only with the best and most serious people. … We want top of the line professionals.” 

@@ -135,7 +135,7 @@ main h3 {
 
 main ol, main ul {
   padding-left: 1em;
-  margin: -0.5em 0 0 1em;
+  margin: 0 0 1em 1em;
 }
 
 main ol li, main ul li {
@@ -770,8 +770,10 @@ ol.booklist li span.format {
 }
 
 .post-preview {
+  position: relative;
   display: flex;
-  margin-top: 20px;
+  align-items: flex-start;
+  margin-bottom: 3em;
 }
 
 .post-preview .icon {
@@ -781,6 +783,11 @@ ol.booklist li span.format {
 
 .post-preview .content {
   flex: 1;
+}
+
+.post-preview a.more {
+  font-style: italic;
+  color: #555;
 }
 
 .post-preview h4 {
@@ -797,9 +804,40 @@ ol.booklist li span.format {
   color: var(--deemphasized-text-color);
 }
 
-.post-preview .images {
-  display: flex;
-  flex-wrap: wrap;
+.post-preview h4 + .byline a {
+  text-decoration: none;
+}
+
+.post-preview:has(.thumbs) {
+  padding-right: 20px;
+}
+
+.post-preview .thumbs {
+  width: 80px;
+  height: 80px;
+}
+
+.post-preview .thumbs img {
+  display: block;
+  position: absolute;
+  right: 10px;
+  object-fit: cover;
+  width: 80px;
+  height: 80px;
+  padding: 4px;
+  border: 1px solid #eee;
+  background: white;
+  border-radius: 3px;
+}
+
+.post-preview .thumbs a:nth-child(2) img {
+  transform: rotate(3deg);
+  right: 5px;
+}
+
+.post-preview .thumbs a:nth-child(3) img {
+  transform: rotate(6deg);
+  right: 0;
 }
 
 .post-preview .summary > p {

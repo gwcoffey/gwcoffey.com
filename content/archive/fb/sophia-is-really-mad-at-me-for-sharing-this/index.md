@@ -2,6 +2,7 @@
 date: 2017-12-31 12:43:16.000000000 -08:00
 archive: fb
 id: '1514752996'
+weblog: false
 ---
 
 Sophia is really mad at me for sharing this because she is her own worst critic but here is the short film she made for film class. She wrote the script and it was selected for production. Because of the subject matter they chose to do stop motion which is really difficult but I think they did great. The story is so adorable I may die. 

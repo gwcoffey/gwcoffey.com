@@ -2,11 +2,11 @@
 title: PHINEAS AND FERB HAS BETTER MUSIC THAN FROZEN
 date: '2016-01-31T03:31:50+00:00'
 archive: listapp
+weblog: false
 likeCount: 56
 relistCount: 12
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

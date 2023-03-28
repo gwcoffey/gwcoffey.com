@@ -2,6 +2,7 @@
 title: THINGS MY PHONE'S AUTOCORRECT KNOWS MEAN "GEOFF"
 date: '2015-07-11T23:11:54+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---

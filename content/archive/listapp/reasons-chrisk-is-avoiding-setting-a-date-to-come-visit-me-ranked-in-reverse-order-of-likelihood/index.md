@@ -3,6 +3,7 @@ title: REASONS @CHRISK IS AVOIDING SETTING A DATE TO COME VISIT ME, RANKED IN RE
   ORDER OF LIKELIHOOD
 date: '2015-05-24T23:15:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 7
 relistCount: 1
 ---

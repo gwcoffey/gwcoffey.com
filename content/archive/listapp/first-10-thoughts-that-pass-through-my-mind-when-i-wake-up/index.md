@@ -2,6 +2,7 @@
 title: First 10 thoughts that pass through my mind when I wake up
 date: '2016-06-16T23:01:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 1
 ---

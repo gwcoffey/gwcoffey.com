@@ -2,11 +2,11 @@
 title: The Twin Paradox
 date: '2016-05-21T15:32:26+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

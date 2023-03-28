@@ -4,9 +4,8 @@ date: '2016-08-29T05:32:26+00:00'
 archive: listapp
 likeCount: 23
 relistCount: 4
+summary: "Aw, why the dickens!"
 ---
-
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 date: 2017-09-12 14:49:17.000000000 -07:00
 archive: fb
 id: '1505252957'
+weblog: false
 ---
 
 I'm calling it: “You’ve never seen anything like it. It’s never seen anything like you.” is the best iPhone ad tagline ever. I love it.

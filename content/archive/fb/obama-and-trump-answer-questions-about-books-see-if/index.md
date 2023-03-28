@@ -2,6 +2,7 @@
 date: 2017-01-18 15:25:49.000000000 -08:00
 archive: fb
 id: '1484781949'
+weblog: false
 ---
 
 Obama and Trump answer questions about books. See if you can guess who's who.

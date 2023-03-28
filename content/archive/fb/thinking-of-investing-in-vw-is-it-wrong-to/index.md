@@ -2,6 +2,7 @@
 date: 2015-09-21 12:26:13.000000000 -07:00
 archive: fb
 id: '1442863573'
+weblog: false
 ---
 
 Thinking of investing in VW. Is it wrong to bet on our inability to effectively punish corporations when they misbehave?

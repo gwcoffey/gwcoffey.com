@@ -2,11 +2,11 @@
 title: SUGGESTED SERVING SIZES
 date: '2016-01-31T20:55:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 106
 relistCount: 17
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

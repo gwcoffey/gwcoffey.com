@@ -2,11 +2,11 @@
 title: THINGS THAT CAUSE ME UNWANTED WEIGHT GAIN
 date: '2015-12-08T22:29:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 22
 relistCount: 6
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

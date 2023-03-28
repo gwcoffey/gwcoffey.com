@@ -2,6 +2,7 @@
 title: THINGS I'M NOT QUALIFIED TO JUDGE
 date: '2016-02-19T02:57:08+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 1
 ---

@@ -2,6 +2,7 @@
 date: 2016-11-10 16:52:09.000000000 -08:00
 archive: fb
 id: '1478825529'
+weblog: false
 ---
 
 And similar reporting from the Independent. 

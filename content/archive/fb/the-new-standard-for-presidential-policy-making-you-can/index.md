@@ -2,6 +2,7 @@
 date: 2017-05-12 07:20:11.000000000 -07:00
 archive: fb
 id: '1494598811'
+weblog: false
 ---
 
 The new standard for presidential policy making:

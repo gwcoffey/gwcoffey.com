@@ -2,6 +2,7 @@
 date: 2013-09-11 10:49:13.000000000 -07:00
 archive: fb
 id: '1378921753'
+weblog: false
 ---
 
 I think my cost minimizing efforts have effected a change in policy at the laundromat today.

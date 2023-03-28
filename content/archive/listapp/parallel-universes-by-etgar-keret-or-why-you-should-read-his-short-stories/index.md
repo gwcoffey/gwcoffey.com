@@ -2,6 +2,7 @@
 title: '"PARALLEL UNIVERSES" BY ETGAR KERET OR WHY YOU SHOULD READ HIS SHORT STORIES'
 date: '2016-02-02T16:45:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 13
 relistCount: 2
 ---

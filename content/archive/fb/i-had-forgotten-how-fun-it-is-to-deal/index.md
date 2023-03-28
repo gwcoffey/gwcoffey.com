@@ -2,6 +2,7 @@
 date: 2016-07-05 11:54:19.000000000 -07:00
 archive: fb
 id: '1467744859'
+weblog: false
 ---
 
 I had forgotten how fun it is to deal with incompetent university bureaucracy. This was the actual conversation when I paid the first payment on Friday:

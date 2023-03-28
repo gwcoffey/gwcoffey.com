@@ -2,6 +2,7 @@
 title: YUP, I CRIED (NOT REALLY YOU BABIES)
 date: '2016-03-28T18:46:50+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 0
 ---
@@ -22,6 +23,6 @@ Inspired by @xtineengels
 
    {{< listapp/item title="So here's my list of moments that didn't make me cry but could have if I let them..." >}}
 
-   {{< listapp/item title="https://li.st/l/28Fc2wW07nCRZvimtKgZgt" >}}
+   {{< listapp/item title="https://gwcoffey.com/archive/listapp/things-im-embarassed-to-admit-made-me-cry" >}}
 
 {{< /listapp/list >}}

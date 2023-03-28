@@ -2,6 +2,7 @@
 title: Dehumanizing Etymology
 date: '2017-04-28T18:28:50+00:00'
 archive: listapp
+weblog: false
 likeCount: 14
 relistCount: 0
 ---

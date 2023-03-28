@@ -2,6 +2,7 @@
 date: 2016-05-11 16:37:16.000000000 -07:00
 archive: fb
 id: '1463009836'
+weblog: false
 ---
 
 One of my favorite Mac/iOS app developers has a new sign on their building that you can control yourself.

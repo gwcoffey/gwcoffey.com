@@ -2,6 +2,7 @@
 date: 2016-11-19 16:11:43.000000000 -08:00
 archive: fb
 id: '1479600703'
+weblog: false
 ---
 
 I'll never tire of discovering things actually published in the 21st century by our president's chief strategist.

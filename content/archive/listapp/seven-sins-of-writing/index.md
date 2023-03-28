@@ -6,6 +6,8 @@ likeCount: 47
 relistCount: 1
 ---
 
+This is my attempt to classify the things I think usually make a book worse.
+
 <!--more-->
 
 {{< listapp/list order=true reverse=false >}}

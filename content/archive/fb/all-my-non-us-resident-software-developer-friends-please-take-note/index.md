@@ -2,6 +2,7 @@
 date: 2017-04-20 20:06:48.000000000 -07:00
 archive: fb
 id: '1492744008'
+weblog: false
 ---
 
 All my non-US-resident software developer friends please take note: 

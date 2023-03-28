@@ -2,6 +2,7 @@
 title: HOW TO PERFORM THE HEIMLICH MANEUVER ON A STRANGER WHO IS NOT CHOKING
 date: '2015-09-09T00:37:41+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 2
 ---

@@ -2,6 +2,7 @@
 date: 2017-03-04 15:13:00.000000000 -08:00
 archive: fb
 id: '1488669180'
+weblog: false
 ---
 
 Japanese Hive Mind: Will this plug in to a typical hotel outlet in Japan?

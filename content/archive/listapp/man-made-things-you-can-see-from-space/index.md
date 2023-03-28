@@ -2,11 +2,11 @@
 title: Man made things you can see from space
 date: '2016-05-15T16:22:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 25
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

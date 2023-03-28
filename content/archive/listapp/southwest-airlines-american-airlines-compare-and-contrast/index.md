@@ -2,11 +2,11 @@
 title: 'SOUTHWEST AIRLINES / AMERICAN AIRLINES: COMPARE AND CONTRAST'
 date: '2015-11-13T19:33:42+00:00'
 archive: listapp
+weblog: false
 likeCount: 40
 relistCount: 13
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: A RUNNING LIST OF TRICK OR TREATERS AT MY HOUSE
 date: '2015-11-01T04:13:15+00:00'
 archive: listapp
+weblog: false
 likeCount: 37
 relistCount: 1
 ---

@@ -2,6 +2,7 @@
 date: 2017-12-01 08:37:00.000000000 -08:00
 archive: fb
 id: '1512146220'
+weblog: false
 ---
 
 When the bandaid does more damage to your skin than the thing it’s supposed to be protecting. 

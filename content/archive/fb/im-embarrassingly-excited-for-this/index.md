@@ -2,6 +2,7 @@
 date: 2017-05-12 21:34:33.000000000 -07:00
 archive: fb
 id: '1494650073'
+weblog: false
 ---
 
 I'm embarrassingly excited for this.

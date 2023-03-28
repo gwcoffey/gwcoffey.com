@@ -2,6 +2,7 @@
 date: 2018-05-21 09:09:07.000000000 -07:00
 archive: fb
 id: '1526918947'
+weblog: false
 ---
 
 Yesterday we learned that this boy in Texas killed ten people after a girl turned him down because he felt angrily entitled to her affections. At the same time the President of the United States, literally the most powerful man in the world, went on a spittle-speckled twitter tirade complete with lies and threats of harm because he thinks he is being persecuted and deserves our adoration.

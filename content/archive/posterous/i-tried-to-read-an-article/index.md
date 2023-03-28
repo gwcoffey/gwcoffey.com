@@ -6,6 +6,8 @@ archive: posterous
 
 Chris and I were discussing online reading. He sent me a link to an article about people using apps and devices to convert online content into more readable forms. This is how the article displayed in my browser. Ironies.
 
+<!--more-->
+
 {{< figure 
 	src="image.png" 
 	height="1025" 

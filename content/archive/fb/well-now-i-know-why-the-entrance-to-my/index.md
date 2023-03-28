@@ -2,6 +2,7 @@
 date: 2016-08-04 00:21:08.000000000 -07:00
 archive: fb
 id: '1470295268'
+weblog: false
 ---
 
 Well now I know why the entrance to my neighborhood is blocked by police. Sad story.

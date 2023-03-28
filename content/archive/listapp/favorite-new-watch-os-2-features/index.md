@@ -2,6 +2,7 @@
 title: FAVORITE NEW WATCH OS 2 FEATURES
 date: '2015-09-16T21:37:57+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---

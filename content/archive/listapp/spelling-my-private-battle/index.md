@@ -2,6 +2,7 @@
 title: 'SPELLING: MY PRIVATE BATTLE'
 date: '2015-08-12T22:24:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 0
 ---

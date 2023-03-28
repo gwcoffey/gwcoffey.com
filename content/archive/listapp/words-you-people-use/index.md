@@ -2,11 +2,11 @@
 title: WORDS YOU PEOPLE USE
 date: '2015-10-28T15:13:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 52
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

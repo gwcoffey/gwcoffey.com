@@ -2,11 +2,11 @@
 title: THINGS CATS EAT
 date: '2015-12-17T22:14:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

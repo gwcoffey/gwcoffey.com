@@ -2,6 +2,7 @@
 date: 2013-12-16 18:24:38.000000000 -08:00
 archive: fb
 id: '1387247078'
+weblog: false
 ---
 
 I don't really know what to think of this except that it gave me that unsettled sense when some otherwise-normal thing is just a little bit *weird*.

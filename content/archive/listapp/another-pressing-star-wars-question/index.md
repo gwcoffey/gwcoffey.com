@@ -2,11 +2,11 @@
 title: ANOTHER PRESSING STAR WARS QUESTION
 date: '2015-12-23T13:42:57+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

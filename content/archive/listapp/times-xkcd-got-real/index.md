@@ -2,6 +2,7 @@
 title: Times XKCD Got Real
 date: '2016-05-23T04:03:51+00:00'
 archive: listapp
+weblog: false
 likeCount: 34
 relistCount: 5
 ---

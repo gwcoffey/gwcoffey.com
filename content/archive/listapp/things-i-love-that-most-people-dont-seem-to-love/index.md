@@ -2,11 +2,11 @@
 title: Things I Love That Most People Don't Seem to Love
 date: '2016-08-16T16:45:30+00:00'
 archive: listapp
+weblog: false
 likeCount: 54
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

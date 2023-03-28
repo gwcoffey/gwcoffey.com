@@ -2,6 +2,7 @@
 date: 2018-06-03 08:43:50.000000000 -07:00
 archive: fb
 id: '1528040630'
+weblog: false
 ---
 
 {{< quote cite="Corrado Assenza, Italian pastry chef" >}}

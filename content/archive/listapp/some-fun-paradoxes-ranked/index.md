@@ -2,11 +2,11 @@
 title: SOME FUN PARADOXES, RANKED
 date: '2015-10-30T04:08:43+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

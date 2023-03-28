@@ -2,6 +2,7 @@
 date: 2018-06-18 08:36:32.000000000 -07:00
 archive: fb
 id: '1529336192'
+weblog: false
 ---
 
 Sophie and Maïa at “a Monet museum.” Plus bonus photos: “Maïa’s annoyed face” and “A kiss for dad on Father’s Day.”

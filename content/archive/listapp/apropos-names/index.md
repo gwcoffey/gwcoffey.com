@@ -2,11 +2,11 @@
 title: APROPOS NAMES
 date: '2015-07-09T00:29:15+00:00'
 archive: listapp
+weblog: false
 likeCount: 8
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

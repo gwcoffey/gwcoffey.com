@@ -2,6 +2,7 @@
 title: LOST IN TRANSLATION
 date: '2016-03-31T07:02:28+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 1
 ---

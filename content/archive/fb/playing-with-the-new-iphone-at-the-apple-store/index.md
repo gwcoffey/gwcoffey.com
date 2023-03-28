@@ -2,6 +2,7 @@
 date: 2017-09-23 15:35:09.000000000 -07:00
 archive: fb
 id: '1506206109'
+weblog: false
 ---
 
 Playing with the new iPhone at the Apple Store with Sophie.

@@ -3,6 +3,7 @@ title: '"GO THROUGH THE WORLD WITH OPEN EYES, AND LISTEN TO THE PAINS, INTERESTS
   AND LONGINGS OF OTHERS"'
 date: '2016-03-12T07:14:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 53
 relistCount: 15
 ---

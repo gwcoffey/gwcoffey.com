@@ -2,6 +2,7 @@
 title: TIME TO BRAG ABOUT MY BOOK
 date: '2016-04-04T04:43:28+00:00'
 archive: listapp
+weblog: false
 likeCount: 70
 relistCount: 13
 ---

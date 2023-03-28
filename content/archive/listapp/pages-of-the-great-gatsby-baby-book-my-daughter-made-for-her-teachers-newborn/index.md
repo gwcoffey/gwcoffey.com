@@ -2,6 +2,7 @@
 title: PAGES OF THE GREAT GATSBY BABY BOOK MY DAUGHTER MADE FOR HER TEACHER'S NEWBORN
 date: '2015-06-16T03:09:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 40
 relistCount: 9
 ---

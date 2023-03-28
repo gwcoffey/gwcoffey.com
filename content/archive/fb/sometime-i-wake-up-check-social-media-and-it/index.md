@@ -2,6 +2,7 @@
 date: 2017-04-10 07:44:43.000000000 -07:00
 archive: fb
 id: '1491835483'
+weblog: false
 ---
 
 Sometime I wake up, check social media, and it is in full outrage mode over some twitter story that sounds very fishy. So I wait for the details to come out because the real story can't possibly be as bad as the vague rumors make it sound. 

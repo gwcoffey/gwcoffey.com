@@ -2,6 +2,7 @@
 title: REASONS TO CHECK THE WEATHER APP WHEN YOU LIVE IN PHOENIX
 date: '2015-10-26T19:34:29+00:00'
 archive: listapp
+weblog: false
 likeCount: 9
 relistCount: 1
 ---

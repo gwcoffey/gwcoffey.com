@@ -2,11 +2,11 @@
 title: THINGS I SILENTLY JUDGE
 date: '2015-06-14T00:22:51+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

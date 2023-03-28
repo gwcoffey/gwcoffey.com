@@ -2,6 +2,7 @@
 title: WHY NERDY GIRLS ARE SEXIER
 date: '2015-12-05T18:46:40+00:00'
 archive: listapp
+weblog: false
 likeCount: 39
 relistCount: 12
 ---

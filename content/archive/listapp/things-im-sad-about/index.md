@@ -2,11 +2,11 @@
 title: THINGS I'M SAD ABOUT
 date: '2016-01-04T21:40:39+00:00'
 archive: listapp
+weblog: false
 likeCount: 36
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

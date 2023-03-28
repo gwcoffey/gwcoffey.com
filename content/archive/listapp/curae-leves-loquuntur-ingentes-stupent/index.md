@@ -2,11 +2,11 @@
 title: Curae leves loquuntur, ingentes stupent
 date: '2016-07-08T21:50:45+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

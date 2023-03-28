@@ -3,6 +3,7 @@ title: REASONS "ME & EARL & THE DYING GIRL" IS ONE OF THE BEST-WRITTEN MOVIES I'
   EVER SEEN
 date: '2015-06-07T01:13:26+00:00'
 archive: listapp
+weblog: false
 likeCount: 20
 relistCount: 3
 ---

@@ -2,11 +2,11 @@
 title: "Doctor's Office \U0001F44E"
 date: '2016-08-08T18:18:28+00:00'
 archive: listapp
+weblog: false
 likeCount: 29
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

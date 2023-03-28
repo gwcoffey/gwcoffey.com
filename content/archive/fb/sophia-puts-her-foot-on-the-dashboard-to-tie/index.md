@@ -2,6 +2,7 @@
 date: 2013-05-08 09:43:59.000000000 -07:00
 archive: fb
 id: '1368031439'
+weblog: false
 ---
 
 Sophia: [puts her foot on the dashboard to tie her shoe, which she does about once a week]

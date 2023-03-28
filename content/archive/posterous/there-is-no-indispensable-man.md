@@ -10,30 +10,29 @@ archive: posterous
 
 ## There is No Indispensable Man
 
-<blockquote>
-Sometime when you're feeling important<br>
-Sometime when your ego's in bloom<br>
-Sometime when you take it for granted<br>
-You're the best qualified in the room<br>
+{{< quote cite="Saxon N. White Kessinger, &copy;1959" >}}{{< lines >}}
+Sometime when you're feeling important
+Sometime when your ego's in bloom
+Sometime when you take it for granted
+You're the best qualified in the room
 
-Sometime when you feel that your going<br>
-Would leave an unfillable hole<br>
-Just follow these simple instructions<br>
-And see how they humble your soul<br>
+Sometime when you feel that your going
+Would leave an unfillable hole
+Just follow these simple instructions
+And see how they humble your soul
 
-Take a bucket and fill it with water<br>
-Put your hand in it up to the wrist<br>
-Pull it out and the hole that's remaining<br>
-Is a measure of how you will be missed<br>
+Take a bucket and fill it with water
+Put your hand in it up to the wrist
+Pull it out and the hole that's remaining
+Is a measure of how you will be missed
 
-You can splash all you wish when you enter<br>
-You may stir up the water galore<br>
-But stop and you'll find that in no time<br>
-It looks quite the same as before<br>
+You can splash all you wish when you enter
+You may stir up the water galore
+But stop and you'll find that in no time
+It looks quite the same as before
 
-The moral of this quaint example<br>
-Is do just the best that you can<br>
-Be proud of yourself but remember<br>
-There's no indispensable man<br>
-<cite>Saxon N. White Kessinger, &copy;1959</cite>
-</blockquote>
+The moral of this quaint example
+Is do just the best that you can
+Be proud of yourself but remember
+There's no indispensable man
+{{< /lines >}}{{< /quote >}}

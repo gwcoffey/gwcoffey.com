@@ -2,11 +2,11 @@
 title: HOW TO BE DUMB
 date: '2016-02-22T01:49:06+00:00'
 archive: listapp
+weblog: false
 likeCount: 31
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

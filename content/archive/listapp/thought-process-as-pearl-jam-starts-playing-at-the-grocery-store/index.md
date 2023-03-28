@@ -2,11 +2,11 @@
 title: THOUGHT PROCESS AS PEARL JAM STARTS PLAYING AT THE GROCERY STORE
 date: '2015-10-26T15:53:24+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 5
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

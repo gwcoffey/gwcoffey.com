@@ -2,6 +2,7 @@
 date: 2012-09-29 15:46:44.000000000 -07:00
 archive: fb
 id: '1348958804'
+weblog: false
 ---
 
 True story. Sophia decided to dress like a cowgirl today. If you know her well you know she just does this sort of thing sometimes. No occasion necessary. A few hours later I decided to take her and a friend to the trampoline park. And then this happened:

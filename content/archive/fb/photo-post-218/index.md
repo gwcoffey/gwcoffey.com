@@ -14,8 +14,5 @@ And finally to all of you in the FileMaker community who supported us in the ear
 
 Jesse will continue to operate Six Fried Rice and our staff will remain intact. I will simply bow out, a little sad, but mostly excited.
 
-"The earth, that's nature's mother, is her tomb.
-What is her burying grave, that is her womb.”
-{{< fb/images >}}
-{{< fb/image src="image.jpg" />}}
-{{< /fb/images >}}
+{{< quote >}}{{< lines >}}The earth, that's nature's mother, is her tomb.
+What is her burying grave, that is her womb.{{< /lines >}}{{< /quote >}}

@@ -2,11 +2,11 @@
 title: CROWD FUNDING PLATFORMS AND THEIR USES
 date: '2016-04-27T19:48:12+00:00'
 archive: listapp
+weblog: false
 likeCount: 20
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

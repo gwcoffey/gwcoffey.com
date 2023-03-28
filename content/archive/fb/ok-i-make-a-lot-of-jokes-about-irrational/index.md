@@ -2,6 +2,7 @@
 date: 2014-10-24 14:53:18.000000000 -07:00
 archive: fb
 id: '1414187598'
+weblog: false
 ---
 
 Ok, I make a lot of jokes about irrational reaction to Ebola but I’ll be serious for 5 seconds. If you are worried, the best thing you can do to protect America is go here and make a donation:

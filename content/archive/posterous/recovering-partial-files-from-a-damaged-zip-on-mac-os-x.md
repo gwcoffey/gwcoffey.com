@@ -70,7 +70,7 @@ And then, right before it is finished, suspend it with:
 kill -STOP {pid}
 ```
 
-Then, while it is suspended, find its temp file and copy it somewhere else. The temp file will be big (nearly 4GB) with a very recent timestamp, somewhere in one of those <samp>Cleanup At Startup</samp> folders.
+Then, while it is suspended, find its temp file and copy it somewhere else. The temp file will be big (nearly 4GB) with a very recent timestamp, somewhere in one of those {{< samp "Cleanup At Startup" >}} folders.
 
 (After you've started the file copying, you can just force-quite Archive Utility. If you really want to resume it so it can fail on its own, use `kill -START {pid}`)
 

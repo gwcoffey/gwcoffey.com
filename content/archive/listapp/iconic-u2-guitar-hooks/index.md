@@ -2,11 +2,11 @@
 title: ICONIC U2 GUITAR HOOKS
 date: '2015-08-12T14:32:30+00:00'
 archive: listapp
+weblog: false
 likeCount: 3
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

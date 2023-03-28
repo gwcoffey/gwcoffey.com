@@ -2,6 +2,7 @@
 date: 2018-07-11 14:31:57.000000000 -07:00
 archive: fb
 id: '1531344717'
+weblog: false
 ---
 
 Dear France,

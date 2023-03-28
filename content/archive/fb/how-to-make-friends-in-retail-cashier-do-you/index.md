@@ -2,6 +2,7 @@
 date: 2016-08-23 12:44:38.000000000 -07:00
 archive: fb
 id: '1471981478'
+weblog: false
 ---
 
 How to make friends in retail:

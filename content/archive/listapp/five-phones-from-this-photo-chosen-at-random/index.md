@@ -2,11 +2,11 @@
 title: Five Phones from this Photo Chosen at Random
 date: '2016-05-12T05:38:45+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

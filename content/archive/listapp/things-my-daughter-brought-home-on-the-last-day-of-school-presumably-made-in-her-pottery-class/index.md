@@ -3,6 +3,7 @@ title: THINGS MY DAUGHTER BROUGHT HOME ON THE LAST DAY OF SCHOOL, PRESUMABLY MAD
   IN HER POTTERY CLASS
 date: '2015-05-29T20:04:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 18
 relistCount: 1
 ---

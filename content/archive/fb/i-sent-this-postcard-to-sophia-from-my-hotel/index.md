@@ -2,6 +2,7 @@
 date: 2016-09-06 18:31:52.000000000 -07:00
 archive: fb
 id: '1473211912'
+weblog: false
 ---
 
 I sent this postcard to Sophia from my hotel in Dublin on December 4, 2012. It arrived today. Let it be said that the Irish post always delivers.

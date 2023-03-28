@@ -2,6 +2,7 @@
 title: THINGS I KNOW BECAUSE OF SCHOOL HOUSE ROCK
 date: '2015-06-29T01:50:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 5
 ---

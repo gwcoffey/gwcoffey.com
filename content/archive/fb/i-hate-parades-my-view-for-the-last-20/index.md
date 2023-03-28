@@ -2,6 +2,7 @@
 date: 2016-12-03 20:37:17.000000000 -08:00
 archive: fb
 id: '1480826237'
+weblog: false
 ---
 
 I hate parades.

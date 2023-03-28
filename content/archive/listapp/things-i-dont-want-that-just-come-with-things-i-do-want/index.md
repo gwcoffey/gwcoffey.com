@@ -2,11 +2,11 @@
 title: THINGS I DON’T WANT THAT JUST COME WITH THINGS I DO WANT
 date: '2015-06-01T23:43:28+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

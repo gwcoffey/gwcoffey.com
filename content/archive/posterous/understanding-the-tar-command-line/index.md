@@ -6,6 +6,8 @@ archive: posterous
 
 You almost can't install a piece of open source software without invoking the `tar` command. Inevitably, the installation instructions include a command line like the one below. Use this handy guide to fully understand what each part of this powerful command really means.
 
+<!--more-->
+
 {{< figure 
 	src="image.png" 
 	height="249" 

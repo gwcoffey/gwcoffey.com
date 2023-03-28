@@ -6,6 +6,8 @@ archive: posterous
 
 [You asked for it](https://twitter.com/#!/panic/status/121697957585227776). This is my off-the-cuff list. I'm sure I'll think of other things.
 
+<!--more-->
+
 ## Code Editing
 
 Coda has an annoying habit of treating < and > as angle brackets in ruby files when you have "Automatically close brackets" turned on.

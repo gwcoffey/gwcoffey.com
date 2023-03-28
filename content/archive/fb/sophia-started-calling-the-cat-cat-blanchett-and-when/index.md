@@ -2,6 +2,7 @@
 date: 2017-11-14 15:03:37.000000000 -08:00
 archive: fb
 id: '1510700617'
+weblog: false
 ---
 
 Sophia started calling the cat “Cat Blanchett” and when I asked her why she sent me these.

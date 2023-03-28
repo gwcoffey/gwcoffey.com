@@ -3,6 +3,7 @@ title: BOOKS THAT ARE REALLY GOOD AND CULTURALLY MERITORIOUS, BUT ALSO NOT TERRI
   DIFFICULT TO GET IN TO
 date: '2015-10-15T07:31:37+00:00'
 archive: listapp
+weblog: false
 likeCount: 49
 relistCount: 7
 ---

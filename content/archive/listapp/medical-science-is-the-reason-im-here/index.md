@@ -2,6 +2,7 @@
 title: MEDICAL SCIENCE IS THE REASON I'M HERE
 date: '2015-10-26T22:55:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 18
 relistCount: 5
 ---

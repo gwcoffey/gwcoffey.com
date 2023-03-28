@@ -2,6 +2,7 @@
 title: "Serial Apostrophe Abuser"
 date: 2012-09-03
 archive: posterous
+weblog: false
 ---
 
 I think we can add "serial apostrophe abusers" to the list. (I make the list 5–8 times depending on how you judge me.)

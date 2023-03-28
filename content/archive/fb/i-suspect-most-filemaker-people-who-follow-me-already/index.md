@@ -2,6 +2,7 @@
 date: 2013-08-19 19:36:55.000000000 -07:00
 archive: fb
 id: '1376966215'
+weblog: false
 ---
 
 I suspect most FileMaker people who follow me already know Don Levan, but in case you don't, let me say that he combines deeply reasoned understanding of user interaction and design with a soft-spoken and insightful style that is always refreshing and inspiring.

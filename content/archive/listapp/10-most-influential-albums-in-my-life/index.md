@@ -2,11 +2,11 @@
 title: 10 Most Influential Albums in My Life
 date: '2015-10-05T18:18:02+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 0
 ---
 
-<!--more-->
 
 
 {{< listapp/list order=true reverse=false >}}

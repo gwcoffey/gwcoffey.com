@@ -2,6 +2,7 @@
 title: AN OPINIONATED LIST OF THINGS THAT DON'T BELONG ON THINGS
 date: '2015-06-07T00:37:00+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 6
 ---

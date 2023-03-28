@@ -2,6 +2,7 @@
 title: "Isabel Drew These"
 date: 2011-01-12
 archive: posterous
+weblog: false
 ---
 
 My little budding artist…

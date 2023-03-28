@@ -2,11 +2,11 @@
 title: THINGS MY CAT AND I HAVE IN COMMON
 date: '2015-08-08T23:21:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 7
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

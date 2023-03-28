@@ -2,6 +2,7 @@
 title: "I Need a New Laptop Bag"
 date: 2010-01-27
 archive: posterous
+weblog: false
 ---
 
 My 8-year-old laptop backpack finally met its end last week, so I'm looking for a new one. I prefer a backpack style since I walk a lot with my laptop. I also really like the kind with a single across-the-chest strap because I find it hard to get both my ape-like arms out of a normal backpack without hurting my shoulders.

@@ -2,11 +2,11 @@
 title: I Like My Women  Like I Like My Coffee
 date: '2016-07-25T21:37:12+00:00'
 archive: listapp
+weblog: false
 likeCount: 31
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 date: 2013-11-07 07:48:27.000000000 -08:00
 archive: fb
 id: '1383839307'
+weblog: false
 ---
 
 For about the 10th time I just heard someone say he's a man, but Obamacare forces him to pay for prenatal care. Ok people, listen closely. I positively guarantee you if your doctor bills Blue Cross for a prenatal visit, and you're a man, they will deny the charge. You can count on this. So by any practical measure, you do not have coverage for prenatal care. This whole line of thinking is bordering on silly.

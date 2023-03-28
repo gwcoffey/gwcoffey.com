@@ -2,6 +2,7 @@
 title: "Arizona Centennial Celebration \"Copper Chopper\""
 date: 2012-02-11
 archive: posterous
+weblog: false
 ---
 
 This is awesome.

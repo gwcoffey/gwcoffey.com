@@ -2,6 +2,7 @@
 title: "Isabel Takes a Quick Call"
 date: 2011-09-26
 archive: posterous
+weblog: false
 ---
 
 {{< figure 

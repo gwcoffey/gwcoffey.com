@@ -2,11 +2,11 @@
 title: Quest for Claus
 date: '2016-12-04T05:51:50+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: AND THE COURT FINDS…
 date: '2015-06-23T14:33:46+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: WAYS I TELL MY DAUGHTER TO STOP TALKING SO MUCH
 date: '2015-08-10T17:26:24+00:00'
 archive: listapp
+weblog: false
 likeCount: 30
 relistCount: 4
 ---

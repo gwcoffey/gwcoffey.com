@@ -2,6 +2,7 @@
 title: THINGS THAT ARE BAD FOR MOST PEOPLE BUT MILD FOR ME
 date: '2015-08-27T14:43:02+00:00'
 archive: listapp
+weblog: false
 likeCount: 6
 relistCount: 1
 ---

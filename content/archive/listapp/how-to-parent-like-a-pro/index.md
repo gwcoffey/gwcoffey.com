@@ -2,11 +2,11 @@
 title: HOW TO PARENT LIKE A PRO
 date: '2015-12-22T02:59:09+00:00'
 archive: listapp
+weblog: false
 likeCount: 29
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

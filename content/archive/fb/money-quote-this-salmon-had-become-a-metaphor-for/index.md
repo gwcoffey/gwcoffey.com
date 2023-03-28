@@ -2,6 +2,7 @@
 date: 2016-11-15 06:30:39.000000000 -08:00
 archive: fb
 id: '1479220239'
+weblog: false
 ---
 
 Money quote:

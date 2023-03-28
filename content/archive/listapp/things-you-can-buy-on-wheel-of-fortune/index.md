@@ -2,11 +2,11 @@
 title: THINGS YOU CAN BUY ON WHEEL OF FORTUNE
 date: '2015-05-20T00:55:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 8
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

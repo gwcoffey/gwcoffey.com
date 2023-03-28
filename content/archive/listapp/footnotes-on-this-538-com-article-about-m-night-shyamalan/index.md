@@ -2,6 +2,7 @@
 title: FOOTNOTES ON THIS 538.COM ARTICLE ABOUT M. NIGHT SHYAMALAN
 date: '2015-09-11T18:58:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 5
 relistCount: 1
 ---

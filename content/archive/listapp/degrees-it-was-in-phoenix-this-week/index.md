@@ -2,6 +2,7 @@
 title: DEGREES IT WAS IN PHOENIX THIS WEEK
 date: '2015-08-17T02:33:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 13
 relistCount: 0
 ---

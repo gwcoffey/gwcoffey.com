@@ -2,6 +2,7 @@
 title: THANK YOU FOR CALLING CHASE!
 date: '2016-01-09T23:24:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 3
 ---

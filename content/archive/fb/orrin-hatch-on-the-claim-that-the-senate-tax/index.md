@@ -2,6 +2,7 @@
 date: 2017-12-03 09:16:35.000000000 -08:00
 archive: fb
 id: '1512321395'
+weblog: false
 ---
 
 Orrin Hatch on the claim that the Senate tax bill primarily helps the wealthy:

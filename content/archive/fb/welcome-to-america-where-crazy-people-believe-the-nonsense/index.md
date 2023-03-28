@@ -2,6 +2,7 @@
 date: 2016-12-04 19:29:53.000000000 -08:00
 archive: fb
 id: '1480908593'
+weblog: false
 ---
 
 Welcome to America where crazy people believe the nonsense promulgated by right wing blogs and buoyed by the man who is soon to be our national security advisor, and then start shooting up restaurants. 

@@ -2,11 +2,11 @@
 title: LIST OF THE BEST LISTS LISTS ON THE LIST APP
 date: '2015-10-22T18:42:21+00:00'
 archive: listapp
+weblog: false
 likeCount: 11
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

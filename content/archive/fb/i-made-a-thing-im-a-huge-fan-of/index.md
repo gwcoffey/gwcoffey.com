@@ -2,6 +2,7 @@
 date: 2017-06-27 17:27:44.000000000 -07:00
 archive: fb
 id: '1498609664'
+summary: "I'm a huge fan of the Indian writer Rabindranath Tagore (hat tip to Marianna Khumri's Facebook-avoidant husband). It has been a source of frustration that his work is hard to find. The Ebooks that are available are all direct Gutenberg transfers rife with errors, terrible formatting, and a total lack of care. It makes it very hard to share this beautiful work with people I think might enjoy it. This is something I've wanted to fix for a long time."
 ---
 
 I made a thing...

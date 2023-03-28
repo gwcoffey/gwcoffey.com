@@ -2,6 +2,7 @@
 date: 2017-05-27 21:22:26.000000000 -07:00
 archive: fb
 id: '1495945346'
+weblog: false
 ---
 
 Sophie's Comicon highlight.

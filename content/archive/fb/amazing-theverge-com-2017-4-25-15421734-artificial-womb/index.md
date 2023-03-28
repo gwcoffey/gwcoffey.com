@@ -2,6 +2,9 @@
 date: 2017-04-25 13:01:48.000000000 -07:00
 archive: fb
 id: '1493150508'
+weblog: false
+linklist: true
+weblog: false
 ---
 
 Amazing. 

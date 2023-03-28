@@ -2,6 +2,7 @@
 date: 2017-08-17 07:12:46.000000000 -07:00
 archive: fb
 id: '1502979166'
+weblog: false
 ---
 
 A very right-leaning site and byline in case that isn't clear. 

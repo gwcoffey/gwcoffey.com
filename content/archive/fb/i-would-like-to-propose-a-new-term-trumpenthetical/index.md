@@ -2,6 +2,7 @@
 date: 2018-04-28 12:06:47.000000000 -07:00
 archive: fb
 id: '1524942407'
+weblog: false
 ---
 
 I would like to propose a new term:

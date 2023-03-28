@@ -2,6 +2,7 @@
 title: "Sophia or Lemur?"
 date: 2011-04-20
 archive: posterous
+weblog: false
 ---
 
 {{< figure 

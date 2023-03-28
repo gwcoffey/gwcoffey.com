@@ -2,11 +2,11 @@
 title: 'I FORGOT MY WALLET: A STEP BY STEP GUIDE TO STUPIDITY'
 date: '2015-08-15T19:08:39+00:00'
 archive: listapp
+weblog: false
 likeCount: 12
 relistCount: 0
 ---
 
-<!--more-->
 
 Yes this really just happened. Yes I had to go back to pay.
 

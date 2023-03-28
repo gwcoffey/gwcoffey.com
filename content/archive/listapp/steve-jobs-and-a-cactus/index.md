@@ -2,11 +2,11 @@
 title: STEVE JOBS AND A CACTUS
 date: '2015-11-01T00:57:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

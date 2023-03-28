@@ -2,6 +2,7 @@
 date: 2017-01-09 07:25:02.000000000 -08:00
 archive: fb
 id: '1483975502'
+weblog: false
 ---
 
 WHY TRUMP WON EXPLAINED BY ONE AMAZING CHART...

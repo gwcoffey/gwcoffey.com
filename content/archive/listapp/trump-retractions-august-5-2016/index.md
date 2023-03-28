@@ -2,6 +2,7 @@
 title: 'Trump Retractions: August 5 2016'
 date: '2016-08-05T23:14:11+00:00'
 archive: listapp
+weblog: false
 likeCount: 19
 relistCount: 6
 ---

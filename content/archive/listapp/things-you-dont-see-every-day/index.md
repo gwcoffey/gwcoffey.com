@@ -2,11 +2,11 @@
 title: THINGS YOU DON'T SEE EVERY DAY
 date: '2016-01-13T01:32:40+00:00'
 archive: listapp
+weblog: false
 likeCount: 53
 relistCount: 12
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

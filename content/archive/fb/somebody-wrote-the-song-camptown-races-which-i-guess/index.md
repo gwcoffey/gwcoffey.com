@@ -2,6 +2,7 @@
 date: 2017-06-16 21:26:46.000000000 -07:00
 archive: fb
 id: '1497673606'
+weblog: false
 ---
 
 Somebody wrote the song "Camptown Races" which I guess is obvious in hindsight.

@@ -2,6 +2,7 @@
 title: KINDS OF UGLY MOE SZYSLAK KNOWS HE'S BEEN CALLED
 date: '2015-12-13T05:01:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 12
 relistCount: 0
 ---

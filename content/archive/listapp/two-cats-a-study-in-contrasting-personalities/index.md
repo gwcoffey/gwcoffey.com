@@ -2,11 +2,11 @@
 title: 'TWO CATS: A STUDY IN CONTRASTING PERSONALITIES'
 date: '2015-12-10T18:32:08+00:00'
 archive: listapp
+weblog: false
 likeCount: 16
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

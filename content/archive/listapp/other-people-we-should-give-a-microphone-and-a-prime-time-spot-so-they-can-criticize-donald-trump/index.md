@@ -3,6 +3,7 @@ title: Other People We Should Give a Microphone and a Prime Time Spot So They Ca
   Criticize Donald Trump
 date: '2016-08-01T21:38:02+00:00'
 archive: listapp
+weblog: false
 likeCount: 47
 relistCount: 9
 ---

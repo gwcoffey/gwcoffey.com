@@ -2,11 +2,11 @@
 title: ZOMBIE APOCALYPSE PREPAREDNESS RANKED
 date: '2015-08-28T18:47:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

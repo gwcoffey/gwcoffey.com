@@ -2,11 +2,11 @@
 title: COMMON WAYS I INJURED MYSELF BY DECADE
 date: '2015-10-24T15:53:11+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

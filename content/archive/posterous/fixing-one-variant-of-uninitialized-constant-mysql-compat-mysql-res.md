@@ -14,7 +14,7 @@ Once you have built the gem, you need to find it in the filesystem. For a normal
 gem env
 ```
 
-Which will report, among other things, your <samp>GEM PATHS</samp>. Look in each path listed for <samp>mysql-2.8.1</samp>. Once you've found it, run this command, substituting <var>{GEM_PATH}</var> with the path to your gems:
+Which will report, among other things, your {{< samp "GEM PATHS" >}}. Look in each path listed for {{<samp "mysql-2.8.1" >}}. Once you've found it, run this command, substituting {{< var "{GEM_PATH}" >}} with the path to your gems:
 
 ```
 install_name_tool -change libmysqlclient.18.dylib /usr/local/mysql/lib/libmysqlclient.18.dylib {GEM_PATH}/mysql-2.8.1/lib/mysql_api.bundle

@@ -2,6 +2,7 @@
 date: 2014-05-21 13:53:54.000000000 -07:00
 archive: fb
 id: '1400705634'
+weblog: false
 ---
 
 The conclusion of Judge McShane's opinion overruling Oregon's same sex marriage ban is beautifully argued and written. (Actually the whole thing is beautifully argued, but the conclusion is particularly sincere.)

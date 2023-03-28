@@ -2,6 +2,7 @@
 date: 2018-08-21 14:06:43.000000000 -07:00
 archive: fb
 id: '1534885603'
+weblog: false
 ---
 
 "Cohen said he was directed to violate campaign law at the direction of a candidate for federal office."

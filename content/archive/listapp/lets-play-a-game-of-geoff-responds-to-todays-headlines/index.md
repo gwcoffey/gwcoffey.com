@@ -2,11 +2,11 @@
 title: LET'S PLAY A GAME OF "GEOFF RESPONDS TO TODAY'S HEADLINES"
 date: '2016-02-25T20:26:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 5
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: Most Punchable Faces, Ranked
 date: '2016-10-03T05:13:43+00:00'
 archive: listapp
+weblog: false
 likeCount: 18
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

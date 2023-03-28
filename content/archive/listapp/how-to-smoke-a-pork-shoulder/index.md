@@ -2,6 +2,7 @@
 title: HOW TO SMOKE A PORK SHOULDER
 date: '2015-12-17T01:34:32+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 1
 ---

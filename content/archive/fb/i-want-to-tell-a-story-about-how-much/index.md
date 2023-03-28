@@ -2,6 +2,7 @@
 date: 2017-05-27 13:35:00.000000000 -07:00
 archive: fb
 id: '1495917300'
+summary: "I want to tell a story about how much I love Sophia's classmates."
 ---
 
 I want to tell a story about how much I love Sophia's classmates.

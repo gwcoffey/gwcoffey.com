@@ -3,6 +3,7 @@ title: THREE REASONS THE YOUTH CAMP FUNDRAISER I TOOK FOOD TO YESTERDAY WAS A CU
   ABOVE
 date: '2015-05-31T20:50:14+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 0
 ---

@@ -2,11 +2,11 @@
 title: THINGS THAT DON'T MEAN WHAT WE THINK THEY MEAN
 date: '2015-08-07T06:26:16+00:00'
 archive: listapp
+weblog: false
 likeCount: 30
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

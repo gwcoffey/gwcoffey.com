@@ -2,11 +2,11 @@
 title: Careers I'd Pursue If Money Wasn't An Option
 date: '2016-06-03T10:23:33+00:00'
 archive: listapp
+weblog: false
 likeCount: 69
 relistCount: 14
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

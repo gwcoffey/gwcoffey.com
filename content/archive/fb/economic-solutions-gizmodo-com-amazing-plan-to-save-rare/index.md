@@ -2,6 +2,7 @@
 date: 2016-12-31 16:29:15.000000000 -08:00
 archive: fb
 id: '1483230555'
+weblog: false
 ---
 
 Economic solutions...

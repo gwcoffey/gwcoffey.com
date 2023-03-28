@@ -2,6 +2,7 @@
 title: QUESTIONS FOR INTROVERTS FROM A RAGING EXTROVERT
 date: '2016-05-05T03:33:52+00:00'
 archive: listapp
+weblog: false
 likeCount: 42
 relistCount: 10
 ---

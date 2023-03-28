@@ -2,6 +2,7 @@
 date: 2018-06-19 13:41:08.000000000 -07:00
 archive: fb
 id: '1529440868'
+weblog: false
 ---
 
 More Sophie in Paris.

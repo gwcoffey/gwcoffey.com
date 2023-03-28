@@ -2,11 +2,11 @@
 title: ACTUAL THINGS SOPHIA SAID TODAY
 date: '2016-04-22T07:01:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 39
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

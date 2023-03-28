@@ -3,6 +3,7 @@ title: THE WORLD IS ABOUT TO END. HERE ARE TEN THINGS I'D PUT IN MY BUNKER TO SU
   FOR AN ENTIRE YEAR...
 date: '2016-01-06T03:51:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 1
 ---

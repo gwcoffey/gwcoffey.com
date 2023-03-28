@@ -2,6 +2,7 @@
 title: THE MEANING OF LIFE IN FIVE BULLET POINTS, ACCORDING TO ME
 date: '2015-12-07T15:40:00+00:00'
 archive: listapp
+weblog: false
 likeCount: 40
 relistCount: 7
 ---

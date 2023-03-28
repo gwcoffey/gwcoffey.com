@@ -2,11 +2,11 @@
 title: I DID NOT WIN THE LOTTERY
 date: '2016-01-10T05:49:35+00:00'
 archive: listapp
+weblog: false
 likeCount: 30
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

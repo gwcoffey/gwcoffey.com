@@ -2,6 +2,7 @@
 title: "An Anachronism"
 date: 2011-04-10
 archive: posterous
+weblog: false
 ---
 
 I discovered this anachronism lurking on my doorstep.

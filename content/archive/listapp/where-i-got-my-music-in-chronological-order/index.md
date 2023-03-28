@@ -2,11 +2,11 @@
 title: WHERE I GOT MY MUSIC, IN CHRONOLOGICAL ORDER
 date: '2015-12-17T06:57:57+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

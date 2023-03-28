@@ -2,6 +2,7 @@
 title: TEXTS FROM LAST MONTH
 date: '2015-08-08T06:35:38+00:00'
 archive: listapp
+weblog: false
 likeCount: 19
 relistCount: 3
 ---

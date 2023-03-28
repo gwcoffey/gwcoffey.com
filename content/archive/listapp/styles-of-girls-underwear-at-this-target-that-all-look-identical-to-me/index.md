@@ -2,11 +2,11 @@
 title: '"STYLES" OF GIRLS UNDERWEAR AT THIS TARGET THAT ALL LOOK IDENTICAL TO ME'
 date: '2015-05-24T02:12:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 4
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

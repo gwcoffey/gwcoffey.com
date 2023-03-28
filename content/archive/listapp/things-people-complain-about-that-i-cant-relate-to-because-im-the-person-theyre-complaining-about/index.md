@@ -3,6 +3,7 @@ title: THINGS PEOPLE COMPLAIN ABOUT THAT I CAN'T RELATE TO BECAUSE I'M THE PERSO
   THEY'RE COMPLAINING ABOUT
 date: '2016-03-31T21:39:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 35
 relistCount: 6
 ---

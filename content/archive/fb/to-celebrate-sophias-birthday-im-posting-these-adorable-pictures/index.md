@@ -2,6 +2,7 @@
 date: 2017-12-29 07:10:13.000000000 -08:00
 archive: fb
 id: '1514560213'
+weblog: false
 ---
 
 To celebrate Sophia’s birthday, I’m posting these adorable pictures of Isabel wearing my dad’s glasses.

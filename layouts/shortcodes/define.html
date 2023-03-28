@@ -1,0 +1,9 @@
+<dl>
+	{{ range .Params }}
+		{{ with findRE `^\[.*\]$` . }}
+			<dt>{{ replaceRE `^\[|\]$` "" (index . 0) | markdownify }}</dt>
+		{{ else }}
+			<dd>{{ . | markdownify }}</dd>
+		{{ end }}
+	{{ end }}
+</dl>

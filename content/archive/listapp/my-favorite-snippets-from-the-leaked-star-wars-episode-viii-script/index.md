@@ -2,11 +2,11 @@
 title: MY FAVORITE SNIPPETS FROM THE LEAKED STAR WARS EPISODE VIII SCRIPT
 date: '2016-03-12T16:25:20+00:00'
 archive: listapp
+weblog: false
 likeCount: 20
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

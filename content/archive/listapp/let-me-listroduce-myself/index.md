@@ -2,11 +2,11 @@
 title: Let Me Listroduce Myself
 date: '2016-05-21T08:57:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 36
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

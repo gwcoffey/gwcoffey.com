@@ -2,11 +2,11 @@
 title: PATRICK STEWART PAST PRESENT AND FUTURE
 date: '2016-03-28T22:15:14+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

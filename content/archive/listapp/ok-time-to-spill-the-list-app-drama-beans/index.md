@@ -2,6 +2,7 @@
 title: OK TIME TO SPILL THE LIST APP DRAMA BEANS
 date: '2016-01-03T04:21:28+00:00'
 archive: listapp
+weblog: false
 likeCount: 75
 relistCount: 8
 ---

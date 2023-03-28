@@ -2,9 +2,10 @@
 date: 2018-04-21 14:08:40.000000000 -07:00
 archive: fb
 id: '1524344920'
+summary: "A couple years ago this tree blew down in the wind. All that was left was a 14 inch high trunk and a tiny branch. Before I got around to replacing it that branch had grown a ton and reoriented straight up. So I got curious and let it do it’s thing."
 ---
 
-A couple years ago this tree blew down in the wind. All that was left was a 14 inch trunk and a tiny branch. Before I got around to replacing it that branch had grown a ton and reoriented straight up. So I got curious and let it do it’s thing (I’m sure my neighbors loved this...)
+A couple years ago this tree blew down in the wind. All that was left was a 14 inch high trunk and a tiny branch. Before I got around to replacing it that branch had grown a ton and reoriented straight up. So I got curious and let it do it’s thing (I’m sure my neighbors loved this...)
 
 Over the couple years the branch grew straight up. But it’s little offshoots we’re all in a plane. So the whole branch twisted to spread them out. 
 

@@ -2,6 +2,7 @@
 date: 2017-04-29 20:08:50.000000000 -07:00
 archive: fb
 id: '1493521730'
+weblog: false
 ---
 
 I'm very much not a documentary person but I rented City of Gold on laundry night and it is great. Watching it again with Sophia tonight. Such a beautiful little celebration of people.

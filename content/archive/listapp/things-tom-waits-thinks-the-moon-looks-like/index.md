@@ -1,5 +1,5 @@
 ---
-title: THINGS TOM WAITS THINKS THE MOON LOOKS LIKE
+title: Things Tom Waits Thinks the Moon Looks Like
 date: '2015-05-19T00:12:13+00:00'
 archive: listapp
 likeCount: 23

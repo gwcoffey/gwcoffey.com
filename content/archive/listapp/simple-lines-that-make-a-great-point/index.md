@@ -2,11 +2,11 @@
 title: SIMPLE LINES THAT MAKE A GREAT POINT
 date: '2015-05-23T16:34:06+00:00'
 archive: listapp
+weblog: false
 likeCount: 22
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

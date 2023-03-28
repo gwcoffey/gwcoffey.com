@@ -2,6 +2,7 @@
 title: "The Chillier-Than-Usual-Pocalypse"
 date: 2011-02-02
 archive: posterous
+weblog: false
 ---
 
 It is upon us here in Phoenix.

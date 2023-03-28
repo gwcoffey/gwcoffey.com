@@ -2,11 +2,11 @@
 title: NOTES FROM THE TOOTSIE ROLL BRAND MANAGER NEW PRODUCT PLANNING MEETING, 1991
 date: '2015-12-15T21:16:56+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 4
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: WHAT I LOVE ABOUT MUSIC
 date: '2016-04-08T01:20:32+00:00'
 archive: listapp
+weblog: false
 likeCount: 24
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

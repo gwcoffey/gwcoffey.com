@@ -2,6 +2,7 @@
 title: THE ONLY THING WORSE THAN BEN AFLEK AS BATMAN...
 date: '2016-03-26T20:36:12+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 0
 ---

@@ -40,7 +40,7 @@ Before you can actually start writing code, you need a few critical pieces. They
 3. _FileMaker Server Advanced_. Like all FileMaker web publishing, the PHP API requires the Web Publishing Engine, which is a part of [FileMaker Server Advanced][5]. Only this (more expensive) version of FileMaker Server has the XML capabilities the PHP API depends on to do its job.
 
 {{< aside >}}
-Update <time datetime="2008-05-09">May 9, 2008</time>: I can’t believe I haven’t mentioned this before now, but point #3 above is no longer valid. As of FileMaker Server 9.0, the PHP API can be used with the standard FileMaker Server product, so save some money and don’t bother buying the Advanced version.
+Update {{< time "2008-05-09" "May 9, 2008" >}}: I can’t believe I haven’t mentioned this before now, but point #3 above is no longer valid. As of FileMaker Server 9.0, the PHP API can be used with the standard FileMaker Server product, so save some money and don’t bother buying the Advanced version.
 {{< /aside >}}
 
 Once you have installed and configured the Web Publishing Engine according to [the documentation][6], it will be preconfigured to allow the PHP API to work. If you have modified the configuration, though, you’ll need to log in to the Web Publishing Engine console and make sure Custom Web Publishing with XML is turned on.

@@ -2,11 +2,11 @@
 title: HOW TO READ A LIST
 date: '2015-09-15T03:02:04+00:00'
 archive: listapp
+weblog: false
 likeCount: 28
 relistCount: 8
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

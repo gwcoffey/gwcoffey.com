@@ -2,11 +2,11 @@
 title: GROSS THINGS I KIND OF LIKE
 date: '2015-05-21T21:33:18+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

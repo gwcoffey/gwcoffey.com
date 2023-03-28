@@ -4,12 +4,11 @@ archive: fb
 id: '1532665270'
 ---
 
-Jurassic Park 2050
+**Jurassic Park 2050**
 
-[interior, conference room]
-
+{{< lines >}}
+[INT, CONFERENCE ROOM]
 Eccentric Business Man: I present to you my zany plan to build a park with living dinosaurs. 
-
-Everyone: No. 
-
+Everyone: No.
 THE END
+{{< /lines >}}

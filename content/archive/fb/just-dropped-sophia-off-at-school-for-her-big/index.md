@@ -2,6 +2,7 @@
 date: 2014-05-08 08:59:32.000000000 -07:00
 archive: fb
 id: '1399564772'
+weblog: false
 ---
 
 Just dropped Sophia off at school for her big Sixth Year Presentation on the Galilean Moons of Jupiter. She's been working on this all year and is super excited. In fact this conversation happened while she was getting ready:

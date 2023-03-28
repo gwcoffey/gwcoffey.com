@@ -2,6 +2,7 @@
 title: DEPRESSING QUALIFICATIONS
 date: '2015-12-24T01:33:43+00:00'
 archive: listapp
+weblog: false
 likeCount: 27
 relistCount: 2
 ---

@@ -2,6 +2,7 @@
 date: 2017-05-25 14:39:59.000000000 -07:00
 archive: fb
 id: '1495748399'
+weblog: false
 ---
 
 It's graduation time and Sophie and I got curious about these words. For your etymological pleasure:

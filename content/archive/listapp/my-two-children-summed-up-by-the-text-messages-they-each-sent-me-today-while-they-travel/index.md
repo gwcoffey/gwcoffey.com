@@ -3,6 +3,7 @@ title: MY TWO CHILDREN SUMMED UP BY THE TEXT MESSAGES THEY EACH SENT ME TODAY WH
   THEY TRAVEL
 date: '2015-06-21T20:22:03+00:00'
 archive: listapp
+weblog: false
 likeCount: 49
 relistCount: 2
 ---

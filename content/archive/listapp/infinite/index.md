@@ -2,11 +2,11 @@
 title: Infinite
 date: '2016-08-14T20:12:58+00:00'
 archive: listapp
+weblog: false
 likeCount: 34
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

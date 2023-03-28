@@ -2,11 +2,11 @@
 title: MY BEAUTY ROUTINE
 date: '2016-04-17T20:15:32+00:00'
 archive: listapp
+weblog: false
 likeCount: 45
 relistCount: 5
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

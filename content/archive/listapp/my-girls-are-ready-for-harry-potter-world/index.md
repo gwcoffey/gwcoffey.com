@@ -2,11 +2,11 @@
 title: MY GIRLS ARE READY FOR HARRY POTTER WORLD
 date: '2015-12-20T16:56:44+00:00'
 archive: listapp
+weblog: false
 likeCount: 26
 relistCount: 1
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

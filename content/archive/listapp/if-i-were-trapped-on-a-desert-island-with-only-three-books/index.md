@@ -2,11 +2,11 @@
 title: IF I WERE TRAPPED ON A DESERT ISLAND WITH ONLY THREE BOOKS
 date: '2015-07-10T18:49:02+00:00'
 archive: listapp
+weblog: false
 likeCount: 4
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: WHY CAN'T I COMMENT ON @MAYA'S LISTS
 date: '2015-10-05T15:43:48+00:00'
 archive: listapp
+weblog: false
 likeCount: 4
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,11 +2,11 @@
 title: A LIST OF FASCINATING LETTERS
 date: '2015-05-22T13:21:42+00:00'
 archive: listapp
+weblog: false
 likeCount: 28
 relistCount: 14
 ---
 
-<!--more-->
 
 {{< listapp/list order=true reverse=false >}}
 

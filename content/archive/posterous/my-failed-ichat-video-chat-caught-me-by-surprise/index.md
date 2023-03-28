@@ -2,6 +2,7 @@
 title: "My Failed iChat Video Chat Caught Me by Surprise"
 date: 2010-09-24
 archive: posterous
+weblog: false
 ---
 
 I laughed at myself.

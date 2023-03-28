@@ -3,6 +3,7 @@ title: "\"THERE IS NO EXCELLENT BEAUTY THAT HATH NOT SOME STRANGENESS IN THE PRO
   — FRANCIS BACON"
 date: '2016-02-17T14:22:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 21
 relistCount: 2
 ---

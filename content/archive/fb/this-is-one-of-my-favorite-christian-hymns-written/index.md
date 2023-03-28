@@ -2,6 +2,7 @@
 date: 2017-11-25 09:03:22.000000000 -08:00
 archive: fb
 id: '1511629402'
+summary: "This is one of my favorite Christian hymns, written by Henry Lyte while he lay dying of tuberculosis. (I’ve always loved the second verse.)"
 ---
 
 This is one of my favorite Christian hymns, written by Henry Lyte while he lay dying of tuberculosis. (I’ve always loved the second verse.)

@@ -2,6 +2,7 @@
 title: MY AMAZING DAUGHTER (@SOPHSTER)
 date: '2016-04-02T17:54:05+00:00'
 archive: listapp
+weblog: false
 likeCount: 47
 relistCount: 7
 ---

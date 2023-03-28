@@ -2,11 +2,11 @@
 title: OH MY GOSH I COULDN'T CARE LESS
 date: '2016-02-02T16:18:10+00:00'
 archive: listapp
+weblog: false
 likeCount: 71
 relistCount: 10
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

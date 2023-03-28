@@ -2,6 +2,7 @@
 title: THINGS THAT ARE HARD WITH A BANDAID ON YOUR THUMB
 date: '2016-01-17T21:19:39+00:00'
 archive: listapp
+weblog: false
 likeCount: 25
 relistCount: 0
 ---

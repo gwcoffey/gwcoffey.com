@@ -2,11 +2,11 @@
 title: THINGS I WILL NEVER EVER EVER DO
 date: '2015-12-14T03:20:00+00:00'
 archive: listapp
+weblog: false
 likeCount: 23
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

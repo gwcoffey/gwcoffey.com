@@ -2,6 +2,7 @@
 title: "I Feel Like the Quality of 7th Grade Dioramas has Increased"
 date: 2011-01-05
 archive: posterous
+weblog: false
 ---
 
 This is not how we did it in my day.

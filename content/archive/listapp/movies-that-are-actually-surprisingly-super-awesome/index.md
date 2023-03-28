@@ -2,11 +2,11 @@
 title: MOVIES THAT ARE ACTUALLY SURPRISINGLY SUPER AWESOME
 date: '2016-04-16T19:34:26+00:00'
 archive: listapp
+weblog: false
 likeCount: 17
 relistCount: 3
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

@@ -2,6 +2,7 @@
 title: 'THE END OF MARRIAGE: A POST-APOCALYPTIC DIARY'
 date: '2015-07-03T15:07:34+00:00'
 archive: listapp
+weblog: false
 likeCount: 20
 relistCount: 2
 ---

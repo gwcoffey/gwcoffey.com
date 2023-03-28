@@ -3,11 +3,11 @@ title: THOUGHTS AS I TRY TO FIND THE EMERGENCY ROOM OF THIS HOSPITAL FROM THE PA
   GARAGE
 date: '2015-10-03T03:47:23+00:00'
 archive: listapp
+weblog: false
 likeCount: 10
 relistCount: 2
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

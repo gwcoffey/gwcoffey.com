@@ -2,6 +2,7 @@
 date: 2016-09-26 20:31:24.000000000 -07:00
 archive: fb
 id: '1474947084'
+weblog: false
 ---
 
 Someone helpfully edited all trumps answers to remove any false claims. 

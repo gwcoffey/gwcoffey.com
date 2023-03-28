@@ -2,6 +2,9 @@
 date: 2016-12-12 15:27:46.000000000 -08:00
 archive: fb
 id: '1481585266'
+weblog: false
+linklist: true
+weblog: false
 ---
 
 Adi Robertson at The Verge adding all the right parenthetical clarifications.

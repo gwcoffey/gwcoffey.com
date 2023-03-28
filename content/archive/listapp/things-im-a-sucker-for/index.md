@@ -2,11 +2,11 @@
 title: THINGS I'M A SUCKER FOR
 date: '2016-01-16T05:30:25+00:00'
 archive: listapp
+weblog: false
 likeCount: 15
 relistCount: 0
 ---
 
-<!--more-->
 
 {{< listapp/list order=false reverse=false >}}
 

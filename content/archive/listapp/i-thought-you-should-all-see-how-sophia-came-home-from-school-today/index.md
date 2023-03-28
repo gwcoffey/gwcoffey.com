@@ -2,6 +2,7 @@
 title: I THOUGHT YOU SHOULD ALL SEE HOW SOPHIA CAME HOME FROM SCHOOL TODAY
 date: '2016-03-31T00:34:59+00:00'
 archive: listapp
+weblog: false
 likeCount: 42
 relistCount: 4
 ---
