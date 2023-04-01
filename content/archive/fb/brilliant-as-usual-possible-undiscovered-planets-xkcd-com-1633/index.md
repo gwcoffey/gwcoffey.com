@@ -7,4 +7,4 @@ weblog: false
 
 Brilliant as usual: "Possible Undiscovered Planets"
 
-http://xkcd.com/1633/
+[Link](http://xkcd.com/1633/)

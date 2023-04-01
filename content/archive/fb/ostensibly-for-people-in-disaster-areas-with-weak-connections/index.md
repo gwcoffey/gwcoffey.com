@@ -7,6 +7,6 @@ weblog: false
 
 Ostensibly for people in disaster areas with weak connections. But actually the only version of CNN I'll ever visit again until they take it down.
 
-http://lite.cnn.io
+[Link](http://lite.cnn.io)
 
 {{< ed "This site seems to no longer exist, but it was a super-clean text-only version of CNN's home page." >}}

@@ -7,4 +7,4 @@ weblog: false
 
 Sometimes they come right out and say it. Sometimes.
 
-https://www.youtube.com/watch?v=xnhJWusyj4I
+[Link](https://www.youtube.com/watch?v=xnhJWusyj4I)

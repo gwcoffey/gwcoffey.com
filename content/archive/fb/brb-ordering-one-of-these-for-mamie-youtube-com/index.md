@@ -7,4 +7,4 @@ weblog: false
 
 BRB. Ordering one of these for Mamie. 
 
-https://www.youtube.com/watch?time_continue=32&v=N_beJnlTeTk
+[Link](https://www.youtube.com/watch?time_continue=32&v=N_beJnlTeTk)

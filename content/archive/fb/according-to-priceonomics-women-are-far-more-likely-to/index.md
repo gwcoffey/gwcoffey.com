@@ -9,4 +9,4 @@ weblog: false
 
 According to Priceonomics, women are far more likely to take selfies than men but men are far more likely to die doing it. The more you know. 
 
-http://priceonomics.com/the-tragic-data-behind-selfie-fatalities/
+[Link](http://priceonomics.com/the-tragic-data-behind-selfie-fatalities/)

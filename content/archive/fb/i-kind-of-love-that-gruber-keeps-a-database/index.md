@@ -7,4 +7,4 @@ weblog: false
 
 I kind of love that Gruber keeps a database of outlandish claims by analysts so he can revisit them at the appropriate time.
 
-http://daringfireball.net/linked/2016/08/12/calacanis-chowder
+[Link](http://daringfireball.net/linked/2016/08/12/calacanis-chowder)

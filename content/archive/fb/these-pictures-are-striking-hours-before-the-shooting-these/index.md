@@ -7,4 +7,4 @@ weblog: false
 
 These pictures are striking. Hours before the shooting these kids we’ve seen so much of were of course just normal goofy high-schoolers having Valentine’s Day fun. 
 
-https://twitter.com/rain_valladares/status/967900802777051137
+[Link](https://twitter.com/rain_valladares/status/967900802777051137)

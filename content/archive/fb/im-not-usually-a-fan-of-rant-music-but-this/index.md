@@ -7,4 +7,4 @@ weblog: false
 
 I'm not usually a fan of rant-music, but this one is done with so much humor and self-effacing unpretentiousness that when the rant starts to escalate it is really great. Another iTunes Radio discovery.
 
-http://www.youtube.com/watch?v=dPY0tomARjU
+[Link](http://www.youtube.com/watch?v=dPY0tomARjU)

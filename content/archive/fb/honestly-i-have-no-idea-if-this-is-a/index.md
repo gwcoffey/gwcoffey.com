@@ -9,4 +9,4 @@ Honestly I have no idea if this is a good idea or if Trump fell asleep on the to
 
 I'll let the experts weigh in.
 
-https://www.theverge.com/2018/6/18/17475466/trump-space-force-announcement-national-space-council
+[Link](https://www.theverge.com/2018/6/18/17475466/trump-space-force-announcement-national-space-council)

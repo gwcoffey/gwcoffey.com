@@ -68,7 +68,7 @@ relistCount: 4
       desc="Miss Tucker took an interest in Isabel a year or two before she actually had her in class. She encouraged Isabel's poetry, helped her form poetry club, and just all around gave her tons of love and support. She also directed Isabel as Conrad in Much Ado About Nothing. I think they'll be life long friends." >}}
 
    {{< listapp/item title="High School: Mrs. Rathsburg (Music)"
-      desc="I listed about Mrs. Rathsburg's beautiful tribute to Isabel last week. https://li.st/l/4dxr7V7UjXbKZG5WhYIx6s She is a tiny powerhouse of energy, brilliance, and kindness. Isabel admires her so much."
+      desc="I listed about Mrs. Rathsburg's beautiful tribute to Isabel last week. [Link](https://li.st/l/4dxr7V7UjXbKZG5WhYIx6s) She is a tiny powerhouse of energy, brilliance, and kindness. Isabel admires her so much."
       image="18.jpg" >}}
 
    {{< listapp/item title="High School: Mr. Dickerson (Humane Letters)"

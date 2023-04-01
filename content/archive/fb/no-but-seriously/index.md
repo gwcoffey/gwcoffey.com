@@ -7,4 +7,4 @@ weblog: false
 
 No but seriously:
 
-https://twitter.com/iammerrick/status/777349059950485506
+[Link](https://twitter.com/iammerrick/status/777349059950485506)

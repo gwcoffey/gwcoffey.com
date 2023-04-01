@@ -42,6 +42,6 @@ relistCount: 9
       image="13.jpg" >}}
 
    {{< listapp/item title="Ok, back to saving the world..."
-      desc="Source: http://www.theverge.com/2016/3/14/11179572/first-lady-michelle-obama-vr-interview-social-media-pictures" >}}
+      desc="Source: [Link](http://www.theverge.com/2016/3/14/11179572/first-lady-michelle-obama-vr-interview-social-media-pictures)" >}}
 
 {{< /listapp/list >}}

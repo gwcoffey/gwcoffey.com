@@ -7,7 +7,7 @@ weblog: false
 
 Well now I know why the entrance to my neighborhood is blocked by police. Sad story.
 
-http://www.azcentral.com/story/news/local/phoenix-breaking/2016/08/04/phoenix-car-hits-pedestrian-central-near-camelback/88057038/
+[Link](http://www.azcentral.com/story/news/local/phoenix-breaking/2016/08/04/phoenix-car-hits-pedestrian-central-near-camelback/88057038/)
 
 Aside: There is a crosswalk with signal 100 feet north of here (and a block south) and yet I see people crossing mid-block all the time.
 

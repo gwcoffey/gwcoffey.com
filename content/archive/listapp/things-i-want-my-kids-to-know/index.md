@@ -13,7 +13,7 @@ relistCount: 3
       desc="The former is common. The latter is rare." >}}
 
    {{< listapp/item title="Postel's Law is just as relevant to human interaction as it is to computer communications."
-      desc="\"Be conservative in what you do, be liberal in what you accept from others.\" http://bit.ly/1QDQXfI" >}}
+      desc="\"Be conservative in what you do, be liberal in what you accept from others.\" [Link](http://bit.ly/1QDQXfI)" >}}
 
    {{< listapp/item title="\"It made me mad\" is never true and sometimes blame-shifting."
       desc="You cannot control what happens but you determine how you respond." >}}

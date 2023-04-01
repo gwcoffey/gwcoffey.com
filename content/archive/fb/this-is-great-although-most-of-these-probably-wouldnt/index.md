@@ -7,7 +7,7 @@ weblog: false
 
 This is great. Although most of these probably wouldn't exist without Marbury.
 
-https://xkcd.com/2037/
+[Link](https://xkcd.com/2037/)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

@@ -13,4 +13,4 @@ I think my favorite Gene Wilder thing is this letter he sent to the director of 
 
 The whole thing is great.
 
-http://www.lettersofnote.com/2012/06/part-of-this-world-part-of-another.html
+[Link](http://www.lettersofnote.com/2012/06/part-of-this-world-part-of-another.html)

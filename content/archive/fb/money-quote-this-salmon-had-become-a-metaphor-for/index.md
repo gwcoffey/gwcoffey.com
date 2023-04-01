@@ -9,4 +9,4 @@ Money quote:
 
 "This salmon had become a metaphor for Silicon Valley itself. Automated yet distracting. Boastful yet mediocre. Confident yet wrong."
 
-https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design
+[Link](https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design)

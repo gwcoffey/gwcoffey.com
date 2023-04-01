@@ -7,4 +7,4 @@ weblog: false
 
 This is the Phoenix I know.
 
-http://www.azcentral.com/story/news/local/phoenix/2016/12/05/phoenix-middle-eastern-bakery-supporters-thanks/95021986/
+[Link](http://www.azcentral.com/story/news/local/phoenix/2016/12/05/phoenix-middle-eastern-bakery-supporters-thanks/95021986/)

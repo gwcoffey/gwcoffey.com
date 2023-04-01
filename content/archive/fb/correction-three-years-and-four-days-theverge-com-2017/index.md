@@ -7,4 +7,4 @@ weblog: false
 
 Correction: Three years and four days.
 
-http://www.theverge.com/2017/2/22/14690718/milo-yiannopoulos-pedophilia-cpac-book-deal-resignation-timeline
+[Link](http://www.theverge.com/2017/2/22/14690718/milo-yiannopoulos-pedophilia-cpac-book-deal-resignation-timeline)

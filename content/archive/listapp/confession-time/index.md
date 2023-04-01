@@ -14,7 +14,7 @@ relistCount: 2
       desc="On a technicality; I'm no Bianca Zimmer. I went to a b'not mitzvah once. The ceremony part, not the the party part. It was lovely. I figured out the \"Moshe\" means \"Moses\" be listening and reading along and was proud of myself." >}}
 
    {{< listapp/item title="I secretly think I would adore the \"bear don't eat my kayak\" lady if I knew her in real life."
-      desc="For reference: http://bit.ly/1j5Y6fn She just seems slightly insane and very sweet, gosh darnit, and those are some of my favorite people." >}}
+      desc="For reference: [Link](http://bit.ly/1j5Y6fn) She just seems slightly insane and very sweet, gosh darnit, and those are some of my favorite people." >}}
 
    {{< listapp/item title="I started Infinite Jest but didn't finish."
       desc="All that phonetic vernacular stuff killed me. Nobody's got time for that. I love love love DFW's essays and interviews." >}}

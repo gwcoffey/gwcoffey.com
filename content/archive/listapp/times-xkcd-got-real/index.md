@@ -20,43 +20,43 @@ XKCD is my favorite web comic. Actually it is the only web comic I read. It is w
    {{< listapp/item title="[These are hard to read. Tap the link to go to the original. Also some seem to cut off in the li.st web view so you may have to open in Safari.]" >}}
 
    {{< listapp/item title="Boys and Girls"
-      desc="https://xkcd.com/1202/"
+      desc="[Link](https://xkcd.com/1202/)"
       image="3.jpg" >}}
 
    {{< listapp/item title="Lanes"
-      desc="https://xkcd.com/931/"
+      desc="[Link](https://xkcd.com/931/)"
       image="4.jpg" >}}
 
    {{< listapp/item title="Terry Pratchett"
-      desc="https://xkcd.com/1498/"
+      desc="[Link](https://xkcd.com/1498/)"
       image="5.jpg" >}}
 
    {{< listapp/item title="Photos"
-      desc="https://xkcd.com/1314/"
+      desc="[Link](https://xkcd.com/1314/)"
       image="6.jpg" >}}
 
    {{< listapp/item title="Spirit"
-      desc="https://xkcd.com/695/"
+      desc="[Link](https://xkcd.com/695/)"
       image="7.jpg" >}}
 
    {{< listapp/item title="Positive Attitude"
-      desc="https://xkcd.com/828/"
+      desc="[Link](https://xkcd.com/828/)"
       image="8.jpg" >}}
 
    {{< listapp/item title="Dream Girl"
-      desc="https://xkcd.com/828/"
+      desc="[Link](https://xkcd.com/828/)"
       image="9.jpg" >}}
 
    {{< listapp/item title="Wasteland"
-      desc="http://xkcd.com/334/"
+      desc="[Link](http://xkcd.com/334/)"
       image="10.jpg" >}}
 
    {{< listapp/item title="Click and Drag"
-      desc="http://xkcd.com/1110/ (this one is interactive)"
+      desc="[Link](http://xkcd.com/1110/) (this one is interactive)"
       image="11.jpg" >}}
 
    {{< listapp/item title="Probability"
-      desc="http://xkcd.com/881/"
+      desc="[Link](http://xkcd.com/881/)"
       image="12.jpg" >}}
 
 {{< /listapp/list >}}

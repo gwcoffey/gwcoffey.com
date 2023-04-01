@@ -7,4 +7,4 @@ weblog: false
 
 For some reason this article neglects to mention that her middle name is "OK Google". 
 
-http://www.nj.com/news/index.ssf/2017/03/nj_student_reportedly_shares_name_with_amazons_ale.html
+[Link](http://www.nj.com/news/index.ssf/2017/03/nj_student_reportedly_shares_name_with_amazons_ale.html)

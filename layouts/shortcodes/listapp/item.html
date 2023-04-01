@@ -7,9 +7,9 @@
                  these little guys up manually */}}
 			{{- $title := replace $title "¯_(ツ)_/¯" "¯\\_(ツ)_/¯" -}}
 			
-			<p class="item">{{ $title }}</p>
+			<p class="item">{{ $title | markdownify }}</p>
 			{{- with .Get "desc" -}}
-			<p class="desc">{{ . }}</p>
+			<p class="desc">{{ . | markdownify }}</p>
 			{{- end -}}
 		</div>
 		{{- with .Get "image" -}}

@@ -9,4 +9,4 @@ weblog: false
 
 Super-duper right right right redstate.com
 
-http://www.redstate.com/sweetie15/2017/08/16/retrospect-anyone-predicted-today/
+[Link](http://www.redstate.com/sweetie15/2017/08/16/retrospect-anyone-predicted-today/)

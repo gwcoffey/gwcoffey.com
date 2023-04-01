@@ -5,4 +5,4 @@ id: '1407793740'
 weblog: false
 ---
 
-Whenever I see a raft of Facebook birthday posts, I think if this old gem: http://www.slate.com/articles/technology/technology/2011/08/my_fake_facebook_birthdays.single.html
+Whenever I see a raft of Facebook birthday posts, I think if this old gem: [Link](http://www.slate.com/articles/technology/technology/2011/08/my_fake_facebook_birthdays.single.html)

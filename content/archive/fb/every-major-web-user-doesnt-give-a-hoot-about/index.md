@@ -7,4 +7,4 @@ weblog: false
 
 Every Major Web User Doesn't Give a Hoot About Every Major Ad Publisher's Feelings
 
-http://www.adweek.com/digital/every-major-advertising-group-is-blasting-apple-for-blocking-cookies-in-the-safari-browser/
+[Link](http://www.adweek.com/digital/every-major-advertising-group-is-blasting-apple-for-blocking-cookies-in-the-safari-browser/)

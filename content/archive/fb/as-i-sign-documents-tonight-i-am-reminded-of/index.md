@@ -7,7 +7,7 @@ weblog: false
 
 As I sign documents tonight I am reminded of these instructions I wrote a year ago for signing documents with your Mac. Possibly my favorite hidden macOS feature.
 
-[https://gwcoffey.com/archive/listapp/pro-tip-how-to-quickly-and-easily-sign-documents-on-your-mac/](/archive/listapp/pro-tip-how-to-quickly-and-easily-sign-documents-on-your-mac/)
+[[Link](https://gwcoffey.com/archive/listapp/pro-tip-how-to-quickly-and-easily-sign-documents-on-your-mac/](/archive/listapp/pro-tip-how-to-quickly-and-easily-sign-documents-on-your-mac/))
 
 {{< ed "This link has been updated to point to my archive of the post." >}}
 

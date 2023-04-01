@@ -23,6 +23,6 @@ weblog: false
 > 
 > DHS: …
 
-https://twitter.com/cbsthismorning/status/1008695502379077637?s=21
+[Link](https://twitter.com/cbsthismorning/status/1008695502379077637?s=21)
 
 #maga

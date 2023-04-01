@@ -7,4 +7,4 @@ weblog: false
 
 No words.
 
-http://www.azcentral.com/story/news/politics/immigration/2017/02/09/guadalupe-garcia-de-rayos-phoenix-ice-deportation-trump-immigration/97694284/
+[Link](http://www.azcentral.com/story/news/politics/immigration/2017/02/09/guadalupe-garcia-de-rayos-phoenix-ice-deportation-trump-immigration/97694284/)

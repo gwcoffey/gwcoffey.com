@@ -115,7 +115,7 @@ The more you know.  (I'm bored and tired waiting for a build...)
    {{< listapp/item title="🍃 LEAF FLUTTERING IN WIND" >}}
 
    {{< listapp/item title="🍂 FALLEN LEAF"
-      desc="Relevant: http://youtu.be/c-uEjO9zfbc" >}}
+      desc="Relevant: [Link](http://youtu.be/c-uEjO9zfbc)" >}}
 
    {{< listapp/item title="🍁 MAPLE LEAF" >}}
 

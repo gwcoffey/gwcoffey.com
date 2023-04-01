@@ -5,4 +5,4 @@ id: '1441204632'
 weblog: false
 ---
 
-For science: https://xkcd.com/1572/
+For science: [Link](https://xkcd.com/1572/)

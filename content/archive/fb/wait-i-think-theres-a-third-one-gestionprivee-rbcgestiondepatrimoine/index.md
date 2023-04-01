@@ -7,6 +7,6 @@ weblog: false
 
 Wait I think there's a third one:
 
-http://gestionprivee.rbcgestiondepatrimoine.com/geoff.coffey
+[Link](http://gestionprivee.rbcgestiondepatrimoine.com/geoff.coffey)
 
 Yes, I was googling myself. (CC: Jefferson Davis Hogg)

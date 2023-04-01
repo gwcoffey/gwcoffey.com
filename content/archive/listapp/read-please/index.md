@@ -13,6 +13,6 @@ I don't mean to be bossy but @Lindi is right and this is another smart take.
 
 {{< listapp/list order=false reverse=false >}}
 
-   {{< listapp/item title="https://storify.com/davechensky/clay-shirky-on-not-getting-complacent" >}}
+   {{< listapp/item title="[Link](https://storify.com/davechensky/clay-shirky-on-not-getting-complacent)" >}}
 
 {{< /listapp/list >}}

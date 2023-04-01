@@ -37,7 +37,7 @@ Well, @GargiBera, it just so happens I'm having tacos for lunch today! I love ta
       desc="The taco stand we frequent in Mexico has roasted whole jalapeños that are 💯. But sliced fresh, pickled, etc. are also awesome additions." >}}
 
    {{< listapp/item title="Cebollita."
-      desc="The secret weapon. Beautiful and delicious. See: https://li.st/l/4MXpxUHQevwQu4jSm64bOG"
+      desc="The secret weapon. Beautiful and delicious. See: [Link](https://li.st/l/4MXpxUHQevwQu4jSm64bOG)"
       image="7.jpg" >}}
 
    {{< listapp/item title="Serve with lime wedges and leftover homemade black beans."

@@ -7,4 +7,4 @@ weblog: false
 
 George R.R. Martin on negative political ads. 
 
-http://grrm.livejournal.com/504703.html?utm_source=twsharing&utm_medium=social
+[Link](http://grrm.livejournal.com/504703.html?utm_source=twsharing&utm_medium=social)

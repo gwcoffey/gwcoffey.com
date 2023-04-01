@@ -9,4 +9,4 @@ weblog: false
 Only a chemist would refer to water as H2O. But I say that it's liquid and transparent, that we drink it and that we can wash ourselves with it. Now you can finally see what I'm talking about. The list is the mark of a highly advanced, cultivated society because a list allows us to question the essential definitions. The essential definition is primitive compared with the list.
 {{< /quote >}}
 
-http://www.spiegel.de/international/zeitgeist/spiegel-interview-with-umberto-eco-we-like-lists-because-we-don-t-want-to-die-a-659577.html
+[Link](http://www.spiegel.de/international/zeitgeist/spiegel-interview-with-umberto-eco-we-like-lists-because-we-don-t-want-to-die-a-659577.html)

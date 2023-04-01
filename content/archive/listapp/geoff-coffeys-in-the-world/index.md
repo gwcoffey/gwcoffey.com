@@ -13,6 +13,6 @@ relistCount: 0
    {{< listapp/item title="Me" >}}
 
    {{< listapp/item title="This other guy"
-      desc="http://bit.ly/1JuXVTY" >}}
+      desc="[Link](http://bit.ly/1JuXVTY)" >}}
 
 {{< /listapp/list >}}

@@ -7,4 +7,4 @@ weblog: false
 
 #maga
 
-http://www.businessinsider.com/photos-america-before-epa-documerica-2017-10/
+[Link](http://www.businessinsider.com/photos-america-before-epa-documerica-2017-10/)

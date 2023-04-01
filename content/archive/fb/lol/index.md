@@ -5,4 +5,4 @@ id: '1446833162'
 weblog: false
 ---
 
-LOL https://twitter.com/JuliaAngwin/status/662654895405821952
+LOL [Link](https://twitter.com/JuliaAngwin/status/662654895405821952)

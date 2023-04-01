@@ -7,7 +7,7 @@ likeCount: 9
 relistCount: 1
 ---
 
-Inspired by https://li.st/l/ac3873c7-b418-4109-ae04-05a7d6f7e057 . I used to wonder why people cared about weather apps. Then I remembered you don't all live here.
+Inspired by [Link](https://li.st/l/ac3873c7-b418-4109-ae04-05a7d6f7e057) . I used to wonder why people cared about weather apps. Then I remembered you don't all live here.
 
 <!--more-->
 

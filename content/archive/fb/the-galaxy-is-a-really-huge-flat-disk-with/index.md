@@ -9,4 +9,4 @@ weblog: false
 
 Phil Plait is good at this stuff.
 
-[Our Galaxy Just Got a Little More Interesting](http://www.slate.com/blogs/bad_astronomy/2013/06/06/milky_way_galaxy_two_new_discoveries_about_its_spiral_arms.html)
+[Our Galaxy Just Got a Little More Interesting]([Link](http://www.slate.com/blogs/bad_astronomy/2013/06/06/milky_way_galaxy_two_new_discoveries_about_its_spiral_arms.html))

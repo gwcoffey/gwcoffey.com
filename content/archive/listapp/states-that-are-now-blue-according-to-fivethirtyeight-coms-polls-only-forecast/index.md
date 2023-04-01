@@ -7,7 +7,7 @@ likeCount: 18
 relistCount: 1
 ---
 
-http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo
+[Link](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 
 <!--more-->
 

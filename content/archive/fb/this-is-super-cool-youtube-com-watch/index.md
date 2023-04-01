@@ -5,4 +5,4 @@ id: '1467390405'
 weblog: false
 ---
 
-This is super cool. https://www.youtube.com/watch?v=oWfFco7K9v8
+This is super cool. [Link](https://www.youtube.com/watch?v=oWfFco7K9v8)

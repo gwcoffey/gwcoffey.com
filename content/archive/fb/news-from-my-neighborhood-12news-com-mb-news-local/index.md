@@ -7,6 +7,6 @@ weblog: false
 
 News from my neighborhood. 
 
-https://web.archive.org/web/20161120012112/http://www.12news.com/mb/news/local/valley/racial-tensions-spike-on-brophy-prep-campus-election-blamed-for-widening-divide/352382258
+[Link](https://web.archive.org/web/20161120012112/http://www.12news.com/mb/news/local/valley/racial-tensions-spike-on-brophy-prep-campus-election-blamed-for-widening-divide/352382258)
 
 {{< ed "The original article seems to have disappeared so I updated the link to point to archive.org instead." >}}

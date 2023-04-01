@@ -7,7 +7,7 @@ likeCount: 24
 relistCount: 9
 ---
 
-Chef John of Food Wishes is bar none my favorite YouTube star. His recipes are amazing and his banter is 💯. http://youtube.com/foodwishes
+Chef John of Food Wishes is bar none my favorite YouTube star. His recipes are amazing and his banter is 💯. [Link](http://youtube.com/foodwishes)
 
 <!--more-->
 

@@ -7,6 +7,6 @@ weblog: false
 
 It's amazing the production quality you can accomplish at home these days.
 
-https://www.youtube.com/watch?v=mjHEHuNyvME
+[Link](https://www.youtube.com/watch?v=mjHEHuNyvME)
 
 Also, this is funny.

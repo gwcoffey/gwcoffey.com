@@ -7,4 +7,4 @@ weblog: false
 
 Where do they find these people? "You can't be citing Japanese internment camps as precedent for anything the president-elect is going to do," says Megyn Kelly. 
 
-https://twitter.com/bad_takes/status/799079032499343360
+[Link](https://twitter.com/bad_takes/status/799079032499343360)

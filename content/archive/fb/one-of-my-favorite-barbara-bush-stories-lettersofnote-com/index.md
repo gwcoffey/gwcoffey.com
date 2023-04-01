@@ -7,6 +7,6 @@ weblog: false
 
 One of my favorite Barbara Bush stories. 
 
-https://web.archive.org/web/20120104212609/http://www.lettersofnote.com/2011/09/with-great-respect-marge-simpson.html
+[Link](https://web.archive.org/web/20120104212609/http://www.lettersofnote.com/2011/09/with-great-respect-marge-simpson.html)
 
 {{< ed "The original letter has been removed from the Letters of Note site so I have updated the link to point to archive.org instead." >}}

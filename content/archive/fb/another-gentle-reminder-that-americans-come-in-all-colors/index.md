@@ -7,4 +7,4 @@ weblog: false
 
 Another gentle reminder that Americans come in all colors and varieties.
 
-http://www.npr.org/2016/10/28/499739422/gop-sen-kirk-incorrectly-hits-opponent-duckworth-over-heritage-military-service
+[Link](http://www.npr.org/2016/10/28/499739422/gop-sen-kirk-incorrectly-hits-opponent-duckworth-over-heritage-military-service)

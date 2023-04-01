@@ -23,6 +23,6 @@ Inspired by @xtineengels
 
    {{< listapp/item title="So here's my list of moments that didn't make me cry but could have if I let them..." >}}
 
-   {{< listapp/item title="https://gwcoffey.com/archive/listapp/things-im-embarassed-to-admit-made-me-cry" >}}
+   {{< listapp/item title="[Link](https://gwcoffey.com/archive/listapp/things-im-embarassed-to-admit-made-me-cry)" >}}
 
 {{< /listapp/list >}}

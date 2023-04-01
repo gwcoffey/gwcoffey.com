@@ -10,4 +10,4 @@ This is what happens when your gun laws are reactionary and poorly thought throu
 1. Utah, get your crap together.
 2. Utah State University, don't be such legal weenies. Post a sign and don't let guns in. Let the state sue you if they want. It is obviously the right thing to do.
 
-http://www.nytimes.com/2014/10/16/technology/gamergate-women-video-game-threats-anita-sarkeesian.html
+[Link](http://www.nytimes.com/2014/10/16/technology/gamergate-women-video-game-threats-anita-sarkeesian.html)

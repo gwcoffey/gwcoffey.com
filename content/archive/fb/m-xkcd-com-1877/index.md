@@ -5,4 +5,4 @@ id: '1502891987'
 weblog: false
 ---
 
-https://m.xkcd.com/1877/
+[Link](https://m.xkcd.com/1877/)

@@ -7,4 +7,4 @@ weblog: false
 
 It's happening. 
 
-https://www.nbclosangeles.com/news/local/Man-on-110-Freeway-Sign-in-DTLA-486706261.html?_osource=SocialFlowTwt_LABrand&__twitter_impression=true
+[Link](https://www.nbclosangeles.com/news/local/Man-on-110-Freeway-Sign-in-DTLA-486706261.html?_osource=SocialFlowTwt_LABrand&__twitter_impression=true)

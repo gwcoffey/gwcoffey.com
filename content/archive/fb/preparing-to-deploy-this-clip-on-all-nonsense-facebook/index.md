@@ -7,4 +7,4 @@ weblog: false
 
 Preparing to deploy this clip on all nonsense facebook posts about "illegals".
 
-https://www.youtube.com/watch?v=GhIT3kI-bjE
+[Link](https://www.youtube.com/watch?v=GhIT3kI-bjE)

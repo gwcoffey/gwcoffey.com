@@ -9,4 +9,4 @@ weblog: false
 To believe that patriotism will not flourish if patriotic ceremonies are voluntary and spontaneous instead of a compulsory routine is to make an unflattering estimate of the appeal of our institutions to free minds.
 {{< /quote >}}
 
-https://en.wikipedia.org/wiki/West_Virginia_State_Board_of_Education_v._Barnette
+[Link](https://en.wikipedia.org/wiki/West_Virginia_State_Board_of_Education_v._Barnette)

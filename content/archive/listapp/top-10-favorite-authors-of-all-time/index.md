@@ -20,10 +20,10 @@ Unranked. Thanks for the rec @elizabeef! This list would probably be different i
       desc="A Member of the Wedding is the best in-the-head-of-a-child book I've read and The Heart is a Lonely Hunter is one of the best books I've ever read period." >}}
 
    {{< listapp/item title="Cormac McCarthy"
-      desc="Contentious but I adore his writing style and Blood Meridian may be the greatest American novel (TM) since Moby Dick. And he makes me learn: https://li.st/l/1UqwOVX1Tpa7AoPqjSIDqa" >}}
+      desc="Contentious but I adore his writing style and Blood Meridian may be the greatest American novel (TM) since Moby Dick. And he makes me learn: [Link](https://li.st/l/1UqwOVX1Tpa7AoPqjSIDqa)" >}}
 
    {{< listapp/item title="E.B. White"
-      desc="Meticulous perfect writing and fathoms of heart. My hero. See: https://li.st/l/63F7OUVzMUnxiuoVnmDzAx" >}}
+      desc="Meticulous perfect writing and fathoms of heart. My hero. See: [Link](https://li.st/l/63F7OUVzMUnxiuoVnmDzAx)" >}}
 
    {{< listapp/item title="Harold Bloom"
       desc="My very favorite brilliant cranky uncle." >}}

@@ -7,4 +7,4 @@ weblog: false
 
 “We’re not competent to dedup a database table but you should trust us with backdoor access to every secure device in America.” — The FBI
 
-https://apple.news/ALiO5DOQZS06hX4p3KJMRIQ
+[Link](https://apple.news/ALiO5DOQZS06hX4p3KJMRIQ)

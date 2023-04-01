@@ -9,4 +9,4 @@ I wish CNN would run a front page story *every* time an American teen is killed 
 
 Hint: There’d be 6-10 front page stories every day, 7 days a week.
 
-http://www.cnn.com/2014/11/01/us/washington-school-shooting/
+[Link](http://www.cnn.com/2014/11/01/us/washington-school-shooting/)

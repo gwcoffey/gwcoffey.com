@@ -7,7 +7,7 @@ weblog: false
 
 This is a great read about Apple Music. 
 
-http://www.billboard.com/biz/articles/news/digital-and-mobile/7407889/apples-brain-trust-iovine-reznor-cue-and-kondrk-on
+[Link](http://www.billboard.com/biz/articles/news/digital-and-mobile/7407889/apples-brain-trust-iovine-reznor-cue-and-kondrk-on)
 
 I especially liked this bit from Eddy Cue about valuing the work of content creators:
 

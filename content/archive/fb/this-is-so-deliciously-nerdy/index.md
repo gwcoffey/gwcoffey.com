@@ -7,4 +7,4 @@ weblog: false
 
 This is so deliciously nerdy.
 
-http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/
+[Link](http://www.bloomberg.com/graphics/2015-star-wars-the-force-accounted/)

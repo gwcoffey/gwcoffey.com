@@ -7,4 +7,4 @@ weblog: false
 
 America, know thyself. 
 
-https://www.gq.com/story/trump-on-immigrant-children
+[Link](https://www.gq.com/story/trump-on-immigrant-children)

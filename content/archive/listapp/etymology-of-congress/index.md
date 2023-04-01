@@ -7,7 +7,7 @@ likeCount: 10
 relistCount: 2
 ---
 
-Source: http://etymonline.com/index.php?term=congress&allowed_in_frame=0
+Source: [Link](http://etymonline.com/index.php?term=congress&allowed_in_frame=0)
 
 <!--more-->
 

@@ -9,4 +9,4 @@ Our new national security advisor posted this video to his twitter account in Fe
 
 Warning: insufferable hateful islamophobic drivel behind that link. 
 
-https://twitter.com/GenFlynn/status/703387702998278144
+[Link](https://twitter.com/GenFlynn/status/703387702998278144)

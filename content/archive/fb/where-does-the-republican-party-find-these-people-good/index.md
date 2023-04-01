@@ -7,7 +7,7 @@ weblog: false
 
 Where does the Republican Party find these people? Good heavens what a sicko.
 
-http://www.washingtonexaminer.com/alabama-state-auditor-defends-roy-moore-against-sexual-allegations-invokes-mary-and-joseph/article/2640217
+[Link](http://www.washingtonexaminer.com/alabama-state-auditor-defends-roy-moore-against-sexual-allegations-invokes-mary-and-joseph/article/2640217)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

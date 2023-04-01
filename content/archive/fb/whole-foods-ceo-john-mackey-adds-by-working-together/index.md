@@ -9,4 +9,4 @@ weblog: false
 
 I'm pretty sure the only integrating they've done with Amazon is integrating Amazon's willingness to forgo profits.
 
-https://www.theverge.com/2017/8/24/16198736/amazon-completes-whole-foods-acquisition-lower-prices-avocados
+[Link](https://www.theverge.com/2017/8/24/16198736/amazon-completes-whole-foods-acquisition-lower-prices-avocados)

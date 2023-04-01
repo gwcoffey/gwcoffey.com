@@ -7,4 +7,4 @@ weblog: false
 
 Well this left me speechless. A beautiful, powerful, fascinating indictment.
 
-http://carte-blanche.org/hiyoge-owisisi-tanga-ita-cricket-egg-stories/
+[Link](http://carte-blanche.org/hiyoge-owisisi-tanga-ita-cricket-egg-stories/)

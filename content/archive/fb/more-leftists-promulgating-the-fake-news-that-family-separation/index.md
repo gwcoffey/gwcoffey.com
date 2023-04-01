@@ -7,4 +7,4 @@ weblog: false
 
 More leftists promulgating the fake news that family separation is unethical. 
 
-https://apple.news/AuH3iXBUJTZqIlBUS0U7Cgg
+[Link](https://apple.news/AuH3iXBUJTZqIlBUS0U7Cgg)

@@ -7,7 +7,7 @@ weblog: false
 
 I'm getting the biggest kick out of these pictures. This is exactly how I look at Canada. 
 
-https://twitter.com/DannyDutch/status/831575882972196864
+[Link](https://twitter.com/DannyDutch/status/831575882972196864)
 
 {{< fb/images >}}
 {{< fb/image src="image-1.jpg" />}}

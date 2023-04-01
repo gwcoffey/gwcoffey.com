@@ -7,4 +7,4 @@ weblog: false
 
 I really wish more tech companies would take privacy seriously. Grrr.
 
-https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442
+[Link](https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442)

@@ -7,4 +7,4 @@ weblog: false
 
 This would definitely be me.
 
-https://xkcd.com/1675/
+[Link](https://xkcd.com/1675/)

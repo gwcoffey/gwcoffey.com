@@ -6,7 +6,7 @@ likeCount: 31
 relistCount: 10
 ---
 
-Gathered from the Internet, mostly in response to surveys sent by Bruce McAllister as recounted here: http://www.theparisreview.org/blog/2011/12/05/document-the-symbolism-survey/
+Gathered from the Internet, mostly in response to surveys sent by Bruce McAllister as recounted here: [Link](http://www.theparisreview.org/blog/2011/12/05/document-the-symbolism-survey/)
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Gathered from the Internet, mostly in response to surveys sent by Bruce McAllist
       desc="\"If the story does not contradict the outline, overrun the pattern, break the symbols, like an insurrection against authority, it is surely a still birth. The natural symbolism of reality has more messages to communicate than the dry Morse code of the disengaged mind.\"" >}}
 
    {{< listapp/item title="Mary McCarthy [2]"
-      desc="\"At the very moment when American writing was penetrated by the symbolic urge, it ceased to be able to create symbols of its own…The discovery of new symbols is not the only function of a writer. But the writer who cares about this must be fascinated by reality itself, as a butterfly collector is fascinated by the glimpse of a new specimen.\" http://www.en.utexas.edu/Classes/Bremen/e316k/316kprivate/scans/mccarthy.html" >}}
+      desc="\"At the very moment when American writing was penetrated by the symbolic urge, it ceased to be able to create symbols of its own…The discovery of new symbols is not the only function of a writer. But the writer who cares about this must be fascinated by reality itself, as a butterfly collector is fascinated by the glimpse of a new specimen.\" [Link](http://www.en.utexas.edu/Classes/Bremen/e316k/316kprivate/scans/mccarthy.html)" >}}
 
    {{< listapp/item title="Norman Mailer"
       desc="\"Generally, the best symbols in a novel are those you become aware of only after you finish the work.\"" >}}

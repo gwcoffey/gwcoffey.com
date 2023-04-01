@@ -6,7 +6,7 @@ likeCount: 14
 relistCount: 0
 ---
 
-You will read a lot over the next few weeks about how the filibuster is an essential part of our checks and balances installed by the founders to protect us from the mob. That Republicans have unilaterally undermined that protection. This is baloney. <!--more--> (My primary source is: http://www.law.harvard.edu/students/orgs/jlpp/Gold_Gupta_JLPP_article.pdf )
+You will read a lot over the next few weeks about how the filibuster is an essential part of our checks and balances installed by the founders to protect us from the mob. That Republicans have unilaterally undermined that protection. This is baloney. <!--more--> (My primary source is: [Link](http://www.law.harvard.edu/students/orgs/jlpp/Gold_Gupta_JLPP_article.pdf) )
 
 {{< listapp/list order=false reverse=false >}}
 
@@ -138,7 +138,7 @@ You will read a lot over the next few weeks about how the filibuster is an essen
    {{< listapp/item title="Walsh’s opponents argued that this difference made the Senate one continuous body." >}}
 
    {{< listapp/item title="While of course the members had completely changed many times over since 1787, just like the Ship of Theseus, the Senate itself remained whole and original."
-      desc="https://en.m.wikipedia.org/wiki/Ship_of_Theseus (See also George Washington's Axe.)" >}}
+      desc="[Link](https://en.m.wikipedia.org/wiki/Ship_of_Theseus) (See also George Washington's Axe.)" >}}
 
    {{< listapp/item title="This argument is still not fully resolved. The Senate has argued this (as part of its Constitutional Option debates) for 100 years, and has always avoided declaring itself one way or the other." >}}
 

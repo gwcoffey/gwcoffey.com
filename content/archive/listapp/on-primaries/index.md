@@ -36,7 +36,7 @@ This is an ill-formed set of primordial thoughts demanding deeper understanding 
       desc="But the point still stands: not a system well suited to multiple parties." >}}
 
    {{< listapp/item title="Background: Historically the parties chose their own candidates as they saw fit. This resulted in instances of insider corruption. The current democratization of the primary process is a result of the McGovern-Fraser Commission of 1972."
-      desc="https://en.m.wikipedia.org/wiki/McGovern–Fraser_Commission" >}}
+      desc="[Link](https://en.m.wikipedia.org/wiki/McGovern–Fraser_Commission)" >}}
 
    {{< listapp/item title="Concession #1: It isn't really a fair characterization to say the parties are \"private organizations\" and leave it at that. Given our strong two party system, it is reasonable to at least consider a regulatory infrastructure that encourages transparency in the nominating process." >}}
 

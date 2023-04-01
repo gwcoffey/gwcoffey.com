@@ -7,4 +7,4 @@ weblog: false
 
 Mamie makes me solve this with tape. 
 
-https://xkcd.com/1973/
+[Link](https://xkcd.com/1973/)

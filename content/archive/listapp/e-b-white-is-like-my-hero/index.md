@@ -16,7 +16,7 @@ relistCount: 11
       image="2.png" >}}
 
    {{< listapp/item title="He had a tremendous sense of humor."
-      desc="He captioned this New Yorker comic, which is one of my all time favorites and I was so stoked when I learned he wrote it. You also must read his letter to the ASPCA about his allegedly unlicensed dog, Minnie: http://www.lettersofnote.com/2012/02/she-doesnt-answer-phone.html?m=1"
+      desc="He captioned this New Yorker comic, which is one of my all time favorites and I was so stoked when I learned he wrote it. You also must read his letter to the ASPCA about his allegedly unlicensed dog, Minnie: [Link](http://www.lettersofnote.com/2012/02/she-doesnt-answer-phone.html?m=1)"
       image="3.png" >}}
 
    {{< listapp/item title="He gave great advice on parenting."
@@ -28,7 +28,7 @@ relistCount: 11
       image="5.png" >}}
 
    {{< listapp/item title="He had a rational optimistic outlook and took time to share it with others."
-      desc="\"Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.\" http://www.lettersofnote.com/2012/01/wind-clock-for-tomorrow-is-another-day.html?m=1 (hat tip to @shaun)."
+      desc="\"Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.\" [Link](http://www.lettersofnote.com/2012/01/wind-clock-for-tomorrow-is-another-day.html?m=1) (hat tip to @shaun)."
       image="6.png" >}}
 
    {{< listapp/item title="He saw beauty everywhere."
@@ -48,7 +48,7 @@ relistCount: 11
       image="10.png" >}}
 
    {{< listapp/item title="He was deeply humanist."
-      desc="\"When we slid the body into the grave, the loss we felt was not the loss of ham, but the loss of pig. He had evidently become precious to me, not that he represented a distant nourishment in a hungry time, but that *he had suffered in a suffering world.*\" From \"Death of a Pig\" http://www.theatlantic.com/magazine/archive/1948/01/death-pig/309203/"
+      desc="\"When we slid the body into the grave, the loss we felt was not the loss of ham, but the loss of pig. He had evidently become precious to me, not that he represented a distant nourishment in a hungry time, but that *he had suffered in a suffering world.*\" From \"Death of a Pig\" [Link](http://www.theatlantic.com/magazine/archive/1948/01/death-pig/309203/)"
       image="11.png" >}}
 
    {{< listapp/item title="\"I knew that what could be true of my pig could be true also of the rest of my tidy world.\"" >}}

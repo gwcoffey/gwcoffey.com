@@ -7,4 +7,4 @@ weblog: false
 
 It's always difficult to understand Donald Trump. Petulant and thin-skinned? Calculating and Machiavellian? Who knows. But this rings true:
 
-http://nymag.com/daily/intelligencer/2016/11/trump-wants-you-to-burn-flags-while-he-burns-constitution.html
+[Link](http://nymag.com/daily/intelligencer/2016/11/trump-wants-you-to-burn-flags-while-he-burns-constitution.html)

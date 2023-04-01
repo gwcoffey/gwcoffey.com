@@ -7,4 +7,4 @@ weblog: false
 
 Sort of a shame Asimov isn't around to see this unfold.
 
-http://www.vox.com/2016/9/19/12966680/department-of-transportation-automated-vehicles
+[Link](http://www.vox.com/2016/9/19/12966680/department-of-transportation-automated-vehicles)

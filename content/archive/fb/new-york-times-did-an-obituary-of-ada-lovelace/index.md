@@ -7,4 +7,4 @@ weblog: false
 
 New York Times did an obituary of Ada Lovelace as part of their “overlooked” series and it is wonderful. A hero of mine. 
 
-https://www.nytimes.com/interactive/2018/obituaries/overlooked-ada-lovelace.html
+[Link](https://www.nytimes.com/interactive/2018/obituaries/overlooked-ada-lovelace.html)

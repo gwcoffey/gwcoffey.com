@@ -11,6 +11,6 @@ Here's a solid update on the Apple/FBI encryption disagreement, including a pret
 
 "'This is the first time that Apple has been included in their own threat model,' Mr. Zdziarski said. 'I don’t think Apple ever considered becoming a compelled arm of the government.'"
 
-http://www.nytimes.com/2016/02/25/technology/apple-is-said-to-be-working-on-an-iphone-even-it-cant-hack.html?_r=0
+[Link](http://www.nytimes.com/2016/02/25/technology/apple-is-said-to-be-working-on-an-iphone-even-it-cant-hack.html?_r=0)
 
 Apple *should* be making your data more and more secure, protecting your privacy in new and better ways. It should not be fighting against itself in the process.

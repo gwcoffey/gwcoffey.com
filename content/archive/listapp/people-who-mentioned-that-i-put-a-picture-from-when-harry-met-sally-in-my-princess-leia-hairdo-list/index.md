@@ -8,7 +8,7 @@ likeCount: 8
 relistCount: 0
 ---
 
-For reference: https://gwcoffey.com/archive/listapp/princess-leias-hairdos-ranked/
+For reference: [Link](https://gwcoffey.com/archive/listapp/princess-leias-hairdos-ranked/)
 
 <!--more-->
 

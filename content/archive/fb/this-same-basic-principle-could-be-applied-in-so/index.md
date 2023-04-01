@@ -7,4 +7,4 @@ weblog: false
 
 This same basic principle could be applied in so many ways.
 
-http://xkcd.com/1156/
+[Link](http://xkcd.com/1156/)

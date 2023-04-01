@@ -7,7 +7,7 @@ weblog: false
 
 I just found out Kelly Anne Conway has children. 
 
-{{< ed "This post is [sad](https://news.yahoo.com/kellyanne-conway-daughter-accuses-her-141443476.html) in hindsight." >}}
+{{< ed "This post is [sad]([Link](https://news.yahoo.com/kellyanne-conway-daughter-accuses-her-141443476.html)) in hindsight." >}}
 
 {{< quote >}}
 "Mom, did you eat my Halloween candy?"

@@ -7,6 +7,6 @@ weblog: false
 
 I've never been so conflicted. 
 
-http://trailers.apple.com/trailers/lions_gate/americanpastoral/
+[Link](http://trailers.apple.com/trailers/lions_gate/americanpastoral/)
 
 This may be the most affecting book I've ever read. Dare I?

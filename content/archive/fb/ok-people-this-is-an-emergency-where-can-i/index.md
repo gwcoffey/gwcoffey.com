@@ -7,4 +7,4 @@ weblog: false
 
 Ok, people. This is an emergency. Where can I buy awesome hotdog buns now?
 
-http://blogs.phoenixnewtimes.com/bella/2014/03/karshs_bakery_closing_phoenix.php
+[Link](http://blogs.phoenixnewtimes.com/bella/2014/03/karshs_bakery_closing_phoenix.php)

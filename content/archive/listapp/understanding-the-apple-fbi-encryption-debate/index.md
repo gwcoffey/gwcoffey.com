@@ -15,10 +15,10 @@ Disclaimer: I am an Apple employee. So 1: My bias is showing. 2: It should go wi
    {{< listapp/item title="As has been widely reported, Apple is fighting a court order to \"unlock\" an iPhone used by one of the shooters in the San Bernardino terrorist attack last year." >}}
 
    {{< listapp/item title="Here's the New York Times on the ruling:"
-      desc="http://mobile.nytimes.com/2016/02/17/us/judge-tells-apple-to-help-unlock-san-bernardino-gunmans-iphone.html?referer=https://www.google.com/" >}}
+      desc="[Link](http://mobile.nytimes.com/2016/02/17/us/judge-tells-apple-to-help-unlock-san-bernardino-gunmans-iphone.html?referer=https://www.google.com/)" >}}
 
    {{< listapp/item title="And here's Apple's open letter explaining their position:"
-      desc="http://www.apple.com/customer-letter/" >}}
+      desc="[Link](http://www.apple.com/customer-letter/)" >}}
 
    {{< listapp/item title="What does the FBI want?"
       desc="The FBI wants to see the data (notes, emails, phone logs, iMessages, apps, etc...) stored on the phone." >}}

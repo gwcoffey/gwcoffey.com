@@ -7,4 +7,4 @@ weblog: false
 
 Man I love stuff like this. So clever. And a reminder that absolutely nothing on a computer is truly secure with a sufficiently motivated, clever, and financed attacker.
 
-http://arstechnica.com/security/2016/08/new-air-gap-jumper-covertly-transmits-data-in-hard-drive-sounds/
+[Link](http://arstechnica.com/security/2016/08/new-air-gap-jumper-covertly-transmits-data-in-hard-drive-sounds/)

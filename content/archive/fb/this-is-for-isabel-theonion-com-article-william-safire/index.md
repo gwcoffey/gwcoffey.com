@@ -7,4 +7,4 @@ weblog: false
 
 This is for Isabel.
 
-http://www.theonion.com/article/william-safire-orders-two-whoppers-junior-3351
+[Link](http://www.theonion.com/article/william-safire-orders-two-whoppers-junior-3351)

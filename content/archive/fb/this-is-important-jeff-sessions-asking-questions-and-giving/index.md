@@ -9,8 +9,8 @@ This is important:
 
 Jeff Sessions asking questions and giving advice to Sally Yates at her confirmation hearing. (In three parts)
 
-https://twitter.com/yottapoint/status/826289013891821568
+[Link](https://twitter.com/yottapoint/status/826289013891821568)
 
-https://twitter.com/yottapoint/status/826325066124103680
+[Link](https://twitter.com/yottapoint/status/826325066124103680)
 
-https://twitter.com/yottapoint/status/826327824332054529
+[Link](https://twitter.com/yottapoint/status/826327824332054529)

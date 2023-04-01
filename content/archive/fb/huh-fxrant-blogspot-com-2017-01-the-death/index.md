@@ -7,4 +7,4 @@ weblog: false
 
 Huh. 😶
 
-http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html?m=1
+[Link](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html?m=1)

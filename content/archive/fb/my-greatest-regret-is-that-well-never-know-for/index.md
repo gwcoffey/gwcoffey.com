@@ -7,4 +7,4 @@ weblog: false
 
 My greatest regret is that we'll never know for absolute certain that this is true.
 
-http://www.independent.co.uk/news/world/americas/us-politics/george-w-bush-donald-trump-inauguration-weird-shit-word-ceremony-us-president-a7657246.html
+[Link](http://www.independent.co.uk/news/world/americas/us-politics/george-w-bush-donald-trump-inauguration-weird-shit-word-ceremony-us-president-a7657246.html)

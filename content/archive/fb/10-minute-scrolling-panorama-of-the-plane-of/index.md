@@ -11,4 +11,4 @@ weblog: false
 
 It's like our eyes have opened for the first time to see what has always been right above us. Absolutely amazing. 
 
-http://sci.esa.int/herschel/57756-herschels-view-of-the-galactic-plane/
+[Link](http://sci.esa.int/herschel/57756-herschels-view-of-the-galactic-plane/)

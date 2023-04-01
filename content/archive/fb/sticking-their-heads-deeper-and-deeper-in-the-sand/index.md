@@ -7,4 +7,4 @@ weblog: false
 
 Sticking their heads deeper and deeper in the sand.
 
-https://arstechnica.com/information-technology/2016/01/adblock-plus-blocked-from-attending-online-ad-industrys-big-annual-conference/
+[Link](https://arstechnica.com/information-technology/2016/01/adblock-plus-blocked-from-attending-online-ad-industrys-big-annual-conference/)

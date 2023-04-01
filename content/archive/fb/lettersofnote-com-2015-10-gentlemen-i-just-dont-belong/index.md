@@ -5,4 +5,4 @@ id: '1477202774'
 weblog: false
 ---
 
-http://www.lettersofnote.com/2015/10/gentlemen-i-just-dont-belong-here.html
+[Link](http://www.lettersofnote.com/2015/10/gentlemen-i-just-dont-belong-here.html)

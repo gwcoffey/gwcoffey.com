@@ -7,4 +7,4 @@ weblog: false
 
 Smart commentary from Tim O'Reilly about Facebook and algorithmic news feed surfacing. 
 
-https://medium.com/@timoreilly/media-in-the-age-of-algorithms-63e80b9b0a73#.swtoyahc0
+[Link](https://medium.com/@timoreilly/media-in-the-age-of-algorithms-63e80b9b0a73#.swtoyahc0)

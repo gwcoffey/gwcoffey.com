@@ -7,4 +7,4 @@ weblog: false
 
 "We can not do this. We can't go backward. We can't go backward."
 
-https://twitter.com/FallonTonight/status/897301220020408320
+[Link](https://twitter.com/FallonTonight/status/897301220020408320)

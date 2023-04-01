@@ -7,4 +7,4 @@ weblog: false
 
 And similar reporting from the Independent. 
 
-http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-president-supporters-attack-muslims-hijab-hispanics-lgbt-hate-crime-wave-us-election-a7410166.html
+[Link](http://www.independent.co.uk/news/world/americas/us-elections/donald-trump-president-supporters-attack-muslims-hijab-hispanics-lgbt-hate-crime-wave-us-election-a7410166.html)

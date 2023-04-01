@@ -13,7 +13,7 @@ This list is light on high end dining because I'm not a big partaker of fancy re
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Best Bread: Mediterra Bakehouse"
-      desc="Technically this is in Coolidge, not Phoenix, but you can find them at the public market on Saturday mornings and Wednesday afternoons and they have a few varieties at Whole Foods. Mediterra bakes the best bread in Phoenix bar none, and very very good bread in general. They specialize in sourdough with many options. My favorite is the Fire Bread. Their specialty breads are also all excellent. http://bit.ly/1ICL1jj"
+      desc="Technically this is in Coolidge, not Phoenix, but you can find them at the public market on Saturday mornings and Wednesday afternoons and they have a few varieties at Whole Foods. Mediterra bakes the best bread in Phoenix bar none, and very very good bread in general. They specialize in sourdough with many options. My favorite is the Fire Bread. Their specialty breads are also all excellent. [Link](http://bit.ly/1ICL1jj)"
       image="1.png" >}}
 
    {{< listapp/item title="Best Unpretentious Sushi: Hana Japanese Eatery"

@@ -7,4 +7,4 @@ weblog: false
 
 I'm very much not a documentary person but I rented City of Gold on laundry night and it is great. Watching it again with Sophia tonight. Such a beautiful little celebration of people.
 
-http://www.cityofgolddoc.com
+[Link](http://www.cityofgolddoc.com)

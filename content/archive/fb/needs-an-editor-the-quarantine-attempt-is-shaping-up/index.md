@@ -11,6 +11,6 @@ Needs an editor:
 
 Fixed that for you.
 
-http://www.usatoday.com/story/news/nation/2014/10/31/maine-nurse-ebola/18232749/
+[Link](http://www.usatoday.com/story/news/nation/2014/10/31/maine-nurse-ebola/18232749/)
 
 Also, thank you, your honor.

@@ -7,6 +7,6 @@ weblog: false
 
 I bet the only people who didn't see this coming were wearing Google Glass.
 
-https://web.archive.org/web/20160913162232/http://uk.reuters.com/article/uk-google-smartphone-exclusive-idUKKCN118065
+[Link](https://web.archive.org/web/20160913162232/http://uk.reuters.com/article/uk-google-smartphone-exclusive-idUKKCN118065)
 
 {{< ed "The original article link no longer works so I updated the link to point to archive.org." >}}

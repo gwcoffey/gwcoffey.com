@@ -10,4 +10,4 @@ weblog: false
 How will that ugliness manifest itself?
 "Donald Trump."
 
-http://www.vulture.com/2018/08/penn-jillette-in-conversation.html
+[Link](http://www.vulture.com/2018/08/penn-jillette-in-conversation.html)

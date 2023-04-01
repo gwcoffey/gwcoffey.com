@@ -7,4 +7,4 @@ weblog: false
 
 Nail on the head as usual. 
 
-http://xkcd.com/1760/
+[Link](http://xkcd.com/1760/)

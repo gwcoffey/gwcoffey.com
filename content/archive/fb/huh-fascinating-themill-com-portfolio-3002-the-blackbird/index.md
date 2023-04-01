@@ -7,4 +7,4 @@ weblog: false
 
 Huh. Fascinating.
 
-http://www.themill.com/portfolio/3002/the-blackbird®
+[Link](http://www.themill.com/portfolio/3002/the-blackbird®)

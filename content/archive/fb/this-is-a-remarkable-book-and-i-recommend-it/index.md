@@ -7,4 +7,4 @@ weblog: false
 
 This is a remarkable book and I recommend it highly to anyone who loves language. A book about what people do (innately it seems) to make what they say more beautiful. But better than that, it is interesting, exquisitely written, and funny. 
 
-https://en.m.wikipedia.org/wiki/The_Elements_of_Eloquence
+[Link](https://en.m.wikipedia.org/wiki/The_Elements_of_Eloquence)

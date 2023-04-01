@@ -7,4 +7,4 @@ weblog: false
 
 Please no. I hope this is not true. 
 
-http://mobile.reuters.com/article/idUSKBN15G5VO?feedType=RSS&feedName=topNews&utm_source=twitter&utm_medium=Social
+[Link](http://mobile.reuters.com/article/idUSKBN15G5VO?feedType=RSS&feedName=topNews&utm_source=twitter&utm_medium=Social)

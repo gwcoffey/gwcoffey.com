@@ -7,4 +7,4 @@ weblog: false
 
 Is there an IntelliJ extension that posts this as my status whenever my code starts compiling?
 
-https://imgs.xkcd.com/comics/compiling.png
+[Link](https://imgs.xkcd.com/comics/compiling.png)

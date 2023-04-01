@@ -7,4 +7,4 @@ weblog: false
 
 This makes me happy. 
 
-http://www.theverge.com/tldr/2017/1/20/14334242/kristen-stewart-machine-learning-paper-ai
+[Link](http://www.theverge.com/tldr/2017/1/20/14334242/kristen-stewart-machine-learning-paper-ai)

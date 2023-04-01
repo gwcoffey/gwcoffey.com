@@ -7,7 +7,7 @@ weblog: false
 
 Same...
 
-Source: https://m.xkcd.com/1906/
+Source: [Link](https://m.xkcd.com/1906/)
 
 {{< fb/images >}}
 {{< fb/image src="image-1.jpg" />}}

@@ -7,4 +7,4 @@ weblog: false
 
 Huh. The more you know.
 
-http://www.businessinsider.com/the-worlds-largest-stockpile-of-nuclear-weapons-is-defended-by-dolphins-2015-3
+[Link](http://www.businessinsider.com/the-worlds-largest-stockpile-of-nuclear-weapons-is-defended-by-dolphins-2015-3)

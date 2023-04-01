@@ -7,4 +7,4 @@ weblog: false
 
 Happy (late) national teachers day. 
 
-http://www.lettersofnote.com/2013/11/i-embrace-you-with-all-my-heart.html?m=1
+[Link](http://www.lettersofnote.com/2013/11/i-embrace-you-with-all-my-heart.html?m=1)

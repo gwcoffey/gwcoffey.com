@@ -11,4 +11,4 @@ And then sometimes United Airlines really does just "randomly" select a passenge
 
 How anybody thought this was a good idea is beyond me. Amazing. 
 
-http://www.cnbc.com/2017/04/10/video-surfaces-of-man-being-dragged-from-overbooked-united-flight.html
+[Link](http://www.cnbc.com/2017/04/10/video-surfaces-of-man-being-dragged-from-overbooked-united-flight.html)

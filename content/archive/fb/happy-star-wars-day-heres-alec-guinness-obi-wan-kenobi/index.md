@@ -7,7 +7,7 @@ weblog: false
 
 Happy Star Wars Day. Here's Alec Guinness (Obi-Wan Kenobi) grumbling about his role in a letter to a friend.
 
-https://twitter.com/LettersOfNote/status/860185299577602049/photo/1
+[Link](https://twitter.com/LettersOfNote/status/860185299577602049/photo/1)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

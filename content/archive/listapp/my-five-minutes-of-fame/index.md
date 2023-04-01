@@ -15,7 +15,7 @@ Inspired by @ListPrompts
    {{< listapp/item title="In second grade the poem I wrote for our poetry unit was published in The Peanut Butter Press." >}}
 
    {{< listapp/item title="(That was a local Indiana newspaper distributed at elementary schools.)"
-      desc="Now defunct. http://www.worldcat.org/title/peanut-butter-press/oclc/502264303" >}}
+      desc="Now defunct. [Link](http://www.worldcat.org/title/peanut-butter-press/oclc/502264303)" >}}
 
    {{< listapp/item title="It was my proudest moment." >}}
 

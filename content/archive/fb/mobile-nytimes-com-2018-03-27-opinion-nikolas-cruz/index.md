@@ -5,4 +5,4 @@ id: '1522184288'
 weblog: false
 ---
 
-https://mobile.nytimes.com/2018/03/27/opinion/nikolas-cruz-shooting-florida.html
+[Link](https://mobile.nytimes.com/2018/03/27/opinion/nikolas-cruz-shooting-florida.html)

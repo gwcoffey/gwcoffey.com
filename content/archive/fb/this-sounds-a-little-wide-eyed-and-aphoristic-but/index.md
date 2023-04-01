@@ -7,7 +7,7 @@ weblog: false
 
 This sounds a little wide eyed and aphoristic but the more I think about it the more I think it is actually pretty astute. 
 
-https://twitter.com/JohnJpshanley/status/835565763343835138
+[Link](https://twitter.com/JohnJpshanley/status/835565763343835138)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

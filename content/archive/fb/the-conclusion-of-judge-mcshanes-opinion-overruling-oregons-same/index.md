@@ -7,7 +7,7 @@ weblog: false
 
 The conclusion of Judge McShane's opinion overruling Oregon's same sex marriage ban is beautifully argued and written. (Actually the whole thing is beautifully argued, but the conclusion is particularly sincere.)
 
-(Source: http://www.ord.uscourts.gov/index.php/attorneys/rulings?download=400:opinion-and-order-in-geiger-v-kitzhaber-6-13-cv-01834)
+(Source: [Link](http://www.ord.uscourts.gov/index.php/attorneys/rulings?download=400:opinion-and-order-in-geiger-v-kitzhaber-6-13-cv-01834))
 
 {{< quote >}}
 CONCLUSION:

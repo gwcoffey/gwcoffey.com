@@ -7,4 +7,4 @@ weblog: false
 
 As we contemplate the comedy of a Trump presidency, let's sober up a bit...
 
-https://en.wikipedia.org/wiki/Gold_Codes
+[Link](https://en.wikipedia.org/wiki/Gold_Codes)

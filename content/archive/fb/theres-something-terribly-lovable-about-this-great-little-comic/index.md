@@ -7,4 +7,4 @@ weblog: false
 
 There's something terribly lovable about this great little comic.
 
-https://lizclimo.tumblr.com/post/115429054999/happy-easter
+[Link](https://lizclimo.tumblr.com/post/115429054999/happy-easter)

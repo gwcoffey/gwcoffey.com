@@ -7,7 +7,7 @@ weblog: false
 
 I don't really know what to think of this except that it gave me that unsettled sense when some otherwise-normal thing is just a little bit *weird*.
 
-http://vimeo.com/82038912#
+[Link](http://vimeo.com/82038912#)
 
 Kind of like you feel when you type this sentence:
 

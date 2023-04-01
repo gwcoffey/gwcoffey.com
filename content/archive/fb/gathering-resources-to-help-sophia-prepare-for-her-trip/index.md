@@ -7,4 +7,4 @@ weblog: false
 
 Gathering resources to help Sophia prepare for her trip to Japan.
 
-https://www.youtube.com/watch?v=CKjaFG4YN6g&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=CKjaFG4YN6g&feature=youtu.be)

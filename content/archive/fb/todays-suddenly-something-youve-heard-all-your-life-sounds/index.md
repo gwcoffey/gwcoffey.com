@@ -7,4 +7,4 @@ weblog: false
 
 Today’s “suddenly something you’ve heard all your life sounds strange and you get curious” was this: Where’s old Zealand? I had no idea. 
 
-https://en.m.wikipedia.org/wiki/Zeeland
+[Link](https://en.m.wikipedia.org/wiki/Zeeland)

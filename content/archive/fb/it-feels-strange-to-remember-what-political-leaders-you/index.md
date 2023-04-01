@@ -7,4 +7,4 @@ weblog: false
 
 It feels strange to remember what political leaders you don't agree with used to sound like. 
 
-http://theweek.com/speedreads/663167/pence-says-wasnt-offended-by-hamilton-message-boos-thats-what-freedom-sounds-like
+[Link](http://theweek.com/speedreads/663167/pence-says-wasnt-offended-by-hamilton-message-boos-thats-what-freedom-sounds-like)

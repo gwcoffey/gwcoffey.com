@@ -5,4 +5,4 @@ id: '1472590649'
 weblog: false
 ---
 
-http://i.imgur.com/6sBxxBN.png
+[Link](http://i.imgur.com/6sBxxBN.png)

@@ -7,4 +7,4 @@ weblog: false
 
 What a lovely, eye-opening, and exciting XKCD. 
 
-http://xkcd.com/1298/
+[Link](http://xkcd.com/1298/)

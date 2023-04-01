@@ -7,4 +7,4 @@ weblog: false
 
 Everyone looks cooler in black and white with 70s fashion. Even king of the dorks, Tim Kaine. 
 
-https://twitter.com/DanielRCarrillo/status/758499677029277696
+[Link](https://twitter.com/DanielRCarrillo/status/758499677029277696)

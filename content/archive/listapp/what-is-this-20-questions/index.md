@@ -35,7 +35,7 @@ Inspired by @dad3
       desc="Vanilla cone dipped in chocolate." >}}
 
    {{< listapp/item title="Worst injury ever sustained?"
-      desc="https://en.m.wikipedia.org/wiki/Osteochondritis_dissecans" >}}
+      desc="[Link](https://en.m.wikipedia.org/wiki/Osteochondritis_dissecans)" >}}
 
    {{< listapp/item title="Favorite pastime?"
       desc="Reading." >}}
@@ -50,7 +50,7 @@ Inspired by @dad3
       desc="Night. Always night. Morning are what God meant when he said by the sweat of your brow and etc..." >}}
 
    {{< listapp/item title="My go to song?"
-      desc="Clay Pigeons by Blaze Foley but performed by John Prine: https://youtu.be/20Rucu7uNwc" >}}
+      desc="Clay Pigeons by Blaze Foley but performed by John Prine: [Link](https://youtu.be/20Rucu7uNwc)" >}}
 
    {{< listapp/item title="Most recent book you read and would recommend?"
       desc="Crime and Punishment by Dostoyevsky" >}}

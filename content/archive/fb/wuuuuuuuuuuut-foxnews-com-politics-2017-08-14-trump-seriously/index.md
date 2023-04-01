@@ -7,4 +7,4 @@ weblog: false
 
 Wuuuuuuuuuuut....
 
-http://www.foxnews.com/politics/2017/08/14/trump-seriously-considering-pardon-for-sheriff-joe-arpaio.html
+[Link](http://www.foxnews.com/politics/2017/08/14/trump-seriously-considering-pardon-for-sheriff-joe-arpaio.html)

@@ -19,4 +19,4 @@ Et voila! Private donations to Trump Foundation end up in Trump's pocket as reve
 
 Add a little extra spice (suspicious personal purchases by the Eric Trump foundation, and unaccounted for costs) and you have just another day in Trump land.
 
-https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/amp/
+[Link](https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/amp/)

@@ -7,7 +7,7 @@ likeCount: 50
 relistCount: 7
 ---
 
-If the new slow clunky chip cards have got you down, if you feel like paying at the grocery is harder than it used to be, if you think you'll snap if the cashier rolls his eyes at you one more time, maybe it's time to try Apple Pay. Inspired by: http://www.wsj.com/articles/chip-card-nightmares-help-is-on-the-way-1470163865?mod=trending_now_3
+If the new slow clunky chip cards have got you down, if you feel like paying at the grocery is harder than it used to be, if you think you'll snap if the cashier rolls his eyes at you one more time, maybe it's time to try Apple Pay. Inspired by: [Link](http://www.wsj.com/articles/chip-card-nightmares-help-is-on-the-way-1470163865?mod=trending_now_3)
 
 <!--more-->
 

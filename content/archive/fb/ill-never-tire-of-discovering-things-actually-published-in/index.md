@@ -7,4 +7,4 @@ weblog: false
 
 I'll never tire of discovering things actually published in the 21st century by our president's chief strategist.
 
-https://www.google.com/amp/www.breitbart.com/big-government/2015/06/15/heres-why-there-ought-to-be-a-cap-on-women-studying-science-and-maths/amp/
+[Link](https://www.google.com/amp/www.breitbart.com/big-government/2015/06/15/heres-why-there-ought-to-be-a-cap-on-women-studying-science-and-maths/amp/)

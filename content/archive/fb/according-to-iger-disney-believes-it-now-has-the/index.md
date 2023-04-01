@@ -11,4 +11,4 @@ weblog: false
 
 Tee hee hee.
 
-http://www.theonion.com/articles/disney-ceo-figures-theyve-built-up-enough-goodwill,35874/
+[Link](http://www.theonion.com/articles/disney-ceo-figures-theyve-built-up-enough-goodwill,35874/)

@@ -9,4 +9,4 @@ weblog: false
 
 What a world. 
 
-http://www.foxnews.com/politics/2017/05/24/greg-gianforte-fox-news-team-witnesses-gop-house-candidate-body-slam-reporter.html
+[Link](http://www.foxnews.com/politics/2017/05/24/greg-gianforte-fox-news-team-witnesses-gop-house-candidate-body-slam-reporter.html)

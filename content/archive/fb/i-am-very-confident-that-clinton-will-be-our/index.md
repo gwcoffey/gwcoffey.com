@@ -14,4 +14,4 @@ Sailors have an expression about the weather: they say, the weather is a great b
 
 Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.{{< /quote >}}
 
-http://www.lettersofnote.com/2012/01/wind-clock-for-tomorrow-is-another-day.html
+[Link](http://www.lettersofnote.com/2012/01/wind-clock-for-tomorrow-is-another-day.html)

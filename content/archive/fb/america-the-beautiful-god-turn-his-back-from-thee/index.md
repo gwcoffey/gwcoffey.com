@@ -12,4 +12,4 @@ And crown thy blind and fearful heart
 With hateful bigotry
 {{< /lines >}}
 
-https://www.msnbc.com/all-in/watch/trump-administration-separating-parents-and-children-at-border-1242280003606
+[Link](https://www.msnbc.com/all-in/watch/trump-administration-separating-parents-and-children-at-border-1242280003606)

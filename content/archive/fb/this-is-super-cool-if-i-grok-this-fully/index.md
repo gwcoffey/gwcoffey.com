@@ -7,4 +7,4 @@ weblog: false
 
 This is super cool. If I grok this fully, these folks are listening to music, audio books, and phone calls without any actual sound waves involved. Just Encoded Digital Audio → Bluetooth LTA → Implant → Cochlea → Nerve → Brain. We are living in the future…
 
-https://www.wired.com/story/how-apple-is-putting-voices-in-users-headsliterally
+[Link](https://www.wired.com/story/how-apple-is-putting-voices-in-users-headsliterally)

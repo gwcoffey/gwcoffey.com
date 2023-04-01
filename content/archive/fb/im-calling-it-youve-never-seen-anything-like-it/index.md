@@ -7,4 +7,4 @@ weblog: false
 
 I'm calling it: “You’ve never seen anything like it. It’s never seen anything like you.” is the best iPhone ad tagline ever. I love it.
 
-https://www.youtube.com/watch?v=mW6hFttt_KE
+[Link](https://www.youtube.com/watch?v=mW6hFttt_KE)

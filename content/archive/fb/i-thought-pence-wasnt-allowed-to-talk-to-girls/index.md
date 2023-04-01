@@ -7,7 +7,7 @@ weblog: false
 
 I thought Pence wasn't allowed to talk to girls...
 
-https://apple.news/A6GocAvW2SnSFQr-lrqgpKw
+[Link](https://apple.news/A6GocAvW2SnSFQr-lrqgpKw)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

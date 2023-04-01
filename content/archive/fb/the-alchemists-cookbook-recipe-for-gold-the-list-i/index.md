@@ -7,7 +7,7 @@ summary: "The Alchemists Cookbook: Recipe for Gold."
 
 The Alchemists Cookbook: Recipe for Gold
 
-(The list I would have posted today in honor of https://www.quantamagazine.org/neutron-star-collision-shakes-space-time-and-lights-up-the-sky-20171016/ )
+(The list I would have posted today in honor of [Link](https://www.quantamagazine.org/neutron-star-collision-shakes-space-time-and-lights-up-the-sky-20171016/) )
 
 1. Gather together approximately 4,000,000,000,000,000,000,000,000,000,000 pounds of hydrogen (you don’t need to be exact) in a large open space.
 

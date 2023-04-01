@@ -9,4 +9,4 @@ weblog: false
 
 What a lovely little thing.
 
-http://www.futilitycloset.com/2014/03/13/resolution/
+[Link](http://www.futilitycloset.com/2014/03/13/resolution/)

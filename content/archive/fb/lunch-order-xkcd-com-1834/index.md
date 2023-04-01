@@ -7,7 +7,7 @@ weblog: false
 
 Lunch Order
 
-https://xkcd.com/1834/
+[Link](https://xkcd.com/1834/)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

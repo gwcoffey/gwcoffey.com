@@ -9,4 +9,4 @@ weblog: false
 
 I laughed.
 
-https://twitter.com/ajplus/status/769593805599158272
+[Link](https://twitter.com/ajplus/status/769593805599158272)

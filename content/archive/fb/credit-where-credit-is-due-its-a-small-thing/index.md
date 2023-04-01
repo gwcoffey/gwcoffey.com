@@ -11,6 +11,6 @@ I also think there's a reasonable chance the clear voice of the American people 
 
 Now, onward and upward...
 
-https://web.archive.org/web/20170201160404/https://www.nytimes.com/2017/01/30/us/politics/obama-trump-protections-lgbt-workers.html
+[Link](https://web.archive.org/web/20170201160404/https://www.nytimes.com/2017/01/30/us/politics/obama-trump-protections-lgbt-workers.html)
 
 {{< ed "When I re-tested this link it got stuck in some weird NYT captcha loop so I updated the link to point to archive.org instead." >}}

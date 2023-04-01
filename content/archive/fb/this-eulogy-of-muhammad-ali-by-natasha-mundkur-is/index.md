@@ -7,4 +7,4 @@ weblog: false
 
 This eulogy of Muhammad Ali by Natasha Mundkur is such a powerful illustration of the importance of diverse heroes. And by extension an important reminder of the danger, to our collective cultural soul, of a Trump presidency. 
 
-https://www.youtube.com/watch?v=Hymt5eUKeGU
+[Link](https://www.youtube.com/watch?v=Hymt5eUKeGU)

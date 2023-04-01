@@ -7,4 +7,4 @@ weblog: false
 
 A very right-leaning site and byline in case that isn't clear. 
 
-http://thefederalist.com/2017/08/16/donald-trump-needs-to-not-be-president-yesterday/
+[Link](http://thefederalist.com/2017/08/16/donald-trump-needs-to-not-be-president-yesterday/)

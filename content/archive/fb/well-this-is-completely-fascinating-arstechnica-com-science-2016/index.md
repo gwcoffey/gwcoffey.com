@@ -7,4 +7,4 @@ weblog: false
 
 Well this is completely fascinating.
 
-http://arstechnica.com/science/2016/09/bizarre-ant-colony-discovered-in-an-abandoned-polish-nuclear-weapons-bunker/
+[Link](http://arstechnica.com/science/2016/09/bizarre-ant-colony-discovered-in-an-abandoned-polish-nuclear-weapons-bunker/)

@@ -38,6 +38,6 @@ relistCount: 0
       image="8.jpg" >}}
 
    {{< listapp/item title="At Brelby Theater in Glendale for the next few weeks!"
-      desc="http://brelby.com/questforclaus/" >}}
+      desc="[Link](http://brelby.com/questforclaus/)" >}}
 
 {{< /listapp/list >}}

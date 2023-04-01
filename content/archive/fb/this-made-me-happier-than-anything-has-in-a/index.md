@@ -7,4 +7,4 @@ weblog: false
 
 This made me happier than anything has in a long time.
 
-https://www.youtube.com/watch?v=-M5vqQLCo1U&feature=youtu.be
+[Link](https://www.youtube.com/watch?v=-M5vqQLCo1U&feature=youtu.be)

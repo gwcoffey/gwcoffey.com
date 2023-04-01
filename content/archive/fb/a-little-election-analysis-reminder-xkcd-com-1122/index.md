@@ -9,4 +9,4 @@ weblog: false
 
 A little election analysis reminder: 
 
-https://xkcd.com/1122/
+[Link](https://xkcd.com/1122/)

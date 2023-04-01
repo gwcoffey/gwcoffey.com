@@ -8,7 +8,7 @@ And this is a great time to remind you all that Pluto was discovered by astronom
 
 <!--more-->
 
-You can see the telescope he used on display in the original observatory. And do a million other cool things. It's a great family outing. http://lowell.edu
+You can see the telescope he used on display in the original observatory. And do a million other cool things. It's a great family outing. [Link](http://lowell.edu)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

@@ -7,7 +7,7 @@ likeCount: 28
 relistCount: 5
 ---
 
-(See https://li.st/l/2GZ8WdVCQ4F2UeLOlskBjz) Ok folks this is the round you've been waiting for.
+(See [Link](https://li.st/l/2GZ8WdVCQ4F2UeLOlskBjz)) Ok folks this is the round you've been waiting for.
 
 <!--more-->
 

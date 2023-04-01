@@ -7,4 +7,4 @@ weblog: false
 
 Hat tip to James Madison. 
 
-http://www.bbc.com/news/world-us-canada-42070575
+[Link](http://www.bbc.com/news/world-us-canada-42070575)

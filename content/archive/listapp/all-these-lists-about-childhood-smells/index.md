@@ -80,6 +80,6 @@ They are lovely. They remind me of the beautiful passage from Proust when as a g
    {{< listapp/item title="from my cup of tea." >}}
 
    {{< listapp/item title="."
-      desc="http://ww3.haverford.edu/psychology/ddavis/p109g/proust.html" >}}
+      desc="[Link](http://ww3.haverford.edu/psychology/ddavis/p109g/proust.html)" >}}
 
 {{< /listapp/list >}}

@@ -7,4 +7,4 @@ weblog: false
 
 Sometimes I have this sentimental vision that some day space travel will be so inexpensive that we'll go around the solar system gathering up all our long-dead probes and rovers and bring them home to make the coolest space history museum imaginable.
 
-[Rosetta's Final Resting Place Has Been Chosen](http://www.slate.com/blogs/bad_astronomy/2016/07/23/rosetta_s_final_resting_place_has_been_chosen.html)
+[Rosetta's Final Resting Place Has Been Chosen]([Link](http://www.slate.com/blogs/bad_astronomy/2016/07/23/rosetta_s_final_resting_place_has_been_chosen.html))

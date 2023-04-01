@@ -7,4 +7,4 @@ weblog: false
 
 I'm not usually a believer in the rampant "silicon valley white knight" baloney but Jimmy Wales is the real deal. I just became a supporter but it's free for anybody. We'll see if this works out. 
 
-https://www.wikitribune.com/
+[Link](https://www.wikitribune.com/)

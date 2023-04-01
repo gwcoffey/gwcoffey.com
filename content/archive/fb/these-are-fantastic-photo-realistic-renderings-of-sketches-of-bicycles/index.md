@@ -7,6 +7,6 @@ weblog: false
 
 These are fantastic. Photo-realistic renderings of sketches of bicycles. 
 
-http://www.gianlucagimini.it/prototypes/velocipedia.html
+[Link](http://www.gianlucagimini.it/prototypes/velocipedia.html)
 
 Via Daring Fireball

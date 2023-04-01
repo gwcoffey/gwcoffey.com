@@ -7,7 +7,7 @@ weblog: false
 
 All my favorite music seems so relevant right now. 
 
-https://www.youtube.com/watch?v=6u4dMHTakmc
+[Link](https://www.youtube.com/watch?v=6u4dMHTakmc)
 
 > {{< lines >}}
 We were blessed by the minister who practiced what he preached

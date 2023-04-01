@@ -7,4 +7,4 @@ weblog: false
 
 This is a remarkable and moving thing. 
 
-https://www.ted.com/talks/thordis_elva_tom_stranger_our_story_of_rape_and_reconciliation
+[Link](https://www.ted.com/talks/thordis_elva_tom_stranger_our_story_of_rape_and_reconciliation)

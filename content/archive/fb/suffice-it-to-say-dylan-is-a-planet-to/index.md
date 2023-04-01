@@ -9,4 +9,4 @@ weblog: false
 Suffice it to say Dylan is a planet to be explored. For a songwriter, Dylan is as essential as a hammer and nails and a saw are to a carpenter.
 {{< /quote >}}
 
-https://www.theguardian.com/music/2005/mar/20/popandrock1
+[Link](https://www.theguardian.com/music/2005/mar/20/popandrock1)

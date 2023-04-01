@@ -7,4 +7,4 @@ weblog: false
 
 Same. 
 
-https://www.nbcnews.com/politics/congress/mccain-doesn-t-want-trump-funeral-friends-tell-white-house-n871641
+[Link](https://www.nbcnews.com/politics/congress/mccain-doesn-t-want-trump-funeral-friends-tell-white-house-n871641)

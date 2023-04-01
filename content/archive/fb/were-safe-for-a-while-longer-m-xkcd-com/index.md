@@ -7,4 +7,4 @@ weblog: false
 
 We're safe for a while longer.
 
-https://m.xkcd.com/1875/
+[Link](https://m.xkcd.com/1875/)

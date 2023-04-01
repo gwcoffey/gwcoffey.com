@@ -11,4 +11,4 @@ The new standard for presidential policy making:
 
 Also, this whole story is hilarious when you set aside the fact that this epic dummy is actually in charge.
 
-https://www.washingtonpost.com/news/checkpoint/wp/2017/05/11/you-have-to-be-albert-einstein-to-figure-it-out-trump-targets-the-navys-new-aircraft-catapult/
+[Link](https://www.washingtonpost.com/news/checkpoint/wp/2017/05/11/you-have-to-be-albert-einstein-to-figure-it-out-trump-targets-the-navys-new-aircraft-catapult/)

@@ -7,7 +7,7 @@ weblog: false
 
 Not to put too fine a point on it. 
 
-https://twitter.com/liamstack/status/838638007490084864
+[Link](https://twitter.com/liamstack/status/838638007490084864)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

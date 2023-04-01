@@ -17,7 +17,7 @@ Sometimes I wonder what it would be like to feel.
       image="1.png" >}}
 
    {{< listapp/item title="This woman likes puppies more than I like anything."
-      desc="http://bit.ly/1gyg7Bq" >}}
+      desc="[Link](http://bit.ly/1gyg7Bq)" >}}
 
    {{< listapp/item title="Kristen Bell likes sloths more than I like anything."
       image="3.png" >}}

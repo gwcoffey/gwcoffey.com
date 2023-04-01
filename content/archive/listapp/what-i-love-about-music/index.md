@@ -59,7 +59,7 @@ relistCount: 2
    {{< listapp/item title="I suppose what I get from it is different than some people but my goodness, when John Prine sings..." >}}
 
    {{< listapp/item title="...\"A person can't tell his best friend he loves him. Til time has stopped breathing you're alone on the hill.\"..."
-      desc="http://youtu.be/QMG7ud_t7o8" >}}
+      desc="[Link](http://youtu.be/QMG7ud_t7o8)" >}}
 
    {{< listapp/item title="I feel a little jealous that I don't understand music they way others do, but then for just a second I imagine I really do." >}}
 

@@ -7,4 +7,4 @@ weblog: false
 
 I'm not a fan of the "where there's smoke there's fire" trope (because it is neither literally nor figuratively true) but seriously Uber... This is like strike 14, 15, 16, and 17. You're out.
 
-https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
+[Link](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)

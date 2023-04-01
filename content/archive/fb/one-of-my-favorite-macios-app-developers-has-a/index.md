@@ -7,10 +7,10 @@ weblog: false
 
 One of my favorite Mac/iOS app developers has a new sign on their building that you can control yourself.
 
-https://panic.com/blog/the-panic-sign/
+[Link](https://panic.com/blog/the-panic-sign/)
 
 Portland people, take the kids and have some fun!
 
-https://sign.panic.com
+[Link](https://sign.panic.com)
 
 (But maybe wait a few days for the noise to die down)

@@ -7,4 +7,4 @@ weblog: false
 
 Good reading for people considering downloading copies of compilers hosted by untrusted Chinese web sites.
 
-https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+[Link](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)

@@ -11,4 +11,4 @@ Note to federal workers: When you boss tells you to take children from their par
 
 The CBP workers who did this, from top to bottom, should be charged with crimes and jailed.
 
-https://www.nytimes.com/2018/07/05/us/migrant-children-chaos-family-separation.html
+[Link](https://www.nytimes.com/2018/07/05/us/migrant-children-chaos-family-separation.html)

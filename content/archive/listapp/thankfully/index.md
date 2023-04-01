@@ -48,7 +48,7 @@ relistCount: 18
       desc="And we DEFINITELY shouldn't hate and threaten and terrorize." >}}
 
    {{< listapp/item title="I wrote a list once about the Fundamental Attribution Error."
-      desc="https://li.st/l/17EKhDmQfrxOAy2NvpTTGO" >}}
+      desc="[Link](https://li.st/l/17EKhDmQfrxOAy2NvpTTGO)" >}}
 
    {{< listapp/item title="It applies so often." >}}
 

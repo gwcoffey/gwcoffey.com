@@ -7,4 +7,4 @@ weblog: false
 
 Relevant tonight. One of my favorite XKCDs:
 
-http://xkcd.com/1202/
+[Link](http://xkcd.com/1202/)

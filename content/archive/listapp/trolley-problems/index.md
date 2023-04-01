@@ -45,6 +45,6 @@ Because I just watched Eye in the Sky which was basically a (very good) two hour
 
    {{< listapp/item title="..." >}}
 
-   {{< listapp/item title="Further reading: https://en.m.wikipedia.org/wiki/Trolley_problem" >}}
+   {{< listapp/item title="Further reading: [Link](https://en.m.wikipedia.org/wiki/Trolley_problem)" >}}
 
 {{< /listapp/list >}}

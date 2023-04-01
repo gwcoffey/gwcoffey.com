@@ -9,10 +9,10 @@ Well would you look at that! Trump removed his statement on immigration (the one
 
 Here it was at 3:17 PM today:
 
-http://web.archive.org/web/20170508151734/https://www.donaldjtrump.com/press-releases/donald-j.-trump-statement-on-preventing-muslim-immigration
+[Link](http://web.archive.org/web/20170508151734/https://www.donaldjtrump.com/press-releases/donald-j.-trump-statement-on-preventing-muslim-immigration)
 
 And here it is now:
 
-https://www.donaldjtrump.com/press-releases/donald-j.-trump-statement-on-preventing-muslim-immigration
+[Link](https://www.donaldjtrump.com/press-releases/donald-j.-trump-statement-on-preventing-muslim-immigration)
 
 Nothing to see here folks. [waves hand] We have always been at war with Eastasia.

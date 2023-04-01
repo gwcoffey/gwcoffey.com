@@ -55,7 +55,7 @@ Milada Horáková was a politician and dissident executed by the communist Czech
    {{< listapp/item title="that you can fight and die for it.\"" >}}
 
    {{< listapp/item
-      desc="Source: http://www.lettersofnote.com/2012/09/i-shall-always-be-with-you.html"
+      desc="Source: [Link](http://www.lettersofnote.com/2012/09/i-shall-always-be-with-you.html)"
       image="21.jpg" >}}
 
 {{< /listapp/list >}}

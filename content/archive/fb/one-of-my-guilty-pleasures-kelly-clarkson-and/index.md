@@ -7,4 +7,4 @@ weblog: false
 
 One of my guilty pleasures (Kelly Clarkson 😳) and one of my regular pleasures ("It's Quiet Uptown," the most beautiful song from Hamilton) have collided:
 
-https://www.youtube.com/watch?v=Fqw0uRLPp94
+[Link](https://www.youtube.com/watch?v=Fqw0uRLPp94)

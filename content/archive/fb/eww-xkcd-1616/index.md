@@ -5,4 +5,4 @@ id: '1450108870'
 weblog: false
 ---
 
-Eww. https://xkcd.com/1616/
+Eww. [Link](https://xkcd.com/1616/)

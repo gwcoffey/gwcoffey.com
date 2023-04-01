@@ -7,6 +7,6 @@ weblog: false
 
 I don't know what keeps happening in this city but I'm totally ok with it.
 
-http://www.azcentral.com/story/entertainment/dining/dominic-armato/2016/07/26/chicago-pizzeria-ginos-east-opening-phoenix/87544714/
+[Link](http://www.azcentral.com/story/entertainment/dining/dominic-armato/2016/07/26/chicago-pizzeria-ginos-east-opening-phoenix/87544714/)
 
 Aside: I've only had Lou Malnati's once yet, but it is in my neighborhood and it was absolutely fantastic.

@@ -5,6 +5,6 @@ id: '1468043168'
 weblog: false
 ---
 
-https://www.youtube.com/watch?v=YzQQvZCcieQ
+[Link](https://www.youtube.com/watch?v=YzQQvZCcieQ)
 
 One of the greats by one of the greatest.

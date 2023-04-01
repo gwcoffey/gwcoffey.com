@@ -11,4 +11,4 @@ The steak reaches a top speed of Mach 6, and the outer surface may even get plea
 
 He says that like it’s a bad thing.
 
-http://what-if.xkcd.com/28/
+[Link](http://what-if.xkcd.com/28/)

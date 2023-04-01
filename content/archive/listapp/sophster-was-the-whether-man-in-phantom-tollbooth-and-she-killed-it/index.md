@@ -20,6 +20,6 @@ cc @sophster
       image="2.jpg" >}}
 
    {{< listapp/item title="❤️"
-      desc="http://imgur.com/JgXVXHG (I tried to figure out how to add my own \"gif\" but it doesn't seem possible.)" >}}
+      desc="[Link](http://imgur.com/JgXVXHG) (I tried to figure out how to add my own \"gif\" but it doesn't seem possible.)" >}}
 
 {{< /listapp/list >}}

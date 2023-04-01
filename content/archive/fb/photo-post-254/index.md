@@ -7,7 +7,7 @@ weblog: false
 
 Reposting this XKCD preemptively because I know you people are thinking it.
 
-http://xkcd.com/1321/
+[Link](http://xkcd.com/1321/)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

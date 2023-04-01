@@ -7,4 +7,4 @@ weblog: false
 
 Someone built a robot that prints out trump tweets, burns them, then tweets a video of it back to trump. This is quality engineering work.
 
-https://twitter.com/burnedyourtweet
+[Link](https://twitter.com/burnedyourtweet)

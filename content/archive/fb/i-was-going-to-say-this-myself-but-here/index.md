@@ -7,4 +7,4 @@ weblog: false
 
 I was going to say this myself but here it is explained more fully. Laptop bans a good idea backed by real intelligence? Who knows? Maybe. Or maybe the administration is lying again. A president who lies routinely is a problematic thing. 
 
-https://www.theatlantic.com/politics/archive/2017/03/trumps-credibility-crisis-arrives/520347/
+[Link](https://www.theatlantic.com/politics/archive/2017/03/trumps-credibility-crisis-arrives/520347/)

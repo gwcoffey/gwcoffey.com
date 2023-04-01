@@ -7,4 +7,4 @@ weblog: false
 
 This should seriously be a constitutional amendment.
 
-http://www.newyorker.com/cartoons/a20684
+[Link](http://www.newyorker.com/cartoons/a20684)

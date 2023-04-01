@@ -7,4 +7,4 @@ weblog: false
 
 It is a dark time for obscenely wealthy and powerful people in America. I feel for them. 
 
-http://time.com/5421671/melania-trump-most-bullied-person-world/?utm_source=reddit.com
+[Link](http://time.com/5421671/melania-trump-most-bullied-person-world/?utm_source=reddit.com)

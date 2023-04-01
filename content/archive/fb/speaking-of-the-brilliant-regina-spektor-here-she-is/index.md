@@ -7,4 +7,4 @@ weblog: false
 
 Speaking of the brilliant Regina Spektor, here she is singing the *second* prettiest song from Hamilton. Perfection.
 
-https://youtu.be/opqhhCfQzF4
+[Link](https://youtu.be/opqhhCfQzF4)

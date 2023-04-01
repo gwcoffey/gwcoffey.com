@@ -7,4 +7,4 @@ weblog: false
 
 This kid is my personal hero.
 
-http://abcnews.go.com/US/year-writes-excuse-note-home-school/story?id=38876143
+[Link](http://abcnews.go.com/US/year-writes-excuse-note-home-school/story?id=38876143)

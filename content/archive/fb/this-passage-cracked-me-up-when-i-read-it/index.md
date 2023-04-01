@@ -13,4 +13,4 @@ This stereotype of Asians being tiny is a long-held misconception. For centuries
 A translator communicated the answer to them: "They’re not small. You’re actually huge." But sadly this knowledge was forgotten from the Western historical record.
 {{< /quote >}}
 
-http://reductress.com/post/im-not-tiny-because-im-asian-im-tiny-because-youre-white/
+[Link](http://reductress.com/post/im-not-tiny-because-im-asian-im-tiny-because-youre-white/)

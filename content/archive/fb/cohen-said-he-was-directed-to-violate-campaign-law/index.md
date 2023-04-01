@@ -9,6 +9,6 @@ weblog: false
 
 Lol. "A" candidate.
 
-https://web.archive.org/web/20180903200927/https://www.bloomberg.com/news/articles/2018-08-21/michael-cohen-appears-in-court-over-hush-payments-plea-update
+[Link](https://web.archive.org/web/20180903200927/https://www.bloomberg.com/news/articles/2018-08-21/michael-cohen-appears-in-court-over-hush-payments-plea-update)
 
 {{< ed "The original article has since been moved behind a paywall so I have updated the link to point to archive.org." >}}

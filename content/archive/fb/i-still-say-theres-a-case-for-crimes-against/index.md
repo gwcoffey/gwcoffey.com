@@ -13,4 +13,4 @@ I still say there's a case for crimes against humanity here, all up and down the
 
 Yet, when it became clear that the public did, the Administration chose not to change course."
 
-https://www.newyorker.com/news/daily-comment/will-anyone-in-the-trump-administration-ever-be-held-accountable-for-the-zero-tolerance-policy
+[Link](https://www.newyorker.com/news/daily-comment/will-anyone-in-the-trump-administration-ever-be-held-accountable-for-the-zero-tolerance-policy)

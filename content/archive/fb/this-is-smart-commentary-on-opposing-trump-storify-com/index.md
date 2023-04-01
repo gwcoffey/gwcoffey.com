@@ -7,7 +7,7 @@ weblog: false
 
 This is smart commentary on opposing Trump: 
 
-https://web.archive.org/web/20160723132419/https://storify.com/davechensky/clay-shirky-on-not-getting-complacent
+[Link](https://web.archive.org/web/20160723132419/https://storify.com/davechensky/clay-shirky-on-not-getting-complacent)
 
 {{< ed "The original link no longer works so I've updated this to point to archive.org instead." >}}
 

@@ -7,4 +7,4 @@ weblog: false
 
 That last paragraph is a doozy. 
 
-https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html
+[Link](https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html)

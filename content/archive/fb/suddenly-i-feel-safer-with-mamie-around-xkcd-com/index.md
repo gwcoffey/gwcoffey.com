@@ -7,4 +7,4 @@ weblog: false
 
 Suddenly I feel safer with Mamie around. 
 
-http://xkcd.com/1586/
+[Link](http://xkcd.com/1586/)

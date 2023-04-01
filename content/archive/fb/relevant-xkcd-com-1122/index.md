@@ -5,7 +5,7 @@ id: '1521329825'
 weblog: false
 ---
 
-Relevant: https://xkcd.com/1122/
+Relevant: [Link](https://xkcd.com/1122/)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

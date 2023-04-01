@@ -7,4 +7,4 @@ weblog: false
 
 My new favorite headline.
 
-http://www.theverge.com/2016/10/17/13305270/uk-illegal-surveillance-gchq-investigatory-powers-tribunal
+[Link](http://www.theverge.com/2016/10/17/13305270/uk-illegal-surveillance-gchq-investigatory-powers-tribunal)

@@ -7,6 +7,6 @@ weblog: false
 
 Sophia is really mad at me for sharing this because she is her own worst critic but here is the short film she made for film class. She wrote the script and it was selected for production. Because of the subject matter they chose to do stop motion which is really difficult but I think they did great. The story is so adorable I may die. 
 
-https://vimeo.com/246480629
+[Link](https://vimeo.com/246480629)
 
 Note that in the beginning when the skeleton sits at the table you’re supposed to see that she desperately wants to eat things but the cookies just fall through her onto the floor.

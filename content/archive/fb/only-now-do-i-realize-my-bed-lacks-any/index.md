@@ -7,4 +7,4 @@ weblog: false
 
 Only now do I realize my bed lacks any nice plush toys to snuggle.
 
-http://www.sweet-meats.com
+[Link](http://www.sweet-meats.com)

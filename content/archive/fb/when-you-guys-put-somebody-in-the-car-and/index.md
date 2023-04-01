@@ -11,4 +11,4 @@ weblog: false
 "I said, you can take the hand away, OK?" he concluded, to laughter, and then loud applause.
 {{< /quote >}}
 
-http://talkingpointsmemo.com/livewire/trump-speech-ms13-long-island
+[Link](http://talkingpointsmemo.com/livewire/trump-speech-ms13-long-island)

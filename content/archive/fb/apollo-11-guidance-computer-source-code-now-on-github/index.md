@@ -9,6 +9,6 @@ weblog: false
 
 Apollo 11 Guidance Computer source code now on github: 
 
-https://github.com/chrislgarry/Apollo-11
+[Link](https://github.com/chrislgarry/Apollo-11)
 
 I love that this exists.

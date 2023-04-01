@@ -6,4 +6,4 @@ weblog: false
 ---
 
 HAHAHAHA. Wait, this isn't funny. Just useful.
-http://xkcd.com/1756/
+[Link](http://xkcd.com/1756/)

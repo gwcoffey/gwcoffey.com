@@ -23,7 +23,7 @@ This was a hard list request. I rethought my approach three times and I'm still 
       desc="That is so alluring." >}}
 
    {{< listapp/item title="Because people saying smart things sounds so 💯."
-      desc="Exhibit A: http://youtu.be/ahXIMUkSXX0 ..... Exhibit B: http://youtu.be/nlUQfXwvQLc ..... Exhibit C: http://youtu.be/4KoKqaq76kg ..... Exhibit D: http://youtu.be/xpN1dlH3tWo .....  Exhibit E: http://youtu.be/FgyZ4ia25gg ........ Exhibit F: http://youtu.be/lPB_17rbNXk" >}}
+      desc="Exhibit A: [Link](http://youtu.be/ahXIMUkSXX0) ..... Exhibit B: [Link](http://youtu.be/nlUQfXwvQLc) ..... Exhibit C: [Link](http://youtu.be/4KoKqaq76kg) ..... Exhibit D: [Link](http://youtu.be/xpN1dlH3tWo) .....  Exhibit E: [Link](http://youtu.be/FgyZ4ia25gg) ........ Exhibit F: [Link](http://youtu.be/lPB_17rbNXk)" >}}
 
    {{< listapp/item title="Some books have a beautiful cover."
       desc="But it's the words that move you that matter. 📖" >}}

@@ -7,4 +7,4 @@ weblog: false
 
 The former president of Mexico everybody: 
 
-https://twitter.com/VicenteFoxQue/status/817480450285375488
+[Link](https://twitter.com/VicenteFoxQue/status/817480450285375488)

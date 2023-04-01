@@ -7,7 +7,7 @@ weblog: false
 
 Uh oh. They're on to us. 
 
-Source: https://twitter.com/Lubchansky/status/829738383761166336
+Source: [Link](https://twitter.com/Lubchansky/status/829738383761166336)
 {{< fb/images >}}
 {{< fb/image src="image.jpg" />}}
 {{< /fb/images >}}

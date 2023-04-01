@@ -7,4 +7,4 @@ weblog: false
 
 Honestly I would probably look at Chris Pine the same way.
 
-http://i.imgur.com/w0xVN9q.gifv
+[Link](http://i.imgur.com/w0xVN9q.gifv)

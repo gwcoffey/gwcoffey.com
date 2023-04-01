@@ -7,4 +7,4 @@ weblog: false
 
 Well gosh I just love this. #keepAmericaGreat
 
-https://www.washingtonpost.com/news/inspired-life/wp/2016/10/17/leave-it-to-canada-to-remind-america-that-its-still-a-great-country/
+[Link](https://www.washingtonpost.com/news/inspired-life/wp/2016/10/17/leave-it-to-canada-to-remind-america-that-its-still-a-great-country/)
