@@ -1,30 +1,8 @@
-ul.listapp, ol.listapp {
-	margin: 0;
-	padding: 0;
-	
-	li {
-		border-top: 1px solid #eee;
+@import "mixins/thumbnail";
 
-		&:last-child {
-			border-bottom: 1px solid #eee;
-		}
-	
-		.container {
-			display: flex;
-			justify-content: space-between;
-			padding: 1em 1em 1em 0.3em;
-		
-			div.text {
-				display: flex;
-				flex-direction: column;
-			
-				&:has(~ img) {
-					margin-right: 1.7em;
-				}
-			}
-		
-		}
-	
+// styling applies in list pages and the full post page
+ul.listapp, ol.listapp {
+	li {
 		p.item {
 			margin: 0;
 		}
@@ -33,11 +11,45 @@ ul.listapp, ol.listapp {
 			margin: 0;
 			opacity: 0.6;
 		}
+		
+		p.placeholder {
+			font-style: italic;
+		}
+	}
+}
+
+// styling only applied when viewing the full post page
+article {
+	ul.listapp, ol.listapp {
+		margin: 0;
+		padding: 0;
 	
-		img {
-			display: block;
-			max-width: 100px;
-			max-height: 100px;
+		li {
+			border-top: 1px solid #eee;
+
+			&:last-child {
+				border-bottom: 1px solid #eee;
+			}
+	
+			.container {
+				display: flex;
+				justify-content: space-between;
+				padding: 1em 1em 1em 0.3em;
+		
+				div.text {
+					display: flex;
+					flex-direction: column;
+			
+					&:has(~ img) {
+						margin-right: 1.7em;
+					}
+				}
+		
+			}
+		
+			img {
+				@include thumbnail;
+			}
 		}
 	}
 }

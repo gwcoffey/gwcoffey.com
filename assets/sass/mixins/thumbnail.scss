@@ -1,0 +1,10 @@
+@mixin thumbnail {
+	display: block;
+	object-fit: cover;
+	width: 80px;
+	height: 80px;
+	padding: 4px;
+	border: 1px solid #eee;
+	background: white;
+	border-radius: 3px;
+}

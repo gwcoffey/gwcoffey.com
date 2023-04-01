@@ -1,3 +1,5 @@
+@import "../mixins/thumbnail";
+
 .post-preview {
 	position: relative;
 	display: flex;
@@ -47,16 +49,9 @@
 		height: 80px;
 
 		img {
-			display: block;
+			@include thumbnail;
 			position: absolute;
 			right: 10px;
-			object-fit: cover;
-			width: 80px;
-			height: 80px;
-			padding: 4px;
-			border: 1px solid #eee;
-			background: white;
-			border-radius: 3px;
 		}
 		
 		a:nth-child(2) img {

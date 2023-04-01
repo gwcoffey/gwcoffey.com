@@ -1,13 +1,4 @@
 {{- $pageUrl := .Permalink -}}
-{{- $images := .Resources.ByType "image" -}}
-{{- 
-	$summarize := or
-        (.Truncated)
-        (isset .Params "summary")
-        (gt (len $images) 0)
-        (eq (.Param "archive") "listapp")
--}} 
-
 	<div class="content">
 	{{- with (.Param "title") -}}
 		<h4><a href="{{ $pageUrl }}">{{ . }}</a></h4>
@@ -17,14 +8,7 @@
 		</div>
 				
 		<div class="summary">
-			{{- if eq .Page.Section "wordplay" -}}
-			(A wordplay post. <a class="more" href="{{.Permalink}}">View…</a>)
-			{{- else if $summarize }}
-			{{ .Summary | markdownify }}
-			<a class="more" href="{{.Permalink}}">Read more…</a>
-			{{- else -}}
-			{{ .Content }}
-			{{- end }}
+			{{ partial "post-preview/summary" . }}
 		</div>
 	</div>
 

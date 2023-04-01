@@ -819,8 +819,6 @@ ol.booklist li span.format {
 
 .post-preview .thumbs img {
   display: block;
-  position: absolute;
-  right: 10px;
   object-fit: cover;
   width: 80px;
   height: 80px;
@@ -828,6 +826,8 @@ ol.booklist li span.format {
   border: 1px solid #eee;
   background: white;
   border-radius: 3px;
+  position: absolute;
+  right: 10px;
 }
 
 .post-preview .thumbs a:nth-child(2) img {
@@ -933,7 +933,6 @@ img.popable {
 }
 
 img.popable:hover {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   transition: transform .2s ease-in-out;
   transform: scale(1.1);
 }
@@ -952,34 +951,6 @@ dialog.image::backdrop {
   background: rgba(0, 0, 0, 0.4);
 }
 
-ul.listapp, ol.listapp {
-  margin: 0;
-  padding: 0;
-}
-
-ul.listapp li, ol.listapp li {
-  border-top: 1px solid #eee;
-}
-
-ul.listapp li:last-child, ol.listapp li:last-child {
-  border-bottom: 1px solid #eee;
-}
-
-ul.listapp li .container, ol.listapp li .container {
-  display: flex;
-  justify-content: space-between;
-  padding: 1em 1em 1em 0.3em;
-}
-
-ul.listapp li .container div.text, ol.listapp li .container div.text {
-  display: flex;
-  flex-direction: column;
-}
-
-ul.listapp li .container div.text:has(~ img), ol.listapp li .container div.text:has(~ img) {
-  margin-right: 1.7em;
-}
-
 ul.listapp li p.item, ol.listapp li p.item {
   margin: 0;
 }
@@ -989,10 +960,47 @@ ul.listapp li p.desc, ol.listapp li p.desc {
   opacity: 0.6;
 }
 
-ul.listapp li img, ol.listapp li img {
+ul.listapp li p.placeholder, ol.listapp li p.placeholder {
+  font-style: italic;
+}
+
+article ul.listapp, article ol.listapp {
+  margin: 0;
+  padding: 0;
+}
+
+article ul.listapp li, article ol.listapp li {
+  border-top: 1px solid #eee;
+}
+
+article ul.listapp li:last-child, article ol.listapp li:last-child {
+  border-bottom: 1px solid #eee;
+}
+
+article ul.listapp li .container, article ol.listapp li .container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 1em 1em 0.3em;
+}
+
+article ul.listapp li .container div.text, article ol.listapp li .container div.text {
+  display: flex;
+  flex-direction: column;
+}
+
+article ul.listapp li .container div.text:has(~ img), article ol.listapp li .container div.text:has(~ img) {
+  margin-right: 1.7em;
+}
+
+article ul.listapp li img, article ol.listapp li img {
   display: block;
-  max-width: 100px;
-  max-height: 100px;
+  object-fit: cover;
+  width: 80px;
+  height: 80px;
+  padding: 4px;
+  border: 1px solid #eee;
+  background: white;
+  border-radius: 3px;
 }
 
 /*# sourceMappingURL=style.css.map */
