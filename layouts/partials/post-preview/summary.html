@@ -4,16 +4,34 @@
         (.Truncated)
         (isset .Params "summary")
         (gt (len $images) 0)
-        (eq (.Param "archive") "listapp")
 -}} 
 
 {{- if eq (.Param "archive") "listapp" -}}
-	{{ partial "post-preview/listapp-summary" . }}
+
+	<!-- listapp posts require specialhandling -->
+	{{- partial "post-preview/listapp-summary" . -}}
+
 {{- else if eq .Page.Section "wordplay" -}}
+
+	<!-- wordplay posts have no text so we add some to the preview for clarity -->
 	(A wordplay post. <a class="more" href="{{.Permalink}}">View…</a>)
-{{- else -}}
+
+{{- else if (and (gt (len $images) 0) (eq (len (trim .Summary " \n")) 0)) -}}
+
+	<!-- posts with images and no text need some help -->
+	(Image post. <a class="more" href="{{.Permalink}}">View…</a>)
+	
+{{- else if $summarize -}}
+
+	<!-- use built in summarization for long posts, posts with an explicit configured
+	     summary, and posts with images -->
 	{{ .Summary | markdownify }}
 	<a class="more" href="{{.Permalink}}">Read more…</a>
+
+{{- else -}}
+
+	{{ .Content }}
+	
 {{- end -}}
 
 
