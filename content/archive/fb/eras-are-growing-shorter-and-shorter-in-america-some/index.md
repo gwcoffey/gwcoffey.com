@@ -5,4 +5,4 @@ id: '1533508745'
 weblog: false
 ---
 
-“Eras are growing shorter and shorter in America. Some of them seem to last only a few days.” — E. B. White
+{{< quote cite="E.B. White" >}}Eras are growing shorter and shorter in America. Some of them seem to last only a few days.{{< /quote >}}
