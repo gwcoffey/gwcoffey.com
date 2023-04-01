@@ -1,6 +1,12 @@
 ---
 - year: 2023
   readings:
+    - id: high
+      format: audio
+      
+    - id: agency
+      format: audio
+      
     - id: hello-beautiful
       format: audio
 
