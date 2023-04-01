@@ -8,3 +8,4 @@ node_modules/
 .hugo_build.lock
 hugo/resources
 public/
+resources/
