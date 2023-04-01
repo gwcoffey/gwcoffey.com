@@ -28,24 +28,24 @@ This list is so dumb.
 
    {{< listapp/item title="I guess what I'm saying is GIF was maybe pretty decent in its day but today it is a pretty crappy format." >}}
 
-   {{< listapp/item title="- it is \"8 bit palette based\" meaning a single gif can show only 256 different colors at most. Consequently it can't show full color images without ugly \"dithering\"."
+   {{< listapp/item title="\- it is \"8 bit palette based\" meaning a single gif can show only 256 different colors at most. Consequently it can't show full color images without ugly \"dithering\"."
       image="7.jpg" >}}
 
-   {{< listapp/item title="- it uses an and old and naive approach to compression so it isn't super efficient at saving space." >}}
+   {{< listapp/item title="\- it uses an and old and naive approach to compression so it isn't super efficient at saving space." >}}
 
-   {{< listapp/item title="- it's mechanism for animation is ridiculously naive. It's just like a flip book. A pile of individual pictures that show one after another. This results in small images with poor quality and low frame rates that require more bandwidth than what you get from high quality animations in a decent format." >}}
+   {{< listapp/item title="\- it's mechanism for animation is ridiculously naive. It's just like a flip book. A pile of individual pictures that show one after another. This results in small images with poor quality and low frame rates that require more bandwidth than what you get from high quality animations in a decent format." >}}
 
    {{< listapp/item title="So why are they so popular?" >}}
 
    {{< listapp/item title="In truth they aren't. Because today when people say GIF they mean something different. They mean an image that:" >}}
 
-   {{< listapp/item title="- is animated" >}}
+   {{< listapp/item title="\- is animated" >}}
 
-   {{< listapp/item title="- is short" >}}
+   {{< listapp/item title="\- is short" >}}
 
-   {{< listapp/item title="- has no audio" >}}
+   {{< listapp/item title="\- has no audio" >}}
 
-   {{< listapp/item title="- plays inline on the page automatically and easily with no fussy controls" >}}
+   {{< listapp/item title="\- plays inline on the page automatically and easily with no fussy controls" >}}
 
    {{< listapp/item title="Sometimes it's an actual GIF. But usually not because eventually the gif hosting sites realize they're wasting tons of expensive bandwidth serving up these low quality animations in a ridiculously inefficient way so they use a different format instead." >}}
 

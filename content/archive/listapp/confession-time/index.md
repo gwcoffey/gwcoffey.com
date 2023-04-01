@@ -11,7 +11,7 @@ relistCount: 2
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="I didn't invite any of you to my bar mitzva"
-      desc="On a technicality; I'm no Bianca Zimmer. I went to a b'not mitzvah once. The ceremony part, not the the party part. It was lovely. I figured out the \"Moshe\" means \"Moses\" be listening and reading along and was proud of myself." >}}
+      desc="On a technicality; I'm no Bianca Zimmer. I went to a b'not mitzvah once. The ceremony part, not the the party part. It was lovely. I figured out the \"Moshe\" means \"Moses\" by listening and reading along and was proud of myself." >}}
 
    {{< listapp/item title="I secretly think I would adore the \"bear don't eat my kayak\" lady if I knew her in real life."
       desc="For reference: [Link](http://bit.ly/1j5Y6fn) She just seems slightly insane and very sweet, gosh darnit, and those are some of my favorite people." >}}

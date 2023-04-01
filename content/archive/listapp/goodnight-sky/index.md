@@ -17,21 +17,21 @@ A dystopian novel-list inspired by @ErinFlaherty in which she and @sky press on.
 
    {{< listapp/item title="She blew into her hands and rubbed them together. Her skin was chapped and cracking." >}}
 
-   {{< listapp/item title="- It won't be much longer." >}}
+   {{< listapp/item title="\- It won't be much longer." >}}
 
-   {{< listapp/item title="- I don't suppose so." >}}
+   {{< listapp/item title="\- I don't suppose so." >}}
 
-   {{< listapp/item title="- Not sure what time will mean anymore when we're down there." >}}
+   {{< listapp/item title="\- Not sure what time will mean anymore when we're down there." >}}
 
    {{< listapp/item title="They unloaded their makeshift pack. Really just a blanket gathered at the corners. They had made another twenty miles today, maybe more, and they were exhausted. The cold was omnipresent now. The only change was the sky: pale gray in the day, moonless and black at night." >}}
 
    {{< listapp/item title="There were fewer people now. They could walk miles and only occasionally catch up to someone. The cold was a discriminate killer taking the very small and the very old, the infirm." >}}
 
-   {{< listapp/item title="- I suppose it's for the best you know." >}}
+   {{< listapp/item title="\- I suppose it's for the best you know." >}}
 
-   {{< listapp/item title="- I guess." >}}
+   {{< listapp/item title="\- I guess." >}}
 
-   {{< listapp/item title="- There won't be room for everyone. If we're lucky we won't have to decide who stays." >}}
+   {{< listapp/item title="\- There won't be room for everyone. If we're lucky we won't have to decide who stays." >}}
 
    {{< listapp/item title="She didn't say it but what she meant was that the cold would decide for them. That in a world as upside down as this had become there really was no fair anymore, and who better to decide who lives and who dies than entropy? Or evolution or whatever." >}}
 
@@ -55,10 +55,10 @@ A dystopian novel-list inspired by @ErinFlaherty in which she and @sky press on.
 
    {{< listapp/item title="It was a question for another day. Another unit of time in a world without days. Whatever. It didn't matter yet. All that mattered now was sleep and another day pushing on. Maybe she would dream about warmth again. She'd trade away the sky for a little warmth. No problem." >}}
 
-   {{< listapp/item title="- Goodnight" >}}
+   {{< listapp/item title="\- Goodnight" >}}
 
    {{< listapp/item title="They held each other wrapped tightly in the blanket as they always did. She looked up one more time." >}}
 
-   {{< listapp/item title="- Goodnight, @sky" >}}
+   {{< listapp/item title="\- Goodnight, @sky" >}}
 
 {{< /listapp/list >}}
