@@ -1,6 +1,9 @@
 {{- $clean := replaceRE "^\n|\n$" "" .Inner -}}
 {{- $clean := htmlEscape $clean -}}
-{{- $clean := replace $clean "\n" "<br>" -}}
+{{- $lines := split $clean "\n" -}}
+
 <p>
-{{ $clean | safeHTML | markdownify }}
+{{ range $lines -}}
+	{{ . | markdownify }}<br>
+{{- end }}
 </p>
