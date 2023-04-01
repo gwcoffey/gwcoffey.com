@@ -190,9 +190,9 @@ You will read a lot over the next few weeks about how the filibuster is an essen
 
    {{< listapp/item title="Unfortunately, this had two problematic consequences:" >}}
 
-   {{< listapp/item title="1. It made filibuster less politically costly. A minority party could filibuster one bill without blocking a popular agenda and incurring the wrath of the People." >}}
+   {{< listapp/item title="1\. It made filibuster less politically costly. A minority party could filibuster one bill without blocking a popular agenda and incurring the wrath of the People." >}}
 
-   {{< listapp/item title="2. It made filibuster easier. Now you really only had to say “I’m gonna filibuster”. The Senate would move to track two and you didn’t actually have to go all Mr. Smith Goes to Washington on the bill." >}}
+   {{< listapp/item title="2\. It made filibuster easier. Now you really only had to say “I’m gonna filibuster”. The Senate would move to track two and you didn’t actually have to go all Mr. Smith Goes to Washington on the bill." >}}
 
    {{< listapp/item title="The practical result of this rule change was about a 3x increase in use of the filibuster." >}}
 

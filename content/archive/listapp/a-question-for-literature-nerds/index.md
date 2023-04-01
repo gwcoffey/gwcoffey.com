@@ -32,11 +32,11 @@ relistCount: 0
 
    {{< listapp/item title="I guess these things are when:" >}}
 
-   {{< listapp/item title="1. A character retells the story so far." >}}
+   {{< listapp/item title="1\. A character retells the story so far." >}}
 
-   {{< listapp/item title="2. During a quiet before the storm." >}}
+   {{< listapp/item title="2\. During a quiet before the storm." >}}
 
-   {{< listapp/item title="3. To an outsider/innocent audience." >}}
+   {{< listapp/item title="3\. To an outsider/innocent audience." >}}
 
    {{< listapp/item title="I always love these. They're like a deep breath." >}}
 
