@@ -4,7 +4,8 @@
 
 <!--hugo can't seem to escape backslashes in shortcode params, so we clean 
 	 these little guys up manually -->
-{{- $title := replace $title "¯_(ツ)_/¯" "¯\\_(ツ)_/¯" -}}
+{{- $title := replace $title ":shrug:" "¯\\_(ツ)_/¯" -}}
+{{- $desc := replace $desc ":shrug:" `¯\\\_(ツ)\_/¯` -}}
 
 <li>
 	<div class="container">

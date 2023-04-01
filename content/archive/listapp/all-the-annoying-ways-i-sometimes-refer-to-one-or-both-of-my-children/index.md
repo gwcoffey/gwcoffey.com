@@ -17,6 +17,6 @@ Inspired by @alligeeshow
 
    {{< listapp/item title="@sophster: snowflake" >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯" >}}
+   {{< listapp/item title=":shrug:" >}}
 
 {{< /listapp/list >}}

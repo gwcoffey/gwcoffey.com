@@ -14,6 +14,6 @@ relistCount: 2
 
    {{< listapp/item title="Maybe next time." >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯" >}}
+   {{< listapp/item title=":shrug:" >}}
 
 {{< /listapp/list >}}

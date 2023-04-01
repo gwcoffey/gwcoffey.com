@@ -17,7 +17,7 @@ relistCount: 12
 
    {{< listapp/item title="It might be more correct to say the Drake equation helps us ask the question more precisely." >}}
 
-   {{< listapp/item title="After all, the only answer we have to the question \"Is there intelligent life in the universe?\" is: ¯\_(ツ)_/¯" >}}
+   {{< listapp/item title="After all, the only answer we have to the question \"Is there intelligent life in the universe?\" is: :shrug:" >}}
 
    {{< listapp/item title="Drake helps us reframe the question. It says \"to answer that question here's everything we need to know.\"" >}}
 

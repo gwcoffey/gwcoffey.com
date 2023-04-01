@@ -22,7 +22,7 @@ relistCount: 3
    {{< listapp/item title="Ate a stuffed animal."
       desc="\"This is probably about two hundred calories right?\"" >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯"
+   {{< listapp/item title=":shrug:"
       desc="We miss you Maia." >}}
 
 {{< /listapp/list >}}

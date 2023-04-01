@@ -10,7 +10,7 @@ relistCount: 7
 
 {{< listapp/list order=true reverse=false >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯" >}}
+   {{< listapp/item title=":shrug:" >}}
 
    {{< listapp/item title="Matchbox Cars" >}}
 

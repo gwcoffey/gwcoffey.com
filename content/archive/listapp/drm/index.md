@@ -19,7 +19,7 @@ relistCount: 0
    {{< listapp/item title="It always kind of bugged me but not enough to bother going in to whatever page on my Amazon profile to clean it out."
       desc="It doesn't matter anyway because the book automatically shows up on every device I actually have and I can just tap to download and open." >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯" >}}
+   {{< listapp/item title=":shrug:" >}}
 
    {{< listapp/item title="Last night I tried to open Antony and Cleopatra in the kindle app on my phone."
       image="6.jpg" >}}

@@ -43,7 +43,7 @@ All words I've confused at one point or another. Explained poorly.
       desc="Drugs vs. Buffy (which surprisingly was never a plot line)." >}}
 
    {{< listapp/item title="Innervate / Enervate"
-      desc="Supply nerves to an organ vs. weaken. Note that neither of these means to awaken or enliven. Live and learn. ¯\_(ツ)_/¯" >}}
+      desc="Supply nerves to an organ vs. weaken. Note that neither of these means to awaken or enliven. Live and learn. :shrug:" >}}
 
    {{< listapp/item title="Insure / Ensure"
       desc="Insure against losses vs. ensure no losses. Wait." >}}

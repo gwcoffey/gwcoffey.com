@@ -78,6 +78,6 @@ SPOILERS for Terminator, Harry Potter and the Prisoner of Azkaban, and Harry Pot
 
    {{< listapp/item title="But I have no explanation for how Cursed Child switched theories of time travel." >}}
 
-   {{< listapp/item title="¯\_(ツ)_/¯" >}}
+   {{< listapp/item title=":shrug:" >}}
 
 {{< /listapp/list >}}

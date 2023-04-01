@@ -26,6 +26,6 @@ relistCount: 3
       desc="Although it is often being used by someone else I rarely need to go somewhere I can't walk." >}}
 
    {{< listapp/item title="I rent a car when I travel"
-      desc="Most of my travel is for work and I always rent a car so ¯\_(ツ)_/¯" >}}
+      desc="Most of my travel is for work and I always rent a car so :shrug:" >}}
 
 {{< /listapp/list >}}
