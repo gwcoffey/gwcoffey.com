@@ -12,7 +12,7 @@ relistCount: 4
 
    {{< listapp/item title="AGENDA: Discuss ideas for new Tootsie Roll products." >}}
 
-   {{< listapp/item title="~~~BRAINSTORM~~~" >}}
+   {{< listapp/item title="\~\~\~BRAINSTORM~~~" >}}
 
    {{< listapp/item title="Longer ones" >}}
 

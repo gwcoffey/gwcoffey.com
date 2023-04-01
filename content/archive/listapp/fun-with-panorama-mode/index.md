@@ -14,7 +14,7 @@ relistCount: 1
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="Look at my* kids!"
-      desc="* The middle one is Maia who technically isn't mine but I claim her anyway."
+      desc="\* The middle one is Maia who technically isn't mine but I claim her anyway."
       image="1.jpg" >}}
 
    {{< listapp/item title="Everything's better with more @imc!"

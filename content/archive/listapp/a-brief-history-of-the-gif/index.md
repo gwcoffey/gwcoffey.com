@@ -28,7 +28,7 @@ This list is so dumb.
 
    {{< listapp/item title="I guess what I'm saying is GIF was maybe pretty decent in its day but today it is a pretty crappy format." >}}
 
-   {{< listapp/item title="\- it is \"8 bit palette based\" meaning a single gif can show only 256 different colors at most. Consequently it can't show full color images without ugly \"dithering\"."
+   {{< listapp/item title="\- it is 8 bit palette based meaning a single gif can show only 256 different colors at most. Consequently it can't show full color images without ugly dithering."
       image="7.jpg" >}}
 
    {{< listapp/item title="\- it uses an and old and naive approach to compression so it isn't super efficient at saving space." >}}

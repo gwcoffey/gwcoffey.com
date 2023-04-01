@@ -29,7 +29,7 @@ Apple filed their motion to vacate the court order that they "unlock" an iPhone 
 
    {{< listapp/item title="Apple also points out that congress did consider revising CALEA to mandate back doors but \"abandoned\" the idea." >}}
 
-   {{< listapp/item title="\- Also Apple says they are \"far removed\" from the case"
+   {{< listapp/item title="\- Also Apple says they are “far removed” from the case"
       desc="In the precedent being used to issue this order the courts said it could not be used if the company is \"far removed\" and Apple says they only built and sold the phone. They did not hold the data, transfer the data, assist in its usage etc…so they are not connected to the case in any direct way." >}}
 
    {{< listapp/item title="\- and Apple says the burden on them is too great"
@@ -64,7 +64,7 @@ Apple filed their motion to vacate the court order that they "unlock" an iPhone 
 
    {{< listapp/item title="\- and the courts have affirmed that forcing someone to speak is just as carefully protected by the constitution as forcing them not to speak." >}}
 
-   {{< listapp/item title="\- So Apple says that the order \"discriminates on the basis of viewpoint\"." >}}
+   {{< listapp/item title="\- So Apple says that the order “discriminates on the basis of viewpoint”." >}}
 
    {{< listapp/item title="\- In other words when Apple chose to create software making it easy and automatic to encrypt all your data they were expressing a viewpoint about privacy and public safety." >}}
 
@@ -74,9 +74,9 @@ Apple filed their motion to vacate the court order that they "unlock" an iPhone 
 
    {{< listapp/item title="3️⃣ The order violates Apple's fifth amendment right to due process of law." >}}
 
-   {{< listapp/item title="\- the fifth amendment guarantees the right to be free from \"arbitrary deprivation of liberty by government\"." >}}
+   {{< listapp/item title="\- the fifth amendment guarantees the right to be free from “arbitrary deprivation of liberty by government”." >}}
 
-   {{< listapp/item title="\- Apple argues that compelling them to \"do the government's bidding in a way that is statutorily unauthorized, highly burdensome, and contrary to [their] core principles\" violates this right." >}}
+   {{< listapp/item title="\- Apple argues that compelling them to “do the government's bidding in a way that is statutorily unauthorized, highly burdensome, and contrary to [their] core principles” violates this right." >}}
 
    {{< listapp/item title="In conclusion..." >}}
 

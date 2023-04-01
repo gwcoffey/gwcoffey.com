@@ -11,12 +11,12 @@ relistCount: 2
 {{< listapp/list order=false reverse=false >}}
 
    {{< listapp/item title="When you think that you’ve lost everything you find out you can always lose a little more."
-      desc="Bob Dylan in “Trying to get to Heaven”. — A simpler version of Edgar’s harrowing \"O gods! Who is't can say 'I am at the worst'? I am worse than e'er I was. And worse I may be yet. The worst is not So long as we can say 'This is the worst.’” from King Lear." >}}
+      desc="Bob Dylan in “Trying to get to Heaven”. — A simpler version of Edgar’s harrowing \"O gods! Who is't can say 'I am at the worst'? I am worse than e'er I was. And worse I may be yet. The worst is not So long as we can say 'This is the worst.’” from King Lear." >}}
 
    {{< listapp/item title="No. And yes. It’s always sudden."
       desc="Tara from Buffy on whether or not her mother’s death was sudden." >}}
 
-   {{< listapp/item title="I’ve got a perfect body but sometimes I forget / I’ve got a perfect body ‘cause my eyelashes catch my sweat"
+   {{< listapp/item title="I’ve got a perfect body but sometimes I forget / I’ve got a perfect body ‘cause my eyelashes catch my sweat"
       desc="Regina Spektor in “Folding Chair”." >}}
 
    {{< listapp/item title="A purse is but a rag unless you have something in it."
@@ -31,8 +31,8 @@ relistCount: 2
    {{< listapp/item title="Somebody now listening might be devastated in ten years by the loss of someone they haven't even met yet."
       desc="Simon Van Booy in an interview." >}}
 
-   {{< listapp/item title="Every victory enlarges the magnitude of our possible defeat."
-      desc="Salvidienus in John Williams’ epistolary novel “Augustus”." >}}
+   {{< listapp/item title="Every victory enlarges the magnitude of our possible defeat."
+      desc="Salvidienus in John Williams’ epistolary novel “Augustus”." >}}
 
    {{< listapp/item title="And how dieth the wise man? As the fool."
       desc="Ecclesiastes 2:16" >}}
