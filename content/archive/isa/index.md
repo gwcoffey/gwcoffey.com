@@ -2,6 +2,8 @@
 title: Isabel Photosite
 date: 1998-07-10
 archive: isa
+icon: old-gwcoffey
+archiveSection: true
 ---
 
 This was my first "personal" site. In 1998 when Isabel was born, I built a small site to share baby photos with family around the country. This of course predates things like Facebook, Instagram, etc… The photos are tiny and low quality because we were all using dialup at the time. This was a fun personal project that gave me a chance to demonstrate to family members what I did for a living.

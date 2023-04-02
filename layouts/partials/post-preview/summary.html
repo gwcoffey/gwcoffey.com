@@ -4,6 +4,7 @@
         (.Truncated)
         (isset .Params "summary")
         (gt (len $images) 0)
+        (eq (.Param "archiveSection") true)
 -}} 
 
 {{- if eq (.Param "archive") "listapp" -}}

@@ -2,6 +2,7 @@
 title: Six Fried Rice Archive
 date: 2010-09-03
 icon: sfr
+archiveSection: true
 ---
 
 I ran [Six Fried Rice][sfr], a software consulting firm, with Jesse Antunes from 2007 to 2015. In the early days I was writing books for O'Reilly and used the site as a professional blogging platform to promote our business and the books to the FileMaker Pro community of developers.
