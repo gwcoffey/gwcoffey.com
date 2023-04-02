@@ -21,7 +21,15 @@
 
 	<!-- posts with images and no text need some help -->
 	(Image post. <a class="more" href="{{.Permalink}}">View…</a>)
-	
+
+{{- else if eq (.Param "archiveSection") true -}}
+
+	<!-- the archive sections don't need "more" links and shouldn't show headings in the
+	     summaries -->
+	{{- $content := .Content -}}
+	{{- $content := replaceRE `(?s)</p>.*` "</p>" $content -}}
+	{{ safeHTML $content }}
+
 {{- else if $summarize -}}
 
 	<!-- use built in summarization for long posts, posts with an explicit configured
