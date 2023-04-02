@@ -1,6 +1,8 @@
 ---
 title: "This Is Not Your Tragedy"
 date: 2022-12-11
+tags:
+  - Short Fiction
 ---
 
 It’s after ten o’clock and they’ve been at it since seven in the morning. Now finally they’re done and the buzz of a big release is slowly wearing off, replaced by the fog and exhaustion of fifteen hours of mental taxation.

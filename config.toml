@@ -22,3 +22,6 @@ paginate = 50
 
 [params]
 	navMenus = [ "Main", "Projects", "About" ]
+
+[taxonomies]
+	tags = 'tags'

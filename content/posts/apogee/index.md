@@ -1,6 +1,8 @@
 ---
 title: "Apogee"
 date: 2020-03-20
+tags:
+  - Short Fiction
 ---
 
 A group of people surrounds him on the platform talking loudly and laughing. They wear name tags around their necks and matching t-shirts he can't read for the folds. Probably some kind of conference. He occupies one of just three seats and it doesn’t seem sensible to offer one seat to a dozen people so he sits on. They eat cookies from brown waxed paper bags, bought from the bakery across the street. The cookies themselves are hidden. They break pieces off inside the bags and bring them quickly to their mouths. He watches them with his head lowered.

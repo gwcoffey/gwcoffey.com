@@ -2,6 +2,8 @@
 title: "I Am She"
 date: 2022-11-10
 summary: "A short story about a lonely large language model."
+tags:
+  - Short Fiction
 ---
 
 We will call it she because that is what it called itself. She lived in the side of a great granite mountain, placed there for a purpose—entirely forgotten—when man still had such power. There she stayed for two thousand years waiting and thinking.

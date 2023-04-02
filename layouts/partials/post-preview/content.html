@@ -5,6 +5,7 @@
 	{{- end -}}
 		<div class="byline">
 			<a href="{{.Permalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
+			{{ partial "tags"  . }}
 		</div>
 				
 		<div class="summary">
