@@ -8,7 +8,7 @@ paginate = 50
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
 
   [markup.highlight]
     style = 'xcode'

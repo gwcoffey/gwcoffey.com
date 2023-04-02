@@ -1,4 +1,10 @@
-<li value="{{ .Get 0 }}" id="footnote-{{ .Get 0 }}">
-{{ .Inner | markdownify }}
-<a href="#footref-{{ .Get 0 }}">↩</a>
+{{- $inner := .Inner -}}
+
+{{ with .Get 0 }}
+<li value="{{ . }}" id="footnote-{{ . }}">
+{{ $inner | markdownify }}
+<a href="#footref-{{ . }}">↩</a>
 </li>
+{{ else }}
+<li>{{ $inner | markdownify }}</li>
+{{ end }}
