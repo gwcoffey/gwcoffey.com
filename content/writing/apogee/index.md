@@ -17,8 +17,9 @@ He takes his phone from his pocket and slides his finger across the screen to di
 
 {{< figure src="arrokoth.jpg"
     alt="A photograph of Kuiper Belt Object Arrokoth, acquired by the New Horizons spacecraft. The object has two distinct roughly spherical lobes, one somewhat smaller than the other. The surface is orange in color."
-    width="2500"
-    height="1500" >}}
+    class="embed right"
+    height="2161"
+    width="1500" >}}
 
 He's not sure if its right to say we are just now *learning what it looks like*. Without an observer, it surely doesn't *look like* anything at all. In a sense we are creating what it looks like in real time by the very act of observation. He turns off the screen but does not stop staring at it. The train is at another stop and the sun shines through the latticework of the platform structure and through the window behind him. This crisscross pattern is reflected in the blackness of the phone screen. He remembers his first encounter with a cold and dark distant world. 
 
