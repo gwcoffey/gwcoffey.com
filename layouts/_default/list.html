@@ -1,7 +1,6 @@
 {{ define "main" }}
+
 {{ $paginator := .Paginate .Pages }}
-
-
 
 {{ if eq $paginator.PageNumber 1 }}
 <hgroup>
