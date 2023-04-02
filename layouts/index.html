@@ -1,5 +1,20 @@
 {{ define "main" }}
 
+{{- $pages := .Site.RegularPages -}}
+{{- $pages := where $pages ".Params.archive" "==" nil -}}
+{{- $pages := where $pages ".Params.weblog" "!=" false -}}
+{{- $paginator := .Paginate $pages -}}
+
 {{ .Content }}
+
+<h1>Latests Posts</h1>
+
+{{ range $paginator.Pages }}
+{{ partial "post-preview/post-preview.html" . }}
+{{ end }}
+
+<div class="home-links">
+	<a href="/weblog/">See the complete history in the weblog</a>
+</div>
 
 {{ end }}
