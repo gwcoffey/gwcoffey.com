@@ -1,0 +1,6 @@
+{{ range $idx, $text := .Params }}
+{{ if gt $idx 0 }}
+<br>
+{{ end }}
+<code>{{ $text | markdownify }}</code>
+{{ end }}
