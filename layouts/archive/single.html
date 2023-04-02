@@ -39,18 +39,7 @@
 
 <article>
 
-<div class="heading">
-	<hgroup>
-		<h1>{{ .Title }}</h1>
-		<div class="byline">
-			<address><a rel="author" href="/me">Geoff Coffey</a></address>
-			/
-			<time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time>
-		</div>
-	</hgroup>
-
-	{{ partial "post-preview/page-icon.html" . }}
-</div>
+{{ partial "post-heading" . }}
 
 {{ .Content }}
 

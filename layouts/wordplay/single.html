@@ -1,10 +1,9 @@
 {{ define "main" }}
 
-<hgroup>
-	<h1>{{ .Title }}</h1>
-	<p class="crumb"><a href="/wordplay">/wordplay/</a></p>
-</hgroup>
+<article>
+{{ partial "post-heading" . }}
 
 {{ .Content }}
+</article>
 
 {{ end }}

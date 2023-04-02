@@ -1,0 +1,19 @@
+<div class="heading">
+	<hgroup>
+		{{ with .Title }}
+			<h1>{{ . }}</h1>
+		{{ else }}
+			<h1>FaceBook Post</h1>
+		{{ end }}
+		<div class="byline">
+			<address><a rel="author" href="/me">Geoff Coffey</a></address>
+			/
+			<time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time>
+		</div>
+		{{ if not (eq .Parent.RelPermalink "/") }}
+		<p class="crumb"><a href="../">{{ .Parent.RelPermalink }}</a></p>
+		{{ end }}
+	</hgroup>
+
+	{{ partial "post-preview/page-icon.html" . }}
+</div>

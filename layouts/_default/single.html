@@ -1,8 +1,11 @@
 {{ define "main" }}
 
 <article>
-<h1>{{ .Title }}</h1>
+
+{{ partial "post-heading" . }}
+
 {{ .Content }}
+
 </article>
 
 {{ end }}
