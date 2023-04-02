@@ -2,7 +2,6 @@
 title: "iTunes Match is Live"
 date: 2011-11-14
 archive: posterous
-weblog: false
 ---
 
 YAY! I've been looking forward to this day for a long time.

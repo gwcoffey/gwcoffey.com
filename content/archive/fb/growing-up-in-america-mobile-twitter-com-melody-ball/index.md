@@ -2,7 +2,6 @@
 date: 2018-02-14 22:20:25.000000000 -08:00
 archive: fb
 id: '1518675625'
-weblog: false
 ---
 
 Growing up in America. 

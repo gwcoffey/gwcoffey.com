@@ -2,7 +2,6 @@
 title: What We Learned (?) About the United States Supreme Court Today
 date: '2015-06-26T16:36:43+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

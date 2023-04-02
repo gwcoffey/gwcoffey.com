@@ -2,7 +2,6 @@
 title: "It's Not Every Day You See a Grammar Pun in an Advertisement"
 date: 2011-12-17
 archive: posterous
-weblog: false
 ---
 
 {{< figure 

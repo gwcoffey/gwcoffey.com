@@ -2,7 +2,6 @@
 title: "Quirrell"
 date: 2011-05-07
 archive: posterous
-weblog: false
 ---
 
 Sophia can do wonders with a blanket…

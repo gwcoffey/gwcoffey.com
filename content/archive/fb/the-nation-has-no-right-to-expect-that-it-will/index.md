@@ -2,7 +2,6 @@
 date: 2017-02-05 21:27:56.000000000 -08:00
 archive: fb
 id: '1486358876'
-weblog: false
 ---
 
 {{< quote cite="Supreme Court Justice David Davis, 1866" >}}

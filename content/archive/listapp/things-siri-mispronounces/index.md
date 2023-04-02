@@ -2,7 +2,6 @@
 title: "Things Siri Mispronounces➕\U0001F4C2"
 date: '2015-12-26T17:08:03+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 0
 ---

@@ -2,7 +2,6 @@
 date: 2017-06-23 17:06:23.000000000 -07:00
 archive: fb
 id: '1498262783'
-weblog: false
 ---
 
 Sophia: [pushes out her belly] Come feel your baby kick!

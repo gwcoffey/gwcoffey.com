@@ -2,7 +2,6 @@
 title: My New Follower Todo List
 date: '2015-10-22T23:14:31+00:00'
 archive: listapp
-weblog: false
 likeCount: 36
 relistCount: 1
 ---

@@ -2,7 +2,6 @@
 date: 2018-07-06 21:42:32.000000000 -07:00
 archive: fb
 id: '1530938552'
-weblog: false
 ---
 
 I'll be offline for a couple of days. I need time to research this topic fully.

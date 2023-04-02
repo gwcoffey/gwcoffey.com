@@ -2,7 +2,6 @@
 title: Phoenix Checking In
 date: '2017-01-22T00:58:04+00:00'
 archive: listapp
-weblog: false
 likeCount: 57
 relistCount: 0
 ---

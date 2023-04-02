@@ -2,7 +2,6 @@
 date: 2018-08-23 16:48:35.000000000 -07:00
 archive: fb
 id: '1535068115'
-weblog: false
 ---
 
 America, 2018

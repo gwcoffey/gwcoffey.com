@@ -2,7 +2,6 @@
 title: 'Ewoks: Pros and Cons (Mostly Cons)'
 date: '2015-10-04T16:20:33+00:00'
 archive: listapp
-weblog: false
 likeCount: 15
 relistCount: 2
 ---

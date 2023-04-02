@@ -2,7 +2,6 @@
 date: 2017-01-13 22:00:45.000000000 -08:00
 archive: fb
 id: '1484373645'
-weblog: false
 ---
 
 Ad copy brought to you by whichever person in the office speaks the best English.

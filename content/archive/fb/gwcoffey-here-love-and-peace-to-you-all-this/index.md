@@ -2,7 +2,6 @@
 date: 2017-09-30 22:21:24.000000000 -07:00
 archive: fb
 id: '1506835284'
-weblog: false
 ---
 
 @gwcoffey here. Love and peace to you all.

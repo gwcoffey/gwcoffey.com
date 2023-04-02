@@ -2,7 +2,6 @@
 date: 2016-11-10 22:39:37.000000000 -08:00
 archive: fb
 id: '1478846377'
-weblog: false
 ---
 
 The reverend James Madison to his cousin, *the* James Madison, on the eve of his inauguration: 

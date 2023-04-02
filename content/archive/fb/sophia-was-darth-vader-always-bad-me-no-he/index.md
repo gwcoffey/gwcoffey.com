@@ -2,7 +2,6 @@
 date: 2013-11-08 13:08:28.000000000 -08:00
 archive: fb
 id: '1383944908'
-weblog: false
 ---
 
 Sophia: Was Darth Vader always bad?

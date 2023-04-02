@@ -2,7 +2,6 @@
 title: Smart Answers to Stupid Questions
 date: '2015-05-26T14:23:06+00:00'
 archive: listapp
-weblog: false
 likeCount: 21
 relistCount: 3
 ---

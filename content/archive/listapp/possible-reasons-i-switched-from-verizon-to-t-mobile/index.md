@@ -2,7 +2,6 @@
 title: Possible Reasons I Switched From Verizon to T-Mobile
 date: '2015-10-26T21:17:35+00:00'
 archive: listapp
-weblog: false
 likeCount: 9
 relistCount: 1
 ---

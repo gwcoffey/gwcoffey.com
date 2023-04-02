@@ -2,7 +2,6 @@
 title: "Cooks Illustrated Banana Bread"
 date: 2010-09-12
 archive: posterous
-weblog: false
 ---
 
 The latest issue of [Cook's Illustrated][cooks] included this recipe for banana bread that squeezes *six* bananas in one loaf. To manage moisture they extract liquid from five of them (by cooking and straining), then reduce that liquid and put it back in the batter. (The final banana is sliced for a decorative top). 

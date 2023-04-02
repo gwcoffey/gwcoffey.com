@@ -2,7 +2,6 @@
 title: Reasons I Haven't Listed Lately
 date: '2015-10-02T05:29:29+00:00'
 archive: listapp
-weblog: false
 likeCount: 21
 relistCount: 2
 ---

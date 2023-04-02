@@ -2,7 +2,6 @@
 title: Things You Don't See Every Day
 date: '2016-01-13T01:32:40+00:00'
 archive: listapp
-weblog: false
 likeCount: 53
 relistCount: 12
 ---

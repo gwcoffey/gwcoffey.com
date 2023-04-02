@@ -2,7 +2,6 @@
 date: 2016-03-01 12:57:53.000000000 -08:00
 archive: fb
 id: '1456865873'
-weblog: false
 ---
 
 First very good question in this hearing:

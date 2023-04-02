@@ -2,7 +2,6 @@
 date: 2017-09-15 11:15:23.000000000 -07:00
 archive: fb
 id: '1505499323'
-weblog: false
 ---
 
 It's ok to cry. (Mildly click-baity headline: this was planned all along.)

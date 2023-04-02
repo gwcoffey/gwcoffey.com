@@ -2,7 +2,6 @@
 title: Failed Galactic Empire Commercial Ventures
 date: '2015-12-03T18:17:27+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 1
 ---

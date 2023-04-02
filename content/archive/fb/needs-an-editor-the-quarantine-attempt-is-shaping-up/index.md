@@ -2,7 +2,6 @@
 date: 2014-10-31 10:59:28.000000000 -07:00
 archive: fb
 id: '1414778368'
-weblog: false
 ---
 
 Needs an editor:

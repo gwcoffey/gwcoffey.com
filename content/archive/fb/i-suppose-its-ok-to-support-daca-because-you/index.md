@@ -2,7 +2,6 @@
 date: 2018-04-02 08:35:12.000000000 -07:00
 archive: fb
 id: '1522683312'
-weblog: false
 ---
 
 I suppose it’s ok to support DACA because you feel sorry for dreamers.

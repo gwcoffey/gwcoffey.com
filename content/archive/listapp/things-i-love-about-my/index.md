@@ -2,7 +2,6 @@
 title: "Things I Love About My \U0001F488"
 date: '2015-07-14T20:06:32+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 2
 ---

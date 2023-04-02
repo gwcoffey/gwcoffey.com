@@ -2,7 +2,6 @@
 date: 2015-12-08 21:09:36.000000000 -08:00
 archive: fb
 id: '1449637776'
-weblog: false
 ---
 
 My first and last comment on Trump and the far-right xenophobic freakout, which has saddened me more than anything I've seen so far in our temporarily divided country:

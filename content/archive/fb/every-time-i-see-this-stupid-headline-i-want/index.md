@@ -2,7 +2,6 @@
 date: 2017-04-05 21:20:01.000000000 -07:00
 archive: fb
 id: '1491452401'
-weblog: false
 ---
 
 Every time I see this stupid headline I want to amend it:

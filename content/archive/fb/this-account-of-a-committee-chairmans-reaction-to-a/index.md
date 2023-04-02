@@ -2,7 +2,6 @@
 date: 2018-02-06 14:34:33.000000000 -08:00
 archive: fb
 id: '1517956473'
-weblog: false
 ---
 
 This account of a committee chairman’s reaction to a bill about prisoner access to feminine hygiene products reads like an SNL parody of clueless men in power. “I’m almost sorry I heard the bill,” says chairman Lawrence. 🙄

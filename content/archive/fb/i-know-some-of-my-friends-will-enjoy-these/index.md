@@ -2,7 +2,6 @@
 date: 2014-06-15 21:37:23.000000000 -07:00
 archive: fb
 id: '1402893443'
-weblog: false
 ---
 
 I know some of my friends will enjoy these pictures. Congratulations to my perfect partner Jesse and his perfect bride Brittani. I love these people.

@@ -2,7 +2,6 @@
 date: 2013-10-10 18:24:54.000000000 -07:00
 archive: fb
 id: '1381454694'
-weblog: false
 ---
 
 So this just happened:

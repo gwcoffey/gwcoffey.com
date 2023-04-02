@@ -2,7 +2,6 @@
 date: 2018-05-01 18:32:15.000000000 -07:00
 archive: fb
 id: '1525224735'
-weblog: false
 ---
 
 This is a remarkable and moving thing. 

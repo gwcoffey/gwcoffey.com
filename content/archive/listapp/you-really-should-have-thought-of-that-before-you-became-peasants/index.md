@@ -2,7 +2,6 @@
 title: You really should have thought of that before you became peasants.
 date: '2016-10-31T16:30:38+00:00'
 archive: listapp
-weblog: false
 likeCount: 66
 relistCount: 0
 ---

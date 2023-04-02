@@ -2,7 +2,6 @@
 date: 2017-05-04 15:26:15.000000000 -07:00
 archive: fb
 id: '1493936775'
-weblog: false
 ---
 
 Here's how your AZ rep voted on the really despicable AHCA:

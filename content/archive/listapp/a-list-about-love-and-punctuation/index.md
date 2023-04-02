@@ -2,7 +2,6 @@
 title: A List About Love and Punctuation
 date: '2015-08-06T05:44:32+00:00'
 archive: listapp
-weblog: false
 likeCount: 2
 relistCount: 0
 ---

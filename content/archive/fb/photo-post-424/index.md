@@ -2,7 +2,6 @@
 date: 2013-10-11 12:09:09.000000000 -07:00
 archive: fb
 id: '1381518549'
-weblog: false
 ---
 
 Posted without comment.

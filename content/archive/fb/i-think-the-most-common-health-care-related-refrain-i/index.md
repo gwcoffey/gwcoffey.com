@@ -2,7 +2,6 @@
 date: 2017-05-06 13:11:16.000000000 -07:00
 archive: fb
 id: '1494101476'
-weblog: false
 ---
 
 I think the most common health-care related refrain I heard from Trump supporters during the campaign was "He's not going to take away pre-existing condition protections."

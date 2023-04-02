@@ -2,7 +2,6 @@
 date: 2018-08-16 14:54:10.000000000 -07:00
 archive: fb
 id: '1534456450'
-weblog: false
 ---
 
 Birthday weekend with Mamie mostly centered around eating good food most of which I do not have pictures of.

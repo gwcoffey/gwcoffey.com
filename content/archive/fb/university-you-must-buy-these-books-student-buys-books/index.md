@@ -2,7 +2,6 @@
 date: 2015-08-13 11:52:06.000000000 -07:00
 archive: fb
 id: '1439491926'
-weblog: false
 ---
 
 University: You must buy these books.

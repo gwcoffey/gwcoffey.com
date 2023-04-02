@@ -2,7 +2,6 @@
 title: The Shape in Joe vs. the Volcano
 date: '2016-08-16T19:44:19+00:00'
 archive: listapp
-weblog: false
 likeCount: 14
 relistCount: 5
 ---

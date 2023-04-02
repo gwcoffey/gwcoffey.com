@@ -2,7 +2,6 @@
 title: "At the End of this Road is Mexico"
 date: 2011-06-22
 archive: posterous
-weblog: false
 ---
 
 Looking forward to an extended week of focus and beautiful sunsets.

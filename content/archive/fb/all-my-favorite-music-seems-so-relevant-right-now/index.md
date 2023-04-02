@@ -2,7 +2,6 @@
 date: 2016-11-13 14:11:16.000000000 -08:00
 archive: fb
 id: '1479075076'
-weblog: false
 ---
 
 All my favorite music seems so relevant right now. 

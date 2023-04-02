@@ -2,7 +2,6 @@
 title: My Girls Are Ready for Harry Potter World
 date: '2015-12-20T16:56:44+00:00'
 archive: listapp
-weblog: false
 likeCount: 26
 relistCount: 1
 ---

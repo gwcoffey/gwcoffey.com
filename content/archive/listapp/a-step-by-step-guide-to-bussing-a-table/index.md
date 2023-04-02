@@ -2,7 +2,6 @@
 title: A Step-by-Step Guide to Bussing a Table
 date: '2015-07-13T15:11:38+00:00'
 archive: listapp
-weblog: false
 likeCount: 11
 relistCount: 1
 ---

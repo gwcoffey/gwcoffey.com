@@ -2,7 +2,6 @@
 date: 2017-02-20 06:54:53.000000000 -08:00
 archive: fb
 id: '1487602493'
-weblog: false
 ---
 
 Dear businesses who send me happy birthday emails:

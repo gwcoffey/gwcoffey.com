@@ -2,7 +2,6 @@
 date: 2018-06-22 18:11:16.000000000 -07:00
 archive: fb
 id: '1529716276'
-weblog: false
 ---
 
 Another day in Paris for Sophie and Maïa. Man I love these smiles.

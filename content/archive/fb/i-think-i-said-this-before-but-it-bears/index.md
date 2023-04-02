@@ -2,7 +2,6 @@
 date: 2017-11-22 23:51:01.000000000 -08:00
 archive: fb
 id: '1511423461'
-weblog: false
 ---
 
 I think I said this before but it bears repeating: 

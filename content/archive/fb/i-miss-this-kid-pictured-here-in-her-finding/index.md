@@ -2,7 +2,6 @@
 date: 2016-06-23 12:12:04.000000000 -07:00
 archive: fb
 id: '1466709124'
-weblog: false
 ---
 
 I miss this kid, pictured here in her Finding Dory getup including Dory colored top, coral pants, Hank backpack, homemade Dory shoes, and yellow/blue braces. She makes absolutely everything more fun.

@@ -2,7 +2,6 @@
 date: 2017-01-20 20:50:17.000000000 -08:00
 archive: fb
 id: '1484974217'
-weblog: false
 ---
 
 {{< quote cite="Roger Ebert" >}}

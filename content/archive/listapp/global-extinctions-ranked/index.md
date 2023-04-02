@@ -2,7 +2,6 @@
 title: "Global Extinctions, Ranked \U0001F4C2"
 date: '2015-12-26T17:20:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 4
 ---

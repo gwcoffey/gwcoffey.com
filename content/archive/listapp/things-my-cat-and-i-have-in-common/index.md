@@ -2,7 +2,6 @@
 title: Things My Cat and I Have in Common
 date: '2015-08-08T23:21:52+00:00'
 archive: listapp
-weblog: false
 likeCount: 23
 relistCount: 7
 ---

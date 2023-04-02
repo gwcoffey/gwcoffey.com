@@ -2,7 +2,6 @@
 title: Read Please
 date: '2016-07-23T07:08:54+00:00'
 archive: listapp
-weblog: false
 likeCount: 33
 relistCount: 15
 ---

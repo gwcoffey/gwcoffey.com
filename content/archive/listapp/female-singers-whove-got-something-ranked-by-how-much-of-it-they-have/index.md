@@ -2,7 +2,6 @@
 title: Female Singers Who've Got Something Ranked by How Much of it They Have
 date: '2016-09-20T01:15:48+00:00'
 archive: listapp
-weblog: false
 likeCount: 13
 relistCount: 1
 ---

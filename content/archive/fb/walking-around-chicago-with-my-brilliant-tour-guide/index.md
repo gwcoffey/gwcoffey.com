@@ -2,7 +2,6 @@
 date: 2017-08-20 16:58:41.000000000 -07:00
 archive: fb
 id: '1503273521'
-weblog: false
 ---
 
 Walking around Chicago with my brilliant tour guide.

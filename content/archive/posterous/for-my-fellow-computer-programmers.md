@@ -2,7 +2,6 @@
 title: "For My Fellow Computer Programmers"
 date: 2012-08-22
 archive: posterous
-weblog: false
 ---
 
 I bought a [Makey Makey](http://www.makeymakey.com) for my girls and I to play with. At one point, the girls wired up a series of aluminum-foil-based touch pads taped to the floor. Each pad was connected to a different input (with a different colored wire). I wrote a little HTML page that responded to the input by showing/hiding matching colored bars. 

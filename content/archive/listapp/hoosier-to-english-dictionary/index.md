@@ -2,7 +2,6 @@
 title: Hoosier to English Dictionary
 date: '2016-01-25T03:24:53+00:00'
 archive: listapp
-weblog: false
 likeCount: 30
 relistCount: 0
 ---

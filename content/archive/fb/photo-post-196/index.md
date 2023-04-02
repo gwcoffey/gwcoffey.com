@@ -2,7 +2,6 @@
 date: 2015-06-20 13:04:47.000000000 -07:00
 archive: fb
 id: '1434830687'
-weblog: false
 ---
 
 Le Sophia on her way to shop for bread in Paris.

@@ -2,7 +2,6 @@
 title: "Anybody Care to Explain this Control"
 date: 2011-04-13
 archive: posterous
-weblog: false
 ---
 
 {{< figure 

@@ -2,7 +2,6 @@
 title: Kinds of Ugly Moe Szyslak Knows He's Been Called
 date: '2015-12-13T05:01:59+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

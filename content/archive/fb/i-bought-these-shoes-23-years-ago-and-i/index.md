@@ -2,7 +2,6 @@
 date: 2016-07-07 20:47:54.000000000 -07:00
 archive: fb
 id: '1467949674'
-weblog: false
 ---
 
 I bought these shoes 23 years ago and I still wear them sometimes. Like twice a year but still...

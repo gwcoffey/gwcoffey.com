@@ -2,7 +2,6 @@
 title: "Isabel is Super Excited to See Christopher Paolini"
 date: 2011-12-03
 archive: posterous
-weblog: false
 ---
 
 I took Isabel to the Burton Barr library in Phoenix for a Christopher Paolini talk and book signing.

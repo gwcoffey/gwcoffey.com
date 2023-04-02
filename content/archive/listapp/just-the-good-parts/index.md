@@ -2,7 +2,6 @@
 title: Just the Good Parts
 date: '2015-10-18T22:39:25+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 2
 ---

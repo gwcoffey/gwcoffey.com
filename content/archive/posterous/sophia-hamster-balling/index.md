@@ -2,7 +2,6 @@
 title: "Sophia Hamster Balling"
 date: 2012-02-11
 archive: posterous
-weblog: false
 ---
 
 At the Arizona Centennial Celebration. (Happy birthday Arizona!)

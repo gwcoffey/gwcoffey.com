@@ -2,7 +2,6 @@
 date: 2018-04-13 18:12:32.000000000 -07:00
 archive: fb
 id: '1523668352'
-weblog: false
 ---
 
 1. Monkey takes selfie.

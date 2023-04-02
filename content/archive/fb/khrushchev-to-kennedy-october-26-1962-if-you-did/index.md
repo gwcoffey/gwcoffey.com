@@ -2,7 +2,6 @@
 date: 2017-02-15 19:13:15.000000000 -08:00
 archive: fb
 id: '1487214795'
-weblog: false
 ---
 
 Khrushchev to Kennedy, October 26, 1962:

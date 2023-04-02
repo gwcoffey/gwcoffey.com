@@ -2,7 +2,6 @@
 date: 2017-11-14 14:32:23.000000000 -08:00
 archive: fb
 id: '1510698743'
-weblog: false
 ---
 
 Streaming services: People don’t want to pay for every show they watch. 

@@ -2,7 +2,6 @@
 date: 2018-02-21 16:54:22.000000000 -08:00
 archive: fb
 id: '1519260862'
-weblog: false
 ---
 
 “My baby sparkles and shines, sparkles and shines…”

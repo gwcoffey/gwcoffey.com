@@ -2,7 +2,6 @@
 date: 2018-04-06 22:57:20.000000000 -07:00
 archive: fb
 id: '1523080640'
-weblog: false
 ---
 
 Southwest is doing that thing again where all the flights have the same number.

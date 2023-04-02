@@ -2,7 +2,6 @@
 date: 2013-08-22 19:00:58.000000000 -07:00
 archive: fb
 id: '1377223258'
-weblog: false
 ---
 
 Sophia had fun the whole ride to school making fun of this business name. She really cracked herself up.

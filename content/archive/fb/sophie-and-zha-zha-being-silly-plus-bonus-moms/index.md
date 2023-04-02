@@ -2,7 +2,6 @@
 date: 2017-07-09 11:55:51.000000000 -07:00
 archive: fb
 id: '1499626551'
-weblog: false
 ---
 
 Sophie and Zha Zha being silly. (Plus bonus moms.)

@@ -2,7 +2,6 @@
 title: Things That Are Actually Really Good
 date: '2015-12-19T02:32:48+00:00'
 archive: listapp
-weblog: false
 likeCount: 57
 relistCount: 4
 ---

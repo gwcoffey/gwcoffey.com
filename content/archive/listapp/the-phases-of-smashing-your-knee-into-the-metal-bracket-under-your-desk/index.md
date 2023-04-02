@@ -2,7 +2,6 @@
 title: The Phases of Smashing Your Knee Into The Metal Bracket Under Your Desk
 date: '2016-06-16T17:46:27+00:00'
 archive: listapp
-weblog: false
 likeCount: 23
 relistCount: 4
 ---

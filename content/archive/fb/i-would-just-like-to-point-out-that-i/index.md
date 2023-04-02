@@ -2,7 +2,6 @@
 date: 2015-12-01 07:52:43.000000000 -08:00
 archive: fb
 id: '1448985163'
-weblog: false
 ---
 
 I would just like to point out that I read these articles back-to-back.

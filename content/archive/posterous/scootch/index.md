@@ -2,7 +2,6 @@
 title: "Scootch"
 date: 2012-12-12
 archive: posterous
-weblog: false
 ---
 
 *[ed: It thrills me that this absolute nonsense was the very last post to my Posterous blog before the site shut down. On 12/12/12 no less.]*

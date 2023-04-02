@@ -2,7 +2,6 @@
 date: 2017-08-20 19:27:17.000000000 -07:00
 archive: fb
 id: '1503282437'
-weblog: false
 ---
 
 I almost forgot: lunch at one of Isabel's favorite spots.

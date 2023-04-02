@@ -2,7 +2,6 @@
 title: A Review of the $4 Headphones I Bought at Walgreens Yesterday
 date: '2016-01-01T00:31:56+00:00'
 archive: listapp
-weblog: false
 likeCount: 54
 relistCount: 4
 ---

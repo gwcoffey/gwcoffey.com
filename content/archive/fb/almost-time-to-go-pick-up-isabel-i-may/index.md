@@ -2,7 +2,6 @@
 date: 2018-06-10 20:47:55.000000000 -07:00
 archive: fb
 id: '1528688875'
-weblog: false
 ---
 
 ALMOST TIME TO GO PICK UP ISABEL I MAY DIE.

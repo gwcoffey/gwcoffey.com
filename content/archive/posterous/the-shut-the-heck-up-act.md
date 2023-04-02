@@ -2,7 +2,6 @@
 title: "The Shut the Heck Up Act"
 date: 2011-01-20
 archive: posterous
-weblog: false
 ---
 
 My proposed congressional bill.

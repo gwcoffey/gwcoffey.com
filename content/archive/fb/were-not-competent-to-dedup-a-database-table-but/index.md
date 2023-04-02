@@ -2,7 +2,6 @@
 date: 2018-05-23 23:39:36.000000000 -07:00
 archive: fb
 id: '1527143976'
-weblog: false
 ---
 
 “We’re not competent to dedup a database table but you should trust us with backdoor access to every secure device in America.” — The FBI

@@ -2,7 +2,6 @@
 date: 2017-11-10 14:31:58.000000000 -08:00
 archive: fb
 id: '1510353118'
-weblog: false
 ---
 
 This is a great interview with Jony Ive. But this conclusion particularly resonates:

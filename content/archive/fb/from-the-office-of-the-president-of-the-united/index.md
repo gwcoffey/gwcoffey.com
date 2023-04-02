@@ -2,7 +2,6 @@
 date: 2018-09-04 08:43:05.000000000 -07:00
 archive: fb
 id: '1536075785'
-weblog: false
 ---
 
 From the office of The President of the United States of America.

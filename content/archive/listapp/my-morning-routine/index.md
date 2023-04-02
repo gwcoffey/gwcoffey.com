@@ -2,7 +2,6 @@
 title: My Morning Routine
 date: '2016-08-04T04:30:36+00:00'
 archive: listapp
-weblog: false
 likeCount: 46
 relistCount: 8
 ---

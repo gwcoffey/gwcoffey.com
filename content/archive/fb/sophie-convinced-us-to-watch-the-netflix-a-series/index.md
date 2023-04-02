@@ -2,7 +2,6 @@
 date: 2017-01-20 20:19:00.000000000 -08:00
 archive: fb
 id: '1484972340'
-weblog: false
 ---
 
 Sophie convinced us to watch the Netflix A Series of Unfortunate Events together and my verdict is that it is delightful. 

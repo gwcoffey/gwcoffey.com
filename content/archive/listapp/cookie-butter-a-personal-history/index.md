@@ -2,7 +2,6 @@
 title: 'Cookie Butter: A Personal History'
 date: '2015-08-18T15:57:09+00:00'
 archive: listapp
-weblog: false
 likeCount: 7
 relistCount: 0
 ---

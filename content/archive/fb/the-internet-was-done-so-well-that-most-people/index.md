@@ -2,7 +2,6 @@
 date: 2016-01-21 16:56:25.000000000 -08:00
 archive: fb
 id: '1453424185'
-weblog: false
 ---
 
 {{< quote cite="Alan Kay" >}}

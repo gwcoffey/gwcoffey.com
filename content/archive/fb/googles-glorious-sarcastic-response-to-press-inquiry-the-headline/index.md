@@ -2,7 +2,6 @@
 date: 2015-06-26 13:18:06.000000000 -07:00
 archive: fb
 id: '1435349886'
-weblog: false
 ---
 
 Google's glorious sarcastic response to press inquiry:

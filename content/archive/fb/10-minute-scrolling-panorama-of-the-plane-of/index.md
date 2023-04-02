@@ -2,9 +2,7 @@
 date: 2016-04-22 18:51:44.000000000 -07:00
 archive: fb
 id: '1461376304'
-weblog: false
 linklist: true
-weblog: false
 ---
 
 10 minute (!) scrolling panorama of the plane of the Milky Way composed of stitched together imagery from the ESA's Herschel space telescope.

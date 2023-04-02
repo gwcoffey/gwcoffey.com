@@ -2,7 +2,6 @@
 title: "My First Kiss \U0001F444"
 date: '2016-01-07T03:09:33+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 0
 ---

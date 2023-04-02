@@ -2,7 +2,6 @@
 title: "Humane Society Youth Ambassadors"
 date: 2012-08-25
 archive: posterous
-weblog: false
 ---
 
 Sophie and her friend Allison ran a fund raiser for the humane society this summer. They put on a "dog show" with the neighborhood dogs, complete with games, prizes, and homemade treats. Their goal was "101 donations" (aka, $101), which they handily beat.

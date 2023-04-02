@@ -2,7 +2,6 @@
 date: 2017-12-08 18:32:59.000000000 -08:00
 archive: fb
 id: '1512786779'
-weblog: false
 ---
 
 {{< quote cite="Song 25 of Gitanjali by Rabindranath Tagore" >}}{{< lines >}}

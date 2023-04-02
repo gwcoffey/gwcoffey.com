@@ -2,7 +2,6 @@
 date: 2017-09-15 13:58:36.000000000 -07:00
 archive: fb
 id: '1505509116'
-weblog: false
 ---
 
 Sophia's Bob's Burgers-inspired drawings, all in one place for your viewing pleasure.

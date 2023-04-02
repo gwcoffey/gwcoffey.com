@@ -2,7 +2,6 @@
 title: The Phonetic Spelling of Your Name Por Favor (How You Pronounce)
 date: '2016-03-28T03:34:31+00:00'
 archive: listapp
-weblog: false
 likeCount: 31
 relistCount: 0
 ---

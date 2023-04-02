@@ -2,7 +2,6 @@
 title: How to Parent Like a Pro
 date: '2015-12-22T02:59:09+00:00'
 archive: listapp
-weblog: false
 likeCount: 29
 relistCount: 1
 ---

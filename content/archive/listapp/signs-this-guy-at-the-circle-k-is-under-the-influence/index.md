@@ -2,7 +2,6 @@
 title: Signs This Guy at the Circle K Is Under the Influence
 date: '2016-04-07T17:51:55+00:00'
 archive: listapp
-weblog: false
 likeCount: 22
 relistCount: 2
 ---

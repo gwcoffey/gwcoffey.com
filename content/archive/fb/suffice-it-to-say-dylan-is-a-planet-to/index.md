@@ -2,7 +2,6 @@
 date: 2016-10-13 08:53:26.000000000 -07:00
 archive: fb
 id: '1476374006'
-weblog: false
 ---
 
 {{< quote cite="Tom Waits" >}}

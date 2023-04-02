@@ -2,7 +2,6 @@
 date: 2018-06-18 11:10:50.000000000 -07:00
 archive: fb
 id: '1529345450'
-weblog: false
 ---
 
 > DHS: We strongly object to your use of the word “cages”

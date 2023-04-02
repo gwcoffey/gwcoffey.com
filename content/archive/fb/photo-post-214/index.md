@@ -2,7 +2,6 @@
 date: 2015-02-15 20:02:47.000000000 -08:00
 archive: fb
 id: '1424059367'
-weblog: false
 ---
 
 WOO HOO! 

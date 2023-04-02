@@ -2,7 +2,6 @@
 title: "Isabel Carries All the Groceries In"
 date: 2010-11-19
 archive: posterous
-weblog: false
 ---
 
 Super-kid.

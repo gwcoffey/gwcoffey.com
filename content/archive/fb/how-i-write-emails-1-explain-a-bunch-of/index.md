@@ -2,7 +2,6 @@
 date: 2018-08-27 10:35:58.000000000 -07:00
 archive: fb
 id: '1535391358'
-weblog: false
 ---
 
 How I write emails:

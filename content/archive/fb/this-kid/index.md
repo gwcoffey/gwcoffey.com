@@ -2,7 +2,6 @@
 date: 2016-05-21 02:16:50.000000000 -07:00
 archive: fb
 id: '1463822210'
-weblog: false
 ---
 
 This kid... ❤️

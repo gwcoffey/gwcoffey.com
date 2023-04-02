@@ -2,7 +2,6 @@
 title: My Favorite Snippets From the Leaked Star Wars Episode Viii Script
 date: '2016-03-12T16:25:20+00:00'
 archive: listapp
-weblog: false
 likeCount: 20
 relistCount: 4
 ---

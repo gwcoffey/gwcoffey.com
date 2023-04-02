@@ -2,7 +2,6 @@
 date: 2017-06-28 20:34:49.000000000 -07:00
 archive: fb
 id: '1498707289'
-weblog: false
 ---
 
 The absurdity of recent American politics, illustrated. 

@@ -2,7 +2,6 @@
 date: 2018-07-13 22:51:21.000000000 -07:00
 archive: fb
 id: '1531547481'
-weblog: false
 ---
 
 Words to live by.

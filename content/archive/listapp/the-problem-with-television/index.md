@@ -2,7 +2,6 @@
 title: The Problem with Television
 date: '2016-08-14T23:46:15+00:00'
 archive: listapp
-weblog: false
 likeCount: 23
 relistCount: 4
 ---

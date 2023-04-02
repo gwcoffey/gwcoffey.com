@@ -2,7 +2,6 @@
 title: DRM
 date: '2016-03-28T02:39:54+00:00'
 archive: listapp
-weblog: false
 likeCount: 22
 relistCount: 0
 ---

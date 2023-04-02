@@ -2,7 +2,6 @@
 title: A Cloud Panorama In Your Feed
 date: '2016-01-06T22:22:36+00:00'
 archive: listapp
-weblog: false
 likeCount: 55
 relistCount: 8
 ---

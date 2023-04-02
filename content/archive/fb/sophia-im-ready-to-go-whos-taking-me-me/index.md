@@ -2,7 +2,6 @@
 date: 2017-04-17 08:20:37.000000000 -07:00
 archive: fb
 id: '1492442437'
-weblog: false
 ---
 
 Sophia: I'm ready to go. Who's taking me?

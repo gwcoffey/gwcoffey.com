@@ -2,7 +2,6 @@
 date: 2017-04-06 18:49:30.000000000 -07:00
 archive: fb
 id: '1491529770'
-weblog: false
 ---
 
 {{< quote cite="Mozi" >}}

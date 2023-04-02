@@ -2,7 +2,6 @@
 title: Best New Features of the iPhone 6S
 date: '2015-10-26T01:14:50+00:00'
 archive: listapp
-weblog: false
 likeCount: 53
 relistCount: 13
 ---

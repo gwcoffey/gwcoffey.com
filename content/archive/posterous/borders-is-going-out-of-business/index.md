@@ -2,7 +2,6 @@
 title: "Borders is Going Out of Business"
 date: 2011-03-12
 archive: posterous
-weblog: false
 ---
 
 Isabel just found out…

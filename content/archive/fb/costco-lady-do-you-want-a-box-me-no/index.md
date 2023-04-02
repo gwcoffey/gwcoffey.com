@@ -2,7 +2,6 @@
 date: 2014-01-14 12:39:57.000000000 -08:00
 archive: fb
 id: '1389731997'
-weblog: false
 ---
 
 Costco Lady: Do you want a box?

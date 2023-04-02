@@ -2,7 +2,6 @@
 date: 2014-05-08 11:59:03.000000000 -07:00
 archive: fb
 id: '1399575543'
-weblog: false
 ---
 
 Throw back thingamabob. Mamie's senior prom, just over 20 years ago.

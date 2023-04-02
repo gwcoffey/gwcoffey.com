@@ -2,7 +2,6 @@
 title: While We're Taking About Baby Showers...
 date: '2016-03-10T16:52:50+00:00'
 archive: listapp
-weblog: false
 likeCount: 40
 relistCount: 5
 ---

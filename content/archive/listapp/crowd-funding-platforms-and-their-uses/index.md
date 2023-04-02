@@ -2,7 +2,6 @@
 title: Crowd Funding Platforms and Their Uses
 date: '2016-04-27T19:48:12+00:00'
 archive: listapp
-weblog: false
 likeCount: 20
 relistCount: 2
 ---

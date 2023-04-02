@@ -2,7 +2,6 @@
 date: 2018-02-02 08:16:30.000000000 -08:00
 archive: fb
 id: '1517588190'
-weblog: false
 ---
 
 Fact: I can go to bed at 7:00 pm and I’ll still feel lousy all morning if I get up at 6. But even if I go to bed at 3:30 am I feel like a million bucks if I sleep in til 7:45. 

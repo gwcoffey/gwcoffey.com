@@ -2,7 +2,6 @@
 date: 2018-05-19 14:59:58.000000000 -07:00
 archive: fb
 id: '1526767198'
-weblog: false
 ---
 
 Found on my phone: Bored selfies.

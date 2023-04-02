@@ -2,7 +2,6 @@
 title: Things I Like More Than Pokémon Go
 date: '2016-07-13T19:18:34+00:00'
 archive: listapp
-weblog: false
 likeCount: 70
 relistCount: 14
 ---

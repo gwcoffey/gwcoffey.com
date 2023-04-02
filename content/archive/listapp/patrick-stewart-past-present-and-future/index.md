@@ -2,7 +2,6 @@
 title: Patrick Stewart Past Present and Future
 date: '2016-03-28T22:15:14+00:00'
 archive: listapp
-weblog: false
 likeCount: 24
 relistCount: 2
 ---

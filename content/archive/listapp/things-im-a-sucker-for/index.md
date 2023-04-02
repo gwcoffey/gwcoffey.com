@@ -2,7 +2,6 @@
 title: Things I'm a Sucker For
 date: '2016-01-16T05:30:25+00:00'
 archive: listapp
-weblog: false
 likeCount: 15
 relistCount: 0
 ---

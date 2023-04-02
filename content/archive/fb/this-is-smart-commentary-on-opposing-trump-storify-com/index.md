@@ -2,7 +2,6 @@
 date: 2016-07-23 00:05:58.000000000 -07:00
 archive: fb
 id: '1469257558'
-weblog: false
 ---
 
 This is smart commentary on opposing Trump: 

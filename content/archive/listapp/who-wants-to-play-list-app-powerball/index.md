@@ -2,7 +2,6 @@
 title: Who Wants to Play List App Powerball?
 date: '2016-01-08T22:20:55+00:00'
 archive: listapp
-weblog: false
 likeCount: 26
 relistCount: 7
 ---

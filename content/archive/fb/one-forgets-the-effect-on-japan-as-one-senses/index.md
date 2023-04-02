@@ -2,7 +2,6 @@
 date: 2017-02-14 19:46:11.000000000 -08:00
 archive: fb
 id: '1487130371'
-weblog: false
 ---
 
 {{< quote cite="New York Herald Tribune, August 7, 1945 (the day after Hiroshima)" >}}

@@ -2,7 +2,6 @@
 title: "A Sad Sophia with her Sad Pumpkin"
 date: 2010-10-06
 archive: posterous
-weblog: false
 ---
 
 The kids carved pumpkins at Grandma and Grandpa Coffey's house this week.

@@ -2,7 +2,6 @@
 title: "I'm Eating Dinner on an Aircraft Carrier"
 date: 2010-08-17
 archive: posterous
-weblog: false
 ---
 
 This was a fun conference outing. Thanks, FileMaker!

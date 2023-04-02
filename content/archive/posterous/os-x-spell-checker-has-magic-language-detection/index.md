@@ -2,7 +2,6 @@
 title: "OS X Spellchecker has Magic Language Detection"
 date: 2010-08-30
 archive: posterous
-weblog: false
 ---
 
 I just noticed this. Pretty neat.

@@ -2,7 +2,6 @@
 title: "Things to Add to Rice Krispy Treats to Make Them \U0001F4AF"
 date: '2015-08-30T02:01:07+00:00'
 archive: listapp
-weblog: false
 likeCount: 15
 relistCount: 0
 ---

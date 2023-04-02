@@ -2,7 +2,6 @@
 title: How to Cut Bell Peppers Pretty
 date: '2016-01-09T01:53:09+00:00'
 archive: listapp
-weblog: false
 likeCount: 30
 relistCount: 2
 ---

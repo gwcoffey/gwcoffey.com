@@ -2,7 +2,6 @@
 title: The Narnia Books if Told From the Point of View of Some Turkish Delight
 date: '2015-09-16T18:23:49+00:00'
 archive: listapp
-weblog: false
 likeCount: 5
 relistCount: 0
 ---

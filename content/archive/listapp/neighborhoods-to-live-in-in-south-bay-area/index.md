@@ -2,7 +2,6 @@
 title: "➕➕Neighborhoods to Live in in South Bay Area…"
 date: '2015-06-06T20:07:20+00:00'
 archive: listapp
-weblog: false
 likeCount: 6
 relistCount: 1
 ---

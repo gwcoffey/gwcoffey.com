@@ -2,7 +2,6 @@
 title: Suits
 date: '2016-07-28T03:25:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 26
 relistCount: 3
 ---

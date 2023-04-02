@@ -2,7 +2,6 @@
 title: Parts of My Name That Are Weird
 date: '2015-08-25T17:40:53+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 0
 ---

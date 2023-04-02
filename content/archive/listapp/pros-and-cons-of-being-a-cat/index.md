@@ -2,7 +2,6 @@
 title: Pros and Cons of Being a Cat
 date: '2016-08-06T01:13:09+00:00'
 archive: listapp
-weblog: false
 likeCount: 37
 relistCount: 8
 ---

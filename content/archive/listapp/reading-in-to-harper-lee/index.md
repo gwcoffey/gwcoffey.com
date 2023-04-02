@@ -2,7 +2,6 @@
 title: Reading in to Harper Lee
 date: '2016-02-19T18:52:37+00:00'
 archive: listapp
-weblog: false
 likeCount: 18
 relistCount: 1
 ---

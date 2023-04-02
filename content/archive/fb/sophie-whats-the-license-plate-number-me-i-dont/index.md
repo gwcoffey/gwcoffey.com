@@ -2,7 +2,6 @@
 date: 2018-07-15 10:29:59.000000000 -07:00
 archive: fb
 id: '1531675799'
-weblog: false
 ---
 
 Sophie: What’s the license plate number. 

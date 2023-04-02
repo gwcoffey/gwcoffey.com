@@ -1,10 +1,12 @@
-    <nav>
-        {{/* capture stuff before we change scope */}}
-        {{ $x := . }}
-        {{ $page := .Page }}
-        {{ $menus := .Site.Menus }}
+    <nav>    	
+        <!-- capture stuff before we change scope -->
+        {{- $x := . -}}
+        {{- $page := .Page -}}
+        {{- $menus := .Site.Menus -}}
         {{ range $menuName := .Site.Params.navMenus }}
+        	{{- if ne $menuName "Main" -}}
 			<h2>{{ $menuName }}</h2>
+			{{- end -}}
 			<menu>
 			{{ range (index $menus $menuName) }}
 				{{- $menuTitle := or .Page.Params.menuTitle .Page.Title -}}

@@ -2,7 +2,6 @@
 date: 2012-08-24 13:54:06.000000000 -07:00
 archive: fb
 id: '1345841646'
-weblog: false
 ---
 
 I don't know who Lisa Borowsky is or what she stands for, but I'm voting for her because she's blonde.

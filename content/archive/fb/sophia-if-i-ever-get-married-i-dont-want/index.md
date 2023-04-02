@@ -2,7 +2,6 @@
 date: 2018-01-01 15:37:25.000000000 -08:00
 archive: fb
 id: '1514849845'
-weblog: false
 ---
 
 Sophia: If I ever get married I don’t want you to “give me away.”

@@ -2,7 +2,6 @@
 date: 2014-10-31 18:27:33.000000000 -07:00
 archive: fb
 id: '1414805253'
-weblog: false
 ---
 
 Another master craftsman getting the job done.

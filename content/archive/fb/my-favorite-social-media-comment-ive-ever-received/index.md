@@ -2,7 +2,6 @@
 date: 2016-04-20 22:43:19.000000000 -07:00
 archive: fb
 id: '1461217399'
-weblog: false
 ---
 
 My favorite social media comment I've ever received.

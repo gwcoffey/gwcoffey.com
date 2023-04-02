@@ -2,7 +2,6 @@
 date: 2018-01-20 19:01:10.000000000 -08:00
 archive: fb
 id: '1516503670'
-weblog: false
 ---
 
 It's funny. It's true in at least two ways.

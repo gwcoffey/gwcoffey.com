@@ -2,7 +2,6 @@
 title: A Season of Lasts
 date: '2016-05-20T22:43:12+00:00'
 archive: listapp
-weblog: false
 likeCount: 68
 relistCount: 4
 ---

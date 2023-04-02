@@ -2,7 +2,6 @@
 title: "I Gave Mamie a Mohawk"
 date: 2010-12-08
 archive: posterous
-weblog: false
 ---
 
 But she wouldn't keep it…

@@ -2,7 +2,6 @@
 date: 2016-07-26 16:02:38.000000000 -07:00
 archive: fb
 id: '1469574158'
-weblog: false
 ---
 
 I don't know what keeps happening in this city but I'm totally ok with it.

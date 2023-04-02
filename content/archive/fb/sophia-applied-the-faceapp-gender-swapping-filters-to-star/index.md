@@ -2,7 +2,6 @@
 date: 2017-05-25 22:51:32.000000000 -07:00
 archive: fb
 id: '1495777892'
-weblog: false
 ---
 
 Sophia applied the FaceApp gender swapping filters to Star Wars posters. I approve of this exercise.

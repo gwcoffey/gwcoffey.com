@@ -2,7 +2,6 @@
 date: 2017-10-26 09:07:40.000000000 -07:00
 archive: fb
 id: '1509034060'
-weblog: false
 ---
 
 Sophie filled my phone with Regina Spektor photos. + Elizabeth with Regina’s guitar. 

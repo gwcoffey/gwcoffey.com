@@ -2,7 +2,6 @@
 date: 2014-07-30 17:15:44.000000000 -07:00
 archive: fb
 id: '1406765744'
-weblog: false
 ---
 
 I get tons of call from some spanish-language telemarketing who-knows-what lately so I've taken to talking to them in my 20-years-forgotton high school spanish. It is fun:

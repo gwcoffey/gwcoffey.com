@@ -2,7 +2,6 @@
 title: Happy Birthday @evanp
 date: '2015-10-14T15:32:43+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 1
 ---

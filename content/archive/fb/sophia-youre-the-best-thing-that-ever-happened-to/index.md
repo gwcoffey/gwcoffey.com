@@ -2,7 +2,6 @@
 date: 2014-10-08 16:18:46.000000000 -07:00
 archive: fb
 id: '1412810326'
-weblog: false
 ---
 
 Sophia: You're the best thing that ever happened to me!

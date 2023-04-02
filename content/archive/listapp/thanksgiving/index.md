@@ -2,7 +2,6 @@
 title: Thanksgiving
 date: '2016-11-25T02:59:47+00:00'
 archive: listapp
-weblog: false
 likeCount: 49
 relistCount: 0
 ---

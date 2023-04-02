@@ -2,7 +2,6 @@
 date: 2017-03-08 07:44:50.000000000 -08:00
 archive: fb
 id: '1488987890'
-weblog: false
 ---
 
 Sophia's actually taking pictures. How organized she has become!

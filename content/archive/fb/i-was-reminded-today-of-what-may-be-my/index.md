@@ -2,7 +2,6 @@
 date: 2016-05-11 10:14:39.000000000 -07:00
 archive: fb
 id: '1462986879'
-weblog: false
 ---
 
 I was reminded today of what may be my favorite Steve Jobs anecdote: 

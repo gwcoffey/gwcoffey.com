@@ -2,7 +2,6 @@
 title: Lists I Couldn't Pull Off
 date: '2015-08-22T23:49:11+00:00'
 archive: listapp
-weblog: false
 likeCount: 7
 relistCount: 1
 ---

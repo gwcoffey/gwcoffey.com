@@ -2,7 +2,6 @@
 title: "Is There a Way to Accept This Thing With the Keyboard"
 date: 2011-06-28
 archive: posterous
-weblog: false
 ---
 
 Mac OS X Lion does iPhone-style autocorrect as you type. I'm leaving it on for now to see if I like it. If it autocorrects something, you can press Escape to ignore the correction, but sometimes I'm typing and not paying attention, and a correction I don't want is applied. Like on the iPhone, you can back up to the word that was corrected and it will show a popup like the one below so you can quickly restore what you originally entered:

@@ -2,7 +2,6 @@
 title: My Work History
 date: '2016-07-14T16:29:55+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 1
 ---

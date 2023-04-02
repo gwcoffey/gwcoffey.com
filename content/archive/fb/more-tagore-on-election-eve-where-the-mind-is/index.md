@@ -2,7 +2,6 @@
 date: 2016-11-07 20:52:34.000000000 -08:00
 archive: fb
 id: '1478580754'
-weblog: false
 ---
 
 More Tagore on election eve:

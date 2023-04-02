@@ -2,7 +2,6 @@
 date: 2017-01-31 11:09:44.000000000 -08:00
 archive: fb
 id: '1485889784'
-weblog: false
 ---
 
 Credit where credit is due. It's a small thing but the first thing I've seen where Trump has made the right and humane decision. And considering the reports of and draft language from a possible reversal order, and Pence's widely recognized abhorrent positions on LGBT issues, it seems likely it was Trump himself that pushed this outcome.

@@ -2,7 +2,6 @@
 title: I'll Have "The Sally"
 date: '2015-12-10T05:53:58+00:00'
 archive: listapp
-weblog: false
 likeCount: 58
 relistCount: 21
 ---

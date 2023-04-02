@@ -2,7 +2,6 @@
 date: 2017-11-22 11:15:57.000000000 -08:00
 archive: fb
 id: '1511378157'
-weblog: false
 ---
 
 Dear universe:

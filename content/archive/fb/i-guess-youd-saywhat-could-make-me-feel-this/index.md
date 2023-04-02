@@ -2,7 +2,6 @@
 date: 2018-01-28 15:31:12.000000000 -08:00
 archive: fb
 id: '1517182272'
-weblog: false
 ---
 
 “I guess you’d say…what could make me feel this way?”

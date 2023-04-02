@@ -2,7 +2,6 @@
 date: 2017-03-09 09:35:53.000000000 -08:00
 archive: fb
 id: '1489080953'
-weblog: false
 ---
 
 Checkmate, Chaffetz.

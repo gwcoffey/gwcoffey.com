@@ -3,7 +3,6 @@ title: Thoughts as I Try to Find the Emergency Room of This Hospital From the Pa
   Garage
 date: '2015-10-03T03:47:23+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 2
 ---

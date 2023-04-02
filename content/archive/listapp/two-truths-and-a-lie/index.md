@@ -2,7 +2,6 @@
 title: Two Truths and a Lie
 date: '2016-02-27T02:00:45+00:00'
 archive: listapp
-weblog: false
 likeCount: 22
 relistCount: 1
 ---

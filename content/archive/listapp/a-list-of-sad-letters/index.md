@@ -2,7 +2,6 @@
 title: A List of Sad Letters
 date: '2015-05-23T21:59:25+00:00'
 archive: listapp
-weblog: false
 likeCount: 24
 relistCount: 5
 ---

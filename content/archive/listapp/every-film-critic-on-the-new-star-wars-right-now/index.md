@@ -2,7 +2,6 @@
 title: Every Film Critic on the New Star Wars Right Now
 date: '2015-12-18T02:57:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 1
 ---

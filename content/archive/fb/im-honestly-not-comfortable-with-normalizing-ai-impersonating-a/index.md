@@ -2,7 +2,6 @@
 date: 2018-05-08 14:14:41.000000000 -07:00
 archive: fb
 id: '1525814081'
-weblog: false
 ---
 
 I’m honestly not comfortable with normalizing AI impersonating a human without being up front about it.

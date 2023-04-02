@@ -2,7 +2,6 @@
 title: Things Around Here That Look Like Other Things
 date: '2015-06-01T02:52:17+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 1
 ---

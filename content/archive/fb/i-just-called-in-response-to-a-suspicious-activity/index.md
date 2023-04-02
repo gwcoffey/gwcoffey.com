@@ -2,7 +2,6 @@
 date: 2013-04-01 17:39:06.000000000 -07:00
 archive: fb
 id: '1364863146'
-weblog: false
 ---
 
 I just called in response to a "suspicious activity" email from Bank of America. The guy that answered was laughing and talking to someone else, then cleared his throat and said, "uh, this is, uh, Bank of America [laughter], uh, can I get your credit card number please?" 

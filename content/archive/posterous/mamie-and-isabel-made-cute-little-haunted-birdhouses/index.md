@@ -2,7 +2,6 @@
 title: "Mamie and Isabel Made Cute Little Haunted Birdhouses"
 date: 2011-10-22
 archive: posterous
-weblog: false
 ---
 
 {{< figure 

@@ -2,7 +2,6 @@
 date: 2018-03-01 09:12:08.000000000 -08:00
 archive: fb
 id: '1519924328'
-weblog: false
 ---
 
 That last paragraph is a doozy. 

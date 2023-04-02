@@ -2,7 +2,6 @@
 date: 2018-03-04 09:32:15.000000000 -08:00
 archive: fb
 id: '1520184735'
-weblog: false
 ---
 
 9 hours to go.

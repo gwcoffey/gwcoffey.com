@@ -2,7 +2,6 @@
 title: Things I Can't Open Reliably
 date: '2015-06-08T02:45:10+00:00'
 archive: listapp
-weblog: false
 likeCount: 17
 relistCount: 1
 ---

@@ -2,7 +2,6 @@
 title: What I've Been Reading Recently
 date: '2016-08-13T22:07:21+00:00'
 archive: listapp
-weblog: false
 likeCount: 23
 relistCount: 0
 ---

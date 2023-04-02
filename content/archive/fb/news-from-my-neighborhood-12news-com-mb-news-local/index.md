@@ -2,7 +2,6 @@
 date: 2016-11-16 07:29:37.000000000 -08:00
 archive: fb
 id: '1479310177'
-weblog: false
 ---
 
 News from my neighborhood. 

@@ -2,7 +2,6 @@
 title: Irrational Relative Nervousness
 date: '2015-12-09T04:27:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

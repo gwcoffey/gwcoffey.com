@@ -2,7 +2,6 @@
 date: 2017-05-04 14:11:01.000000000 -07:00
 archive: fb
 id: '1493932261'
-weblog: false
 ---
 
 Happy Star Wars Day. Here's Alec Guinness (Obi-Wan Kenobi) grumbling about his role in a letter to a friend.

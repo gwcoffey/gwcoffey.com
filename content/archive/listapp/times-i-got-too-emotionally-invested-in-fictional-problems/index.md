@@ -2,7 +2,6 @@
 title: Times I Got Too Emotionally Invested in Fictional Problems
 date: '2016-06-18T00:27:06+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 2
 ---

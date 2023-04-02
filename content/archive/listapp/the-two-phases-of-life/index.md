@@ -2,7 +2,6 @@
 title: The Two Phases of Life
 date: '2016-02-04T00:57:20+00:00'
 archive: listapp
-weblog: false
 likeCount: 67
 relistCount: 3
 ---

@@ -2,7 +2,6 @@
 date: 2016-07-16 22:10:02.000000000 -07:00
 archive: fb
 id: '1468732202'
-weblog: false
 ---
 
 I feel like this passage from Crime and Punishment says more about politics than about romance. 

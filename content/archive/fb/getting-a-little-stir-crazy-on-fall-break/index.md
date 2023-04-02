@@ -2,7 +2,6 @@
 date: 2018-10-13 10:45:26.000000000 -07:00
 archive: fb
 id: '1539452726'
-weblog: false
 ---
 
 Getting a little stir crazy on fall break.

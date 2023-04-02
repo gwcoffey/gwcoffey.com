@@ -2,7 +2,6 @@
 title: Things That Amaze Me
 date: '2015-10-28T16:43:25+00:00'
 archive: listapp
-weblog: false
 likeCount: 147
 relistCount: 42
 ---

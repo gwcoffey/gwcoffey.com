@@ -2,7 +2,6 @@
 date: 2017-12-17 11:44:11.000000000 -08:00
 archive: fb
 id: '1513539851'
-weblog: false
 ---
 
 Looking forward to the fan theories 10 years from now that claim “Porgs” are secret Sith masters running everything. 

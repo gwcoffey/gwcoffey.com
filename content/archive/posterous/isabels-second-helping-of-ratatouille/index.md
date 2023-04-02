@@ -2,7 +2,6 @@
 title: "Isabel’s Second Helping of Ratatouille"
 date: 2011-01-25
 archive: posterous
-weblog: false
 ---
 
 Strangely, this has been Isabel's favorite dish since they were two and a half years old. "Ooh want!" they used to say at the grocery, holding a shiny black eggplant as big as their head…

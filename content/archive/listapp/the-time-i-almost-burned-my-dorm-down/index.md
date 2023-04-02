@@ -2,7 +2,6 @@
 title: The Time I Almost Burned My Dorm Down
 date: '2016-01-13T02:13:36+00:00'
 archive: listapp
-weblog: false
 likeCount: 56
 relistCount: 7
 ---

@@ -2,7 +2,6 @@
 date: 2017-01-29 08:07:18.000000000 -08:00
 archive: fb
 id: '1485706038'
-weblog: false
 ---
 
 Giuliani clarifying that this is not a Muslim ban because (his words):

@@ -2,7 +2,6 @@
 date: 2014-04-20 20:56:43.000000000 -07:00
 archive: fb
 id: '1398052603'
-weblog: false
 ---
 
 Isabel a few hours old.

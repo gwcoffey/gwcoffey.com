@@ -2,7 +2,6 @@
 title: How to Handle a 4-Way Stop
 date: '2015-12-31T23:46:55+00:00'
 archive: listapp
-weblog: false
 likeCount: 26
 relistCount: 5
 ---

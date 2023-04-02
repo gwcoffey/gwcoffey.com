@@ -2,7 +2,6 @@
 title: Cardinal Sins of News Site Design
 date: '2016-01-16T23:14:50+00:00'
 archive: listapp
-weblog: false
 likeCount: 37
 relistCount: 6
 ---

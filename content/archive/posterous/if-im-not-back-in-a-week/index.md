@@ -2,7 +2,6 @@
 title: "If I'm Not Back in a Week…"
 date: 2011-11-19
 archive: posterous
-weblog: false
 ---
 
 …call an ambulance.

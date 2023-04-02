@@ -2,7 +2,6 @@
 title: Not Reasons I Just Bought an iPhone SE
 date: '2016-03-25T17:34:28+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 0
 ---

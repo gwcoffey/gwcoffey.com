@@ -2,7 +2,6 @@
 date: 2016-09-02 21:02:03.000000000 -07:00
 archive: fb
 id: '1472875323'
-weblog: false
 ---
 
 I feel like George Washington and I would have been buds. How many times have I said I hate the word "tolerance"? In the wise words of my pal George: 

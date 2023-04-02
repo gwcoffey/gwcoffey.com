@@ -2,7 +2,6 @@
 title: My Day in One Sentence
 date: '2016-02-28T07:48:03+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 1
 ---

@@ -2,7 +2,6 @@
 date: 2017-12-27 12:44:05.000000000 -08:00
 archive: fb
 id: '1514407445'
-weblog: false
 ---
 
 Every time I share one of my own “memories” on Facebook I’m reminded of this bit from the brilliant short film “World of Tomorrow” (watch it on Netflix!):

@@ -2,7 +2,6 @@
 date: 2017-08-08 11:08:48.000000000 -07:00
 archive: fb
 id: '1502215728'
-weblog: false
 ---
 
 Sophia had to make up a riddle for Humanities class as part of their Beowulf section. I think she did pretty great. Let's see who can solve it!

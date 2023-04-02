@@ -2,7 +2,6 @@
 date: 2017-03-10 07:21:10.000000000 -08:00
 archive: fb
 id: '1489159270'
-weblog: false
 ---
 
 {{< fb/images >}}

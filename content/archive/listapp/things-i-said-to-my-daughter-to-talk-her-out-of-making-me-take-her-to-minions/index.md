@@ -2,7 +2,6 @@
 title: Things I Said to My Daughter to Talk Her Out of Making Me Take Her to Minions
 date: '2015-08-04T00:04:30+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 0
 ---

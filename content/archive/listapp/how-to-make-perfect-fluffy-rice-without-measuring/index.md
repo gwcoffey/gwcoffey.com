@@ -2,7 +2,6 @@
 title: How to Make Perfect Fluffy Rice Without Measuring
 date: '2016-01-28T01:27:30+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 1
 ---

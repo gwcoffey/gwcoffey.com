@@ -2,7 +2,6 @@
 title: Jobs I'd Really Like to Do Other Than the One I'm Already Doing
 date: '2016-04-06T00:42:41+00:00'
 archive: listapp
-weblog: false
 likeCount: 21
 relistCount: 3
 ---

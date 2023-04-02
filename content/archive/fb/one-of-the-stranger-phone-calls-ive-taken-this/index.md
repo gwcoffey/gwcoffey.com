@@ -2,7 +2,6 @@
 date: 2014-05-07 11:29:45.000000000 -07:00
 archive: fb
 id: '1399487385'
-weblog: false
 ---
 
 One of the stranger phone calls I've taken this week.

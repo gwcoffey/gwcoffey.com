@@ -2,7 +2,6 @@
 title: "Inferi?"
 date: 2011-05-03
 archive: posterous
-weblog: false
 ---
 
 I bought something on Amazon today and this promotional banner popped up:

@@ -2,7 +2,6 @@
 title: Things I Never Regret Spending Money On
 date: '2016-05-15T00:11:23+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 2
 ---

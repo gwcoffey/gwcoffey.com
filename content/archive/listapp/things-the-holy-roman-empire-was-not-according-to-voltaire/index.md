@@ -2,7 +2,6 @@
 title: Things the Holy Roman Empire Was Not, According to Voltaire
 date: '2016-01-24T21:19:59+00:00'
 archive: listapp
-weblog: false
 likeCount: 20
 relistCount: 0
 ---

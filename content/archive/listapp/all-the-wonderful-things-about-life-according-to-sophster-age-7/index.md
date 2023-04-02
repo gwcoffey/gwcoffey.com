@@ -2,7 +2,6 @@
 title: All The Wonderful Things About Life According to @sophster Age 7
 date: '2016-09-02T05:31:27+00:00'
 archive: listapp
-weblog: false
 likeCount: 31
 relistCount: 7
 ---

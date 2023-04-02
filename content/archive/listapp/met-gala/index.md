@@ -2,7 +2,6 @@
 title: Met Gala
 date: '2016-05-04T01:22:12+00:00'
 archive: listapp
-weblog: false
 likeCount: 19
 relistCount: 0
 ---

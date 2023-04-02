@@ -2,7 +2,6 @@
 date: 2017-12-03 10:35:43.000000000 -08:00
 archive: fb
 id: '1512326143'
-weblog: false
 ---
 
 Sophia: Why is it called a toilet paper *roll*?

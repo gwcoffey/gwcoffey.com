@@ -3,7 +3,6 @@ title: øAzium Strings
 date: 1998-08-17
 archive: forhire
 client: Waves in Motion
-weblog: false
 ---
 
 øAzium Strings is a FileMaker Plug-in that provides you with new calculation functions for working with text strings. Among other things you can:

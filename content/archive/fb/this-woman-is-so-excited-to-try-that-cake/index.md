@@ -2,7 +2,6 @@
 date: 2015-11-24 20:38:15.000000000 -08:00
 archive: fb
 id: '1448426295'
-weblog: false
 ---
 
 This woman is SO EXCITED to try that cake.

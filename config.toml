@@ -21,4 +21,4 @@ paginate = 50
     suffixes = ['zip']
 
 [params]
-	navMenus = [ "Writing", "Projects", "About" ]
+	navMenus = [ "Main", "Projects", "About" ]

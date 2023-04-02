@@ -2,7 +2,6 @@
 title: Things That Are Overrated
 date: '2015-05-28T01:03:28+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 1
 ---

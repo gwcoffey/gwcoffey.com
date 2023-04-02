@@ -2,7 +2,6 @@
 date: 2018-01-08 08:05:51.000000000 -08:00
 archive: fb
 id: '1515427551'
-weblog: false
 ---
 
 This is arguably the smartest thing Siri has ever said.

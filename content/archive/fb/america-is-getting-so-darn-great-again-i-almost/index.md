@@ -2,7 +2,6 @@
 date: 2017-03-20 16:18:08.000000000 -07:00
 archive: fb
 id: '1490051888'
-weblog: false
 ---
 
 America is getting so darn Great Again™ I almost can't contain myself.

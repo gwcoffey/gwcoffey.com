@@ -2,7 +2,6 @@
 date: 2016-07-14 18:08:58.000000000 -07:00
 archive: fb
 id: '1468544938'
-weblog: false
 ---
 
 Questions Sophia has asked me in the last thirty minutes:

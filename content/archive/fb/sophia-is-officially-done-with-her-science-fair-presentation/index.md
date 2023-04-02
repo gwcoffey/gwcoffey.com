@@ -2,7 +2,6 @@
 date: 2013-05-21 20:48:17.000000000 -07:00
 archive: fb
 id: '1369194497'
-weblog: false
 ---
 
 Sophia is officially done with her Science Fair presentation poster, her final research paper, and her research presentation poster. Phew! She worked hard hard hard the last few weeks to get it all done on time.

@@ -2,7 +2,6 @@
 date: 2011-02-25 21:14:58.000000000 -08:00
 archive: fb
 id: '1298697298'
-weblog: false
 ---
 
 Thank you everyone for wishing me a happy birthday. Same to all of you on the various days.

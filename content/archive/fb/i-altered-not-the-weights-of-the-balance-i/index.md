@@ -2,7 +2,6 @@
 date: 2017-08-22 21:08:10.000000000 -07:00
 archive: fb
 id: '1503461290'
-weblog: false
 ---
 
 "I altered not the weights of the balance. I tampered not with the balance itself."

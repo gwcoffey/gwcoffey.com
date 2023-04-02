@@ -2,7 +2,6 @@
 date: 2012-12-14 16:20:01.000000000 -08:00
 archive: fb
 id: '1355530801'
-weblog: false
 ---
 
 This is 100% true.

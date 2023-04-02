@@ -2,7 +2,6 @@
 title: The Most 80s Thing in Stranger Things
 date: '2016-09-10T18:30:00+00:00'
 archive: listapp
-weblog: false
 likeCount: 70
 relistCount: 15
 ---

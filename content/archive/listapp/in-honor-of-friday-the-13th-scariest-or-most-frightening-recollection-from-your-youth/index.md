@@ -3,7 +3,6 @@ title: In Honor of Friday the 13th, Scariest or Most Frightening Recollection Fr
   Your Youth
 date: '2016-05-13T18:52:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 21
 relistCount: 4
 ---

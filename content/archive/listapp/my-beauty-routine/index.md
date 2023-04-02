@@ -2,7 +2,6 @@
 title: My Beauty Routine
 date: '2016-04-17T20:15:32+00:00'
 archive: listapp
-weblog: false
 likeCount: 45
 relistCount: 5
 ---

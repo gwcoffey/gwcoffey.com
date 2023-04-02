@@ -2,7 +2,6 @@
 title: Things Barbers Always Overestimate
 date: '2015-12-10T16:43:04+00:00'
 archive: listapp
-weblog: false
 likeCount: 7
 relistCount: 0
 ---

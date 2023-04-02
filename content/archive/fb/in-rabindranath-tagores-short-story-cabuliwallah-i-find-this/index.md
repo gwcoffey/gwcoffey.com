@@ -2,7 +2,6 @@
 date: 2014-07-03 14:22:35.000000000 -07:00
 archive: fb
 id: '1404422555'
-weblog: false
 ---
 
 In Rabindranath Tagore's short story Cabuliwallah, I find this description of Sophia's fictional twin:

@@ -3,7 +3,6 @@ title: Three Reasons the Youth Camp Fundraiser I Took Food to Yesterday Was a Cu
   Above
 date: '2015-05-31T20:50:14+00:00'
 archive: listapp
-weblog: false
 likeCount: 10
 relistCount: 0
 ---

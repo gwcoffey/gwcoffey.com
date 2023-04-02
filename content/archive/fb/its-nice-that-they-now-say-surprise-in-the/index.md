@@ -2,7 +2,6 @@
 date: 2016-02-13 11:49:53.000000000 -08:00
 archive: fb
 id: '1455392993'
-weblog: false
 ---
 
 It's nice that they now say "SURPRISE!" in the Amber alerts. Fits with the blaring siren.

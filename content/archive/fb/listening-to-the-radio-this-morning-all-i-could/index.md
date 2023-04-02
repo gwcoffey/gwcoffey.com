@@ -2,7 +2,6 @@
 date: 2013-08-29 12:17:12.000000000 -07:00
 archive: fb
 id: '1377803832'
-weblog: false
 ---
 
 Listening to the radio this morning, all I could think of was this line from the brilliant 80s classic, 99 Red Balloons:

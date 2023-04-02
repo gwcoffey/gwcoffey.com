@@ -2,7 +2,6 @@
 title: My Favorite Things by Age
 date: '2016-06-18T02:00:37+00:00'
 archive: listapp
-weblog: false
 likeCount: 31
 relistCount: 7
 ---

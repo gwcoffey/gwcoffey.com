@@ -2,7 +2,6 @@
 date: 2012-12-10 16:37:09.000000000 -08:00
 archive: fb
 id: '1355186229'
-weblog: false
 ---
 
 I'm reading "Personality" by Henry Kellerman and having horrible flashbacks to my MBA days where we were subjected to textbooks full of great content couched in horrible writing.

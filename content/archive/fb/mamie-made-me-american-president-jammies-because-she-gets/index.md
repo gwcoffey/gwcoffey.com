@@ -2,7 +2,6 @@
 date: 2017-01-03 22:30:40.000000000 -08:00
 archive: fb
 id: '1483511440'
-weblog: false
 ---
 
 Mamie made me American President jammies because SHE GETS ME.

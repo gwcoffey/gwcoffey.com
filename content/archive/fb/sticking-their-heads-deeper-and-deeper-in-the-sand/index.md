@@ -2,7 +2,6 @@
 date: 2016-01-20 08:31:52.000000000 -08:00
 archive: fb
 id: '1453307512'
-weblog: false
 ---
 
 Sticking their heads deeper and deeper in the sand.

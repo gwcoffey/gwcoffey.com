@@ -2,7 +2,6 @@
 title: "Confederacy of Dunces Big Chief"
 date: 2012-03-19
 archive: posterous
-weblog: false
 ---
 
 Mamie made these "Big Chief" notebooks for her book club meeting tonight. They read *[A Confederacy of Dunces](https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces)*.

@@ -2,7 +2,6 @@
 title: THings @imc Inherited From Me (Genetically Speaking)
 date: '2016-01-14T22:43:40+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 1
 ---

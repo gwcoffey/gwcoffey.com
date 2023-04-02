@@ -2,7 +2,6 @@
 title: "My Favorite Holiday \U0001F46F"
 date: '2015-09-07T08:29:20+00:00'
 archive: listapp
-weblog: false
 likeCount: 22
 relistCount: 2
 ---

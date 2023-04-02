@@ -2,7 +2,6 @@
 date: 2016-03-01 09:33:02.000000000 -08:00
 archive: fb
 id: '1456853582'
-weblog: false
 ---
 
 Anybody have a home security camera they're happy with? Ideally something that you can monitor from the computer and/or iPhone. 

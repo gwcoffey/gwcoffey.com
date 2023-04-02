@@ -2,7 +2,6 @@
 title: Thankfully...
 date: '2016-06-03T05:07:18+00:00'
 archive: listapp
-weblog: false
 likeCount: 68
 relistCount: 18
 ---

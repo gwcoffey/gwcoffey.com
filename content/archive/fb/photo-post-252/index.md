@@ -2,7 +2,6 @@
 date: 2014-11-24 19:57:39.000000000 -08:00
 archive: fb
 id: '1416887859'
-weblog: false
 ---
 
 It happening!

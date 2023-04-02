@@ -2,7 +2,6 @@
 date: 2016-10-29 23:24:07.000000000 -07:00
 archive: fb
 id: '1477808647'
-weblog: false
 ---
 
 This is why I never wanted to join a party. Don't call me. I'll call you.

@@ -2,7 +2,6 @@
 date: 2016-04-21 08:57:16.000000000 -07:00
 archive: fb
 id: '1461254236'
-weblog: false
 ---
 
 Me: "Why is the TV on?"

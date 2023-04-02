@@ -2,7 +2,6 @@
 date: 2013-05-06 17:12:01.000000000 -07:00
 archive: fb
 id: '1367885521'
-weblog: false
 ---
 
 Sophia just pitched me her idea for a grocery store commercial. I quote:

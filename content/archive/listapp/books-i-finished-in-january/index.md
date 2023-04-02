@@ -2,7 +2,6 @@
 title: Books I Finished in January
 date: '2016-02-01T03:45:16+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

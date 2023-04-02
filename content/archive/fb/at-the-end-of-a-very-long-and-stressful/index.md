@@ -2,7 +2,6 @@
 date: 2015-04-26 19:07:14.000000000 -07:00
 archive: fb
 id: '1430100434'
-weblog: false
 ---
 
 At the end of a very long and stressful week I came home to discover my kids had made me this homemade feast. Seared tuna tacos with pico and sliced radish. Pollo asado tacos with mango chutney and red cabbage. And carnitas tacos with roasted tomato salsa and sliced jalapeño. 

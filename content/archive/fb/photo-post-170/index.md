@@ -2,7 +2,6 @@
 date: 2015-07-27 10:23:15.000000000 -07:00
 archive: fb
 id: '1438017795'
-weblog: false
 ---
 
 I dunno but I love it.

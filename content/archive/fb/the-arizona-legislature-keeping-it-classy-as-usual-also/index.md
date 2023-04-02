@@ -2,7 +2,6 @@
 date: 2017-02-04 12:34:06.000000000 -08:00
 archive: fb
 id: '1486240446'
-weblog: false
 ---
 
 The Arizona legislature keeping it classy as usual. 

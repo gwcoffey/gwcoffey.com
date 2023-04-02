@@ -2,7 +2,6 @@
 date: 2016-12-14 12:23:19.000000000 -08:00
 archive: fb
 id: '1481746999'
-weblog: false
 ---
 
 Texting with my family...

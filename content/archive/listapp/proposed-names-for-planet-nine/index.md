@@ -2,7 +2,6 @@
 title: Proposed Names for Planet Nine
 date: '2016-01-21T03:15:12+00:00'
 archive: listapp
-weblog: false
 likeCount: 33
 relistCount: 8
 ---

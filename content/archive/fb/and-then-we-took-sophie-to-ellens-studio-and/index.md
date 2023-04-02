@@ -2,7 +2,6 @@
 date: 2018-08-27 20:32:13.000000000 -07:00
 archive: fb
 id: '1535427133'
-weblog: false
 ---
 
 And then we took Sophie to Ellen’s studio and some other junk.

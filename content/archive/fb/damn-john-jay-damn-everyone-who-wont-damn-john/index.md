@@ -2,7 +2,6 @@
 date: 2016-12-23 10:14:44.000000000 -08:00
 archive: fb
 id: '1482516884'
-weblog: false
 ---
 
 Substitute as necessary.

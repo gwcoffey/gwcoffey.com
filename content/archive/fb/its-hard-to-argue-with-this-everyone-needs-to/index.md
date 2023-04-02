@@ -2,7 +2,6 @@
 date: 2016-09-12 23:22:09.000000000 -07:00
 archive: fb
 id: '1473747729'
-weblog: false
 ---
 
 It's hard to argue with this. 

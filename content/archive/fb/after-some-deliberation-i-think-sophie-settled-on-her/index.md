@@ -2,7 +2,6 @@
 date: 2018-03-16 20:10:47.000000000 -07:00
 archive: fb
 id: '1521256247'
-weblog: false
 ---
 
 After some deliberation I think Sophie settled on her choice for best thing in Greece.

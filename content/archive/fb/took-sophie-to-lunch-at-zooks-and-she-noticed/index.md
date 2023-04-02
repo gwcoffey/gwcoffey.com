@@ -2,7 +2,6 @@
 date: 2017-02-11 12:36:43.000000000 -08:00
 archive: fb
 id: '1486845403'
-weblog: false
 ---
 
 Took Sophie to lunch at Zooks and she noticed someone had put a little stone on top of every cactus.

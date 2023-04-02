@@ -2,7 +2,6 @@
 title: "Goodbye, List App Beta \U0001F48B\U0001F48B\U0001F48B\U0001F48B"
 date: '2015-10-14T18:44:24+00:00'
 archive: listapp
-weblog: false
 likeCount: 28
 relistCount: 1
 ---

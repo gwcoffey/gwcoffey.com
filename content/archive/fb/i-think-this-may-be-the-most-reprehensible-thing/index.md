@@ -2,7 +2,6 @@
 date: 2017-03-25 11:40:51.000000000 -07:00
 archive: fb
 id: '1490467251'
-weblog: false
 ---
 
 I think this may be the most reprehensible thing trump has said so far. 

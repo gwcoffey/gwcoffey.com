@@ -2,7 +2,6 @@
 date: 2016-10-02 17:16:41.000000000 -07:00
 archive: fb
 id: '1475453801'
-weblog: false
 ---
 
 After listening to biographies of Washington, Adams, and Jefferson, Audible's algorithms are on to me.

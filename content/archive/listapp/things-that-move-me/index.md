@@ -2,7 +2,6 @@
 title: Things That Move Me
 date: '2016-06-18T05:08:35+00:00'
 archive: listapp
-weblog: false
 likeCount: 47
 relistCount: 13
 ---

@@ -2,7 +2,6 @@
 title: List App Powerball Round 1!
 date: '2016-01-10T02:55:34+00:00'
 archive: listapp
-weblog: false
 likeCount: 11
 relistCount: 2
 ---

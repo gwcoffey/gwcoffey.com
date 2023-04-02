@@ -2,7 +2,6 @@
 title: Recipe for Destruction
 date: '2017-01-30T18:30:31+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

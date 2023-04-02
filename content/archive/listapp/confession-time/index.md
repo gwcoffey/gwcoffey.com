@@ -2,7 +2,6 @@
 title: Confession Time
 date: '2015-10-03T02:43:24+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 2
 ---

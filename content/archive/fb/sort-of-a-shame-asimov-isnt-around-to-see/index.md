@@ -2,7 +2,6 @@
 date: 2016-09-19 19:58:22.000000000 -07:00
 archive: fb
 id: '1474340302'
-weblog: false
 ---
 
 Sort of a shame Asimov isn't around to see this unfold.

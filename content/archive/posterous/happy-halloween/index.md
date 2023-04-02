@@ -2,7 +2,6 @@
 title: "Happy Halloween"
 date: 2010-10-30
 archive: posterous
-weblog: false
 ---
 
 The kids are ready for halloween…

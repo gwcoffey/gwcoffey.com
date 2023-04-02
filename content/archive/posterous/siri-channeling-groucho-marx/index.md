@@ -2,7 +2,6 @@
 title: "Siri Channeling Groucho Marx"
 date: 2011-11-05
 archive: posterous
-weblog: false
 ---
 
 {{< figure 

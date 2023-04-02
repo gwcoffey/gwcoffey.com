@@ -2,7 +2,6 @@
 date: 2015-09-22 09:35:15.000000000 -07:00
 archive: fb
 id: '1442939715'
-weblog: false
 ---
 
 Good reading for people considering downloading copies of compilers hosted by untrusted Chinese web sites.

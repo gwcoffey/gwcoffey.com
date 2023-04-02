@@ -2,7 +2,6 @@
 title: Things I Know Because of School House Rock
 date: '2015-06-29T01:50:58+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 5
 ---

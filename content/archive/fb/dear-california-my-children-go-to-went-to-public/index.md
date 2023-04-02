@@ -2,7 +2,6 @@
 date: 2018-07-24 14:38:51.000000000 -07:00
 archive: fb
 id: '1532468331'
-weblog: false
 ---
 
 Dear California:

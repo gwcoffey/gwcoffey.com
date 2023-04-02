@@ -2,7 +2,6 @@
 date: 2013-05-16 09:26:23.000000000 -07:00
 archive: fb
 id: '1368721583'
-weblog: false
 ---
 
 {{< quote cite="Jenna Fischer on her relationship with John Krasinski" >}}

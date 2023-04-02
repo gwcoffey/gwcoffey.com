@@ -2,7 +2,6 @@
 title: Suggested Serving Sizes
 date: '2016-01-31T20:55:58+00:00'
 archive: listapp
-weblog: false
 likeCount: 106
 relistCount: 17
 ---

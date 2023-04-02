@@ -2,7 +2,6 @@
 title: "If You Ever Wanted to Understand Sophia…"
 date: 2010-08-30
 archive: posterous
-weblog: false
 ---
 
 That's my girl!

@@ -2,7 +2,6 @@
 date: 2018-06-20 08:59:03.000000000 -07:00
 archive: fb
 id: '1529510343'
-weblog: false
 ---
 
 Crêpe day.

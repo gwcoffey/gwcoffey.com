@@ -2,7 +2,6 @@
 date: 2017-07-15 14:21:29.000000000 -07:00
 archive: fb
 id: '1500153689'
-weblog: false
 ---
 
 Hanging out with my people celebrating Isabel's birthday late.

@@ -2,7 +2,6 @@
 date: 2013-11-30 14:20:48.000000000 -08:00
 archive: fb
 id: '1385850048'
-weblog: false
 ---
 
 Sophia takes a "selfie". <3

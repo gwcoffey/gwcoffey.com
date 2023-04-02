@@ -2,7 +2,6 @@
 date: 2016-11-16 13:04:04.000000000 -08:00
 archive: fb
 id: '1479330244'
-weblog: false
 ---
 
 {{< quote cite="Octavia E. Butler, Parable of the Talents" >}}

@@ -2,7 +2,6 @@
 title: Muse
 date: '2016-11-07T04:50:22+00:00'
 archive: listapp
-weblog: false
 likeCount: 17
 relistCount: 0
 ---

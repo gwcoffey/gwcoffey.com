@@ -2,7 +2,6 @@
 title: '@sophster Was "The Whether Man" in Phantom Tollbooth and She Killed It'
 date: '2016-02-24T16:39:45+00:00'
 archive: listapp
-weblog: false
 likeCount: 20
 relistCount: 1
 ---

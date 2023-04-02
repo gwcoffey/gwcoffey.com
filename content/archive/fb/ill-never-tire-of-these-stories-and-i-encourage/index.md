@@ -2,7 +2,6 @@
 date: 2017-11-22 12:26:21.000000000 -08:00
 archive: fb
 id: '1511382381'
-weblog: false
 ---
 
 I'll never tire of these stories and I encourage the press to keep reporting them. 

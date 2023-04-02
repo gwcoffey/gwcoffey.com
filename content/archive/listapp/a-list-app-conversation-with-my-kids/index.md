@@ -2,7 +2,6 @@
 title: A List App Conversation With My Kids
 date: '2015-10-31T23:06:34+00:00'
 archive: listapp
-weblog: false
 likeCount: 38
 relistCount: 0
 ---

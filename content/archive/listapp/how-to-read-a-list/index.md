@@ -2,7 +2,6 @@
 title: How to Read a List
 date: '2015-09-15T03:02:04+00:00'
 archive: listapp
-weblog: false
 likeCount: 28
 relistCount: 8
 ---

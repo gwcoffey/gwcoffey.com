@@ -2,7 +2,6 @@
 title: "Isabel Scores a Point at Air Hockey"
 date: 2011-03-05
 archive: posterous
-weblog: false
 ---
 
 {{< figure 

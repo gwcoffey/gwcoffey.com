@@ -2,7 +2,6 @@
 title: Things That Get Weirder the More You Think About Them
 date: '2015-06-18T15:31:05+00:00'
 archive: listapp
-weblog: false
 likeCount: 30
 relistCount: 6
 ---

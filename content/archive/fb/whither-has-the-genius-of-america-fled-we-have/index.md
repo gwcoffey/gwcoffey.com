@@ -2,7 +2,6 @@
 date: 2017-05-24 23:29:23.000000000 -07:00
 archive: fb
 id: '1495693763'
-weblog: false
 ---
 
 {{< quote cite="John Tyler" >}}

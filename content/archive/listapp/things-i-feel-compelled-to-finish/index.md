@@ -2,7 +2,6 @@
 title: Things I Feel Compelled to Finish
 date: '2016-03-16T00:27:07+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 1
 ---

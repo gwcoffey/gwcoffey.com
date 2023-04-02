@@ -2,7 +2,6 @@
 date: 2014-04-06 23:24:41.000000000 -07:00
 archive: fb
 id: '1396851881'
-weblog: false
 ---
 
 Facebook: "You may like these pages"

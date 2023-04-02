@@ -2,7 +2,6 @@
 date: 2018-07-06 09:25:52.000000000 -07:00
 archive: fb
 id: '1530894352'
-weblog: false
 ---
 
 "Records linking children to their parents have disappeared, and in some cases have been destroyed … leaving the authorities struggling to identify connections between family members."

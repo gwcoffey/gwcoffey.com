@@ -2,7 +2,6 @@
 title: Do you take off your face and your hands when you go to bed?
 date: '2016-05-17T04:14:10+00:00'
 archive: listapp
-weblog: false
 likeCount: 18
 relistCount: 2
 ---

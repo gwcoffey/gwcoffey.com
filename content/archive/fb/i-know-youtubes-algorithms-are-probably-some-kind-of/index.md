@@ -2,7 +2,6 @@
 date: 2018-02-02 08:52:23.000000000 -08:00
 archive: fb
 id: '1517590343'
-weblog: false
 ---
 
 I know YouTube’s algorithms are probably some kind of super-smart machine learning AI but I think I’ve kind of figured them out:

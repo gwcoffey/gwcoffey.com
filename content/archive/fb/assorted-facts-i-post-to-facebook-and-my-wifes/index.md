@@ -2,7 +2,6 @@
 date: 2016-08-04 10:59:27.000000000 -07:00
 archive: fb
 id: '1470333567'
-weblog: false
 ---
 
 Assorted facts:

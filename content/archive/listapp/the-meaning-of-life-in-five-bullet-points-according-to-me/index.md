@@ -2,7 +2,6 @@
 title: The Meaning of Life in Five Bullet Points, According to Me
 date: '2015-12-07T15:40:00+00:00'
 archive: listapp
-weblog: false
 likeCount: 40
 relistCount: 7
 ---

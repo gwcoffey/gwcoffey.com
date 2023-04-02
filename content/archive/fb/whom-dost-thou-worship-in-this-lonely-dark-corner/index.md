@@ -2,7 +2,6 @@
 date: 2016-11-10 10:39:01.000000000 -08:00
 archive: fb
 id: '1478803141'
-weblog: false
 ---
 
 {{< quote cite="Rabindranath Tagore" >}}

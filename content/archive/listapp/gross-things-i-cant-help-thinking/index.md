@@ -2,7 +2,6 @@
 title: "Gross Things I Can't Help Thinking \U0001F637"
 date: '2016-02-13T17:11:29+00:00'
 archive: listapp
-weblog: false
 likeCount: 34
 relistCount: 3
 ---

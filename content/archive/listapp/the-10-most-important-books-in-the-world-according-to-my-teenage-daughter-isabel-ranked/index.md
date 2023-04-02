@@ -3,7 +3,6 @@ title: The 10 Most Important Books in the World According to My Teenage Child,
   Isabel, Ranked
 date: '2015-10-03T05:23:58+00:00'
 archive: listapp
-weblog: false
 likeCount: 17
 relistCount: 1
 ---

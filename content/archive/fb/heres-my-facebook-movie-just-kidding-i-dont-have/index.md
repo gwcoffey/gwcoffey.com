@@ -2,7 +2,6 @@
 date: 2014-02-05 09:51:32.000000000 -08:00
 archive: fb
 id: '1391622692'
-weblog: false
 ---
 
 Here's my Facebook movie. Just kidding. I don't have a Facebook movie. Get a life, people.

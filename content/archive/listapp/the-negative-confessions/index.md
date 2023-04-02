@@ -2,7 +2,6 @@
 title: The Negative Confessions
 date: '2017-08-21T03:31:00+00:00'
 archive: listapp
-weblog: false
 likeCount: 8
 relistCount: 0
 ---

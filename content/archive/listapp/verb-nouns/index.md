@@ -2,7 +2,6 @@
 title: Verb Nouns
 date: '2015-12-03T04:57:11+00:00'
 archive: listapp
-weblog: false
 likeCount: 27
 relistCount: 6
 ---

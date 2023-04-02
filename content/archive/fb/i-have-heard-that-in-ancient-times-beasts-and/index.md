@@ -2,7 +2,6 @@
 date: 2017-06-03 11:24:00.000000000 -07:00
 archive: fb
 id: '1496514240'
-weblog: false
 ---
 
 {{< quote cite="from Henry von Ofterdingen by Novalis" >}}

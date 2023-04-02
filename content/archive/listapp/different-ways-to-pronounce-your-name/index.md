@@ -2,7 +2,6 @@
 title: Different Ways to Pronounce Your Name
 date: '2015-12-05T18:13:18+00:00'
 archive: listapp
-weblog: false
 likeCount: 14
 relistCount: 0
 ---

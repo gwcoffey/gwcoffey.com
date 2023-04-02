@@ -2,7 +2,6 @@
 title: Flavors of Starburst Candy, Ranked
 date: '2015-07-01T19:13:42+00:00'
 archive: listapp
-weblog: false
 likeCount: 7
 relistCount: 0
 ---

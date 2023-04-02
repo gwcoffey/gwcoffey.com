@@ -2,7 +2,6 @@
 title: The Struggle Used to Be Real...
 date: '2016-05-17T19:03:13+00:00'
 archive: listapp
-weblog: false
 likeCount: 70
 relistCount: 20
 ---

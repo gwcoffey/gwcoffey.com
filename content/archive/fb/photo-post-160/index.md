@@ -2,7 +2,6 @@
 date: 2015-09-16 00:22:08.000000000 -07:00
 archive: fb
 id: '1442388128'
-weblog: false
 ---
 
 Hey look my new car has more miles on the current trip than on the odometer. Spoooooky. 

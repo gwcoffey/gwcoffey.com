@@ -2,7 +2,6 @@
 date: 2014-01-25 22:34:30.000000000 -08:00
 archive: fb
 id: '1390718070'
-weblog: false
 ---
 
 {{< fb/images >}}

@@ -1,6 +1,6 @@
 ---
 title: "Old Site Archives"
-menu: About
+menu: Main
 menuTitle: "archive"
 weight: 5
 hidden: true

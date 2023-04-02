@@ -2,7 +2,6 @@
 date: 2013-06-30 21:55:53.000000000 -07:00
 archive: fb
 id: '1372654553'
-weblog: false
 ---
 
 A typical conversation with my borderline brain-dead cat lately:

@@ -2,7 +2,6 @@
 title: Michelle Obama Is...
 date: '2016-03-14T20:36:36+00:00'
 archive: listapp
-weblog: false
 likeCount: 66
 relistCount: 9
 ---

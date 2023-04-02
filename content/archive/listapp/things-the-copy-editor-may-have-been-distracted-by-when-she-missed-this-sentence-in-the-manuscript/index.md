@@ -3,7 +3,6 @@ title: Things The Copy Editor May Have Been Distracted By When She Missed This S
   In The Manuscript
 date: '2016-06-09T05:21:32+00:00'
 archive: listapp
-weblog: false
 likeCount: 24
 relistCount: 6
 ---

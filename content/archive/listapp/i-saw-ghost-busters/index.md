@@ -2,7 +2,6 @@
 title: I saw Ghost Busters
 date: '2016-07-21T19:17:10+00:00'
 archive: listapp
-weblog: false
 likeCount: 52
 relistCount: 6
 ---

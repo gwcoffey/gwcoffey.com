@@ -2,7 +2,6 @@
 date: 2017-11-19 09:29:52.000000000 -08:00
 archive: fb
 id: '1511112592'
-weblog: false
 ---
 
 Sophie looking super cute doing homework.

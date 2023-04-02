@@ -2,7 +2,6 @@
 date: 2018-03-09 14:03:30.000000000 -08:00
 archive: fb
 id: '1520633010'
-weblog: false
 ---
 
 Have I mentioned how much I love all the side by side consonants in Greek?

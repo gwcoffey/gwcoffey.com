@@ -2,7 +2,6 @@
 title: How to Be Me in Five Easy Steps
 date: '2016-02-17T01:23:54+00:00'
 archive: listapp
-weblog: false
 likeCount: 57
 relistCount: 11
 ---

@@ -2,7 +2,6 @@
 date: 2016-11-20 15:31:33.000000000 -08:00
 archive: fb
 id: '1479684693'
-weblog: false
 ---
 
 Sophia: I think yeasty is my favorite flavor. 

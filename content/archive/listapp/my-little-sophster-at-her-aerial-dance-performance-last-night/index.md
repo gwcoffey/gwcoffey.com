@@ -2,7 +2,6 @@
 title: My Little @sophster at Her Aerial Dance Performance Last Night
 date: '2015-12-18T14:29:23+00:00'
 archive: listapp
-weblog: false
 likeCount: 25
 relistCount: 0
 ---

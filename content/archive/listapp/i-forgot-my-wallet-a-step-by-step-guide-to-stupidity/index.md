@@ -2,7 +2,6 @@
 title: 'I Forgot My Wallet: A Step by Step Guide to Stupidity'
 date: '2015-08-15T19:08:39+00:00'
 archive: listapp
-weblog: false
 likeCount: 12
 relistCount: 0
 ---

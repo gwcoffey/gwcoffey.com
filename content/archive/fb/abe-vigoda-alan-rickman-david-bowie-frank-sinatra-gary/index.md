@@ -2,7 +2,6 @@
 date: 2016-04-21 11:30:39.000000000 -07:00
 archive: fb
 id: '1461263439'
-weblog: false
 ---
 
 * Abe Vigoda

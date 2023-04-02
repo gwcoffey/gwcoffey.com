@@ -2,7 +2,6 @@
 title: My Fold
 date: '2016-11-07T19:19:54+00:00'
 archive: listapp
-weblog: false
 likeCount: 16
 relistCount: 0
 ---

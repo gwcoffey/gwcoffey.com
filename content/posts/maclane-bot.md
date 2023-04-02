@@ -31,7 +31,7 @@ I think the thing I love most about her writing is that it pulls no punches. In 
 
 I love her pleading prose. I love her dry humor. I love her strangeness in all its forms.  Some people are turned off by her ego. Some by her irreverence. Some by her dramatics. (And some, of course because she's bisexual.) But I love her. I love her not in spite of these things but because of them.
 
-As Mary says in her entry on {{< time "1901-04-13" "April 13" >}}, {{< q "I have given my heart into the keeping of this." >}} And now *I* give it to *you*. 
+As Mary says in her entry on {{< time "1901-04-13" "April 13" >}}, {{< q >}}I have given my heart into the keeping of this.{{< /q >}} And now *I* give it to *you*. 
 
 ## Technical Details
 

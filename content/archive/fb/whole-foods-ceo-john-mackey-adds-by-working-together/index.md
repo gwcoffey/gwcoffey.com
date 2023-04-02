@@ -2,7 +2,6 @@
 date: 2017-08-24 16:16:46.000000000 -07:00
 archive: fb
 id: '1503616606'
-weblog: false
 ---
 
 “Whole Foods CEO John Mackey adds, ‘By working together with Amazon and integrating in several key areas, we can lower prices and double down on that mission and reach more people.’”

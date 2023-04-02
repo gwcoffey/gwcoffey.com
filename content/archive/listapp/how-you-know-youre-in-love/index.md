@@ -2,7 +2,6 @@
 title: How You Know You're in Love
 date: '2016-04-22T23:38:44+00:00'
 archive: listapp
-weblog: false
 likeCount: 54
 relistCount: 10
 ---

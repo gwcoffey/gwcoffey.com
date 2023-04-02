@@ -2,7 +2,6 @@
 date: 2016-08-30 22:06:27.000000000 -07:00
 archive: fb
 id: '1472619987'
-weblog: false
 ---
 
 {{< quote cite="Justice Robert H. Jackson, West Virginia State Board of Education v. Barnette, 1943" >}}

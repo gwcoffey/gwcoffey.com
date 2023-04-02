@@ -2,7 +2,6 @@
 date: 2016-10-13 08:30:44.000000000 -07:00
 archive: fb
 id: '1476372644'
-weblog: false
 ---
 
 This is new right?

@@ -2,7 +2,6 @@
 title: Obsession
 date: '2016-06-19T20:17:33+00:00'
 archive: listapp
-weblog: false
 likeCount: 77
 relistCount: 13
 ---

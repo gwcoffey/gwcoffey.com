@@ -2,7 +2,6 @@
 date: 2017-02-10 23:57:40.000000000 -08:00
 archive: fb
 id: '1486799860'
-weblog: false
 ---
 
 {{< quote cite="Rabo Karabekian" >}}

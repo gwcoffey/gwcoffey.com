@@ -2,7 +2,6 @@
 title: Things Pervasive Video Cameras Have Put To Rest
 date: '2016-07-07T17:40:00+00:00'
 archive: listapp
-weblog: false
 likeCount: 61
 relistCount: 13
 ---

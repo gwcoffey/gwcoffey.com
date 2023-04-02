@@ -2,7 +2,6 @@
 date: 2018-02-21 21:40:49.000000000 -08:00
 archive: fb
 id: '1519278049'
-weblog: false
 ---
 
 I feel like a good illustration of privilege is: The Republican Party has successfully alienated women, immigrants, people of color, Muslims, lgbt people, and young people. But they still have power. 

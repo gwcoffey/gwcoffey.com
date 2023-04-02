@@ -2,7 +2,6 @@
 date: 2017-11-09 18:39:30.000000000 -08:00
 archive: fb
 id: '1510281570'
-weblog: false
 ---
 
 Where does the Republican Party find these people? Good heavens what a sicko.

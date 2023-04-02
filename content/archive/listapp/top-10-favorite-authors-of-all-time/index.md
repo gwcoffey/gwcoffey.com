@@ -2,7 +2,6 @@
 title: Top 10 Favorite Authors of All Time
 date: '2016-01-07T20:35:10+00:00'
 archive: listapp
-weblog: false
 likeCount: 17
 relistCount: 0
 ---

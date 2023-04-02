@@ -2,7 +2,6 @@
 title: Things I Believe That I Learned From Unbreakable Kimmy Schmidt
 date: '2016-04-28T18:06:40+00:00'
 archive: listapp
-weblog: false
 likeCount: 67
 relistCount: 9
 ---

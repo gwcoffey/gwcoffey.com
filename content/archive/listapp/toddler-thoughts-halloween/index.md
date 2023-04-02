@@ -2,7 +2,6 @@
 title: 'Toddler Thoughts: Halloween'
 date: '2015-10-30T23:20:17+00:00'
 archive: listapp
-weblog: false
 likeCount: 62
 relistCount: 23
 ---

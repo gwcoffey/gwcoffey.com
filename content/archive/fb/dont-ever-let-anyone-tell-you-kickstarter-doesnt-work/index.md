@@ -2,7 +2,6 @@
 date: 2016-12-12 18:53:06.000000000 -08:00
 archive: fb
 id: '1481597586'
-weblog: false
 ---
 
 Don't ever let anyone tell you kickstarter doesn't work. I backed the Vonnegut documentary 20 months ago and the thank you gift that was promised for fall 2015 came today. Still no documentary but, like, this is a start...?

@@ -2,7 +2,6 @@
 date: 2014-10-31 11:00:58.000000000 -07:00
 archive: fb
 id: '1414778458'
-weblog: false
 ---
 
 She made the sword from insulation foam, air dry clay, batting, and leather strap. The helmet is EVA foam.

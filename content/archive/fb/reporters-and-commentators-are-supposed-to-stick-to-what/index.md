@@ -2,7 +2,6 @@
 date: 2016-07-25 09:16:25.000000000 -07:00
 archive: fb
 id: '1469463385'
-weblog: false
 ---
 
 {{< quote cite="George Lakoff" >}}

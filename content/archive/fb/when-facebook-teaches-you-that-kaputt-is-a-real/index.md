@@ -2,7 +2,6 @@
 date: 2016-09-14 15:16:36.000000000 -07:00
 archive: fb
 id: '1473891396'
-weblog: false
 ---
 
 When Facebook teaches you that "kaputt" is a real German word.

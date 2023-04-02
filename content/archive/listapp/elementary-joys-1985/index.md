@@ -2,7 +2,6 @@
 title: Elementary Joys, 1985
 date: '2016-05-19T02:09:43+00:00'
 archive: listapp
-weblog: false
 likeCount: 24
 relistCount: 2
 ---

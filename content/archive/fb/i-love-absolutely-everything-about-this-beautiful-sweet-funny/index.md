@@ -2,7 +2,6 @@
 date: 2015-02-25 08:28:43.000000000 -08:00
 archive: fb
 id: '1424881723'
-weblog: false
 ---
 
 I love absolutely everything about this beautiful, sweet, funny oscar-nominated animated short film. It’s $3 and 13 minutes. You watch now please.

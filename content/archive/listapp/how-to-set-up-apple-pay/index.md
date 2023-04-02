@@ -2,7 +2,6 @@
 title: How To Set Up Apple Pay
 date: '2016-08-04T22:52:30+00:00'
 archive: listapp
-weblog: false
 likeCount: 50
 relistCount: 7
 ---

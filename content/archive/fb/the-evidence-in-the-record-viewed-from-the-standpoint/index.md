@@ -2,7 +2,6 @@
 date: 2017-05-25 12:25:56.000000000 -07:00
 archive: fb
 id: '1495740356'
-weblog: false
 ---
 
 {{< quote cite="4th Circuit Court of Appeals (just now)" >}}

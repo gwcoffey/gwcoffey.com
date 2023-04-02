@@ -2,7 +2,6 @@
 date: 2016-09-01 20:52:16.000000000 -07:00
 archive: fb
 id: '1472788336'
-weblog: false
 ---
 
 I bet the only people who didn't see this coming were wearing Google Glass.

@@ -2,7 +2,6 @@
 date: 2014-08-26 18:31:54.000000000 -07:00
 archive: fb
 id: '1409103114'
-weblog: false
 ---
 
 Found this on my iPad. I think Taylor's afraid of the cat..

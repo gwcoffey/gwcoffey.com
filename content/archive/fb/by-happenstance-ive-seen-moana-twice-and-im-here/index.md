@@ -2,7 +2,6 @@
 date: 2016-12-23 21:53:29.000000000 -08:00
 archive: fb
 id: '1482558809'
-weblog: false
 ---
 
 By happenstance I've seen Moana twice and I'm here to tell you it is actually very very good. 

@@ -2,7 +2,6 @@
 date: 2017-02-28 08:59:50.000000000 -08:00
 archive: fb
 id: '1488301190'
-weblog: false
 ---
 
 I call this found art object "Bay Area".

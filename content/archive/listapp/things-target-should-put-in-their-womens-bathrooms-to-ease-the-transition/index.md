@@ -2,7 +2,6 @@
 title: Things Target Should Put in their Women's Bathrooms to Ease the Transition
 date: '2016-05-16T15:37:41+00:00'
 archive: listapp
-weblog: false
 likeCount: 19
 relistCount: 4
 ---

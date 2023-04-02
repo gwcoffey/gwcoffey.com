@@ -2,7 +2,6 @@
 date: 2017-08-17 15:16:18.000000000 -07:00
 archive: fb
 id: '1503008178'
-weblog: false
 ---
 
 Today I learned Art Spiegelman was behind Garbage Pail Kids.

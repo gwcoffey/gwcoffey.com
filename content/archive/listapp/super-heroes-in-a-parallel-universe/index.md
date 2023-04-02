@@ -2,7 +2,6 @@
 title: Super Heroes in a Parallel Universe
 date: '2015-08-16T03:19:26+00:00'
 archive: listapp
-weblog: false
 likeCount: 11
 relistCount: 2
 ---
