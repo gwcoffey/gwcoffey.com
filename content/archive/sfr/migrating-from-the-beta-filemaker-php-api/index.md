@@ -2,6 +2,8 @@
 title: "Migrating from the Beta FileMaker PHP API"
 date: 2007-09-25
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 This is a quickie: If you were using the beta release of the PHP API for FileMaker, there are some things you should know.

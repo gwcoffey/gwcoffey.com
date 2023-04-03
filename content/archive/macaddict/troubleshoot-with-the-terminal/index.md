@@ -2,6 +2,8 @@
 title: Troubleshoot with the Terminal
 date: '2004-02-01'
 archive: macaddict
+tags: 
+  - Archive Post
 ---
 
 Apple's accomplished the impossible with AMac OS X: It's created an operating system that geeks, grandmas, creative types, business-minded peeps, and even kindergartners can love. And not only does it offer a user-friendly and stylish graphical interface, but it's got Unix at its core. While a productive Mac-head need not care a whit about Unix, that's not to say a little Unix can't come in handy.

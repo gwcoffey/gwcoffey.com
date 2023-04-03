@@ -2,6 +2,8 @@
 title: An Honest Exchange
 date: '2015-11-10T02:42:38+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 61
 relistCount: 9
 ---

@@ -2,6 +2,8 @@
 title: "Put Multiple Windows to Work"
 date: 2007-11-20
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 These days, most FileMaker Pro databases are just one file. When you open this file, you see one window on your screen, full of all the data and interface you (or your colleagues) put there. And often, this one window is enough. After all, you can freely switch layouts, perform finds, and (with FileMaker 9 or later) resize the window to get a bigger view. But the truth is, FileMaker can do a whole lot more. You can have as many windows as you want, each showing a different layout, found set, sort order, and so forth — all from the same database file.

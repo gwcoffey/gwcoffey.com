@@ -2,6 +2,8 @@
 title: "The Secret Life of Find Mode: Omit"
 date: 2007-09-18
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Today’s Find mode article is short-and-sweet. If you ever feel it would be easier to tell FileMaker what you *don’t* want it to find, the Omit checkbox is your friend. In fact, you can use this esoteric Find mode widget to create incredibly complex queries that target exactly what you want.

@@ -2,6 +2,8 @@
 title: Affecting Buffy Moments
 date: '2015-08-11T14:18:14+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 24
 relistCount: 8
 ---

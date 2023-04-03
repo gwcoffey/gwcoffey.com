@@ -2,6 +2,8 @@
 title: Words You People Use
 date: '2015-10-28T15:13:59+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 52
 relistCount: 8
 ---

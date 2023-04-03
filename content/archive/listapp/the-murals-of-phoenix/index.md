@@ -2,6 +2,8 @@
 title: The Murals of Phoenix
 date: '2015-07-12T01:10:37+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 8
 ---

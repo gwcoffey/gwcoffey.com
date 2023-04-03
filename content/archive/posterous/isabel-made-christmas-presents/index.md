@@ -2,6 +2,8 @@
 title: "Isabel Made Christmas Presents"
 date: 2010-10-06
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Isabel practiced sewing and Grandma Coffey's house by making Christmas presents for family members.

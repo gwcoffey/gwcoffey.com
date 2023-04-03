@@ -2,6 +2,8 @@
 title: "FileMaker DevCon 2007 Day One"
 date: 2007-08-07
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 The show has officially started. I’m seeing faces I haven’t seen in ages and having a blast. Here’s a quick recap of the highlights of DevCon so far, from my perspective.

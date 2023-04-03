@@ -2,6 +2,8 @@
 title: Zombie Apocalypse Preparedness Ranked
 date: '2015-08-28T18:47:25+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 15
 relistCount: 2
 ---

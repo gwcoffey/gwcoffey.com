@@ -2,6 +2,8 @@
 title: "Use Tooltips to Guide Your Users"
 date: 2007-03-19
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 If you've used a computer sometime in the last five years, chances are you've seen tooltips. These informational little  boxes pop up to help you out when you point at just about anything on the computer screen, from a toolbar icon to a truncated file name (Figure 1). Tooltips are so common, in fact, that many users know to look for them whenever they're not sure what a particular button, icon, slider, or knob will do.

@@ -2,6 +2,8 @@
 title: Iconic U2 Guitar Hooks
 date: '2015-08-12T14:32:30+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 3
 relistCount: 0
 ---

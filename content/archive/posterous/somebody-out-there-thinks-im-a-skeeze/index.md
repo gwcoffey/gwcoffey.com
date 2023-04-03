@@ -2,6 +2,8 @@
 title: "Somebody Out There Thinks I'm a Skeeze"
 date: 2011-07-30
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I have the unfortunate habit, when I'm distracted by work, of engaging in conversations without being aware of what's being said. A few years ago I was working on site with a client in Tempe. I had use of a private office and a keyboard, mouse, and screen to which I could attach my laptop. But I prefer the laptop mouse and keyboard in most cases, so I would connect only the screen, as a secondary display, to make use of on occasion. Under most circumstances, the second screen was empty, aside from the background picture my computer displays, which is randomly selected from a collection of family photos I've set aside for the purpose.

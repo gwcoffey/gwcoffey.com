@@ -2,6 +2,8 @@
 title: First Steve Jobs
 date: '2016-08-10T04:15:13+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 4
 ---

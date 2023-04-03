@@ -2,6 +2,8 @@
 title: "The Secret Life of Find Mode: Dates and Times"
 date: 2007-08-28
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Date values (and to a lesser extent, time values) are exceptionally common in database applications. And it isn’t at all unusual to want to ask you database interesting date-related questions, like “How many orders do we get on Tuesdays?” or “What was our total enrollment for the first quarter?” In fact, it is probably more common to look at ranges of dates than any particular date. Of course, if you’ve read our [previous article](../the-secret-life-of-find-mode-requests/) on Find mode, you know how to find whole ranges of dates easily using find symbols. But FileMaker Pro’s Find mode has several date-specific tricks up its sleeve. Using some not-so-obvious syntax, you can easily search for *date slices* like every tuesday, or the 5th of every month, or every January. This short article will explain how.

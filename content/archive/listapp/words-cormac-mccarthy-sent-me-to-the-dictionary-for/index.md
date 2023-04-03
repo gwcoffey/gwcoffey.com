@@ -2,6 +2,8 @@
 title: Words Cormac McCarthy Sent Me to the Dictionary For
 date: '2015-05-19T19:12:32+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 17
 relistCount: 4
 ---

@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #4: Temporary Files"
 date: 2007-07-10
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 There comes a time in every FileMaker developer’s life when they need to export a file *temporarily*. Maybe you’re exporting records only to import them right back in again later. Or perhaps your creating a PDF file that you *only* want to email to someone.

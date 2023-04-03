@@ -2,6 +2,8 @@
 title: "Set Field by Name Exposed"
 date: 2009-01-05
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 In our [article about FileMaker 10][fm10], we promised some tips on using the new `Set Field by Name` script step, which gives FileMaker the power of *[indirection][indirection]*. This is a complicated concept, and we’ll be posting some real world examples along the way, as well. But first, we’ll give you a full explanation of the new script step and function that make indirection possible.

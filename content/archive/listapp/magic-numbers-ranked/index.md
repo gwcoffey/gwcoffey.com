@@ -2,6 +2,8 @@
 title: Magic Numbers, Ranked
 date: '2015-10-27T14:15:10+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 10
 relistCount: 0
 ---

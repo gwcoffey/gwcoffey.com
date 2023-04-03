@@ -2,6 +2,8 @@
 title: "Buchmendel"
 date: 2011-01-03
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I do this thing where I ask non-native-English speakers who is the "Shakespeare" of their language. They can interpret this any way they want, and it is a great source of new things for me to read. When I asked my friend Ines—who is German—this question, she suggested Stefan Zweig on the grounds that he is someone every school-aged German reads. 

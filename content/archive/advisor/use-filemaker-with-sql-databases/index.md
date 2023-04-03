@@ -2,6 +2,8 @@
 title: "Use FileMaker with SQL Databases"
 date: 2008-02-18
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 FileMaker is a powerful database: You can build full-featured business applications with relative ease, share them with hundreds of users, and pack gigabytes of data away for easy access. Despite all its strengths, though, not everyone uses FileMaker for every database need. The truth is there are lots of situations that call for something a little more massive, either to handle a higher transactional volume, or a large number of users. And even systems that could be built in FileMaker sometimes aren't.

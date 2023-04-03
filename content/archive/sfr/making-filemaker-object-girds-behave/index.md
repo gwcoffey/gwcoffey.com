@@ -2,6 +2,8 @@
 title: "Making FileMaker Object Grids Behave"
 date: 2007-10-06
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 There’s a lively discussion on the [TechNet](https://community.claris.com/) mailing list right now about the pros and cons of FileMaker Pro’s *Object Grids* feature. {{< ed inline="TechNet is now Claris Community. The link has been updated accordingly." >}} This is certainly an opinionated discussion, and there is clearly no “right” way. A lot of people find Object Grids *annoying* because it makes it *harder* to line things up sometimes. Here’s a quick tip to help get Object Grids to behave themselves.

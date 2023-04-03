@@ -2,6 +2,8 @@
 title: "How I Would Describe Myself Physically to Someone Who Cannot See \U0001F648"
 date: '2015-12-16T06:28:42+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 72
 relistCount: 18
 ---

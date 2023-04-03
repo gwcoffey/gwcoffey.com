@@ -2,6 +2,8 @@
 title: "Peanut Butter Pie with Isabel"
 date: 2010-09-16
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 So sweet and lovely. And the pie is good too ;)

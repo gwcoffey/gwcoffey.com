@@ -2,6 +2,8 @@
 title: Comprehensive List of Reasons to Sell This Kind of Sock in Multiple Colors
 date: '2015-12-11T16:49:16+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 10
 relistCount: 1
 ---

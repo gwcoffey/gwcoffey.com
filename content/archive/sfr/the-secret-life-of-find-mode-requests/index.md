@@ -2,6 +2,8 @@
 title: "The Secret Life of Find Mode: Requests"
 date: 2007-07-23
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 FileMaker’s *find mode* is a great feature. You can tell because, like all great technologies, it is easy to understand the first time you try it, and yet has a depth of capability that can be unlocked if you know a little more. Unfortunately, many FileMaker developers (and users) never venture beyond the simplest of finds. This series of articles aims to change that.

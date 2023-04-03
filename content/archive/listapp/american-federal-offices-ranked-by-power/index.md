@@ -2,6 +2,8 @@
 title: American Federal Offices Ranked by Power
 date: '2017-01-19T22:29:30+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 22
 relistCount: 0
 ---

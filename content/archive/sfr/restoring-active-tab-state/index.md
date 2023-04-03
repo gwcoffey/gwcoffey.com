@@ -2,6 +2,8 @@
 title: "Restoring Active Tab State"
 date: 2007-11-23
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 {{< aside >}}

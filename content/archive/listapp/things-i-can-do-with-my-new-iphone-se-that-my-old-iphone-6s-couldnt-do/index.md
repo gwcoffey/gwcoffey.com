@@ -2,6 +2,8 @@
 title: Things I Can Do With My New iPhone SE That My Old iPhone 6S Couldn't Do
 date: '2016-04-17T21:01:01+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 27
 relistCount: 2
 ---

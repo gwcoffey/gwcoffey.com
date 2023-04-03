@@ -2,6 +2,8 @@
 title: My Ten Favorite Words
 date: '2015-12-30T01:33:07+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 6
 ---

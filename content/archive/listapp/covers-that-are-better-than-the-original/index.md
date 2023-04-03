@@ -2,6 +2,8 @@
 title: Covers That Are Better Than the Original➕
 date: '2015-05-22T14:23:57+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 3
 relistCount: 1
 ---

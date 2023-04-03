@@ -2,6 +2,8 @@
 title: "Script Triggers: Filter as you Type"
 date: 2009-01-13
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 For years, FileMaker developers have been devising various *filter* techniques. The idea is that you type all or part of a name, part number, description, etc… and a list of results filters down to show relevant matches. As handy as these techniques are, they always stop just short of perfect because, before FileMaker 10, you had to *exit the field* before the filter would take effect. Using FileMaker 10’s powerful Script Triggers, you can make the impact of your filtering more immediate.

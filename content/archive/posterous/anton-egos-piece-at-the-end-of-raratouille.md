@@ -2,6 +2,8 @@
 title: "Anton Ego’s Piece at the End of Ratatouille"
 date: 2012-07-10
 archive: posterous
+tags: 
+  - Archive Post
 summary: "In many ways, the work of a critic is easy. We risk very little yet enjoy a position over those who offer up their work and their selves to our judgment. We thrive on negative criticism, which is fun to write and to read. But the bitter truth we critics must face is that, in the grand scheme of things, the average piece of junk is more meaningful than our criticism designating it so."
 ---
 

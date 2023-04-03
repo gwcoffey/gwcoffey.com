@@ -2,6 +2,8 @@
 title: "Is Isabel Too Big to Play in the Rain?"
 date: 2010-08-30
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I say **no**.

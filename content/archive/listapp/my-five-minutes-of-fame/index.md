@@ -2,6 +2,8 @@
 title: "My Five Minutes of Fame \U0001F60E"
 date: '2016-01-16T05:37:46+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 45
 relistCount: 3
 ---

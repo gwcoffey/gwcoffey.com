@@ -2,6 +2,8 @@
 title: Presidential Regrets
 date: '2017-01-11T16:01:14+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 14
 relistCount: 0
 ---

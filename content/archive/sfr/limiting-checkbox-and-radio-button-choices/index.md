@@ -2,6 +2,8 @@
 title: "Limiting Checkbox and Radio Button Choices"
 date: 2007-09-05
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Did you know that if you shift-click on a field formatted as radio buttons, you can select more than one choice? Even if *you* don’t know this, chances are some day some *user* will figure it out. Yuck. Here’s a short-but-sweet technique to deal with the problem. And you’ll see how to apply the same concept to do some cool stuff.

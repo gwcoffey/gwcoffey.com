@@ -2,6 +2,8 @@
 title: Tolerance, Ranked
 date: '2016-05-04T18:12:00+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 66
 relistCount: 17
 ---

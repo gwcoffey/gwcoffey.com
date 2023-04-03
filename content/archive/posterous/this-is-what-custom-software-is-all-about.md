@@ -2,6 +2,8 @@
 title: "This is What Custom Software is All About"
 date: 2011-04-12
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 It was fun to read this email forwarded from our contact at a client today:

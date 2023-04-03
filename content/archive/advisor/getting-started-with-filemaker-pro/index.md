@@ -2,6 +2,8 @@
 title: "Getting Started with FileMaker Pro"
 date: 2009-05-17
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 FileMaker Pro is a big product, and its easy to get caught up in all the new features, power techniques, and advanced scripting mojo. But new users shouldn't lose sight of the fact that FileMaker is designed to be as easy as it is powerful. Like anything new, there's a learning curve, but an untrained user can be more productive more quickly in FileMaker than in any other database program around. In this article you'll learn how to build a simple FileMaker database from scratch. You'll start the way the pros do, by analyzing your problem and making a few important decisions. Then you'll dive in and build a database that really works.

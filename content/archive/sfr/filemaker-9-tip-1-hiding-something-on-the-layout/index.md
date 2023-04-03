@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #1: Hiding Something on the Layout"
 date: 2007-07-10
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 One of the most exciting new features in FileMaker 9 is *Conditional Formatting*. I think this is awesome because now you can apply dynamic custom styles to layout elements without adding dozens of crufty unstored calcs to your table. When I first started playing with conditional formatting, though, I felt a little let down by one thing: There’s apparently no way to make something *disappear* using conditional formatting. I often have the need to show something to my user — an informational message, indicator icon, or even a button — only under certain conditions. It turns out that with some creative thinking, **you can show and hide layout elements with conditional formatting**. (Some restrictions apply.)

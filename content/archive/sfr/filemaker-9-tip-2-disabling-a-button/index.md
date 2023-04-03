@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #2: Disabling a Button"
 date: 2007-07-10
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 In the old days, we used to joke that FileMaker’s user interface tools were stuck in the 1970s. You could make a long list of things *every application in the world did* that were hard to do in your own FileMaker-based systems. In the last several years, though, FileMaker Inc. has knocked a lot of biggies off this list: Custom Menus, Tab Controls, modern-looking check boxes and radio buttons. Oh wait, scratch that last one.

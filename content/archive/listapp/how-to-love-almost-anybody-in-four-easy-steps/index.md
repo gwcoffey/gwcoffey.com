@@ -2,6 +2,8 @@
 title: How to Love (Almost) Anybody in Four Easy Steps
 date: '2015-10-27T23:25:07+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 57
 relistCount: 17
 ---

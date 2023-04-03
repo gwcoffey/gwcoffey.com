@@ -2,6 +2,8 @@
 title: "Detecting Related Records"
 date: 2007-09-03
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 If you have a relational database (one with several connected tables) and you do any scripting at all, you’ll almost certainly ask yourself a question at some point: How can I tell if the record I’m on has related records? This article explains the scenarios you may run in to, and how *best* to deal with them.

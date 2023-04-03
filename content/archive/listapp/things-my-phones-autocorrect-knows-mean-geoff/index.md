@@ -2,6 +2,8 @@
 title: Things My Phone's Autocorrect Knows Mean "Geoff"
 date: '2015-07-11T23:11:54+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 5
 relistCount: 0
 ---

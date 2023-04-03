@@ -2,6 +2,8 @@
 title: Possible Reasons I'm Not Wearing My Wedding Band Today
 date: '2015-10-09T23:10:08+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 4
 relistCount: 0
 ---

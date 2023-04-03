@@ -2,6 +2,8 @@
 title: Malapropisms an Acquaintance Has Actually Spoken Over the Last Couple of Years
 date: '2015-08-01T03:46:33+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 21
 relistCount: 0
 ---

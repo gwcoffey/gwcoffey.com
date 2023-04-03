@@ -2,6 +2,8 @@
 title: Favorite New Apple Watch OS 2 Features
 date: '2015-09-16T21:37:57+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 5
 relistCount: 0
 ---

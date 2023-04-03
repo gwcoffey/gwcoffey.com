@@ -2,6 +2,8 @@
 title: "iPhone B: A One Act Play"
 date: 2010-06-17
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 *Int. Apple Store, in alternate universe where the iPhone 4 is available in two models with two antenna designs.*

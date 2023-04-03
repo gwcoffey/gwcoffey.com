@@ -2,6 +2,8 @@
 title: "Sophia in her Happy Place"
 date: 2011-04-30
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 {{< figure 

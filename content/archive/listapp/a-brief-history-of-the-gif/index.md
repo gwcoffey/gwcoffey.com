@@ -2,6 +2,8 @@
 title: A Brief History of the GIF
 date: '2016-02-25T23:27:29+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 3
 ---

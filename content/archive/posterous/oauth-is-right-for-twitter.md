@@ -2,6 +2,8 @@
 title: "OAuth is Right for Twitter"
 date: 2011-05-18
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 There's been [some grumbling][gruber] recently about OAuth and the Twitter API. Gruber posits that this is a bad thing dressed up to look like a good thing. But really, it is a good thing.

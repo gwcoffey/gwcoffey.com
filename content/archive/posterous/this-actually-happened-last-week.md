@@ -2,6 +2,8 @@
 title: "This Actually Happened Last Week"
 date: 2012-01-18
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Jesse was across the room with his bluetooth headset on:

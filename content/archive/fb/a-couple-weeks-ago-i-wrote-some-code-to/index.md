@@ -1,6 +1,8 @@
 ---
 date: 2018-07-26 10:46:53.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1532627213'
 summary: "A couple weeks ago I wrote some code to delete all my twitter activity that is more than 30 days old and I’ve been running it periodically. I’m considering doing the same thing with Facebook."
 ---

@@ -2,6 +2,8 @@
 title: Baseline Requirements For Calling Yourself A 'Writer'
 date: '2016-05-15T21:00:48+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 65
 relistCount: 18
 ---

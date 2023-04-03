@@ -1,6 +1,8 @@
 ---
 date: 2017-09-27 21:03:00.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1506571380'
 summary: "A poem by a beautiful soul I knew only through the internet as “@biz”: I Tell My Sister I Don't Like It When It Rains."
 ---

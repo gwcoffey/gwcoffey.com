@@ -2,6 +2,8 @@
 title: 'If I Could Only Eat 12 Things for the Rest of My Life They Would Be:'
 date: '2016-07-12T18:00:07+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 2
 ---

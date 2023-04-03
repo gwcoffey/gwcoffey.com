@@ -2,6 +2,8 @@
 title: "Make the Status Toolbar Work for You"
 date: 2009-01-15
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 [FileMaker 10][fm10]’s most visible new feature is the completely redesigned Status toolbar (formerly called the Status *area*). Perhaps because of its prominent position, or because it is such a striking departure from a 20-year FileMaker mainstay, this change has been met with its fair share of controversy. In this article we’ll show you why you don’t need to worry, and how you can make the new Status toolbar *work for you*.

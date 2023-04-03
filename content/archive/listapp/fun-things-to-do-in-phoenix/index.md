@@ -2,6 +2,8 @@
 title: Fun Things to Do in Phoenix
 date: '2015-05-19T00:35:34+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 11
 relistCount: 2
 ---

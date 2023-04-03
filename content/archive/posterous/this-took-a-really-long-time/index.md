@@ -2,6 +2,8 @@
 title: "This Took a Really Long Time"
 date: 2012-06-11
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 But I'm very glad it's done.

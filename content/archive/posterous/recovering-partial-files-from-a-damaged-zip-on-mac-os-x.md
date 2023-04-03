@@ -2,6 +2,8 @@
 title: "Recovering Partial Files from a Damaged ZIP on Mac OS X"
 date: 2011-12-04
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Well, call me stupid, but I set up some periodic database backups using ZIP. Unfortunately, the normal (non-64-bit) ZIP file format can't handle input files over 4GB (even if the output ZIP file is much smaller).
@@ -13,7 +15,9 @@ My cron jobs began failing when one of my databases grew over 4GB, but I didn't 
 The `unzip` command line tool reports: 
 
 ```
- Archive:  {my file}
+ archive:  {my file}
+tags: 
+  - Archive Post
   End-of-central-directory signature not found.  Either this file
   is not a zipfile, or it constitutes one disk of a multi-part
   archive.  In the latter case the central directory and zip file

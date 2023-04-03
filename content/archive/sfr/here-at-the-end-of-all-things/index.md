@@ -2,6 +2,8 @@
 title: "Here at the End of All Things"
 date: 2010-08-26
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Let me start by saying: “Ouch.” It has been far, far, far too long since our last article. Someone much wiser than me once said something like this: “My only comfort is that I tried. My only regret is that I failed.” I’ll leave it at that.

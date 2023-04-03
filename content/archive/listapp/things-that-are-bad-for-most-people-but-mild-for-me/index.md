@@ -2,6 +2,8 @@
 title: Things That Are Bad for Most People but Mild for Me
 date: '2015-08-27T14:43:02+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 6
 relistCount: 1
 ---

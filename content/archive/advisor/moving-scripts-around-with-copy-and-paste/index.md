@@ -2,6 +2,8 @@
 title: "Moving Script Around with Copy and Paste"
 date: 2008-04-21
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 Most FileMaker Pro developers know the real power of FileMaker can be found in the Manage Scripts window. In all but the simplest cases, a database without scripts is like a four year old's take on the Mona Lisa: "What does it do, daddy?" If you want your database to actually do something, FileMaker's scripting tools are your best friends.

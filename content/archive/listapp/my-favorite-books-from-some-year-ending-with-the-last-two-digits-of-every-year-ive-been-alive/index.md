@@ -3,6 +3,8 @@ title: My Favorite Books From Some Year Ending With the Last Two Digits of Every
   I've Been Alive
 date: '2016-03-29T15:21:57+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 15
 relistCount: 1
 ---

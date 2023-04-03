@@ -2,6 +2,8 @@
 title: Last Ditch Wizard Dueling Moves
 date: '2016-01-06T16:12:49+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 14
 relistCount: 0
 ---

@@ -2,6 +2,8 @@
 title: "A Phoenix Snowman"
 date: 2010-12-04
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Chris told me it couldn't be done. Eat your heart out.

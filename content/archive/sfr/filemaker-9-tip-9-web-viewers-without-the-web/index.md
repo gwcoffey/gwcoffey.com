@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #9: Web Viewers Without the Web"
 date: 2007-05-22
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Another day, another awesome new FileMaker 9 feature. Today's special: so called *data URLs*. In a nutshell, you don't need a web site to use web viewers anymore. Now they can easily (read: without crazy exports and obscene path hacks) show data pulled right from the FileMaker database itself. This is, like, *way* cooler than it sounds.

@@ -2,6 +2,8 @@
 title: My Masters Club Dinner Menu
 date: '2016-04-06T23:38:25+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 17
 relistCount: 1
 ---

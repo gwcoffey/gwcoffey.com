@@ -2,6 +2,8 @@
 title: Kimmy Swears
 date: '2016-05-11T22:35:34+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 167
 relistCount: 53
 ---

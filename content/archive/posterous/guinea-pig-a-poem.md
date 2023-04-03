@@ -2,6 +2,8 @@
 title: "Guinea Pig: A Poem"
 date: 2011-05-13
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I wrote this poem for Isabel's friend, who was collecting poems about Guinea Pigs for a project:

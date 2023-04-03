@@ -2,6 +2,8 @@
 title: "Sophie and I Made the Tallest Tower we Could"
 date: 2010-12-31
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I've had these wooden toy blocks since I was a little boy. They still get the job done.

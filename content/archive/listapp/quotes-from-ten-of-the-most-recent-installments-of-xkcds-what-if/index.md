@@ -2,6 +2,8 @@
 title: Quotes from Ten of the Most Recent Installments of XKCD's "What If?"
 date: '2016-08-26T21:54:39+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 6
 relistCount: 1
 ---

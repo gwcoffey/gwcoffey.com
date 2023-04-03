@@ -2,6 +2,8 @@
 title: A Message to Privileged Progressives
 date: '2016-11-09T19:15:25+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 86
 relistCount: 5
 ---

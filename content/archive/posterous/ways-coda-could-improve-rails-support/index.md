@@ -2,6 +2,8 @@
 title: "Ways Coda Could Improve Rails Support"
 date: 2011-10-05
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 [You asked for it](https://twitter.com/#!/panic/status/121697957585227776). This is my off-the-cuff list. I'm sure I'll think of other things.

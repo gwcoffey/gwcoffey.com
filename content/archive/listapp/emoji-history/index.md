@@ -2,6 +2,8 @@
 title: Emoji History➕
 date: '2015-07-01T00:04:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 14
 relistCount: 5
 ---

@@ -2,6 +2,8 @@
 title: Things @sophster Inherited From Me (Genetically Speaking)
 date: '2016-01-14T22:38:53+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 17
 relistCount: 1
 ---

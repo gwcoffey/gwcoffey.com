@@ -2,6 +2,8 @@
 title: "We'll Be at the FileMaker Genius Bar"
 date: 2007-08-02
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 I’m excited to let you all know that Jesse and I will be participating in a cool new dealio at DevCon. If you haven’t heard about it, here’s the scoop: Chris Kubica ([author](http://www.amazon.com/exec/obidos/search-handle-url/102-8153790-3308927?%5Fencoding=UTF8&search-type=ss&index=books&field-author=Chris%20Kubica), [developer](http://www.applicationarch.com/), and all around FileMaker powerhouse), arranged for a special booth at DevCon to be staffed by reasonably good FileMaker folks like us. You can bring your problems, questions, and FileMaker challenges to the booth and get free advice. It’s called the FileMaker Genius Bar. I love the idea and hate the name.

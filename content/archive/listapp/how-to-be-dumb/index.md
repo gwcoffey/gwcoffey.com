@@ -2,6 +2,8 @@
 title: How to Be Dumb
 date: '2016-02-22T01:49:06+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 2
 ---

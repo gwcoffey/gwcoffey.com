@@ -2,6 +2,8 @@
 title: "Practical Script Triggers"
 date: 2009-02-23
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 FileMaker Pro 10 introduced an assortment of exciting new features but the king of the hill, so to speak, is *Script Triggers*. You could argue that this is the biggest new feature to hit FileMaker since version 7 back in the late Cretaceous period. Alas, it is also one of the most complex features you'll encounter as a budding FileMaker developer. But that doesn't mean less advanced developers should ignore these triggers all together. With a little guidance, you can put script triggers to use in almost any database, and start making FileMaker do things it never could before.

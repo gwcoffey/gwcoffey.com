@@ -2,6 +2,8 @@
 title: "A System of Classification for Children's Literature"
 date: 2010-05-25
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I've come to the realization that all children’s literature can be classified quite neatly into just a few simple categories. My proposed system of classification follows.

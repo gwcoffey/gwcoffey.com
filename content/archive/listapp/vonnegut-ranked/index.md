@@ -2,6 +2,8 @@
 title: Vonnegut, Ranked
 date: '2016-12-15T04:37:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 18
 relistCount: 0
 ---

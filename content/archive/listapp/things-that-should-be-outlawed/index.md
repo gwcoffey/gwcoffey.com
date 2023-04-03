@@ -2,6 +2,8 @@
 title: Things That Should Be Outlawed
 date: '2015-12-13T01:02:19+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 12
 relistCount: 0
 ---

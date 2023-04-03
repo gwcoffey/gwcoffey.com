@@ -2,6 +2,8 @@
 title: My Acceptable Celebrity Doppelgänger List
 date: '2016-02-23T18:00:15+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 24
 relistCount: 1
 ---

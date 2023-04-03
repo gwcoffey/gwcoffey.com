@@ -2,6 +2,8 @@
 title: Pros/Cons of the New "Open List" Feature
 date: '2015-07-30T15:06:41+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 9
 relistCount: 1
 ---

@@ -1,6 +1,8 @@
 ---
 date: 2017-07-17 22:12:38.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1500354758'
 summary: "Novalis' Heinrich von Ofterdingen never really comes together (which is excusable since he died before it could be finished) but holy wow is it full of beautiful passages. \"The moon shone mildly over the hills…\""
 ---

@@ -2,6 +2,8 @@
 title: Arguably Inappropriate Movies My Parents Took Me To
 date: '2015-07-22T16:10:59+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 11
 relistCount: 1
 ---

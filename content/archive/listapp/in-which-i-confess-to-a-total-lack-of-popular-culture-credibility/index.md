@@ -2,6 +2,8 @@
 title: In Which I Confess to a Total Lack of Popular Culture Credibility
 date: '2015-07-10T17:50:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 9
 relistCount: 2
 ---

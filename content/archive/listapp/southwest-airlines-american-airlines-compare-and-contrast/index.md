@@ -2,6 +2,8 @@
 title: 'Southwest Airlines / American Airlines: Compare and Contrast'
 date: '2015-11-13T19:33:42+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 40
 relistCount: 13
 ---

@@ -1,6 +1,8 @@
 ---
 date: 2018-08-07 19:48:20.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1533696500'
 summary: "Every couple of years I re-read Charlotte’s Web and then I spend days and days thinking about how good it is and reading E.B. White essays and just generally obsessing. Today I found his essay called Unity."
 ---

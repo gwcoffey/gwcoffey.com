@@ -2,6 +2,8 @@
 title: "Getting Started with External SQL Sources"
 date: 2007-10-17
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 [1]:http://www.mysql.com/

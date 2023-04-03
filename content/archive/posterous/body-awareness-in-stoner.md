@@ -2,6 +2,8 @@
 title: "Body Awareness in Stoner"
 date: 2011-04-15
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I love the novel *[Stoner][stoner]* by [John Williams][williams]. [*ed:* Since this was written I've read Williams' *Augustus* twice and it has become one of my favorite novels.] One thing I appreciated is the way Williams writes about Stoner's awareness of his physical self, especially his hands. 

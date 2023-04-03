@@ -2,6 +2,8 @@
 title: Music I Listened to With My Parents Growing Up
 date: '2015-08-11T19:21:20+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 9
 relistCount: 2
 ---

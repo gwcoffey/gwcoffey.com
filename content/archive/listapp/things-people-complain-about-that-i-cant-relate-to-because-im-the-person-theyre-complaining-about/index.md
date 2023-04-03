@@ -3,6 +3,8 @@ title: Things People Complain About That I Can't Relate to Because I'm the Perso
   They're Complaining About
 date: '2016-03-31T21:39:18+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 35
 relistCount: 6
 ---

@@ -2,6 +2,8 @@
 title: "FileMaker Gets Bento"
 date: 2007-11-14
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Many people were surprised by Tuesday’s announcement from FileMaker Inc.: A new “desktop database” application called [Bento](http://bentotrial.com). Nobody I know had any idea this was in the works, and I’m pretty sure it is the first product from FMI that is not directly FileMaker Pro related since Claris Organizer was released back in 1827 or thereabouts. For a FileMaker announcement, Bento is getting [a](http://www.macworld.com/2007/11/firstlooks/bento/index.php) [lot](http://daringfireball.net/2007/11/bento) [of](http://macintouch.com/prod.2007.11.13.bnt) [coverage](http://www.appleinsider.com/articles/07/11/13/first_look_filemakers_bento_personal_database_for_leopard.html) in the Mac media. Here’s our take.

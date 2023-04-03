@@ -2,6 +2,8 @@
 title: "Trailer: Alien vs. Predator 2: Surrogate"
 date: 2011-09-22
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 {{< ed "I wrote this utter nonsense as a very extended joke with a friend of mine. Enjoy." >}}

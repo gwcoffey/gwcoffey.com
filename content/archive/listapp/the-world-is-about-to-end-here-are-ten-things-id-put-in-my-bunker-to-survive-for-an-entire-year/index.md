@@ -3,6 +3,8 @@ title: The World Is About to End. Here Are Ten Things I'd Put in My Bunker to Su
   for an Entire Year...
 date: '2016-01-06T03:51:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 15
 relistCount: 1
 ---

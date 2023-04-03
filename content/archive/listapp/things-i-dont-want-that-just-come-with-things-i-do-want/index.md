@@ -2,6 +2,8 @@
 title: Things I Don’t Want That Just Come With Things I Do Want
 date: '2015-06-01T23:43:28+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 2
 ---

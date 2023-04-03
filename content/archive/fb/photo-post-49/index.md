@@ -1,6 +1,8 @@
 ---
 date: 2017-04-11 09:11:44.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1491927104'
 ---
 {{< fb/images >}}

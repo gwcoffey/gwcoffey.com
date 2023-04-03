@@ -2,6 +2,8 @@
 title: Kinds of French Toast
 date: '2016-07-19T20:51:54+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 18
 relistCount: 3
 ---

@@ -2,6 +2,8 @@
 title: "\U0001F366 Ben & Jerry's 7 Best Flavors, Ranked \U0001F366"
 date: '2016-03-18T16:22:35+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 3
 ---

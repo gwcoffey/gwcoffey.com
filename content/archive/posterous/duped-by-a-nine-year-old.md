@@ -2,6 +2,8 @@
 title: "Duped by a Nine Year Old"
 date: 2011-05-02
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 True story:

@@ -2,6 +2,8 @@
 title: Things That Are Getting Harder
 date: '2016-01-12T21:53:26+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 5
 ---

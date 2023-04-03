@@ -2,6 +2,8 @@
 title: Reasons This Election is Rigged
 date: '2016-10-17T19:25:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 85
 relistCount: 6
 ---

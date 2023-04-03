@@ -2,6 +2,8 @@
 title: "Boojum Tree"
 date: 2010-10-16
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Found this strange beauty at the wonderful [Desert Botanical Gardens][dbg] here in Phoenix. I'd never heard of a [Boojum Tree][boojum] before. I love this thing so much.

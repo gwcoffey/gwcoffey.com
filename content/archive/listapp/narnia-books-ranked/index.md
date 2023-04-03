@@ -2,6 +2,8 @@
 title: Narnia Books, Ranked
 date: '2016-05-15T21:54:35+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 13
 relistCount: 1
 ---

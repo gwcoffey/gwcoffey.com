@@ -2,6 +2,8 @@
 title: 'Pro Tip: How to Quickly and Easily Sign Documents on Your Mac'
 date: '2016-01-09T18:47:36+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 59
 relistCount: 12
 ---

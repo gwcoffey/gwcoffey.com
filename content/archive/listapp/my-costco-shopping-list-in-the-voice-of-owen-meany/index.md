@@ -2,6 +2,8 @@
 title: "My Costco Shopping List in the Voice of Owen Meany \U0001F465"
 date: '2016-01-27T05:44:23+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 20
 relistCount: 1
 ---

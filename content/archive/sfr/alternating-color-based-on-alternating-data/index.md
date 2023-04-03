@@ -2,6 +2,8 @@
 title: "Alternating Color Based on Alternating Data"
 date: 2008-06-05
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 An interesting question popped up on the TechNet discussion list this evening:

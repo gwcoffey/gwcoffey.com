@@ -2,6 +2,8 @@
 title: "This is My Office for the Next Few Days"
 date: 2011-06-22
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I'm not really a beach person but I genuinely love the solitude of this beautiful place.

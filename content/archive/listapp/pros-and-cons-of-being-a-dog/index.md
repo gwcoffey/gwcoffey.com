@@ -2,6 +2,8 @@
 title: Pros and Cons of Being a Dog
 date: '2016-08-06T04:11:17+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 2
 ---

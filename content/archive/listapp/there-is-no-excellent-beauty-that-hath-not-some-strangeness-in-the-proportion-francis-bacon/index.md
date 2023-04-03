@@ -3,6 +3,8 @@ title: "\"There Is No Excellent Beauty That Hath Not Some Strangeness in the Pro
   — Francis Bacon"
 date: '2016-02-17T14:22:23+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 21
 relistCount: 2
 ---

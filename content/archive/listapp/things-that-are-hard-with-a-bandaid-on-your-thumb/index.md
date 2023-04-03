@@ -2,6 +2,8 @@
 title: Things That Are Hard With a Bandaid on Your Thumb
 date: '2016-01-17T21:19:39+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 25
 relistCount: 0
 ---

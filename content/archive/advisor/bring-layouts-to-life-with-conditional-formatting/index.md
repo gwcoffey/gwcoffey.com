@@ -2,6 +2,8 @@
 title: "Bring Layouts to Life with Conditional Formatting"
 date: 2007-07-08
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 FileMaker Pro 9.0 made its debut a few short weeks ago, and it seems like its ability to connect directly to corporate databases is all anyone wants to talk about. ESS is great and all, but you may be wondering how 9 helps regular FileMaker folk like us. In point of fact, 9 is chock full of fantastic new features that even the most humble database can benefit from right away. Chief among them is *Conditional Formatting*.

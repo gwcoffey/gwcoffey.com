@@ -2,6 +2,8 @@
 title: "Importing Non-Standard Text Files"
 date: 2007-07-11
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 This question came up on [Macintouch](http://www.macintouch.com/readerreports/filemaker9/index.html):

@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #5: Using the Self Function"
 date: 2007-05-22
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 One of the least talked about features of FileMaker 9 is a new calculation doodad called `Self`. Although the primary purpose of this function is to facilitate the Conditional Formatting feature (which can perform calculations on such unnamed items as text objects and buttons), `Self` comes in handy in lots of common situations.

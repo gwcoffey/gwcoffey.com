@@ -2,6 +2,8 @@
 title: Things I Don't Have on Right Now
 date: '2016-01-28T15:44:24+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 6
 relistCount: 0
 ---

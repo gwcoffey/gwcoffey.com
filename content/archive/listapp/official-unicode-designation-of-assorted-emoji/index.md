@@ -2,6 +2,8 @@
 title: Official Unicode Designation of Assorted Emoji
 date: '2016-04-23T06:35:02+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 22
 relistCount: 2
 ---

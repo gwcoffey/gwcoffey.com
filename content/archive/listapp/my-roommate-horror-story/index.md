@@ -2,6 +2,8 @@
 title: "My Roommate Horror Story \U0001F631"
 date: '2016-01-20T04:08:54+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 39
 relistCount: 2
 ---

@@ -1,6 +1,8 @@
 ---
 date: 2018-06-14 18:55:20.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1529027720'
 summary: "Remember how when we were kids it was all \"I'm Thumbody!\" and Saturday morning cartoon interstitials about being kind. And it seemed so corny and over the top. And then we grew up, had kids, and sent them to school and holy cow it seems like all that corny stuff actually worked."
 ---

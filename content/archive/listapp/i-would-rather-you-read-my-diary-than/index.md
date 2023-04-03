@@ -2,6 +2,8 @@
 title: I would rather you read my diary than...
 date: '2016-09-17T05:12:28+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 57
 relistCount: 8
 ---

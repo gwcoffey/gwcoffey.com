@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #6: Append to PDF"
 date: 2007-07-10
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 How many times have you wanted to produce a report that showed *two different* lists of records? Or a couple pages of summary information, then a list of raw data? Or a title page, then a few pages of charts, then one list of data, then a few more charts, then a second list? In FileMaker, reports are tied to layouts, and a layout is tied to just one table. Of course you can just print several reports one after the other, but that doesn’t help if you want to *email* the report as a PDF, or store it on the file server.

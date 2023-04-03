@@ -2,6 +2,8 @@
 title: In Which My Daughter Sophia Confesses to Gross Early Childhood Misunderstanding
 date: '2015-10-29T04:55:00+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 38
 relistCount: 3
 ---

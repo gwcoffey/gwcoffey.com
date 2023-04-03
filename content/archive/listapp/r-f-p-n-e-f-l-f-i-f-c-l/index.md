@@ -2,6 +2,8 @@
 title: R★ × f(p) × n(e) × f(l) × f(i) × f(c) × L
 date: '2016-05-18T21:51:49+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 12
 ---

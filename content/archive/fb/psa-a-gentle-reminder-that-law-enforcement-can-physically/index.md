@@ -1,6 +1,8 @@
 ---
 date: 2018-10-15 11:18:41.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1539627521'
 summary: "PSA: A gentle reminder that law enforcement can physically force you to unlock your device using biometrics (fingerprint scan or face scan) but the first amendment protects your passcode. You cannot be compelled to reveal it."
 ---

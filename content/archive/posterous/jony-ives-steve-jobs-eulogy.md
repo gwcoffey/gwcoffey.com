@@ -2,6 +2,8 @@
 title: "Jony Ive's Steve Jobs Eulogy"
 date: 2011-10-26
 archive: posterous
+tags: 
+  - Archive Post
 summary: "Steve used to say to me (and he used to say this a lot), \"Hey Jony, here's a dopey idea.\" And sometimes they were — really dopey. Sometimes they were truly dreadful. But sometimes they took the air from the room, and they left us both completely silent."
 ---
 

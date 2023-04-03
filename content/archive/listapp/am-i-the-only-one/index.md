@@ -2,6 +2,8 @@
 title: Am I the Only One?
 date: '2015-12-05T14:47:31+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 10
 relistCount: 1
 ---

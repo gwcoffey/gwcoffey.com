@@ -2,6 +2,8 @@
 title: Cheap Thrills
 date: '2016-02-19T20:35:12+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 40
 relistCount: 3
 ---

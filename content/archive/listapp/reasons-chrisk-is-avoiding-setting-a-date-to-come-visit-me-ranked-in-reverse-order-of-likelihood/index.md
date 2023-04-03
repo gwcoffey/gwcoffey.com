@@ -3,6 +3,8 @@ title: Reasons @chrisk Is Avoiding Setting a Date to Come Visit Me, Ranked in Re
   Order of Likelihood
 date: '2015-05-24T23:15:52+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 7
 relistCount: 1
 ---

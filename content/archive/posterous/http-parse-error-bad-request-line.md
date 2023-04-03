@@ -2,6 +2,8 @@
 title: "HTTP Parse Error / Bad Request Line"
 date: 2012-06-21
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Yeah I know. You're getting this:

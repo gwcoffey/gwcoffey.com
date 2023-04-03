@@ -2,6 +2,8 @@
 title: "Rotated Text in FileMaker"
 date: 2011-03-04
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Matt asked if there was a way to show askew text on a FileMaker layout. (Rotated something other than 90°.) You can't do this directly with the text object, but you can get the same effect using a web view with HTML + CSS.

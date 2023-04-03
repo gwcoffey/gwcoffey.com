@@ -2,6 +2,8 @@
 title: "Submit!"
 date: 2011-04-20
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 This is what you see when you *start* the process of filling out a passport application on the State Department web site. 

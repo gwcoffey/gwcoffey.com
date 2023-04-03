@@ -2,6 +2,8 @@
 title: Authors on Consciously or Subconsciously Planting Symbolism in their Work
 date: '2016-07-31T07:38:53+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 10
 ---

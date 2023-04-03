@@ -2,6 +2,8 @@
 title: "Anybody Who Can Write Like This…"
 date: 2011-04-12
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 …will forever be admired by me.

@@ -2,6 +2,8 @@
 title: Print Finder Window Content
 date: '2004-02-01'
 archive: macaddict
+tags: 
+  - Archive Post
 ---
 
 One thing we miss about Mac OS 9 is the ability to print Finder window content for media archival purposes. Sure, you could select all items in a Finder window, copy them, and then paste the data into a text editor, but you'd wind up with a chaotic list of file names with no order. Fortunately, Unix can take organization up a notch. Using the Terminal, you can create a file that lists a folder's contents, which you can then edit and print.

@@ -2,6 +2,8 @@
 title: All These Lists About Childhood Smells…
 date: '2015-12-12T05:31:37+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 23
 relistCount: 3
 ---

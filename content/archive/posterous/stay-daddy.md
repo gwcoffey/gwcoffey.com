@@ -2,6 +2,8 @@
 title: "Stay Daddy"
 date: 2011-05-12
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I had to put this in some documentation I wrote for a client.

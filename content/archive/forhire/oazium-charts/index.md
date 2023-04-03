@@ -2,6 +2,8 @@
 title: øAzium Charts
 date: 1998-11-03
 archive: forhire
+tags: 
+  - Archive Post
 client: Waves in Motion
 ---
 

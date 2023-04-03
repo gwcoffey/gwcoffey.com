@@ -2,6 +2,8 @@
 title: Things Hospitals and Airports Have in Common
 date: '2016-02-13T02:52:50+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 47
 relistCount: 4
 ---

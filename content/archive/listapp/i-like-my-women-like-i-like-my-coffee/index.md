@@ -2,6 +2,8 @@
 title: I Like My Women  Like I Like My Coffee
 date: '2016-07-25T21:37:12+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 2
 ---

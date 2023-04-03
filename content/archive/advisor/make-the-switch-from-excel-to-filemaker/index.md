@@ -2,6 +2,8 @@
 title: "Make the Switch from Excel to FileMaker"
 date: 2007-01-16
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 It seems like Microsoft Excel is installed on just about every PC in the world. As such, a lot of new FileMaker developers are already Excel wizards. In fact, many new FileMaker projects begin life as a replacement for an Excel spreadsheet that has outgrown itself. If you are an Excel star trying to wind your way through the FileMaker universe, you may be stymied at first by all the things you thought you knew that just don't seem to apply anymore. In this article, you'll learn how to make the most of your Excel expertise and get up and running in FileMaker in no time.

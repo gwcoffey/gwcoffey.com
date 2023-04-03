@@ -2,6 +2,8 @@
 title: Objective Reasons to Find Grits Good
 date: '2015-12-03T20:06:50+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 27
 relistCount: 2
 ---

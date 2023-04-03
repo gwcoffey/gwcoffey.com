@@ -2,6 +2,8 @@
 title: White Privilege Is
 date: '2016-01-05T16:23:54+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 57
 relistCount: 14
 ---

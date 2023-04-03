@@ -2,6 +2,8 @@
 title: "I Call this Photograph \"Published Author\""
 date: 2012-05-02
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 {{< figure 

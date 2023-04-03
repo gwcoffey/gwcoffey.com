@@ -2,6 +2,8 @@
 title: "The Dead Forest Celebration"
 date: 2011-05-10
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I grew up on the cul-de-sac end of a long suburban street. The neighborhood this street was part of backed up to a small strip of young but wild wood about a quarter mile wide, and this, beginning with a long downward slope, formed the barrier between our back yard and the farm fields and county roads beyond. My brother and I spent long afternoons in what we called “the ravine,” climbing trees, chasing squirrels, and generally reveling in a place protected from parental view. “To the woods!” was our stock answer to the ever-present question of the time: “Where are you going?” The woods had its limitations, however. In particular, it had no friends, and it afforded no opportunity to ride a bicycle. And so at some point, earlier in my childhood than the specificity of memory, we began to explore in the other direction, up the street.

@@ -2,6 +2,8 @@
 title: My Aesthetic
 date: '2016-01-03T23:04:15+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 48
 relistCount: 4
 ---

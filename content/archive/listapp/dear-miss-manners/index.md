@@ -2,6 +2,8 @@
 title: Dear Miss Manners
 date: '2016-05-05T18:22:07+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 18
 relistCount: 1
 ---

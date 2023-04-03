@@ -2,6 +2,8 @@
 title: My Lists That Deserve to Be Resurrected Now That Pictures Are Bigger
 date: '2016-01-07T05:47:01+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 25
 relistCount: 1
 ---

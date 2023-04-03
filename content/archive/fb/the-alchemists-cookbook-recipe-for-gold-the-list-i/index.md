@@ -1,6 +1,8 @@
 ---
 date: 2017-10-16 10:59:35.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1508176775'
 summary: "The Alchemists Cookbook: Recipe for Gold."
 ---

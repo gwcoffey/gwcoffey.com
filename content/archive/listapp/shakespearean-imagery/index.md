@@ -2,6 +2,8 @@
 title: "\U0001F4AF Shakespearean Imagery"
 date: '2015-10-25T14:29:40+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 22
 relistCount: 5
 ---

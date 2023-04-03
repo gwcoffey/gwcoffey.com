@@ -2,6 +2,8 @@
 title: Mythical creatures I would like to be
 date: '2016-07-18T20:08:10+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 5
 relistCount: 1
 ---

@@ -2,6 +2,8 @@
 title: "Scaling Images in a Web Viewer"
 date: 2007-06-03
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 [technet]: https://community.claris.com/

@@ -2,6 +2,8 @@
 title: "There is No Indispensable Man"
 date: 2010-03-10
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 [Sandra Day O'Connor][sandra] read this poem during her retirement speech. I got a kick out of it.

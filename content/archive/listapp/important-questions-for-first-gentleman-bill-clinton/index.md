@@ -2,6 +2,8 @@
 title: Important Questions for First Gentleman Bill Clinton
 date: '2016-07-27T00:20:06+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 175
 relistCount: 71
 ---

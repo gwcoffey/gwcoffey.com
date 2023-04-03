@@ -2,6 +2,8 @@
 title: Things Lucinda Williams Was Blessed By
 date: '2015-08-19T02:27:07+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 1
 relistCount: 0
 ---

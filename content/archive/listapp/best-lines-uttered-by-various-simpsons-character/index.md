@@ -2,6 +2,8 @@
 title: Best Lines Uttered by Various Simpsons Character
 date: '2016-04-03T19:36:00+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 100
 relistCount: 25
 ---

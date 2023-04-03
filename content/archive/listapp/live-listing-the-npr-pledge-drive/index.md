@@ -2,6 +2,8 @@
 title: Live Listing the @npr Pledge Drive
 date: '2016-04-05T01:33:48+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 19
 relistCount: 4
 ---

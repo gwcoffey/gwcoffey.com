@@ -2,6 +2,8 @@
 title: "Create Smarter Databases with Relationships"
 date: 2006-10-20
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 Relationships hold a special place in the world of a database designer: They're simultaneously your most powerful tool and the most difficult to figure out. If your first trip to FileMaker's Relationships tab left you scratching your head, you're not alone. FileMaker goes a long way towards making relationships easy to set up, manage, and use. But the real trick is understanding the concepts behind relationship building. In this article, you'll learn how to add a sprinkling of relational capability to your own FileMaker database.

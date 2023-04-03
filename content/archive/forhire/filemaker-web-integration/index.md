@@ -2,6 +2,8 @@
 title: FileMaker Web Integration
 date: 2007-02-27
 archive: forhire
+tags: 
+  - Archive Post
 client: FileMaker Inc
 ---
 

@@ -2,6 +2,8 @@
 title: I Did Not Win the Lottery
 date: '2016-01-10T05:49:35+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 30
 relistCount: 1
 ---

@@ -2,6 +2,8 @@
 title: Sophia on Point
 date: '2015-06-30T02:37:44+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 7
 ---

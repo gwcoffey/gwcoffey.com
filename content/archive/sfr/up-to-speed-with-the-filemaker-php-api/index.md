@@ -2,6 +2,8 @@
 title: "Up To Speed with the FileMaker PHP API"
 date: 2007-05-20
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 So you’ve heard about the new [FileMaker PHP API](https://support.claris.com/s/article/How-to-use-FileMaker-API-and-PHP-1503692791604?language=en_US). You want to put FileMaker data on the web, but you’re not sure where to start. It can be a bit overwhelming at first, but using PHP to publish FileMaker to the web is *easy*, *fun*, and *totally awesome*. This (admittedly lengthy) article tells you everything you need to know to get started.

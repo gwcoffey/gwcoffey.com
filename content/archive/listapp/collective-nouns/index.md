@@ -2,6 +2,8 @@
 title: Collective Nouns
 date: '2015-08-24T01:16:44+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 11
 relistCount: 3
 ---

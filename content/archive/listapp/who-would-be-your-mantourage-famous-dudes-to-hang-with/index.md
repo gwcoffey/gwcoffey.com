@@ -2,6 +2,8 @@
 title: Who Would Be Your Mantourage (Famous Dudes to Hang With)
 date: '2016-01-12T17:35:28+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 17
 relistCount: 1
 ---

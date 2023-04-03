@@ -2,6 +2,8 @@
 title: Things My 17 Year Old Child Isabel Is Obsessed With
 date: '2015-05-23T05:29:24+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 29
 relistCount: 1
 ---

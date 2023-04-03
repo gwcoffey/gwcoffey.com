@@ -2,6 +2,8 @@
 title: "Sitting on the Patio Fiddling with my Presentation"
 date: 2010-08-15
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I'm enjoying this gorgeous weather and fiddling with my presentation for FM DevCon.

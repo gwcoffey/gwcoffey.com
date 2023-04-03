@@ -2,6 +2,8 @@
 title: Things Bob May Have Said to Charlotte at the End of Lost in Translation
 date: '2016-05-27T14:29:34+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 9
 ---

@@ -2,6 +2,8 @@
 title: Murals of Phx
 date: '2016-01-24T21:33:50+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 10
 relistCount: 0
 ---

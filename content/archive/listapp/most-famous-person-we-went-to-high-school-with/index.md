@@ -2,6 +2,8 @@
 title: Most Famous Person We Went to High School With
 date: '2015-11-29T01:12:43+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 4
 ---

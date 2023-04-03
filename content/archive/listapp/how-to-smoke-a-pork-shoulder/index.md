@@ -2,6 +2,8 @@
 title: How to Smoke a Pork Shoulder
 date: '2015-12-17T01:34:32+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 23
 relistCount: 1
 ---

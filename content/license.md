@@ -2,7 +2,6 @@
 title: "license"
 menu: About
 weight: 3
-weblog: false
 ---
 
 The content of this site is copyright &copy;2022-{{< year >}}, Geoff Coffey unless otherwise noted on a particular page.

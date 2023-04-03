@@ -1,6 +1,8 @@
 ---
 date: 2017-06-20 10:15:21.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1497978921'
 summary: "Two quotes from biographies of universally recognized great presidents are mashing up in my head vis a vis the trump administration. From Doris Kearns Goodwin on Lincoln…"
 ---

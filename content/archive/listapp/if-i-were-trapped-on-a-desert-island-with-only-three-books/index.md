@@ -2,6 +2,8 @@
 title: If I Were Trapped on a Desert Island With Only Three Books
 date: '2015-07-10T18:49:02+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 4
 relistCount: 0
 ---

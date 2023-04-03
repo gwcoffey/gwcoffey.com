@@ -2,6 +2,8 @@
 title: "Can't Update Really Old Rubygems 1.0.1 on Mac OS X Server 10.5"
 date: 2010-08-26
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I was trying to do a rails deployment on a Mac OS X Server 10.5 machine tonight and hit a gem error I've never seen before:

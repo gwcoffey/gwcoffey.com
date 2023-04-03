@@ -2,6 +2,8 @@
 title: Non-Pro Forma Ways @imc Is Involved in My Daily Life
 date: '2016-01-10T22:45:53+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 44
 relistCount: 3
 ---

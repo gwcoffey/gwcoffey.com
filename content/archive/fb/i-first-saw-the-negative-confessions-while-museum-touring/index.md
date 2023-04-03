@@ -1,6 +1,8 @@
 ---
 date: 2018-02-18 23:21:18.000000000 -08:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1519024878'
 summary: "I first saw the \"Negative Confessions\" while museum touring with Isabel in Chicago last year. It's such a cool look at how people 3,500 years ago were not so different from us. And also an interesting glimpse at what they thought was important."
 ---

@@ -2,6 +2,8 @@
 title: "How do I Get Out…"
 date: 2010-09-29
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I find these Google suggestions funny.

@@ -2,6 +2,8 @@
 title: "Script Triggers: Monitoring and Restoring Tabs"
 date: 2009-01-19
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 FileMaker 10’s new Script Triggers feature just keeps delivering. You might, at first, think triggers are limited to layouts and fields, but it turns out your triggers can fire with all kinds of objects. In this article we’ll show you how to run scripts when users switch tabs on your tab controls. In the end, we’ll also revisit a common FileMaker problem: tabs switch when you switch layouts. We’ll show you how to solve this problem quickly and easily using script triggers.

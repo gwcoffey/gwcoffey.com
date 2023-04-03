@@ -2,6 +2,8 @@
 title: Things That Aren't Spicy
 date: '2015-07-19T23:29:26+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 8
 relistCount: 0
 ---

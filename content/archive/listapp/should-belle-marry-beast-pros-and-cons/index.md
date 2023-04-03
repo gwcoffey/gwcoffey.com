@@ -2,6 +2,8 @@
 title: 'Should Belle Marry Beast: Pros and Cons'
 date: '2016-10-01T23:49:00+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 69
 relistCount: 14
 ---

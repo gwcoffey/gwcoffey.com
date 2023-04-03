@@ -3,6 +3,8 @@ title: Paper Books I Still Own Ranked by How Likely I'd Be to Grab Them if My Ho
   Caught Fire
 date: '2016-04-04T18:15:34+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 40
 relistCount: 4
 ---

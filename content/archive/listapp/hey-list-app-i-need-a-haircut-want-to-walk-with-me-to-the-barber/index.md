@@ -2,6 +2,8 @@
 title: Hey List App I Need A Haircut. Want To Walk With Me To The Barber?
 date: '2016-04-30T17:30:53+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 46
 relistCount: 4
 ---

@@ -2,6 +2,8 @@
 title: "Assemble Multi-Part Reports with FileMaker Pro 9"
 date: 2007-09-10
 archive: advisor
+tags: 
+  - Archive Post
 ---
 
 FileMaker has some pretty powerful reporting tools. You can decorate your layouts any way you see fit, control which record show, in what order, and with any particular fields arranged to your liking. You can even summarize your data in numerous ways to produce totals, subtotals, and other aggregate analysis. But until FileMaker 9, there has been one glaring restriction: A report can only show records from one table. If you want to show new products on one page, and new customers on the next, you're out of luck. Of course you can just create two reports, and print them back to back. But that is an imperfect solution:

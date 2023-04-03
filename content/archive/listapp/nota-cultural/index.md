@@ -2,6 +2,8 @@
 title: Nota Cultural
 date: '2016-02-16T17:36:52+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 20
 relistCount: 2
 ---

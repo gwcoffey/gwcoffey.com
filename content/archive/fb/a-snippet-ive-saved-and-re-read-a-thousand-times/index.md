@@ -1,6 +1,8 @@
 ---
 date: 2016-07-08 12:49:13.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1468007353'
 summary: "A snippet I've saved and re-read a thousand times seems pertinent today. \"Go through the world with open eyes, and listen not only to your own pains and interests, but also to the pains, interests and longings of others…\""
 ---

@@ -2,6 +2,8 @@
 title: Rip Sound Tracks from your DVDs
 date: '2003-12-01'
 archive: macaddict
+tags: 
+  - Archive Post
 ---
 
 {{< aside title="What You Need" >}}

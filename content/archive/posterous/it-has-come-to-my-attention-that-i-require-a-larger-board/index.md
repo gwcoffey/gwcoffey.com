@@ -2,6 +2,8 @@
 title: "It has Come to My Attention that I Require a Larger Board"
 date: 2010-09-01
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Blast.

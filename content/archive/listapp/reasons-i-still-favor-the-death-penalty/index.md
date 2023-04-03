@@ -2,6 +2,8 @@
 title: Reasons I Still Favor the Death Penalty
 date: '2015-10-05T21:00:48+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 5
 relistCount: 0
 ---

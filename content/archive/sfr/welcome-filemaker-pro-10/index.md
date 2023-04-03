@@ -2,6 +2,8 @@
 title: "Welcome FileMaker Pro 10"
 date: 2009-01-05
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 If you thought FileMaker 9 was a big update ([and we clearly did][fm9]) you’ll be thrilled with number 10. It starts with some flagship new features like Script Triggers (_finally!_) and infinitely more useful Sub-Summary parts, plus the usual round of small tweaks and improvements. But this release takes it one step further with a total overhaul of FileMaker’s most ubiquitous interface element. Gone is the Status Area, replaced by a freshly designed, much more useful Status Toolbar. Here, we’ll introduce you to everything new in FileMaker 10. Keep an eye out for more articles about how to use all this great new stuff.

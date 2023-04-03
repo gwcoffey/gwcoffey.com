@@ -2,6 +2,8 @@
 title: Isabel Photosite
 date: 1998-07-10
 archive: site
+tags: 
+  - Archive Post
 icon: old-gwcoffey
 archiveSection: true
 ---

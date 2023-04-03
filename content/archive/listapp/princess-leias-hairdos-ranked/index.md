@@ -2,6 +2,8 @@
 title: Princess Leia's Hairdos Ranked
 date: '2015-10-14T15:43:59+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 39
 relistCount: 13
 ---

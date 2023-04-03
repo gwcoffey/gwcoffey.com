@@ -2,6 +2,8 @@
 title: Answering the Same WSJ's Interview as BJ
 date: '2016-03-04T19:26:24+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 27
 relistCount: 2
 ---

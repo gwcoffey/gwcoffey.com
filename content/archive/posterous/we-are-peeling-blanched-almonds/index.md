@@ -2,6 +2,8 @@
 title: "We're Peeling Blanched Almonds"
 date: 2010-12-24
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 This may be the most tedious thing I've ever done.

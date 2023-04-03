@@ -2,6 +2,8 @@
 title: "Sophia’s Letter to J.K. Rowling"
 date: 2011-01-07
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Pardon me while I indulge in the cuteness of my little 9 year old. 

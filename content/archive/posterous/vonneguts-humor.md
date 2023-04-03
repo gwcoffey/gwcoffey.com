@@ -2,6 +2,8 @@
 title: "Vonnegut's Humor"
 date: 2011-05-06
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I've been a [Vonnegut][v] fan since I was in high school. Of course there's a lot to like about his work. But one thing I'll mention here is his dry humor. This, for example, is one of the greatest things ever written:

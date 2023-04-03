@@ -2,6 +2,8 @@
 title: "Automate FileMaker Plug-in Deployment"
 date: 2007-07-31
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Back in the late 19th century, when FileMaker Server 5.5 was released, one of its stellar new features was *AutoUpdate*. FileMaker Server can automatically install plug-ins on the connecting FileMaker Pro clients as needed. This is very cool, but there are a few gotchas, which are explained here.

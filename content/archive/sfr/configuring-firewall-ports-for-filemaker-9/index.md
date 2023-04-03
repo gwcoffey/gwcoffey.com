@@ -2,6 +2,8 @@
 title: "Configuring Firewall Ports for FileMaker 9"
 date: 2007-07-27
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 {{< ed `This was the most popular post on Six Fried Rice by far. The diagram I made was translated into French and Japanese by community members (with permission) and passed around for years.`>}}

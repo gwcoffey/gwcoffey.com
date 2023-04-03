@@ -2,6 +2,8 @@
 title: "Sister Diving Into a Nostril"
 date: 2012-10-08
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 *[ed: Sophie was asking me about how Google works and when I explained it to her she asked if we could make it so you could search for "sister diving into a nostril" and find something. I said yes and this post was born.]*

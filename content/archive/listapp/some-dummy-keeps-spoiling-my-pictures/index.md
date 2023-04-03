@@ -2,6 +2,8 @@
 title: Some Dummy Keeps Spoiling My Pictures
 date: '2016-03-23T20:23:58+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 55
 relistCount: 9
 ---

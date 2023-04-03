@@ -2,6 +2,8 @@
 title: "Getting the Kids Haircuts"
 date: 2012-01-16
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 The stylist has this sign up in her lobby. #like

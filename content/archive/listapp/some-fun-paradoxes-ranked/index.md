@@ -2,6 +2,8 @@
 title: Some Fun Paradoxes, Ranked
 date: '2015-10-30T04:08:43+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 23
 relistCount: 3
 ---

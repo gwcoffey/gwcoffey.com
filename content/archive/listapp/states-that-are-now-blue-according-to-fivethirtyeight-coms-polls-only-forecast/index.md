@@ -2,6 +2,8 @@
 title: States that are Now Blue According to fivethirtyeight.com's Polls-only Forecast
 date: '2016-08-08T23:54:05+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 18
 relistCount: 1
 ---

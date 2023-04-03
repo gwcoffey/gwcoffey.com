@@ -2,6 +2,8 @@
 title: I Killed a Bird
 date: '2015-12-14T06:05:11+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 3
 ---

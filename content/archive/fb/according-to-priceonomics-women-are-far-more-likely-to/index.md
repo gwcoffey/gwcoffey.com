@@ -1,6 +1,8 @@
 ---
 date: 2016-07-05 18:32:46.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1467768766'
 linklist: true
 ---

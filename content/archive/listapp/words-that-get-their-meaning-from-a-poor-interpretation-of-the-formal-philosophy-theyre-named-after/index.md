@@ -3,6 +3,8 @@ title: Words That Get Their Meaning From a Poor Interpretation of the Formal Phi
   They're Named After
 date: '2016-03-30T14:57:22+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 39
 relistCount: 7
 ---

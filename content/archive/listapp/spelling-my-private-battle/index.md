@@ -2,6 +2,8 @@
 title: 'Spelling: My Private Battle'
 date: '2015-08-12T22:24:04+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 5
 relistCount: 0
 ---

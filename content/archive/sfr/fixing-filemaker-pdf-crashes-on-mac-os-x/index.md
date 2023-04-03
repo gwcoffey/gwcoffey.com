@@ -2,6 +2,8 @@
 title: "Fixing FileMaker PDF Crashes on Mac OS X"
 date: 2008-05-07
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 FileMaker’s `Save Records as PDF` script step is, like, totally awesome. But there’s one teeny tiny issue: it sure likes to crash. We use this feature *a lot* with our customers, and under the right set of circumstances, we can see crashing on half or more of the machines our scripts run on. Luckily, it turns out this problem is easy to fix. It is such a frequent problem that I thought I’d save the googlers of the world some time and write up the solution here.

@@ -2,6 +2,8 @@
 title: "Sophia Made a Firebolt"
 date: 2011-01-12
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 She's ready for Quidditch practice…

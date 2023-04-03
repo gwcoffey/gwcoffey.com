@@ -2,6 +2,8 @@
 title: "The OnObjectValidate Trigger"
 date: 2010-09-03
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 FileMaker 11 added just one new object trigger, and it is a strange little dude: `OnObjectValidate`. This trigger fires after you edit a field, before it is validated. If you thought FileMaker already had enough after-you-change-a-field triggers, you were mistaken. In this article, I explain how the various field triggers fit together and why `OnObjectValidate` exits. You then get a simple example of how it can be used. And as a special bonus, I show you how to extend the technique so it can easily be reused over and over again.

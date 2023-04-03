@@ -2,6 +2,8 @@
 title: Things You Can Buy on Wheel of Fortune
 date: '2015-05-20T00:55:20+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 8
 relistCount: 2
 ---

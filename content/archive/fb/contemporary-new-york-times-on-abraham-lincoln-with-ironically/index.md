@@ -1,6 +1,8 @@
 ---
 date: 2017-09-17 22:38:55.000000000 -07:00
 archive: fb
+tags: 
+  - Archive Post
 id: '1505713135'
 summary: "Contemporary New York Times on Abraham Lincoln (with ironically overburdened language): \"What is still better than even felicity of expression, is felicity of thought…\""
 ---

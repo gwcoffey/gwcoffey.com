@@ -2,6 +2,8 @@
 title: "Opening Lines of Shantaram"
 date: 2009-09-11
 archive: posterous
+tags: 
+  - Archive Post
 summary: "I'm reading Shantaram by Gregory David Roberts on the recommendation of my dad. Still working on the book but I do really like the opening lines: \"It took me a long time and most of the world to learn what I know about love and fate and the choices we make…\""
 ---
 

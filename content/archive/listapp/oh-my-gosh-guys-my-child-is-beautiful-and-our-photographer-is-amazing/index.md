@@ -2,6 +2,8 @@
 title: Oh My Gosh Guys My Child is Beautiful (And Our Photographer is Amazing)
 date: '2016-03-18T16:34:43+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 53
 relistCount: 2
 ---

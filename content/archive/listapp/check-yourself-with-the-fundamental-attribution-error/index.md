@@ -2,6 +2,8 @@
 title: Check Yourself With the Fundamental Attribution Error
 date: '2016-01-14T15:16:35+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 115
 relistCount: 47
 ---

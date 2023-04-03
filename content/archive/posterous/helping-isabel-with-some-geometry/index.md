@@ -2,6 +2,8 @@
 title: "Helping Isabel With Some Geometry"
 date: 2012-09-17
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Finally they're back to some math I can still do without struggling.

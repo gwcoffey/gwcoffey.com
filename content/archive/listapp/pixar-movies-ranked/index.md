@@ -2,6 +2,8 @@
 title: Pixar Movies Ranked
 date: '2016-03-31T20:47:16+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 27
 relistCount: 4
 ---

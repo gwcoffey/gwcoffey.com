@@ -2,6 +2,8 @@
 title: A List of Encouraging Letters
 date: '2015-05-26T20:12:51+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 16
 relistCount: 2
 ---

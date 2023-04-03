@@ -3,6 +3,8 @@ title: What to do when someone includes you on an email that obviously has too m
   people on the CC list
 date: '2017-02-01T01:40:24+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 23
 relistCount: 0
 ---

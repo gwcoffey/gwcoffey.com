@@ -2,6 +2,8 @@
 title: "Pop Goes the Variable"
 date: 2010-08-26
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 We start our return to semi-regular writing with a small-but-awesome custom function: `Pop`. If you grew up in the American mid-west like me you might think I’m talking about [ soda | soda pop | coke | soft drinks ]. But I’m actually talking about [stacks][pop]. In the computer science world, `pop` means to take something off the top of a list, and it is exceptionally handy to add this to your FileMaker scripting toolkit.

@@ -2,6 +2,8 @@
 title: 'Nerd School / Geek School: Compare and Contrast'
 date: '2016-04-30T03:03:39+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 37
 relistCount: 2
 ---

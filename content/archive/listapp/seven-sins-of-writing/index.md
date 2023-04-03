@@ -2,6 +2,8 @@
 title: Seven Sins of Writing
 date: '2016-10-23T05:29:47+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 47
 relistCount: 1
 ---

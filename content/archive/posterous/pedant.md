@@ -2,6 +2,8 @@
 title: "Pedant"
 date: 2011-01-07
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I saw this article in Google Reader tonight:

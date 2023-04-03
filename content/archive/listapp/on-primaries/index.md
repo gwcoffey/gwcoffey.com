@@ -2,6 +2,8 @@
 title: On Primaries
 date: '2016-07-28T19:23:59+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 17
 relistCount: 3
 ---

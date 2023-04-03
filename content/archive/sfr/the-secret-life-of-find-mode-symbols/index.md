@@ -2,6 +2,8 @@
 title: "The Secret Life of Find Mode: Symbols"
 date: 2007-08-20
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 Once you’ve mastered [multiple requests](../the-secret-life-of-find-mode-requests/), you’re ready to move on to the next Find Mode gem: *Find Symbols*. Using these bits of punctuation, you can tell FileMaker, when it goes about matching records to your find criteria, to be a little more flexible, or a little more strict. In this article, you’ll learn about each one.

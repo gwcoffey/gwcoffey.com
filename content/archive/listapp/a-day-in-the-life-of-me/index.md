@@ -2,6 +2,8 @@
 title: "A Day in the Life of Me \U0001F4C5"
 date: '2016-01-10T05:15:16+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 39
 relistCount: 2
 ---

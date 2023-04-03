@@ -2,6 +2,8 @@
 title: 99 Things I Love About My Wife
 date: '2016-06-06T14:45:59+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 162
 relistCount: 42
 ---

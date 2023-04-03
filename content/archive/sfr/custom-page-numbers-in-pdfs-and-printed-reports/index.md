@@ -2,6 +2,8 @@
 title: "Custom Page Numbers in PDFs and Printed Reports"
 date: 2007-07-18
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 [1]:../filemaker-9-tip-9-web-viewers-without-the-web

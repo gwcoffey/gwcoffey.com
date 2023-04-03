@@ -2,6 +2,8 @@
 title: Things I Want My Kids to Know
 date: '2015-06-10T20:25:56+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 20
 relistCount: 3
 ---

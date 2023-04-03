@@ -2,6 +2,8 @@
 title: 5 Lists My Parents Would 100% Write About Me
 date: '2016-05-01T03:03:10+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 31
 relistCount: 4
 ---

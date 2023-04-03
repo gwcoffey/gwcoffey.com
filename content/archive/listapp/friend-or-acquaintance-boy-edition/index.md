@@ -2,6 +2,8 @@
 title: Friend or Acquaintance? (Boy Edition)
 date: '2015-10-23T15:56:20+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 15
 relistCount: 1
 ---

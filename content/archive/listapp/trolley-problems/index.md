@@ -2,6 +2,8 @@
 title: Trolley Problems
 date: '2016-04-03T05:15:09+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 6
 relistCount: 2
 ---

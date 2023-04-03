@@ -2,6 +2,8 @@
 title: "Slamming Open the Door by Kathleen Sheeder Bonanno"
 date: 2009-09-26
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 [Kathleen Sheeder Bonanno][poet] is new to me. I heard her interviewed on Diane Rehm today. I just ordered her book, *[Slamming Open the Door][book]*.

@@ -2,7 +2,6 @@
 title: "Colophon"
 menu: About
 weight: 2
-weblog: false
 ---
 
 This site is designed, written, and maintained by [*Geoff Coffey*](/me).  It is built using [web standards][w3c] including semantic HTML and CSS. Javascript is used sparingly. **You will find no cookies, tracking codes, or fingerprinting here.** The pages you see are assembled at build-time by the *[Hugo CMS][hugo]* system using a custom theme. The assembled site is fully static and hosted by *[Netflify][netlify]*.

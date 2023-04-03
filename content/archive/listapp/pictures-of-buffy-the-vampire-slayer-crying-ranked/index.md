@@ -2,6 +2,8 @@
 title: Pictures of Buffy the Vampire Slayer Crying, Ranked
 date: '2015-10-16T17:17:44+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 48
 relistCount: 13
 ---

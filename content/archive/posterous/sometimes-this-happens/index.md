@@ -2,6 +2,8 @@
 title: "Sometimes This Happens"
 date: 2012-01-16
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Heck of a month, collections wise. :sob:

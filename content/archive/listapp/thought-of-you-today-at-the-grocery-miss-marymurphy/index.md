@@ -2,6 +2,8 @@
 title: Thought of you today at the grocery miss @marymurphy
 date: '2016-05-15T00:26:23+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 18
 relistCount: 3
 ---

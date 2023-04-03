@@ -2,6 +2,8 @@
 title: What Happens When You Type "Google" Into Your Browser
 date: '2016-05-27T05:28:19+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 30
 relistCount: 5
 ---

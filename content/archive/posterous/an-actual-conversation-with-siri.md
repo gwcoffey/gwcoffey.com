@@ -2,6 +2,8 @@
 title: "An Actual Conversation with Siri"
 date: 2012-10-03
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I use Siri to text my wife when I leave work to let her know I'm on my way. It is super handy and saves me about 15 seconds every day, which appeals to my inner lazy. Unfortunately, although Siri is very good, she's by no means human. I occasionally throw her off by being too informal. The other day this conversation took place:

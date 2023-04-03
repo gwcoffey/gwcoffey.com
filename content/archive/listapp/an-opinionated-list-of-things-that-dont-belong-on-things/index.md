@@ -2,6 +2,8 @@
 title: An Opinionated List of Things That Don't Belong on Things
 date: '2015-06-07T00:37:00+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 26
 relistCount: 6
 ---

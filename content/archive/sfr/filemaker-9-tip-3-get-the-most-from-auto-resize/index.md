@@ -2,6 +2,8 @@
 title: "FileMaker 9 Tip #3: Get the Most from Autoresize"
 date: 2007-07-10
 archive: sfr
+tags: 
+  - Archive Post
 ---
 
 FileMaker Pro 9 has another awesome new feature: *Autoresize*. Now your layout elements can stretch their legs when you give them a bigger window. Auto-resize lets you tell FileMaker how different elements on the layout should stretch and move as the window is resized by the user. But it can be a little tough to understand exactly how it works. Here are three tips to help you take best advantage of this awesome new feature.

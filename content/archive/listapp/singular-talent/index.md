@@ -2,6 +2,8 @@
 title: Singular Talent
 date: '2016-01-22T16:13:25+00:00'
 archive: listapp
+tags: 
+  - Archive Post
 likeCount: 32
 relistCount: 4
 ---

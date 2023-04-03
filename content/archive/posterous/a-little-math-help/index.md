@@ -2,6 +2,8 @@
 title: "A Little Math Help?"
 date: 2011-02-09
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 Anybody want to help me with some math? Consider:

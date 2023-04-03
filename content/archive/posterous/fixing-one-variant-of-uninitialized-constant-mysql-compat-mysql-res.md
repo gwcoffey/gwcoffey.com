@@ -2,6 +2,8 @@
 title: "Fixing uninitialized constant MysqlCompat::MysqlRes"
 date: 2011-04-07
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 For reasons I don't fully understand, using ActiveRecord in Rails 2.3 (or at least 2.3.11) with the MySQL gem version 2.8.1 on Mac OS X 10.6 (or at least 10.6.7) produces this error. With other versions of Rails, you may get a different error, but the underlying cause is the same. The internet is rife with suggestions that may or may not be helpful with various version combinations. But none of them helped in my case.

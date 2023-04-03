@@ -2,6 +2,8 @@
 title: "This is Not a Parable"
 date: 2011-10-20
 archive: posterous
+tags: 
+  - Archive Post
 ---
 
 I'm not sure why I love this lyric so much, but I sure do.
