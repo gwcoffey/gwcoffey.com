@@ -1,0 +1,28 @@
+#! /bin/sh
+
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 [directory_path]"
+  exit 1
+fi
+
+directory_path="$1"
+
+if [ ! -d "${directory_path}" ]; then
+  echo "Error: Directory '${directory_path}' not found"
+  exit 1
+fi
+
+image_files=("${directory_path}"/*)
+
+for image_file in "${image_files[@]}"
+do
+  exiftool -if '$CreateDate' "${image_file}" >/dev/null 2>&1
+
+  if [ $? -eq 0 ]; then
+    timestamp=$(exiftool -m -p '$CreateDate' -d '%Y%m%d_%H%M%S' "${image_file}")
+    new_file_path="${directory_path}/${timestamp}.jpg"
+    mv "${image_file}" "${new_file_path}"
+  else
+  	echo "Error: 'CreateDate' tag not found in ${image_file}";
+  fi
+done

@@ -1,0 +1,17 @@
+{{- $images := .Page.Resources.Match (.Get 0) -}}
+{{- $page := .Page -}}
+
+{{- range $images -}}
+{{- $meta := index ($page.Param "carousel") .Name -}}
+<figure>
+	<img src="{{ .RelPermalink }}">
+	<figcaption>
+		{{- with index $meta "title" -}}
+		<h4>{{ . }}</h4>
+		{{- end -}}
+		{{- with index $meta "caption" -}}
+		<p>{{ . }}</p>
+		{{- end -}}
+	</figcaption>
+</figure>
+{{- end -}}

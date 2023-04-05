@@ -34,6 +34,10 @@
 	<p>
 		This is an archive of a web site I previously operated. You can <a href="/archive/site/">view the full archive here</a>.
 	</p>
+	{{ else if eq (.Param "archive") "flickr" }}
+	<p>
+		This is an archive of a Flickr photo album. You can <a href="/archive/forhire/">view the full archive here</a>.
+	</p>
 	{{ end }}
 </section>
 

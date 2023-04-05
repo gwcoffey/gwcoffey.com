@@ -32,6 +32,7 @@ main {
     		color: #999;
     		font-family: var(--mono-font);
     		margin: 0;
+    		font-variant-ligatures: no-common-ligatures;
     		
     		a {
     			color: #999;
