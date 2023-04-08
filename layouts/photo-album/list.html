@@ -5,7 +5,7 @@
 {{ .Content }}
 
 <div class="album">
-{{- range $page := .Pages }}
+{{- range $page := (where .Pages "Params.tags" "intersect" (slice "Photo")) }}
 
 	{{- $images := .Resources.ByType "image" -}}
 
@@ -15,12 +15,12 @@
 			<!-- when hugo processes images it drops EXIF data, so we need to manually apply
 				 any rotation in the original's EXIF orientation tag -->
 			{{- $rotation := "r0" -}}
-			{{- with $image.Exif.Tags.Orientation -}}
-				{{- if eq . 3 -}} <!-- 180° -->
+			{{- with $image.Exif -}}
+				{{- if eq .Tags.Orientation 3 -}} <!-- 180° -->
 					{{- $rotation = "r180" -}}
-				{{- else if eq . 6 -}} <!-- 90° CW -->
+				{{- else if eq .Tags.Orientation 6 -}} <!-- 90° CW -->
 					{{- $rotation = "r270" -}}
-				{{- else if eq . 8 -}} <!-- 270° CW -->
+				{{- else if eq .Tags.Orientation 8 -}} <!-- 270° CW -->
 					{{- $rotation = "r90" -}}
 				{{- end -}}
 			{{- end -}}
