@@ -1,0 +1,16 @@
+{{ if eq .paginator.PageNumber 1 }}
+<hgroup>
+	<h1>{{ .page.Title }}</h1>
+	{{ if not (eq .page.Parent.RelPermalink "/") }}
+	<p class="crumb"><a href="../">{{ .page.Parent.RelPermalink }}</a></p>
+	{{ end }}
+</hgroup>
+{{ else }}
+<hgroup>
+	<h1>
+		{{ .page.Title }}
+		<small>(Page {{ .paginator.PageNumber }})</small>
+	</h1>
+	<p class="crumb"><a href="../../">{{ .paginator.First.URL }}</a></p>
+</hgroup>
+{{ end }}

@@ -2,23 +2,7 @@
 
 {{ $paginator := .Paginate .Pages }}
 
-{{ if eq $paginator.PageNumber 1 }}
-<hgroup>
-	<h1>{{ .Title }}</h1>
-	{{ if not (eq .Parent.RelPermalink "/") }}
-	<p class="crumb"><a href="../">{{ .Parent.RelPermalink }}</a></p>
-	{{ end }}
-</hgroup>
-{{ else }}
-<hgroup>
-	<h1>
-		{{ .Title }}
-		<small>(Page {{ $paginator.PageNumber }})</small>
-	</h1>
-	<p class="crumb"><a href="../../">{{ $paginator.First.URL }}</a></p>
-</hgroup>
-{{ end }}
-
+{{ partial "list-heading.html" (dict "page" . "paginator" $paginator) }}
 
 {{ .Content }}
 

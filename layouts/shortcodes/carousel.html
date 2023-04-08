@@ -1,17 +1,22 @@
 {{- $images := .Page.Resources.Match (.Get 0) -}}
 {{- $page := .Page -}}
 
+<div class="carousel">
 {{- range $images -}}
 {{- $meta := index ($page.Param "carousel") .Name -}}
-<figure>
-	<img src="{{ .RelPermalink }}">
-	<figcaption>
-		{{- with index $meta "title" -}}
-		<h4>{{ . }}</h4>
+	<figure>
+		<img class="popable" src="{{ .RelPermalink }}">
+		{{- if or (isset $meta "title") (isset $meta "caption") -}}
+			<figcaption>
+			{{- with index $meta "title" -}}
+			<h4>{{ . }}</h4>
+			{{- end -}}
+			{{- with index $meta "caption" -}}
+			<p>{{ . }}</p>
+			{{- end -}}
+			</figcaption>
 		{{- end -}}
-		{{- with index $meta "caption" -}}
-		<p>{{ . }}</p>
-		{{- end -}}
-	</figcaption>
-</figure>
+	</figure>
 {{- end -}}
+	<figure></figure> <!-- need an empty item to avoid loooong last rows -->
+</div>
