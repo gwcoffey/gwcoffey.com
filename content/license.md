@@ -1,5 +1,5 @@
 ---
-title: "license"
+title: "License"
 menu: About
 weight: 3
 ---
