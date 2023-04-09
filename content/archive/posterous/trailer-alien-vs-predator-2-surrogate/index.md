@@ -25,8 +25,6 @@ FADE TO BLACK WITH WHITE TITLES
 
 {{< figure 
 	src="image.jpg" 
-	height="398" 
-	width="600" 
 	alt="A still from the move trailer for Alien vs. Predator showing the predatory lookup up into the eyes of the alien. It almost looks loving." 
 	caption="Alien eye contact." >}}
 

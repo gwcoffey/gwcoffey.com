@@ -13,7 +13,5 @@ They were then invited to participate in the Arizona Humane Society Telethon as 
 
 {{< figure 
 	src="image.jpg" 
-	height="765" 
-	width="1024" 
 	alt="Two children stand in front of a television camera while the news caster reviews her notes near by. They are in a big gymnasium full of people answering phones." 
 	caption="Sophie (short hair) and Alison just about to go on the air to be interviewed." >}}

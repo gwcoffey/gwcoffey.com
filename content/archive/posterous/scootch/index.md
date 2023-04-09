@@ -10,7 +10,5 @@ tags:
 
 {{< figure 
 	src="image.png" 
-	height="481" 
-	width="804" 
 	alt="Screenshot of the Mac OS X dictionary app showing the definition of \"Scootch\": 1 crouch or squat. 2 move in or pass through a restricted space: waiters kept trying to scooch by. [ with obj. ] move (something or something) a short distance or into a restricted space." 
 	caption="Scootch, verb." >}}

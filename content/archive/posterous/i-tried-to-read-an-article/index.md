@@ -12,7 +12,5 @@ Chris and I were discussing online reading. He sent me a link to an article abou
 
 {{< figure 
 	src="image.png" 
-	height="1025" 
-	width="1038" 
 	alt="A screenshot of a browser window showing an article from technologyreview.com. Most of the article text is obscured by a floating ad image with a tiny hard-to-spot close button." 
 	caption="This is why we rebel." >}}

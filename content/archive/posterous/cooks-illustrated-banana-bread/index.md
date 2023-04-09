@@ -14,7 +14,5 @@ This bread was great. Really intense flavor, moise-but-not-too, nice crisp edges
 
 {{< figure 
 	src="image.jpg" 
-	height="765" 
-	width="1024" 
 	alt="A loaf of banana bread still in the pan. It has a split top, a golden brown color, and two stripes of shingled sliced banana as a decorative top." 
 	caption="Six bananas! One loaf! (My banana stripes are a little off-kliter.)" >}}

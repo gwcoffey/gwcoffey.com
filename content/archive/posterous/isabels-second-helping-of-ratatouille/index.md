@@ -11,7 +11,5 @@ Strangely, this has been Isabel's favorite dish since they were two and a half y
 
 {{< figure 
 	src="image.jpg" 
-	height="765" 
-	width="1024" 
 	alt="A teenager sits at a dining table smiling for the camera. They are wearing a white button-up collared shirt and have long straight dirty-blonde hair. There is a large bowl of rustic ratatouille on the table." 
 	caption="Isabel with their favorite meal." >}}

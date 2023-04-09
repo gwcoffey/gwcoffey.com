@@ -8,7 +8,5 @@ tags:
 
 {{< figure 
 	src="image.jpg" 
-	height="1374" 
-	width="1419" 
 	alt="Photograph of a portion of a check showing the amount line: $38.47." 
 	caption="My total royalties this quarter." >}}

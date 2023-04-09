@@ -10,8 +10,6 @@ This is what you see when you *start* the process of filling out a passport appl
 
 {{< figure 
 	src="image.png" 
-	height="298" 
-	width="204" 
 	alt="A screenshot of a portion of a web page. It says \"Apply Online\" with a large button labeled \"Submit\"." 
 	caption="Submit?" >}}
 

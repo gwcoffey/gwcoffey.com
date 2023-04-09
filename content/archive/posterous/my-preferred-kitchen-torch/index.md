@@ -12,7 +12,5 @@ I light mine by turning it on and aiming it at the stove burner.
 
 {{< figure 
 	src="image.jpg" 
-	height="1024" 
-	width="765" 
 	alt="A standard small propane fuel bottle with torch attachment. This one is \"Turner\" brand." 
 	caption="My preferred \"kitchen\" torch." >}}

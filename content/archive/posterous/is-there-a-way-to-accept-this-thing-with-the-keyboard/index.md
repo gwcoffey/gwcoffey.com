@@ -10,8 +10,6 @@ Mac OS X Lion does iPhone-style autocorrect as you type. I'm leaving it on for n
 
 {{< figure 
 	src="image.png" 
-	height="60" 
-	width="132" 
 	alt="A screenshot of the auto-correct popup under entered text on Mac OS X." 
 	caption="Auto-correct on the desktop." >}}
 	

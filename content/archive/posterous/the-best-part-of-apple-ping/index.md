@@ -10,7 +10,5 @@ Love the presentation of this option on Ping. I've always made the same distinct
 
 {{< figure 
 	src="image.png" 
-	height="69" 
-	width="193" 
 	alt="A screen shot of a user interface offering three choices: All, Artists, or People." 
 	caption="You choose: Artists or People." >}}

@@ -8,8 +8,6 @@ tags:
 
 {{< figure 
 	src="image.png" 
-	height="247" 
-	width="399" 
 	alt="A windows alert box warning that the security system has been disabled because the operating system did not pass \"genuine validation\"." 
 	caption="They're called \"essential\" for a reason, Bill." >}}
 

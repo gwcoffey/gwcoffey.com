@@ -8,7 +8,5 @@ tags:
 
 {{< figure 
 	src="image.png" 
-	height="76" 
-	width="529" 
 	alt="Screenshot of an alert showing that the \"Microsoft Error Reporter\" app has crashed." 
 	caption="Problem report for Microsoft Error Report." >}}

@@ -14,7 +14,5 @@ I fully expect to see this featured on the [Bad Astronomy blog][ba] soon.
 
 {{< figure 
 	src="image.jpg" 
-	height="1936" 
-	width="2592" 
 	alt="A large black field of night sky with a tiny indecipherable off-center white smudge." 
 	caption="Jupiter, I guess." >}}

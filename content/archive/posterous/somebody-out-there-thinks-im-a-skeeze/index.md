@@ -13,8 +13,6 @@ On this day, the picture shown prominently beside me while I worked was an overe
 
 {{< figure 
 	src="image.jpg" 
-	height="1024" 
-	width="1640" 
 	alt="An over-exposed photo of a child with medium length hair wearing a yellow shirt over an orange shirt. They are looking down with interest at something off camera." 
 	caption="Isabel at eight years old sitting on the trampoline." >}}
 

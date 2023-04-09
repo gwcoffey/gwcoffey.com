@@ -10,8 +10,6 @@ Pardon me while I indulge in the cuteness of my little 9 year old.
 
 {{< figure 
 	src="image.jpg" 
-	height="676" 
-	width="1000" 
 	alt="A photograph of a letter written in black ink in an uneven child's handwriting. (The full text is reproduced below.)" 
 	caption="Sophie's letter." >}}
 

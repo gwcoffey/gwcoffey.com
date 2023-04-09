@@ -8,8 +8,6 @@ tags:
 
 {{< figure 
 	src="image.jpg" 
-	height="654" 
-	width="927" 
 	alt="A three panel comic. Panel one shows Doc and Marty from Back to the Future. Doc is saying the time machine will appear in the same place one minute in the future. In panel two the time machine disappears with fire tire tracks. In the final panel the time machine is floatin in space some distance from the earth." 
 	caption="Same place, different time." >}}
 

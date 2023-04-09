@@ -8,8 +8,6 @@ tags:
 
 {{< figure 
 	src="image.png" 
-	height="73" 
-	width="408" 
 	alt="A screenshot of a control on a web page. It has a checkbox with the label \"Allow viral distribution for this video\". Next to the label there are also two radio buttons labeled \"Yes\" and \"No\"." 
 	caption="A checkbox **and** yes/no radio buttons for a single option. Just for emphasis." >}}
 

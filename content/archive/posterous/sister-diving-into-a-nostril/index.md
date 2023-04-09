@@ -10,7 +10,5 @@ tags:
 
 {{< figure 
 	src="image.jpg" 
-	height="395" 
-	width="462" 
 	alt="A poorly done digital collage showing a diver paster over a giant human nose so the diver (sort of) appears to be diving into one of the nostrils." 
 	caption="Here's a picture of a sister diving into a nostril." >}}

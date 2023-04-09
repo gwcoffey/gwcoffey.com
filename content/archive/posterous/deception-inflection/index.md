@@ -11,8 +11,6 @@ Sometimes I'm accused of being a good person, and I have to remind people that i
 
 {{< figure 
 	src="image-1.png" 
-	height="382" 
-	width="569" 
 	alt="A graph showing a line progressing from less evil to more evil. The height of the line represents the appearance of evil. The line rises steadily until the half-way point. It then falls quickly." 
 	caption="The deceoption inflection." >}}
 	
@@ -20,8 +18,6 @@ Here it is with some data points:
 
 {{< figure 
 	src="image-2.png" 
-	height="407" 
-	width="569" 
 	alt="The same graph with some points labeled. Mid-way across and high on the appeaance of evil sits Apple. On the other side of the peak, Exxon. Google is all the way to the right." 
 	caption="Evil corporations." >}}
 

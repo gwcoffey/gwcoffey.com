@@ -16,8 +16,6 @@ Coda has an annoying habit of treating < and > as angle brackets in ruby files w
 
 {{< figure 
 	src="image-1.png" 
-	height="173" 
-	width="601" 
 	alt="A screenshot of Javascript code showing < treated properly as a less-than sign." 
 	caption="Code handles < in Javascript cleanly." >}}
 
@@ -25,8 +23,6 @@ But…
 
 {{< figure 
 	src="image-2.png" 
-	height="154" 
-	width="275" 
 	alt="A screenshot of Ruby code showing < treated incorrectly as an angle-bracket." 
 	caption="But in Ruby code it gets confused." >}}
 
@@ -36,8 +32,6 @@ Also, you've got a few minor-but-annoying syntax coloring issues. The most destr
 
 {{< figure 
 	src="image-3.png" 
-	height="106" 
-	width="527" 
 	alt="A screenshot of Ruby code showing syntax highlighting treating a comment as a string after complex string interpolation." 
 	caption="Nested string interpolation can cause Code to color everything after as a string." >}}
 	
@@ -45,8 +39,6 @@ But there are a few others:
 
 {{< figure 
 	src="image-4.png" 
-	height="308" 
-	width="618" 
 	alt="A screenshot of Ruby code showing several cases where ruby colors symbols and method calls like keywords." 
 	caption="Coda has trouble when keywords appear in symbols and method names. And it doens't seem to understand quoted symbols." >}}
 	
@@ -109,8 +101,6 @@ Code Completion is understandably hard in a dynamic language like Ruby. The last
 
 {{< figure 
 	src="image-5.png" 
-	height="124" 
-	width="261" 
 	alt="A screenshot showing Code offering useful code completion suggestions for CSS properties." 
 	caption="Code completion works great in CSS." >}}
 
@@ -118,8 +108,6 @@ Along these lines, a few rails code completions would be nice, like:
 
 {{< figure 
 	src="image-6.png" 
-	height="202" 
-	width="250" 
 	alt="A mockup of code completion suggestions for ActiveRecord \"has_many\" options." 
 	caption="Code completion suggestions for common rails methods would be really nice." >}}
 

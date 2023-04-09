@@ -11,7 +11,5 @@ I've had these wooden toy blocks since I was a little boy. They still get the jo
 
 {{< figure 
 	src="image.jpg" 
-	height="1024" 
-	width="765" 
 	alt="A young girl puts the finishing touches on a tall tower made of wooden toy blocks. The tower reaches the ceiling." 
 	caption="Sophie with our masterpiece." >}}
