@@ -1,16 +1,16 @@
-{{ if eq .paginator.PageNumber 1 }}
-<hgroup>
-	<h1>{{ .page.Title }}</h1>
-	{{ if not (eq .page.Parent.RelPermalink "/") }}
-	{{ partial "breadcrumbs.html" .page.Parent }}
-	{{ end }}
-</hgroup>
-{{ else }}
-<hgroup>
-	<h1>
-		{{ .page.Title }}
-		<small>(Page {{ .paginator.PageNumber }})</small>
-	</h1>
-	{{ partial "breadcrumbs.html" .page.Parent }}
-</hgroup>
-{{ end }}
+{{- if eq .paginator.PageNumber 1 }}
+		<hgroup>
+			<h1>{{ .page.Title }}</h1>
+			{{- if not (eq .page.Parent.RelPermalink "/") -}}
+				{{- partial "breadcrumbs.html" .page.Parent -}}
+			{{- end }}
+		</hgroup>
+{{- else -}}
+		<hgroup>
+			<h1>
+				{{ .page.Title }}
+				<small>(Page {{ .paginator.PageNumber }})</small>
+			</h1>
+			{{- partial "breadcrumbs.html" .page.Parent }}
+		</hgroup>
+{{- end }}

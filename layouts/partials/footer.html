@@ -1,18 +1,18 @@
-    <nav>    	
-        <!-- capture stuff before we change scope -->
-        {{ range $menuName := .Site.Params.navMenus }}
-        	{{- if ne $menuName "Main" -}}
+<!-- newline and indent for nice formatting -->
+		<nav>    	
+		{{- range $menuName := .Site.Params.navMenus -}}
+			{{- if ne $menuName "Main" }}
 			<h2>{{ $menuName }}</h2>
-			{{- end -}}
+			{{- end }}
 			<menu>
-			{{ range (index $.Site.Menus $menuName) }}
+			{{- range (index $.Site.Menus $menuName) -}}
 				{{- $menuTitle := or .Page.Params.menuTitle .Page.Title -}}
-				{{ if or ($.HasMenuCurrent $menuName .) ($.IsMenuCurrent $menuName .) }}
+				{{- if or ($.HasMenuCurrent $menuName .) ($.IsMenuCurrent $menuName .) }}
 				<li class="current"><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
-				{{ else }}
+				{{- else }}
 				<li><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
-				{{ end }}
-			{{ end }}
+				{{- end -}}
+			{{- end }}
 			</menu>
-		{{ end }}
-    </nav>
+		{{- end }}
+		</nav>

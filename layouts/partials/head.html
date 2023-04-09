@@ -1,20 +1,18 @@
 <head>
 	<title>{{ if not .IsHome }}gwcoffey.com: {{ end }}{{ .Title }}</title>
 
-    {{ $options := (dict "targetPath" "css/style.css" "outputStyle" "expanded" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice "node_modules/myscss")) }}
-    {{ $sass := resources.Get "sass/style.scss" }}
-    {{ $style := $sass | resources.ToCSS $options }}
+    {{- $options := dict
+    	"targetPath" "css/style.css" 
+    	"outputStyle" "expanded" 
+    	"enableSourceMap" (not hugo.IsProduction) 
+    	"includePaths" (slice "node_modules/myscss") -}}
+    {{- $sass := resources.Get "sass/style.scss" -}}
+    {{- $style := $sass | resources.ToCSS $options }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     
-	{{ $opts := dict "targetPath" "js/main.js" }}
-	{{ $built := resources.Get "js/main.js" | js.Build $opts }}
+	{{- $opts := dict "targetPath" "js/main.js" -}}
+	{{- $built := resources.Get "js/main.js" | js.Build $opts }}
 	<script src="{{ $built.RelPermalink }}" defer></script>
 
-	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-	<link rel="manifest" href="/site.webmanifest">
-	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
-	<meta name="msapplication-TileColor" content="#000000">
-	<meta name="theme-color" content="#ffffff">
+	{{- partial "favicons" . -}}
 </head>

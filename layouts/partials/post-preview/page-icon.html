@@ -1,4 +1,3 @@
 {{- $icon := or (.Param "icon") (.Param "archive") "gwcoffey" -}}
-{{- $large := eq (.Param "archiveSection") true -}}
-
-	<img class="icon{{ cond $large " large" "" }}" src="/img/sites/{{ $icon }}.png">
+{{- $large := eq (.Param "archiveSection") true }}
+			<img class="icon{{ cond $large " large" "" }}" src="/img/sites/{{ $icon }}.png">
