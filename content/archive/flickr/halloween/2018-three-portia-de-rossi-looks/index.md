@@ -1,5 +1,5 @@
 ---
-title: "Sophie's “Three Portia Looks”"
+title: "Three Portia de Rossi Looks"
 date: 2018-10-31
 archive: flickr
 tags: 

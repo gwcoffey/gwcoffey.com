@@ -1,5 +1,5 @@
 ---
-title: "Sophia as Hannibal"
+title: "Hannibal"
 date: 2014-10-31
 archive: flickr
 tags: 

@@ -5,6 +5,6 @@ icon: flickr
 archiveSection: true
 ---
 
-My wife organizes manages most of the photos but I used to keep a few albums on Flickr.
+Technically my Flickr account is still up because I have no idea what the password is **or** what email address I used for recovery. Oh well.
 
 ## My Photo Albums
