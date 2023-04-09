@@ -11,7 +11,7 @@
 			{{ range (index $menus $menuName) }}
 				{{- $menuTitle := or .Page.Params.menuTitle .Page.Title -}}
 				{{ if or ($x.HasMenuCurrent $menuName .) ($x.IsMenuCurrent $menuName .) }}
-				<li>{{ $menuTitle }}</li>
+				<li class="current"><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
 				{{ else }}
 				<li><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
 				{{ end }}

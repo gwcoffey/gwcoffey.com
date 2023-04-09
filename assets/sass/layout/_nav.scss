@@ -35,12 +35,13 @@ footer {
 				}
 			}
 			
-			&:not(:has(a)) {
+			&.current a {
 				margin-left: -2ch;
 				font-weight: bold;
 				
 				&:before {
 					content: "> /";
+					font-weight: normal;
 				}
 			}
 		}		
