@@ -3,7 +3,7 @@ title: "Warner Bros. Studios"
 date: 2018-08-25
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 While we were in LA we took Sophie to Warner Bros. Studios. (This was in the heart of her Ellen-obsessed phase.)

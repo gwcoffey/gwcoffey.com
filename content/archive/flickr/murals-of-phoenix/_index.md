@@ -5,7 +5,7 @@ archive: flickr
 type: photo-album
 tags: 
   - Archive Post
-  - Photo Album
+  - Photos Album
 ---
 
 One of the many things I love about is our murals.

@@ -3,7 +3,7 @@ title: Arts District
 archive: flickr
 date: '2015-07-11'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20150711_091939.jpg" caption="Parking somewhere in the arts district." >}}
 {{< figure src="20150711_100204.jpg" caption="A record store on Roosevelt with some impressivly-skillful portraits." >}}

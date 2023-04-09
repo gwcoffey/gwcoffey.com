@@ -3,7 +3,7 @@ title: Cape Taenaron
 archive: flickr
 date: '2018-03-08'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180308_165147.jpg" caption="We went to the end of the world! (For certain definitions of world. Some restrictions apply. See Homer for details.)" >}}
 {{< figure src="20180308_165350.jpg" caption="World ends here ⬆️" >}}

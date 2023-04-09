@@ -3,7 +3,7 @@ title: Athens
 archive: flickr
 date: '2018-03-10'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180310_180149.jpg" caption="This is the face Isabel makes when she sees or thinks about something cute. In this case, the little caterpillars here that all slink along in a long train nose-to-tail." >}}
 {{< figure src="20180312_183452.jpg" caption="Isabel gave us a quick walking tour of her neighborhood and nearby city sights." >}}

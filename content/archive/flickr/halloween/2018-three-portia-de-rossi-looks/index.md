@@ -3,7 +3,7 @@ title: "Three Portia de Rossi Looks"
 date: 2018-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 Sophie modeling the dresses she made based on \"Three Iconic Portia de Rossi Looks\".

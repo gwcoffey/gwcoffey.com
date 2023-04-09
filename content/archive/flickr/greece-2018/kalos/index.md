@@ -3,7 +3,7 @@ title: Kalos
 archive: flickr
 date: '2018-03-08'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180308_130934.jpg" caption="The water here was so very aquamarine and the wind was wonderful." >}}
 {{< figure src="20180308_154054.jpg" caption="Aside: What a kid!" >}}

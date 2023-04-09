@@ -3,7 +3,7 @@ title: Dingle Peninsula
 archive: flickr
 date: 2012-11-29
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20121129_183908.jpg" caption="It's me!" >}}
 {{< figure src="20121130_151848.jpg" caption="This is my most vivid memory of Ireland: Absolutely beautiful everywhere." >}}

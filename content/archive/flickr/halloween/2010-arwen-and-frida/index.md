@@ -3,7 +3,7 @@ title: "Arwen and Frida"
 date: 2010-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 Isabel (recycling an older costume) as Arwen (with her friend). Sophia as her favorite painter, Frida Kahlo.

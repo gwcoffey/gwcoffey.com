@@ -3,6 +3,7 @@ date: 2018-04-21 14:08:40.000000000 -07:00
 archive: fb
 tags: 
   - Archive Post
+  - Photos
 id: '1524344920'
 summary: "A couple years ago this tree blew down in the wind. All that was left was a 14 inch high trunk and a tiny branch. Before I got around to replacing it that branch had grown a ton and reoriented straight up. So I got curious and let it do it’s thing."
 ---

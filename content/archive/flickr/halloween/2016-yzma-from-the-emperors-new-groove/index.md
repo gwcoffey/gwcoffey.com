@@ -3,7 +3,7 @@ title: "Yzma from The Emperor’s New Groove"
 date: 2016-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 This costume was a major production.

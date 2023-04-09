@@ -4,6 +4,7 @@ date: 2011-02-02
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 It is upon us here in Phoenix.

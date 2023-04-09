@@ -4,6 +4,7 @@ date: 2011-01-12
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 She's ready for Quidditch practice…

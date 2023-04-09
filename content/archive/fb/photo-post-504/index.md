@@ -3,6 +3,7 @@ date: 2012-12-12 08:26:27.000000000 -08:00
 archive: fb
 tags: 
   - Archive Post
+  - Photos
 id: '1355329587'
 ---
 

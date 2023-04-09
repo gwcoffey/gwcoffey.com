@@ -3,7 +3,7 @@ title: "Paisley / Shell Print (Reversible)"
 date: 2019-01-05
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 {{< figure src="20190105_171415.jpg" >}}

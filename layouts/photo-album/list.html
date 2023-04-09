@@ -5,7 +5,7 @@
 {{ .Content }}
 
 <div class="album">
-{{- range $page := (where .Pages "Params.tags" "intersect" (slice "Photo")) }}
+{{- range $page := (.Paginate (where .Pages "Params.tags" "intersect" (slice "Photos"))).Pages }}
 
 	{{- $images := .Resources.ByType "image" -}}
 
@@ -42,5 +42,7 @@
 	</div>
 {{- end }}
 </div>
+
+{{ partial "pagination-links.html" . }}
 
 {{ end }}

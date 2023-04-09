@@ -4,6 +4,7 @@ date: 2010-08-30
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 That's my girl!

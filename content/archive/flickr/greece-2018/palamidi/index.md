@@ -3,7 +3,7 @@ title: Palamidi
 archive: flickr
 date: '2018-03-09'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180309_120455.jpg" caption="Beautiful people in front of beautiful Nafplio." >}}
 {{< figure src="20180309_140155.jpg" caption="View of the Argolic Gulf from the old Venetian fortifications at the top of the hill. It was crazy beautiful up there." >}}

@@ -3,7 +3,7 @@ title: "Merida"
 date: 2017-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 Sophie planned this one two years in advance and grew her hair out for authenticity. She went all out this year.

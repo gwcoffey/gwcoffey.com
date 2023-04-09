@@ -3,7 +3,7 @@ title: The Acropolis
 archive: flickr
 date: '2018-03-14'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180314_092503.jpg" caption="Selfie with Athens behind from the foot of the Acropolis." >}}
 {{< figure src="20180314_094940.jpg" caption="“Hey Sophie, do a little performance for us” at the Theater of Dionysus." >}}

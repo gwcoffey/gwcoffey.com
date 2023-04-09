@@ -3,7 +3,7 @@ title: Calle 16
 archive: flickr
 date: '2015-07-11'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20150711_141157.jpg" >}}
 {{< figure src="20150711_141231.jpg" caption="This is a charming wall near Barrio Cafe on 16th Street and Thomas." >}}

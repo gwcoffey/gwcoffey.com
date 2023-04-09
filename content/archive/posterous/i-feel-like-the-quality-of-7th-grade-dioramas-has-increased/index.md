@@ -4,6 +4,7 @@ date: 2011-01-05
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 This is not how we did it in my day.

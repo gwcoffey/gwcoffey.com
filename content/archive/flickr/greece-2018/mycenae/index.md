@@ -3,7 +3,7 @@ title: Mycenae
 archive: flickr
 date: '2018-03-10'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180310_100259.jpg" caption="The view from the base of the bronze-age citadel of Mycenae." >}}
 {{< figure src="20180310_100335.jpg" caption="Sophia: Sun’s too bright dad!" >}}

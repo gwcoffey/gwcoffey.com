@@ -3,7 +3,7 @@ title: "The Getty Villa"
 date: 2018-08-25
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 While the girls went to Harry Potter world, the parents spend the day in the very beautiful Getty Villa.

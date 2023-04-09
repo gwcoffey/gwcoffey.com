@@ -3,7 +3,7 @@ title: "Queen Susan and Queen Lucy"
 date: 2006-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 Narnia-inspired costumes this year courtesy of Grandma Schultz.

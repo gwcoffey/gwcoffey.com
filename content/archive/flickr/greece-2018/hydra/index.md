@@ -3,7 +3,7 @@ title: Hydra
 archive: flickr
 date: '2018-03-11'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180311_090004.jpg" caption="Sat next to this dork on the ferry." >}}
 {{< figure src="20180311_112748.jpg" caption="Finally almost a whole day with my eebs. We started with lunch of fish, pasta, and kebabs." >}}

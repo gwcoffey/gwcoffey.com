@@ -3,7 +3,7 @@ title: "Circle Print"
 date: 2019-01-05
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 {{< figure src="20190105_143607.jpg" >}}

@@ -4,6 +4,7 @@ date: 2010-12-31
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 I've had these wooden toy blocks since I was a little boy. They still get the job done.

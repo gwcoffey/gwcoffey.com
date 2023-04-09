@@ -3,7 +3,7 @@ title: "Bo Peep"
 date: 2019-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 A very impatient Sophia heading to school in her Bo Peep (from Toy Story) costume.

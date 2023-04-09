@@ -4,6 +4,7 @@ date: 2011-06-22
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 I'm not really a beach person but I genuinely love the solitude of this beautiful place.

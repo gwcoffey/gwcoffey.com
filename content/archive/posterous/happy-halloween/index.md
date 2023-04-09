@@ -4,6 +4,7 @@ date: 2010-10-30
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 The kids are ready for halloween…

@@ -3,7 +3,7 @@ title: "Snowths"
 date: 2005-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 My wife made these very cute muppet Snowth costumes. (Manah manah!)

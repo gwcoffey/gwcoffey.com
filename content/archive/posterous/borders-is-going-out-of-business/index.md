@@ -4,6 +4,7 @@ date: 2011-03-12
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 Isabel just found out…

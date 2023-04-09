@@ -4,6 +4,7 @@ date: 2011-07-02
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 A birthday surprise from Grandpa Coffey. My pretty little person.

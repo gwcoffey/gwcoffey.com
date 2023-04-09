@@ -4,6 +4,7 @@ date: 2010-09-16
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 So sweet and lovely. And the pie is good too ;)

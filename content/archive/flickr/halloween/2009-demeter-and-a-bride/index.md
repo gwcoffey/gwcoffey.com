@@ -3,7 +3,7 @@ title: "Demeter and a Bride"
 date: 2009-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 Isabel dresses as her favorite greek goddess. Sophie as a bride.

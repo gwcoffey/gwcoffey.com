@@ -4,6 +4,7 @@ date: 2010-08-30
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 I say **no**.

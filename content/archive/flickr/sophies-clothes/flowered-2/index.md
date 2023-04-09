@@ -3,7 +3,7 @@ title: "Flower Print 2"
 date: 2019-01-05
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 {{< figure src="20190105_143253.jpg" >}}

@@ -3,7 +3,7 @@ title: The Acropolis Museum
 archive: flickr
 date: '2018-03-14'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180314_125156.jpg" caption="Look who we found in line for the museum!" >}}
 {{< figure src="20180314_125703.jpg" caption="The Acropolis Museum is super awesome. It’s built on top of an archeological site, and many of the floors are glass so you can see the excavated ruins below your feet." >}}

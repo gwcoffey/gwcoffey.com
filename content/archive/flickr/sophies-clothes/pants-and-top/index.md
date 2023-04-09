@@ -3,7 +3,7 @@ title: "Pants and Top with Jacket (Reversible)"
 date: 2019-01-05
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 {{< figure src="20190105_134358.jpg" >}}

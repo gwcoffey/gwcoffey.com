@@ -4,6 +4,7 @@ date: 2010-09-25
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 This is obviously a break from tradition but he's Canadian so he doesn't know any better.

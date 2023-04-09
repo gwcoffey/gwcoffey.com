@@ -4,6 +4,7 @@ date: 2011-03-05
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 {{< figure 

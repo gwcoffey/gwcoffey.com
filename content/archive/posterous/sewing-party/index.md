@@ -4,6 +4,7 @@ date: 2011-05-07
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 My wife (not pictured) is teaching kids to sew today.

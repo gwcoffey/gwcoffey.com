@@ -3,7 +3,7 @@ title: Olympia
 archive: flickr
 date: '2018-03-07'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180307_103856.jpg" caption="Doric columns. Obviously." >}}
 {{< figure src="20180307_105854.jpg" caption="This is the workshop where the great statue that was in the Temple of Zeus was made. It is crawling with Sophias." >}}

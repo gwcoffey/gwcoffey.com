@@ -3,7 +3,7 @@ title: "Hannibal"
 date: 2014-10-31
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 She had so much fun making this costume entirely from scratch.

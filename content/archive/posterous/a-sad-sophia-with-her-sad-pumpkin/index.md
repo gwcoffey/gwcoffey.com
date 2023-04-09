@@ -4,6 +4,7 @@ date: 2010-10-06
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 The kids carved pumpkins at Grandma and Grandpa Coffey's house this week.

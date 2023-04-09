@@ -3,7 +3,7 @@ title: "Dinosaur Print"
 date: 2019-01-05
 archive: flickr
 tags: 
-  - Photo
+  - Photos
 ---
 
 {{< figure src="20190105_142908.jpg" >}}

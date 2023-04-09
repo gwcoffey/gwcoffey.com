@@ -3,7 +3,7 @@ title: The Roman Forum
 archive: flickr
 date: '2018-03-15'
 tags:
-- Photo
+- Photos
 ---
 {{< figure src="20180315_132039.jpg" caption="One wall of Hadrian’s Library on the Roman forum." >}}
 {{< figure src="20180315_133722.jpg" caption="The Roman forum." >}}

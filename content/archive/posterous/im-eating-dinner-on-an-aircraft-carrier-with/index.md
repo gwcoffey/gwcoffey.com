@@ -4,6 +4,7 @@ date: 2010-08-17
 archive: posterous
 tags: 
   - Archive Post
+  - Photos
 ---
 
 This was a fun conference outing. Thanks, FileMaker!
