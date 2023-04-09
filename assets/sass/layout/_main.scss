@@ -30,7 +30,7 @@ main {
     		position: absolute;
     		top: -3ex;
     		display: flex;
-    		color: #999;
+    		color: var(--deemphasized-text-color);
     		font-family: var(--mono-font);
     		margin: 0;
     		padding: 0;
@@ -51,7 +51,7 @@ main {
 			}
 			
     		a {
-    			color: #999;
+    			color: var(--deemphasized-text-color);
     			
 				&:hover {
     				color: var(--active-link-text-color);
@@ -69,7 +69,7 @@ main {
 		}
 
 		a {
-			color: #999;
+			color: var(--deemphasized-text-color);
 			text-decoration: none;
 			
 			&:hover {

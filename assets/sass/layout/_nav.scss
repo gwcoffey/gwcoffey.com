@@ -10,7 +10,7 @@ footer {
 			font-size: large;
 			text-transform: lowercase;
 			margin: 1.2em 0 0.2em 0;
-			color: #999;
+			color: var(--deemphasized-text-color);
 
 			&:before {
 				content: "#";

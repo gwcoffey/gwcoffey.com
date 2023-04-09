@@ -13,7 +13,7 @@ main {
         
         small {
         	font-size: large;
-        	color: #999;
+        	color: var(--deemphasized-text-color);
         }
     }
 
@@ -34,7 +34,7 @@ main {
 			
 			&::marker {
 				font-size: smaller;
-				color: #888;
+				color: var(--deemphasized-text-color);
 			}
 			
 			& > ul, > ol {

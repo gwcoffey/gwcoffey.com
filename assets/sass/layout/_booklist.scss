@@ -12,7 +12,7 @@ div.reading {
 		margin: 0;
 
 		small {
-			color: #777;
+			color: var(--deemphasized-text-color);
 			font-size: smaller;
 		}
 	}

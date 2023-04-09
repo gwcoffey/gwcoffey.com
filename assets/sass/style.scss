@@ -16,6 +16,7 @@
 
 	--text-bg-border-color: var(--box-border-color);
 	--blockquote-border-color: #aaa;
+	--cite-underline-color: #aaa;
 
 	--red-bg-color: #fee;
 	--green-bg-color: #efe;
@@ -29,6 +30,7 @@
     --kbd-bg-color: #ddd;
     --kbd-border-colors: rgba(0,0,0,0.1) rgba(0,0,0,0.2) rgba(0,0,0,0.4) rgba(0,0,0,0.2);
     --samp-bg-color: #f6f6f6;
+    --tag-bg-color: #ddd;
 
     --aside-bg-color: var(--grey-bg-color);
     --aside-border-color: rgba(0,0,0,0.1);
@@ -39,6 +41,11 @@
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
 	--figure-frame-bg-color: white;
+	
+	--archive-banner-bg-color: rgba(228, 212, 200, 0.3);
+	--archive-banner-border-color: rgba(34, 25, 17, 0.4);
+	
+	--header-cursor-color: #999;
   }
 }
 
@@ -50,13 +57,14 @@
 	--link-text-color: #77f;
 	--visited-link-text-color: #f8f;
 	--active-link-text-color: #f55;
-	--deemphasized-text-color: #bbb;
+	--deemphasized-text-color: #999;
 	--dt-dot-text-color: #555;
 
 	--box-border-color: rgba(255,255,255,.1);
 
 	--text-bg-border-color: var(--box-border-color);
 	--blockquote-border-color: #555;
+	--cite-underline-color: #555;
 
 	--red-bg-color: #422;
 	--green-bg-color: #242;
@@ -70,6 +78,7 @@
     --kbd-bg-color: #444;
     --kbd-border-colors: rgba(255,255,255,.3) rgba(255,255,255,.2) rgba(255,255,255,0) rgba(255,255,255,0.2);
     --samp-bg-color: #393940;
+    --tag-bg-color: #444;
     
     --aside-bg-color: var(--grey-bg-color);
     --aside-border-color: rgba(255,255,255,0.1);
@@ -80,6 +89,11 @@
     --caption-bg-color: var(--grey-bg-color);
     --figure-border-color: var(--box-border-color);
 	--figure-frame-bg-color: #333;
+	
+	--archive-banner-bg-color: rgba(34, 25, 17, 0.3);
+	--archive-banner-border-color: rgba(228, 190, 150, 0.4);
+
+	--header-cursor-color: #999;
   }
 }
 

@@ -5,7 +5,7 @@
 
 	a {
 		&, &:visited {
-			color: #999;
+			color: var(--deemphasized-text-color);
 			text-decoration: none;
 		}
 		

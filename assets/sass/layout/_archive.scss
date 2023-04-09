@@ -1,9 +1,9 @@
 section.archive {
-	background: rgba(228, 212, 200, 0.3);
+	background: var(--archive-banner-bg-color);
 	padding: 1em;
 	margin-bottom: 3em;
-	border: 3px double rgba(34, 25, 17, 0.4);
-	box-shadow: inset 0px 2px 6px rgba(34, 25, 17, 0.4);
+	border: 3px double var(--archive-banner-border-color);
+	box-shadow: inset 0px 2px 6px var(--archive-banner-border-color);
 	
 	h3 {
 		font-style: italic;

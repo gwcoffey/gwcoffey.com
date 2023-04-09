@@ -29,6 +29,6 @@ body.home header h2 a:after {
 
 @keyframes blinker {
     50% {
-        background: #999;
+        background: var(--header-cursor-color);
     }
 }
