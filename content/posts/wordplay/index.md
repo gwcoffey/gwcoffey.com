@@ -1,6 +1,8 @@
 ---
-title: "Wordplay"
+title: "Three Bad Puns"
 date: 2022-12-30
+tags:
+  - Wordplay
 ---
 
 Sometimes I get very bad puns stuck in my head. And sometimes, to debride my wounded mind, I draw them poorly.
