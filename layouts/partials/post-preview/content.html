@@ -6,9 +6,7 @@
 			{{- end }}
 			{{- with .Date }} 
 				<div class="byline">
-					<a href="{{ $.RelPermalink }}">
-						<time datetime="{{ . }}">{{ time.Format "2 January 2006" . }}</time>
-					</a>
+					<a href="{{ $.RelPermalink }}"><time datetime="{{ . }}">{{ time.Format "2 January 2006" . }}</time></a>
 					{{- partial "tags"  $ }}
 				</div>
 			{{- end }}	
