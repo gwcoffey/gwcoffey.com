@@ -4,7 +4,7 @@ date: 2010-11-19
 archive: posterous
 tags: 
   - Archive Post
-  - Photo
+  - Photos
 ---
 
 Super-kid.

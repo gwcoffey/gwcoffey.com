@@ -4,7 +4,7 @@ date: 2010-12-08
 archive: posterous
 tags: 
   - Archive Post
-  - Photo
+  - Photos
 ---
 
 But she wouldn't keep it…
