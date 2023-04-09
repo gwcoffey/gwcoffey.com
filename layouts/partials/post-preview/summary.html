@@ -17,7 +17,7 @@
 {{- else if (and $hasImages (eq (len (trim .Summary " \n")) 0)) -}}
 
 	<!-- posts with images and no text need some help -->
-	(Image post. <a class="more" href="{{.Permalink}}">View…</a>)
+	(Image post. <a class="more" href="{{.RelPermalink}}">View…</a>)
 
 {{- else if eq (.Param "archiveSection") true -}}
 
@@ -36,7 +36,7 @@
 	<!-- use built in summarization for long posts, posts with an explicit configured
 	     summary, and posts with images -->
 	{{ .Summary | markdownify }}
-	<a class="more" href="{{.Permalink}}">Read more…</a>
+	<a class="more" href="{{.RelPermalink}}">Read more…</a>
 
 {{- else -}}
 	{{ .Content }}

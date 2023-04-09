@@ -28,16 +28,16 @@
 			<!-- create a square thumbnail for this image -->
 			{{- $thumb := $image.Fill (printf "500x500 Smart %s" $rotation) -}}
 	
-			<a href="{{ $page.Permalink }}">
+			<a href="{{ $page.RelPermalink }}">
 				<img src="{{ $thumb.RelPermalink }}">
 			</a>
 		{{- end -}}
 		<hgroup>
 			<div class="byline">
-				<a href="{{.Permalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
+				<a href="{{.RelPermalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
 				<span class="count">{{- len $images }} {{ cond (gt (len $images) 1) "photos" "photo" }}</span>
 			</div>
-			<h4><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></h4>
+			<h4><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h4>
 		</hgroup>
 	</div>
 {{- end }}

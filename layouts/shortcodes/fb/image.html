@@ -1,7 +1,6 @@
 <figure>
-	{{- $pageLink := .Page.Permalink -}}
 	{{- with .Page.Resources.GetMatch (.Get "src") -}}
-	<a href="{{ $pageLink }}"><img src="{{ .Permalink }}"></a>
+	<img src="{{ .RelPermalink }}">
 	{{- end -}}
 	{{- with .Inner -}}
 	<figcaption><p>{{ . | markdownify }}</p></figcaption>

@@ -10,7 +10,7 @@
      --> 
 
 <!-- make a "more" link to insert in the right place -->
-{{- $more := printf `<a class="more" href="%s">Read more…</a>` .Permalink -}}
+{{- $more := printf `<a class="more" href="%s">Read more…</a>` .RelPermalink -}}
 
 <!-- extract text before the list — this is the intro text (if any) -->
 {{- $intro := index (findRE `(?s).*<(u|o)l` .Content 1) 0 -}}
