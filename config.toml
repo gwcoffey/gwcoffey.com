@@ -4,7 +4,7 @@ title = 'gwcoffey.com'
 enableEmoji = true
 cleanDestinationDir = true
 paginate = 50
-timeout = 60000
+timeout = 120000
 
 [markup]
   [markup.goldmark]
