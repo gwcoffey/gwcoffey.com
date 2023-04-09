@@ -3,11 +3,12 @@
 	{{- with (.Param "title") -}}
 		<h4><a href="{{ $pageUrl }}">{{ . }}</a></h4>
 	{{- end -}}
+	{{with .Date -}} 
 		<div class="byline">
-			<a href="{{.Permalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
-			{{ partial "tags"  . }}
+			<a href="{{ $.Permalink }}"><time datetime="{{ . }}">{{ time.Format "2 January 2006" . }}</time></a>
+			{{ partial "tags"  $ }}
 		</div>
-				
+	{{- end }}	
 		<div class="summary">
 			{{ partial "post-preview/summary" . }}
 		</div>

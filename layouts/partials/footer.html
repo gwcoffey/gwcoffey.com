@@ -1,16 +1,13 @@
     <nav>    	
         <!-- capture stuff before we change scope -->
-        {{- $x := . -}}
-        {{- $page := .Page -}}
-        {{- $menus := .Site.Menus -}}
         {{ range $menuName := .Site.Params.navMenus }}
         	{{- if ne $menuName "Main" -}}
 			<h2>{{ $menuName }}</h2>
 			{{- end -}}
 			<menu>
-			{{ range (index $menus $menuName) }}
+			{{ range (index $.Site.Menus $menuName) }}
 				{{- $menuTitle := or .Page.Params.menuTitle .Page.Title -}}
-				{{ if or ($x.HasMenuCurrent $menuName .) ($x.IsMenuCurrent $menuName .) }}
+				{{ if or ($.HasMenuCurrent $menuName .) ($.IsMenuCurrent $menuName .) }}
 				<li class="current"><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
 				{{ else }}
 				<li><a href="{{ .URL }}">{{ $menuTitle }}</a></li>

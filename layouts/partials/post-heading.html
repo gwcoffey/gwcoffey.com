@@ -6,12 +6,12 @@
 			<h1>FaceBook Post</h1>
 		{{ end }}
 
-		{{ if ne .Params.Menu "About" }}
+		{{ with .Date }}
 			<div class="byline">
 				<address><a rel="author" href="/me">Geoff Coffey</a></address>
 				/
-				<time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time>
-				{{ partial "tags"  . }}
+				<time datetime="{{ . }}">{{ time.Format "2 January 2006" . }}</time>
+				{{ partial "tags"  $ }}
 			</div>
 		{{ end }}
 

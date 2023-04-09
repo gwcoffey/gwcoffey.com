@@ -21,7 +21,7 @@ paginate = 50
     suffixes = ['zip']
 
 [params]
-	navMenus = [ "Main", "Projects", "About" ]
+	navMenus = [ "Main", "Tags", "About" ]
 
 [taxonomies]
 	tags = 'tags'
