@@ -5,7 +5,7 @@ archive: flickr
 type: photo-album
 tags: 
   - Archive Post
-  - Photos Album
+  - Photo Album
 ---
 
 Mamie and I took a trip to Ireland for our 18th anniversary.

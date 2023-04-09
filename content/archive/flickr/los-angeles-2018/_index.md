@@ -5,7 +5,7 @@ archive: flickr
 type: photo-album
 tags: 
   - Archive Post
-  - Photos Album
+  - Photo Album
 ---
 
 We took Sophie to Los Angeles to visit her friend Zha Zha and her family.

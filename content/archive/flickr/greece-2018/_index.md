@@ -5,7 +5,7 @@ archive: flickr
 type: photo-album
 tags: 
   - Archive Post
-  - Photos Album
+  - Photo Album
 ---
 
 In 2018 Isabel did study abroad in Athens. Mamie, Sophia, and I visited them over spring break.

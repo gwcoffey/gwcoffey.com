@@ -5,7 +5,7 @@ archive: flickr
 type: photo-album
 tags: 
   - Archive Post
-  - Photos Album
+  - Photo Album
 ---
 
 Sophie spent her winter break breaking in her new sewing machine.
