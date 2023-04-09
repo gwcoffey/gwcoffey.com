@@ -3,101 +3,82 @@
 hobbit:
   title: The Hobbit
   author: J.R.R. Tolkien
-  review: A delight to read aloud to children.
 
 goose-girl:
   title: The Goose Girl
   author: Shannon Hale
-  review: Sweet and touching.
 
 selected-stories-of-william-trevor:
   title: Selected Stories of William Trevor
   author: William Trevor
-  review: Expertly crafter small stories.
 
 marie-claire:
   title: Marie Claire
   author: Marguerite Audoux
-  review: Chariming if a bit dull.
 
 count-of-monte-cristo:
   title: The Count of Monte Cristo
   author: Alexandre Dumas père
-  review: Epic, exciting, complex.
 
 stoner:
   title: Stoner
   author: John Williams
   fav: true
-  review: A truly beautiful book about a small life.
 
 story-of-the-treasure-seekers:
   title: The Story of the Treasure Seekers
   author: Edith Nesbit
-  review: Dates but fun.
 
 great-gatsby:
   title: The Great Gatsby
   author: F. Scott Fitzgerald
-  review: Remarkable, vivid, engorssing.
 
 american-gods:
   title: American Gods
   author: Neil Gaiman
-  review: Inventive, good but not great.
 
 catch-22:
   title: Catch-22
   author: Joseph Heller
-  review: Bored me to death.
 
 story-of-charlottes-web:
   title: The Story of Charlotte's Web
   author: Michael Sims
   fav: true
-  review: EB White is as close as I get to a hero.
 
 life-of-pi:
   title: Life of Pi
   author: Yann Martel
-  review: Fun read, overrated.
 
 devil-all-the-time:
   title: The Devil All the Time
   author: Donald Ray Pollock
-  review: Gritty, dark, stomach churning, vivid.
 
 les-miserables:
   title: Les Misérables
   author: Victor Hugo
   fav: true
-  review: Changed my life and jump-started my love of reading.
 
 steve-jobs:
   title: Steve Jobs
   author: Walter Isaacson
-  review: Meh.
 
 tree-grows-in-brooklyn:
   title: A Tree Grows in Brooklyn
   author: Betty Smith
   fav: true
-  review: A cherished book I read with my daughter at just the right age.
 
 foundation:
   title: Foundation
   author: Isaac Asimov
-  review: I admire the scale but miss the plot.
 
 neuromancer:
   title: Neuromancer
   author: William Gibson
-  review: Visionary, beautifully written, confusing.
 
 androids-dream:
   title: Do Androids Dream of Electric Sheep?
   author: Philip K. Dick
-  review: Clalssic PKD, great.
 
 ghost-brigades:
   title: The Ghost Brigades
@@ -106,28 +87,23 @@ ghost-brigades:
 why-life-speeds-up:
   title: Why Life Speeds Up As You Get Older
   author: Douwe Draaisma
-  review: Fascinating, full of insights.
 
 diary-of-a-young-girl:
   title: The Diary of a Young Girl
   author: Anne Frank
   fav: true
-  review: What is there to say. Remarkable.
 
 player-piano:
   title: Player Piano
   author: Kurt Vonnegut
-  review: My first Vonnegut. Not his best, but a worhty read.
 
 member-of-the-wedding:
   title: The Member Of The Wedding
   author: Carson McCullers
-  review: McCullers is a master of character, and it shows.
 
 and-so-it-goes:
   title: 'And So It Goes: Kurt Vonnegut: A Life'
   author: Charles J. Shields
-  review: Sad but good.
 
 man-without-a-country:
   title: A Man Without a Country
@@ -140,39 +116,32 @@ mysterious-stranger:
 dead-souls:
   title: Dead Souls
   author: Nikolai Vasilievich Gogol
-  review: Funny but a bit boring.
 
 democracy-in-america:
   title: Democracy in America
   author: Alexis De Tocqueville
-  review: Fascinating.
 
 ready-player-one:
   title: Ready Player One
   author: Ernest Cline
-  review: Not really my thing, but fun.
 
 ready-player-two:
   title: Ready Player Two
   author: Ernest Cline
-  review: Even less good than the first.
 
 heart-is-a-lonely-hunter:
   title: The Heart Is a Lonely Hunter
   author: Carson McCullers
   fav: true
-  review: How did McCullers write a book of this magnitude at 20 years old?!
 
 quiet:
   title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
   author: Susan Cain
   fav: true
-  review: Made me reconsider my own relationship with myself. It changed my life.
 
 hunger-games:
   title: The Hunger Games
   author: Suzanne Collins
-  review: Dark, thoughtful, good for discussions with the kids.
 
 catching-fire:
   title: Catching Fire
@@ -186,13 +155,11 @@ mockingjay:
 angelas-ashes:
   title: Angela's Ashes
   author: Frank McCourt
-  review: Touching and inspiring, but I get why my Irish friends hate it.
 
 flatland:
   title: 'Flatland: a romance of many dimensions'
   author: Edwin Abbott Abbott
   fav: true
-  review: An absolute delight.
 
 insanely-simple:
   title: 'Insanely Simple: The Obsession That Drives Apple''s Success'
@@ -205,12 +172,10 @@ sandman-vol-2:
 giver:
   title: The Giver
   author: Lois Lowry
-  review: A worthy classic if a little uneven.
 
 mansion-of-happiness:
   title: 'The Mansion of Happiness: A History of Life and Death'
   author: Jill Lepore
-  review: Eye openeing, fascinaitng, well written.
 
 messenger:
   title: Messenger
@@ -219,7 +184,6 @@ messenger:
 heroin-hurricane-katrina:
   title: 'Heroin, Hurricane Katrina, and the Howling Within: An Addiction Memoir'
   author: Eliza Player
-  review: Harrowing and raw.
 
 gathering-blue:
   title: Gathering Blue
@@ -232,22 +196,18 @@ valis:
 rosencrantz-and-guildenstern:
   title: Rosencrantz and Guildenstern Are Dead
   author: Tom Stoppard
-  review: A work of genius.
 
 personality:
   title: 'Personality: How It Forms'
   author: Henry Kellerman
-  review: Excellent content, distractingly badly edited.
 
 portrait-of-the-artist:
   title: A Portrait of the Artist as a Young Man
   author: James Joyce
-  review: Brilliant, expansive.
 
 in-the-skin-of-a-lion:
   title: In the Skin of a Lion
   author: Michael Ondaatje
-  review: Evocative, moving, historical.
 
 jquery-mobile:
   title: 'jQuery Mobile: Up and Running'
@@ -260,12 +220,10 @@ ancient-mariner:
 lone-survivors:
   title: 'Lone Survivors: How We Came to Be the Only Humans on Earth'
   author: Chris Stringer
-  review: Informative, thought provoking, well written.
 
 nature-of-things:
   title: The Nature of Things
   author: Lucretius
-  review: A gem.
 
 basic-training:
   title: Basic Training
@@ -274,17 +232,14 @@ basic-training:
 swerve:
   title: 'The Swerve: How the World Became Modern'
   author: Stephen Greenblatt
-  review: Incridibly good, hard to classify.
 
 evolution-of-cooperation:
   title: The Evolution of Cooperation
   author: Robert Axelrod
-  review: Rough but fascinating.
 
 feminine-mystique:
   title: The Feminine Mystique
   author: Betty Friedan
-  review: Dated but utterly brilliant.
 
 ecclesiastes:
   title: Ecclesiastes or, The Preacher
@@ -298,12 +253,10 @@ american-pastoral:
   title: American Pastoral
   author: Philip Roth
   fav: true
-  review: As much as any book, this left me speechless.
 
 stories-of-breece-d-j-pancake:
   title: Stories of Breece D'J Pancake
   author: Breece D'J Pancake
-  review: Crystalline writing, gritty subjects.
 
 year-of-magical-thinking:
   title: The Year of Magical Thinking
@@ -312,7 +265,6 @@ year-of-magical-thinking:
 anatomy-of-violence:
   title: The Anatomy of Violence
   author: Adrian Raine
-  review: Thought provoking.
 
 brief-history-of-time:
   title: A Brief History of Time
@@ -326,17 +278,14 @@ my-antonia:
   title: My Antonia
   author: Willa Cather
   fav: true
-  review: A periodic re-read for me; a truly beautiful book.
 
 old-man-and-the-sea:
   title: Old Man and the Sea
   author: Ernest Hemingway
-  review: Inspiring and moving.
 
 much-ado-about-nothing:
   title: Much Ado About Nothing
   author: William Shakespeare
-  review: The funniest Shakespeare.
 
 eighteenth-century-essays-shakespeare:
   title: Eighteenth Century Essays on Shakespeare
@@ -350,7 +299,6 @@ brysons-dictionary-troublesome-words:
   title: Bryson's Dictionary of Troublesome Words
   author: Bill Bryson
   fav: true
-  review: This is a dictionary but I read it straight through. So great.
 
 midsummer-nights-dream:
   title: A Midsummer Night's Dream
@@ -373,12 +321,10 @@ romeo-and-juliet:
   title: Romeo and Juliet
   author: William Shakespeare
   fav: true
-  review: Of course I love all Shakespeare, but this one is special.
 
 daisy-miller:
   title: Daisy Miller
   author: Henry James
-  review: Honestly kind of a snooze-fest.
 
 tale-of-a-tub:
   title: A Tale of a Tub
@@ -392,7 +338,6 @@ art-of-happiness:
   title: The Art of Happiness
   author: Epicurus
   fav: true
-  review: Words to live by. Powerfully mind expanding.
 
 king-henry-v:
   title: King Henry V
@@ -402,7 +347,6 @@ king-richard-ii:
   title: King Richard II
   author: William Shakespeare
   fav: true
-  review: One of my favorites. "Let’s talk of graves, of worms, and epitaphs—"
 
 gift-of-adversity:
   title: The Gift of Adversity
@@ -448,7 +392,6 @@ mezzanine:
   title: The Mezzanine
   author: Nicholson Baker
   fav: true
-  review: Wholly distinct and impossibly good.
 
 son:
   title: Son
@@ -478,7 +421,6 @@ sorrows-of-young-werther:
   title: The Sorrows of Young Werther
   author: Goethe
   fav: true
-  review: It's embarassing how much I identify with Werther.
 
 optimists-daughter:
   title: The Optimist's Daughter
@@ -597,7 +539,6 @@ suddenly-a-knock-on-the-door:
   title: Suddenly, a Knock on the Door
   author: Etgar Keret
   fav: true
-  review: Compact, thought provoking, funny and moving stories.
 
 me-and-earl:
   title: Me and Earl and the Dying Girl
@@ -607,7 +548,6 @@ last-exit-to-brooklyn:
   title: Last Exit to Brooklyn
   author: Hubert Selby Jr.
   fav: true
-  review: My goodness. This book is a descent.
 
 welcome-to-the-monkey-house:
   title: Welcome to the Monkey House
@@ -700,7 +640,6 @@ i-am-legend:
 gitanjali:
   title: Gitanjali
   author: Rabindranath Tagore
-  review: Life-changing, manna, radiantly beautiful.
 
 james-madison:
   title: 'James Madison: A Life Reconsidered'
@@ -754,13 +693,11 @@ true-grit:
   title: True Grit
   author: Charles Portis
   fav: true
-  review: This is a book I re-read a lot. I truly love Mattie Ross.
 
 antony-and-cleopatra:
   title: Antony and Cleopatra
   author: William Shakespeare
   fav: true
-  review: My favorite Shakespeare. "Gentle madam, no…"
 
 real-friends:
   title: Real Friends
@@ -807,7 +744,6 @@ princess-academy:
   title: Princess Academy
   author: Shannon Hale
   fav: true
-  review: I have such a fond memory of reading this to my kids and holding back the tears.
 
 princess-academy-sisters:
   title: 'Princess Academy: The Forgotten Sisters'
@@ -953,7 +889,6 @@ charlottes-web:
   title: Charlotte's Web
   author: E. B. White
   fav: true
-  review: The most perfect book ever written.
 
 keys-to-the-kingdom:
   title: The Keys to the Kingdom
@@ -995,7 +930,6 @@ out-of-oz:
   title: Out of Oz
   author: Gregory Maguire
   fav: true
-  review: I love all the Wicked books but this one is special.
 
 varieties-of-religious-experience:
   title: The Varieties of Religious Experience
@@ -1036,13 +970,11 @@ jailbird:
 birchbark-house:
   title: The Birchbark House
   author: Louise Erdrich
-  review: Sweet, empowering, enchanting.
 
 road:
   title: The Road
   author: Cormac McCarthy
   fav: true
-  review: Above all else, a book about carrying the fire. Moves me deeply.
 
 shortest-way-home:
   title: 'Shortest Way Home: One Mayor''s Challenge and a Model for America''s Future'
@@ -1052,7 +984,6 @@ sophies-world:
   title: Sophie's World
   author: Jostein Gaarder
   fav: true
-  review: Fun, approachable, educational, and a wild ride.
 
 truths-we-hold:
   title: 'The Truths We Hold: An American Journey'
@@ -1074,19 +1005,16 @@ beezus-and-ramona:
   title: Beezus and Ramona
   author: Beverly Cleary
   fav: true
-  review: For my money, the best of the excelent Ramona books. Deeple moving and impossibly sweet.
 
 confederacy-of-dunces:
   title: A Confederacy of Dunces
   author: John Kennedy Toole
   fav: true
-  review: The funniest book I've ever read.
 
 patterning-instinct:
   title: The Patterning Instinct
   author: Jeremy Lent
   fav: true
-  review: A remarkable, eloquent, fascniating book.
 
 good-omens:
   title: Good Omens
@@ -1200,7 +1128,6 @@ women-in-black:
   title: The Women in Black
   author: Madeleine St. John
   fav: true
-  review: I have a soft spot for female-lead sentimental coming-of-age books and this is one of the best.
 
 how-to-be-an-antiracist:
   title: How to Be an Antiracist
@@ -1210,13 +1137,11 @@ sparrow:
   title: The Sparrow
   author: Mary Doria Russell
   fav: true
-  review: One of the greatest sci-fi books ever written. Powerful and imaginative.
 
 essays-of-eb-white:
   title: Essays of E. B. White
   author: E. B. White
   fav: true
-  review: Memorable, enchanting, a love story to life.
 
 mansfield-park:
   title: Mansfield Park
@@ -1286,13 +1211,11 @@ graveyard-book:
   title: The Graveyard Book
   author: Neil Gaiman
   fav: true
-  review: One of my fondest memories is reading this to my kids on the beach.
 
 overstory:
   title: The Overstory
   author: Richard Powers
   fav: true
-  review: Powerful, beautiful, haunting, informative. Epic in scope.
 
 stuart-little:
   title: Stuart Little
@@ -1301,13 +1224,11 @@ stuart-little:
 lonesome-dove:
   title: Lonesome Dove
   author: Larry McMurtry
-  review: Deeply moving, thoroughly imagined.
 
 all-the-pretty-horses:
   title: All the Pretty Horses
   author: Cormac McCarthy
   fav: true
-  review: A nearly perfect book.
 
 crossing:
   title: The Crossing
@@ -1321,7 +1242,6 @@ how-to-live-safely:
   title: How to Live Safely in a Science Fictional Universe
   author: Charles Yu
   fav: true
-  review: Strange, imaginative, moving.
 
 cities-of-the-plain:
   title: Cities of the Plain
@@ -1335,90 +1255,73 @@ homegoing:
   title: Homegoing
   author: Yaa Gyasi
   fav: true
-  review: A powerful book about identity and home.
 
 jade-and-shadow:
   title: Gods of Jade and Shadow
   author: Silvia Moreno-Garcia
-  review: Imaginative and fun.
 
 flow-my-tears:
   title: Flow My Tears, the Policeman Said
   author: Philip K. Dick
-  review: Seedy and interesting.
 
 endurance:
   title: 'Endurance: Shackleton''s Incredible Voyage'
   author: Alfred Lansing
-  review: Inspiring and gripping.
 
 coyote-america:
   title: 'Coyote America: A Natural and Supernatural History'
   author: Dan Flores
-  review: Strange and fascinating.
 
 gold-bug-variations:
   title: The Gold Bug Variations
   author: Richard Powers
-  review: Brilliant, but trying a little too hard. Powers' later work exceeds this.
 
 small-fry:
   title: Small Fry
   author: Lisa Brennan-Jobs
-  review: Sad but hopeful, well written.
 
 circe:
   title: Circe
   author: Madeline Miller
   fav: true
-  review: A minor miracle.
 
 song-of-achilles:
   title: The Song of Achilles
   author: Madeline Miller
-  review: A touching reframe.
 
 moby-dick:
   title: Moby-Dick
   author: Herman Melville
   fav: true
-  review: The greatest novel ever written?
 
 beverly-right-here:
   title: Beverly, Right Here
   author: Kate DiCamillo
   fav: true
-  review: Sentimental but perfect. A regular re-read.
 
 sirens-of-titan:
   title: The Sirens of Titan
   author: Kurt Vonnegut
-  review: Cynical, funny, and a wild ride.
 
 aristotle-and-dante:
   title: Aristotle and Dante Discover the Secrets of the Universe
   author: Benjamin Alire Saenz
-  review: Sweet and important, if a little sentimental.
 
 breakfast-at-tiffanys:
   title: Breakfast at Tiffany's
   author: Truman Capote
-  review: Powerfully understated.
 
 beloved:
   title: Beloved
   author: Toni Morrison
-  review: Brilliant, evocative, gut-wrenching.
 
 denial-of-death:
   title: The Denial of Death
   author: Ernest Becker
-  review: Dated but wildly thought-provoking.
 
 merchant-of-venice:
   title: The Merchant of Venice
   author: William Shakespeare
-  review: A rare disgrace by an otherwise genius. Beautiful, but ultimately antisemetic and/or cynical.
 
 social-wasps-of-north-america:
   title: The Social Wasps of North America
@@ -1431,13 +1334,11 @@ anne-of-green-gables:
 fifth-season:
   title: The Fifth Season
   author: N. K. Jemisin
-  review: Entirely deserving of the accolades. Well conceived, smart, engorssing.
 
 augustus:
   title: Augustus
   author: John Williams
   fav: true
-  review: An incredible accomplishment, very affecting.
 
 punks:
   title: Punks
@@ -1447,18 +1348,15 @@ blood-meridian:
   title: Blood Meridian or the Evening Redness in the West
   author: Cormac McCarthy
   fav: true
-  review: As dark as a book gets, and probably McCarthy's masterpiece.
 
 silence:
   title: Silence
   author: Shusaku Endo
   fav: true
-  review: Gorgeous, moving, like no other book I've ever read.
 
 machine:
   title: 'Machine: White Space, Book 2'
   author: Elizabeth Bear
-  review: A delightfully imaginitive view of "humanity".
 
 neverwhere:
   title: Neverwhere
@@ -1468,13 +1366,11 @@ prayer-for-owen-meany:
   title: A Prayer for Owen Meany
   author: John Irving
   fav: true
-  review: This is a family favorite. A remarkable book.
 
 cats-cradle:
   title: Cat's Cradle
   author: Kurt Vonnegut
   fav: true
-  review: '"No damn cat, no damn cradle."'
 
 anna-karenina:
   title: Anna Karenina
@@ -1483,22 +1379,18 @@ anna-karenina:
 andersonville:
   title: Andersonville
   author: MacKinlay Kantor
-  review: Veers dangerously close to slavery apologia, thus hard to enjoy.
 
 production-ready-microservices:
   title: Production-Ready Microservices
   author: Susan J. Fowler
-  review: Highly opinionated, well reasoned.
 
 all-the-rivers:
   title: All the Rivers
   author: Dorit Rabinyan
-  review: Gorgeously written characters.
 
 lottery:
   title: The Lottery, and Other Stories
   author: Shirley Jackson
-  review: Deeply cynical in the best possible way.
 
 to-kill-a-mockingbird:
   title: To Kill a Mockingbird
@@ -1508,22 +1400,18 @@ wicked:
   title: 'Wicked: The Life and Times of the Wicked Witch of the West'
   author: Gregory Maguire
   fav: true
-  review: Deserves the hype.
 
 lion-among-men:
   title: A Lion Among Men
   author: Gregory Maguire
-  review: The audio book has one of the great vocal performances.
 
 brides-of-maracoor:
   title: The Brides of Maracoor
   author: Gregory Maguire
-  review: Has some moments, but honestly like blood from a turnip at this point.
 
 hamlet:
   title: Hamlet
   author: William Shakespeare
-  review: '"Would you play upon me? Would you seem to know my stops?"'
 
 macbeth:
   title: Macbeth
@@ -1544,62 +1432,51 @@ taming-of-the-shrew:
 on-the-beach:
   title: On the Beach
   author: Nevil Shute
-  review: My goodness. What a read.
 
 gift-of-everything:
   title: The Gift of Everything
   author: Lang Leav
-  review: Not entirely my thing, but some real gems here.
 
 stories-from-tagore:
   title: Stories from Tagore
   author: Rabindranath Tagore
-  review: Surprisingly funny.
 
 ramona-quimby-audio-collection:
   title: The Ramona Quimby Audio Collection
   author: Beverly Cleary
   fav: true
-  review: Incomperable. A life-long work of pure genius.
 
 norse-mythology:
   title: Norse Mythology
   author: Neil Gaiman
   fav: true
-  review: Light, humorous, lovely retelling of mythology I was not really familiar with.
 
 information:
   title: 'The Information: A History, a Theory, a Flood'
   author: James Gleick
   fav: true
-  review: Crazy good, mind expanding, deeply thought-provoking.
 
 kavalier-clay:
   title: The Amazing Adventures of Kavalier & Clay
   author: Michael Chabon
   fav: true
-  review: Moved me as much as any book ever has. Beautiful and sad.
 
 lincoln-in-the-bardo:
   title: Lincoln in the Bardo
   author: George Saunders
-  review: It frightens me how brilliant Saunders is.
 
 slaughterhouse-five:
   title: Slaughterhouse-Five
   author: Kurt Vonnegut
-  review: '"That was me. That was I. That was the author of this book."'
 
 complete-stories-of-truman-capote:
   title: The Complete Stories of Truman Capote
   author: Truman Capote
-  review: A writer like no other. Effortlessly brilliant.
 
 breakfast-of-champions:
   title: Breakfast of Champions
   author: Kurt Vonnegut
   fav: true
-  review: For my money, Vonnegut at his best.
 
 slapstick:
   title: Slapstick
@@ -1608,13 +1485,11 @@ slapstick:
 man-in-the-high-castle:
   title: The Man in the High Castle
   author: Philip K. Dick
-  review: Pure PKD, unapologetically open-ended.
 
 scanner-darkly:
   title: A Scanner Darkly
   author: Philip K. Dick
   fav: true
-  review: '"Anybody can win. Winning is easy". The best of Philip K Dick.'
 
 mother-night:
   title: Mother Night
@@ -1623,12 +1498,10 @@ mother-night:
 bluebeard:
   title: Bluebeard
   author: Kurt Vonnegut
-  review: A good book. A truly great vocal performance on the audiobook.
 
 sense-and-sensibility:
   title: Sense and Sensibility
   author: Jane Austen
-  review: As a P&P fan, I find this only so-so.
 
 galapagos:
   title: Galapagos
@@ -1637,32 +1510,26 @@ galapagos:
 peripheral:
   title: The Peripheral
   author: William Gibson
-  review: Gibson's particular genius on full display. Engrossing.
 
 africa-is-not-a-country:
-  title: 'Africa Is Not a Country: Notes on a Bright Continent'
+  title: 'Africa Is Not a Country'
   author: Dipo Faloyin
-  review: A love song to Africa, *and* an essential history lesson.
 
 magicians-nephew:
   title: The Magician's Nephew
   author: C.S. Lewis
-  review: An excellent book in a so-so series.
 
 bfg:
   title: The BFG
   author: Roald Dahl
-  review: I loved this book as a child. 
 
 giving-tree:
   title: The Giving Tree
   author: Shel Silverstein
-  review: A lifelong favorite. I vividly rememebr making my mother rock me on the chair and read this over and over.
 
 lathe-of-heaven:
   title: The Lathe of Heaven
   author: Ursula K. LeGuin
-  review: Smart and interesting, if a bit down-the-middle.
 
 sleepy-hollow:
   title: The Legend of Sleepy Hollow
@@ -1671,17 +1538,14 @@ sleepy-hollow:
 wizard-oz:
   title: The Wonderful Wizard of Oz
   author: L. Frank Baum
-  review: Pure genius.
 
 winnie-pooh:
   title: Winnie the Pooh
   author: A.A. Milne
-  review: Funny, sweet, sentimental, delightful.
 
 perfect-mexican-daughter:
   title: I Am Not Your Perfect Mexican Daughter
   author: Erika L. Sánchez
-  review: Personal, powerful, and full of love.
 
 world-without-mind:
   title: World Without Mind
@@ -1690,19 +1554,16 @@ world-without-mind:
 gentleman-moscow:
   title: A Gentleman in Moscow
   author: Amor Towles
-  review: A fun read but not really my thing.
 
 family-of-origin:
   title: Family of Origin
   author: CJ Hauser
   fav: true
-  review: Surprising, moving, intimate.
 
 because-internet:
   title: Because Internet
   author: Gretchen McCulloch
   fav: true
-  review: An excellent informative and well reasoned book about modern language.
 
 best-friends:
   title: Best Friends
@@ -1711,7 +1572,6 @@ best-friends:
 sophie-angry:
   title: When Sophie Gets Angry, Really Really Angry
   author: Molly Bang
-  review: One of the greatest picture books every written. Flawless.
 
 sophie-feelings:
   title: When Sophie's Feelings are Really Really Hurt
@@ -1732,7 +1592,6 @@ picture-this:
 wishtree:
   title: Wishtree
   author: Katherine Applegate
-  review: Cheesy and self-important. Meh.
 
 demon-machine:
   title: The Demon in the Machine
@@ -1742,13 +1601,11 @@ interior-chinatown:
   title: Interior Chinatown
   author: Charles Yu
   fav: true
-  review: Will make you cry and cheer.
 
 holy-the-firm:
   title: Holy the Firm
   author: Annie Dillard
   fav: true
-  review: Impossible to classify, and impossible to forget.
 
 mythology:
   title: Mythology
@@ -1762,23 +1619,19 @@ day-on-fire:
   title: The Day on Fire
   author: James Ramsey Ullman
   fav: true
-  review: Evocative, harrowing, redemptive.
 
 divine-love:
   title: Revelations of Divine Love
   author: Julian of Norwich
-  review: Straddles some fine line between powerful and absurd.
 
 long-goodbye:
   title: The Long Goodbye
   author: Raymond Chandler
-  review: Not really my thing, but supremely well written.
 
 devils-coming:
   title: I Await the Devil's Coming
   author: Mary MacLane
   fav: true
-  review: Brilliant, irreverant, self-absorbed, utterly engrossing.
 
 tao-pooh:
   title: The Tao of Pooh
@@ -1791,7 +1644,6 @@ martian-timeslip:
 kind-of-big-deal:
   title: Kind of a Big Deal
   author: Shannon Hale
-  review: I love Hale but I didn't love this particular book.
 
 selected-stories-dick:
   title: Selected Stories of Philip K Dick
@@ -1803,7 +1655,6 @@ winn-dixie:
 
 beowulf:
   title: Beowulf
-  review: Essential reading, I've read three translations and all are great.
 
 uncertain-world:
   title: In An Uncertain World
@@ -1812,7 +1663,6 @@ uncertain-world:
 arrowsmith:
   title: Arrowsmith
   author: Sinclair Lewis
-  review: Engorssing, fast paced.
 
 ramayana:
   title: The Ramayana (Abbr.)
@@ -1821,17 +1671,14 @@ exact-replica:
   title: An Exact Replica of a Figment of My Imagination
   author: Elizabeth McCracken
   fav: true
-  review: A brilliant redemptive memoir. Re-read with my wife.
 
 mexican-gothic:
   title: Mexican Gothic
   author: Silvia Moreno-Garcia
-  review: Fun but not great.
   
 addie-larue:
   title: The Invisible Live of Addie LaRue
   author: V. E. Schwab
-  review: Well written but not my thing.
 
 somnium:
   title: Somnium
@@ -1840,47 +1687,38 @@ somnium:
 wind-up-bird:
   title: The Wind-Up Bird Chronicle
   author: Haruki Murakami
-  review: Wild ride. Has perhaps the creepiest passage I've ever read.
 
 swim-pond-rain:
   title: A Swim in a Pond in the Rain
   author: George Saunders
-  review: Deeply interesting.
 
 rumi-prescription:
   title: The Rumi Prescription
   author: Melody Moezzi
-  review: Charming, a love song to family and culture.
 
 borges-me:
   title: Borges and Me
   author: Jay Parini
-  review: Wild, fast paced, engrossing, funny.
   
 don-quixote:
   title: Don Quixote
   author: Miguel de Cervantes
-  review: '"Have you finished your harangue, Sancho?"'
 
 child-god:
   title: Child of God
   author: Cormac McCarthy
-  review: I love McCarthy but I do not love this book.
   
 stories-muriel-spark:
   title: All the Stories of Muriel Spark
   author: Muriel Spark
-  review: One of the great short story writers.
 
 bears-night:
   title: Bears in the Night
   author: Stan & Jan Berenstain
-  review: '"WHOOooo!" Still gives me chills 45 years later.'
 
 marcovaldo:
   title: Marcovaldo
   author: Italo Calvino
-  review: Charming, hilarious, empathetic.
 
 foundation-empire:
   title: Foundation and Empire
@@ -1893,28 +1731,23 @@ second-foundation:
 virgin-suicides:
   title: The Virgin Suicides
   author: Jeffrey Eugenides
-  review: Sad, introspective, gorgeously conceived.
 
 transcendent-kingdom:
   title: Transcendent Kingdom
   author: Yaa Gyasi
-  review: A worthy follow up to Homegoing, a powerful immigrant story.
 
 bewilderment:
   title: Bewilderment
   author: Richard Powers
   fav: true
-  review: A hard book for a parent, but a beautiful book.
 
 iron-widow:
   title: Iron Widow
   author: Xiran Jay Zhao
-  review: Female rage porn, but … good?
 
 fevered-days:
   title: 'These Fevered Days: Ten Pivotal Moments in the Making of Emily Dickinson'
   author: Martha Ackmann
-  review: My favorite "biography" of Dickinson. Really really good.
 
 ocean-lane:
   title: The Ocean at the End of the Lane
@@ -1924,7 +1757,6 @@ why-fish-dont-exist:
   title: Why Fish Don't Exist
   author: Lulu Miller
   fav: true
-  review: Wow! So many levels of excellent. Immideatly re-read with my wife.
 
 moon-over-manifest:
   title: Moon Over Manifest
@@ -1941,77 +1773,62 @@ light-attic:
 anthropocene-reviewed:
   title: The Anthropocene Reviewed
   author: John Green
-  review: He has a way with words.
 
 omelas:
   title: The Ones Who Walk Away from Omelas
   author: Ursula K. LeGuin
-  review: Haunting. Stays with you.
 
 catherine-birdy:
   title: Catherine, Called Birdy
   author: Karen Cushman
-  review: An absolute delight. One of my happiest book surprises in years.
 
 mouth-to-mouth:
   title: Mouth to Mouth
   author: Antoine Wilson
-  review: Fun read but ultimately a little flat.
 
 art-of-beauty:
   title: The Art of Beauty, or Secrets of a Lady's Toilet
   author: Lola Montez
-  review: An absurd delight. A hoot.
 
 penguin-spiritual:
   title: The Penguin Book of Spiritual Verse
   author: Kaveh Akbar
-  review: The most gorgeous book cover ever drawn, and just as gorgeous on the inside.
 
 ada-enchantress:
   title: Ada, The Enchantress of Numbers
   author: Betty Alexandra Toole
-  review: Terribly written but I was desperate for something about Lovelace's life.
 
 divine-lola:
   title: Divine Lola
   author: Cristina Morató
-  review: An uneven biography of a fascinating subject. The audiobook performance is genuinely bad.
 
 oracle-maracoor:
   title: The Oracle of Maracoor
   author: Gregory Maguire
-  review: Snore.
 
 cleopatro-history-myth:
   title: 'Cleopatra: Her History, Her Myth'
   author: Francine Prose
-  review: Fascinating, intriguing.
 
 no-mouth:
   title: I Have No Mouth And I Must Scream
   author: Harlan Ellison
-  review: My goodness. What a ride.
 
 barracoon:
   title: Barracoon
   author: Zora Neale Hurston
-  review: Important and informative.
 
 watching-god:
   title: Their Eyes Were Watching God
   author: Zora Neale Hurston
-  review: A work of genius. Deeply moving. Richly imagined.
 
 passenger:
   title: The Passenger
   author: Cormac McCarthy
-  review: A gift to McCarthy fans. Brilliant.
 
 stella-maris:
   title: Stella Maris
   author: Cormac McCarthy
-  review: Wicked smart, a fast ride.
 
 slouching:
   title: Slouching Towards Bethlehem
@@ -2020,22 +1837,18 @@ slouching:
 see-read:
   title: What We See When We Read
   author: Peter Mendelsund
-  review: A brilliant production from a brilliant mind.
 
 burning-secret:
   title: Burning Secret
   author: Steffan Zweig
-  review: Hilarious, devious, cyunical.
 
 three-minutes:
   title: The First Three Minutes
   author: Steven Weinberg
-  review: A touch dated, but deeply fascinating
 
 interesting-book:
   title: I Am the Most Interesting Book of All
   author: Marie Bashkirtsef
-  review: Long, mixed, fascniating, funny.
 
 hello-beautiful:
   title: Hello Beautiful

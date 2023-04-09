@@ -1,0 +1,22 @@
+{{- $bookId := .Get "book" -}}
+{{- $book := index $.Site.Data.books $bookId -}}
+{{- $cover := resources.Get (printf "images/books/%s.jpg" $bookId) -}}
+{{- $thumb := $cover.Fit "240x240" -}}
+{{- $format := cond (eq (.Get "format") "p") "Print" "Audio" -}}
+
+<div class="reading">
+	<div>
+		<img src="{{ $thumb.Permalink }}" class="cover">
+	</div>
+	<div class="info">
+		<h4>{{ $book.title }} <small>({{ $format }})</small></h4>
+		<p class="author">
+			{{ with $book.author }}
+				by {{ . }}
+			{{ end }}
+			{{ with .Get "translator" -}}
+				(tr. {{ . }})
+			{{- end -}}
+		</p>
+	</div>
+</div>
