@@ -12,7 +12,7 @@
 			{{ partial "tags"  . }}
 		</div>
 		{{ if not (eq .Parent.RelPermalink "/") }}
-		<p class="crumb"><a href="../">{{ .Parent.RelPermalink }}</a></p>
+		{{ partial "breadcrumbs.html" .Parent }}
 		{{ end }}
 	</hgroup>
 

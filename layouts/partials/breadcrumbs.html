@@ -1,0 +1,15 @@
+<ul class="crumb">
+{{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+</ul>
+
+{{ define "breadcrumbnav" }}
+	{{ if .p1.Parent }}
+		{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )}}
+	{{ end }}
+	{{ if not .p1.IsHome }}
+		{{ $name := replaceRE `.*/(.*)/$` "$1" .p1.RelPermalink }}
+		<li>
+			<a href="{{ .p1.RelPermalink }}">{{ $name }}</a>
+		</li>
+	{{ end }}
+{{ end }}
