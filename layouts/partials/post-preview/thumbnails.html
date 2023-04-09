@@ -1,5 +1,8 @@
 {{- $pageUrl := .Permalink -}}
-{{- $images := .Resources.ByType "image" -}}
+{{- $images := union 
+	(.Resources.ByType "image") 
+	(.Resources.ByType "video")
+-}}
 
 	{{ if gt (len $images) 0 }}
 	<div class="thumbs">

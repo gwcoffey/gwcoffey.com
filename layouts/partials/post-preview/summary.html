@@ -1,9 +1,12 @@
-{{- $images := .Resources.ByType "image" -}}
-{{- 
-	$summarize := or
-        (.Truncated)
-        (gt (len $images) 0)
-        (eq (.Param "archiveSection") true)
+{{- $hasImages := or
+	(gt (len (.Resources.ByType "image")) 0)
+	(gt (len (.Resources.ByType "video")) 0)
+-}}
+
+{{- $summarize := or
+	(.Truncated)
+	$hasImages
+	(eq (.Param "archiveSection") true)
 -}} 
 
 {{- if eq (.Param "archive") "listapp" -}}
@@ -11,7 +14,7 @@
 	<!-- listapp posts require specialhandling -->
 	{{- partial "post-preview/listapp-summary" . -}}
 
-{{- else if (and (gt (len $images) 0) (eq (len (trim .Summary " \n")) 0)) -}}
+{{- else if (and $hasImages (eq (len (trim .Summary " \n")) 0)) -}}
 
 	<!-- posts with images and no text need some help -->
 	(Image post. <a class="more" href="{{.Permalink}}">View…</a>)
@@ -36,7 +39,6 @@
 	<a class="more" href="{{.Permalink}}">Read more…</a>
 
 {{- else -}}
-
 	{{ .Content }}
 	
 {{- end -}}
