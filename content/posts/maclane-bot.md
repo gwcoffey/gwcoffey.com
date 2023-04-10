@@ -10,11 +10,10 @@ I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of
 
 {{< mastodon host="https://botsin.space" post="@maclane/109657266831978744" >}}
 
-I give you, the **[Mary MacLane Bot][bot]** on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every two hours.
+I give you, the <a rel="me" href="https://botsin.space/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every two hours.
 
 [moby]: https://botsin.space/@mobydick
 [mary]: https://en.wikipedia.org/wiki/Mary_MacLane
-[bot]: https://botsin.space/@maclane
 
 
 ## Who is Mary MacLane
