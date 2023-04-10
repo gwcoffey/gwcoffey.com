@@ -1,12 +1,14 @@
-{{- $images := union 
-	(.Resources.ByType "image") 
-	(.Resources.ByType "video")
--}}
+{{- $images := .Resources.ByType "image" -}}
 
 	{{- if gt (len $images) 0 -}}
 	<div class="thumbs">
 		{{ range (first 3 $images) }}
-			<a href="{{ $.RelPermalink }}"><img src="{{ .RelPermalink }}"></a>
+			{{- $cropTarget := cond 
+				(ne (index .Params "cropTarget") nil) 
+				(index .Params "cropTarget") 
+				"smart" -}}
+			{{- $thumb := .Fill (printf "240x240 %s" $cropTarget) -}}
+			<a href="{{ $.RelPermalink }}"><img src="{{ $thumb.RelPermalink }}"></a>
 		{{ end }}
 	</div>
 	{{- end -}}
