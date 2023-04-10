@@ -1,4 +1,4 @@
-baseURL = 'http://gwcoffey.com/'
+baseURL = 'https://gwcoffey.com/'
 languageCode = 'en-us'
 title = 'gwcoffey.com'
 enableEmoji = true
