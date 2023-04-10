@@ -4,5 +4,7 @@ menuTitle: "photos"
 menu: Tags
 type: photo-album
 weight: 3
-summary: "Posts containing photographs."
+summary: "A collection of photograph posts."
 ---
+
+A collection of photograph posts.
