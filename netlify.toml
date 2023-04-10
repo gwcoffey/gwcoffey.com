@@ -5,4 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.110.0"
 
-
+[[redirects]]
+  from = "/.well-known/webfinger"
+  to = "/.netlify/functions/webfinger"
+  status = 200
