@@ -1,6 +1,6 @@
 ---
-title: "Three Bad Puns"
-date: 2022-12-30
+title: "Wordplay"
+date: 2023-01-29
 tags:
   - Wordplay
 ---
