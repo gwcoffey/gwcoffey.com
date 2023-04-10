@@ -42,7 +42,7 @@ You can find me on line:
 	"[FileMaker Pro 9: The Missing Manual]"
 	"O'Reilly Media, pub. August 9, 2007."
 	
-	"[FileMaker Pro 1: The Missing Manual]"
+	"[FileMaker Pro 10: The Missing Manual]"
 	"O'Reilly Media, pub. January 3, 2009."
 >}}
 
