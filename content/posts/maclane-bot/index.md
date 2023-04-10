@@ -2,6 +2,7 @@
 title: "Mary MacLane Bot on Mastodon"
 date: 2023-04-10
 summary: "I'm a big fan of the Moby Dick at Sea Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, Mary MacLane. *And* I'm a computer programmer. So I suppose this was inevitable."
+description: "A Mastodon Bot that periodically posts short excerpts from the writing of Mary MacLane"
 resources:
   - src: mary.jpg
     params:

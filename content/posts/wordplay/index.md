@@ -1,6 +1,7 @@
 ---
 title: "Wordplay"
 date: 2023-01-29
+description: "Three visual puns."
 tags:
   - Wordplay
 ---
