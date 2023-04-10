@@ -8,7 +8,7 @@
 				(index .Params "cropTarget") 
 				"smart" -}}
 			{{- $thumb := .Fill (printf "240x240 %s" $cropTarget) -}}
-			<a href="{{ $.RelPermalink }}"><img src="{{ $thumb.RelPermalink }}"></a>
+			<a href="{{ $.RelPermalink }}" title="{{ $.Title | htmlEscape }}"><img src="{{ $thumb.RelPermalink }}" alt="Thumbnail of post image"></a>
 		{{ end }}
 	</div>
 	{{- end -}}
