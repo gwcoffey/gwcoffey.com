@@ -1,0 +1,5 @@
+{{- with .Get "inline" -}}
+<span class="editors-note">[ed: {{ . | markdownify }}]</span>
+{{- else -}}
+<p class="editors-note">[ed: {{ .Get 0 | markdownify }}]</p>
+{{- end -}}

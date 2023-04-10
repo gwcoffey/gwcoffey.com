@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@gwcoffey/litbot": "^0.0.5",
-    "@netlify/functions": "^1.4.0",
-    "netlify-cli": "^12.9.1"
+    "@netlify/functions": "^1.4.0"
   }
 }

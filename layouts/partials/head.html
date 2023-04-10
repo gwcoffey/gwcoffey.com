@@ -1,0 +1,18 @@
+<head>
+	<title>{{ if not .IsHome }}gwcoffey.com: {{ end }}{{ .Title }}</title>
+
+    {{- $options := dict
+    	"targetPath" "css/style.css" 
+    	"outputStyle" "expanded" 
+    	"enableSourceMap" (not hugo.IsProduction) 
+    	"includePaths" (slice "node_modules/myscss") -}}
+    {{- $sass := resources.Get "sass/style.scss" -}}
+    {{- $style := $sass | resources.ToCSS $options }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    
+	{{- $opts := dict "targetPath" "js/main.js" -}}
+	{{- $built := resources.Get "js/main.js" | js.Build $opts }}
+	<script src="{{ $built.RelPermalink }}" defer></script>
+
+	{{- partial "favicons" . -}}
+</head>

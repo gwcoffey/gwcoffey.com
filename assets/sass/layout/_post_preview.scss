@@ -1,0 +1,94 @@
+@import "../mixins/thumbnail";
+
+.post-preview {
+	position: relative;
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 2em;
+	
+	.icon {
+		width: 2.5ex;
+		margin-right: 1ex;
+		margin-top: 0.1ex;
+		
+		&.large {
+			width: 50px;
+			height: 50px;
+			margin-right: 15px;		
+		}
+	}
+	
+	.content {
+		flex: 1;
+	}
+	
+	a.more {
+		font-style: italic;
+		color: var(--deemphasized-text-color);
+	}
+	
+	h4 {
+		margin: 0 0 4px 0;
+	}
+
+	.byline {	
+		font-family: var(--mono-font);
+		margin-top: 0.2em;
+		margin-bottom: 0.2em;
+			
+		&, a {
+			color: var(--deemphasized-text-color);
+		}
+		
+	}
+	
+	// don't underline byline dates on posts with a title link
+	h4 + .byline a {
+		text-decoration: none;
+	}	
+
+	&:has(.thumbs) {
+		padding-right: 20px;
+	}
+
+	.thumbs {
+		width: 80px;
+		height: 80px;
+
+		img {
+			@include thumbnail;
+			position: absolute;
+			right: 10px;
+		}
+		
+		a:nth-child(2) img {
+			transform: rotate(3deg);
+			right: 5px;
+		}
+
+		a:nth-child(3) img {
+			transform: rotate(6deg);
+			right: 0;
+		}
+	}
+	
+	.summary > p {
+		margin-top: 0;
+	}
+	
+	figure {
+		border: none;
+		box-shadow: none;
+		margin: 0;
+		padding: 0;
+		
+		img, video {
+			margin: 0;
+			border: 1px solid #eee;
+		}
+		
+		figcaption {
+			display: none;
+		}
+	}
+}

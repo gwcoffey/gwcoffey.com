@@ -1,0 +1,1863 @@
+---
+
+hobbit:
+  title: The Hobbit
+  author: J.R.R. Tolkien
+
+goose-girl:
+  title: The Goose Girl
+  author: Shannon Hale
+
+selected-stories-of-william-trevor:
+  title: Selected Stories of William Trevor
+  author: William Trevor
+
+marie-claire:
+  title: Marie Claire
+  author: Marguerite Audoux
+
+count-of-monte-cristo:
+  title: The Count of Monte Cristo
+  author: Alexandre Dumas père
+
+stoner:
+  title: Stoner
+  author: John Williams
+  fav: true
+
+story-of-the-treasure-seekers:
+  title: The Story of the Treasure Seekers
+  author: Edith Nesbit
+
+great-gatsby:
+  title: The Great Gatsby
+  author: F. Scott Fitzgerald
+
+american-gods:
+  title: American Gods
+  author: Neil Gaiman
+
+catch-22:
+  title: Catch-22
+  author: Joseph Heller
+
+story-of-charlottes-web:
+  title: The Story of Charlotte's Web
+  author: Michael Sims
+  fav: true
+
+life-of-pi:
+  title: Life of Pi
+  author: Yann Martel
+
+devil-all-the-time:
+  title: The Devil All the Time
+  author: Donald Ray Pollock
+
+les-miserables:
+  title: Les Misérables
+  author: Victor Hugo
+  fav: true
+
+steve-jobs:
+  title: Steve Jobs
+  author: Walter Isaacson
+
+tree-grows-in-brooklyn:
+  title: A Tree Grows in Brooklyn
+  author: Betty Smith
+  fav: true
+
+foundation:
+  title: Foundation
+  author: Isaac Asimov
+
+neuromancer:
+  title: Neuromancer
+  author: William Gibson
+
+androids-dream:
+  title: Do Androids Dream of Electric Sheep?
+  author: Philip K. Dick
+
+ghost-brigades:
+  title: The Ghost Brigades
+  author: John Scalzi
+
+why-life-speeds-up:
+  title: Why Life Speeds Up As You Get Older
+  author: Douwe Draaisma
+
+diary-of-a-young-girl:
+  title: The Diary of a Young Girl
+  author: Anne Frank
+  fav: true
+
+player-piano:
+  title: Player Piano
+  author: Kurt Vonnegut
+
+member-of-the-wedding:
+  title: The Member Of The Wedding
+  author: Carson McCullers
+
+and-so-it-goes:
+  title: 'And So It Goes: Kurt Vonnegut: A Life'
+  author: Charles J. Shields
+
+man-without-a-country:
+  title: A Man Without a Country
+  author: Kurt Vonnegut
+
+mysterious-stranger:
+  title: The Mysterious Stranger
+  author: Mark Twain
+
+dead-souls:
+  title: Dead Souls
+  author: Nikolai Vasilievich Gogol
+
+democracy-in-america:
+  title: Democracy in America
+  author: Alexis De Tocqueville
+
+ready-player-one:
+  title: Ready Player One
+  author: Ernest Cline
+
+ready-player-two:
+  title: Ready Player Two
+  author: Ernest Cline
+
+heart-is-a-lonely-hunter:
+  title: The Heart Is a Lonely Hunter
+  author: Carson McCullers
+  fav: true
+
+quiet:
+  title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
+  author: Susan Cain
+  fav: true
+
+hunger-games:
+  title: The Hunger Games
+  author: Suzanne Collins
+
+catching-fire:
+  title: Catching Fire
+  author: Suzanne Collins
+
+mockingjay:
+  title: Mockingjay
+  author: Suzanne Collins
+
+
+angelas-ashes:
+  title: Angela's Ashes
+  author: Frank McCourt
+
+flatland:
+  title: 'Flatland: a romance of many dimensions'
+  author: Edwin Abbott Abbott
+  fav: true
+
+insanely-simple:
+  title: 'Insanely Simple: The Obsession That Drives Apple''s Success'
+  author: Ken Segall
+
+sandman-vol-2:
+  title: 'The Sandman Vol. 2: The Doll''s House'
+  author: Neil Gaiman
+
+giver:
+  title: The Giver
+  author: Lois Lowry
+
+mansion-of-happiness:
+  title: 'The Mansion of Happiness: A History of Life and Death'
+  author: Jill Lepore
+
+messenger:
+  title: Messenger
+  author: Lois Lowry
+
+heroin-hurricane-katrina:
+  title: 'Heroin, Hurricane Katrina, and the Howling Within: An Addiction Memoir'
+  author: Eliza Player
+
+gathering-blue:
+  title: Gathering Blue
+  author: Lois Lowry
+
+valis:
+  title: Valis
+  author: Philip K. Dick
+
+rosencrantz-and-guildenstern:
+  title: Rosencrantz and Guildenstern Are Dead
+  author: Tom Stoppard
+
+personality:
+  title: 'Personality: How It Forms'
+  author: Henry Kellerman
+
+portrait-of-the-artist:
+  title: A Portrait of the Artist as a Young Man
+  author: James Joyce
+
+in-the-skin-of-a-lion:
+  title: In the Skin of a Lion
+  author: Michael Ondaatje
+
+jquery-mobile:
+  title: 'jQuery Mobile: Up and Running'
+  author: Maximiliano Firtman
+
+ancient-mariner:
+  title: The Rime of the Ancient Mariner
+  author: Samuel Taylor Coleridge
+
+lone-survivors:
+  title: 'Lone Survivors: How We Came to Be the Only Humans on Earth'
+  author: Chris Stringer
+
+nature-of-things:
+  title: The Nature of Things
+  author: Lucretius
+
+basic-training:
+  title: Basic Training
+  author: Kurt Vonnegut
+
+swerve:
+  title: 'The Swerve: How the World Became Modern'
+  author: Stephen Greenblatt
+
+evolution-of-cooperation:
+  title: The Evolution of Cooperation
+  author: Robert Axelrod
+
+feminine-mystique:
+  title: The Feminine Mystique
+  author: Betty Friedan
+
+ecclesiastes:
+  title: Ecclesiastes or, The Preacher
+  author: Doris Lessing
+
+ubik:
+  title: Ubik
+  author: Philip K. Dick
+
+american-pastoral:
+  title: American Pastoral
+  author: Philip Roth
+  fav: true
+
+stories-of-breece-d-j-pancake:
+  title: Stories of Breece D'J Pancake
+  author: Breece D'J Pancake
+
+year-of-magical-thinking:
+  title: The Year of Magical Thinking
+  author: Joan Didion
+
+anatomy-of-violence:
+  title: The Anatomy of Violence
+  author: Adrian Raine
+
+brief-history-of-time:
+  title: A Brief History of Time
+  author: Stephen Hawking
+
+coraline:
+  title: Coraline
+  author: Neil Gaiman
+
+my-antonia:
+  title: My Antonia
+  author: Willa Cather
+  fav: true
+
+old-man-and-the-sea:
+  title: Old Man and the Sea
+  author: Ernest Hemingway
+
+much-ado-about-nothing:
+  title: Much Ado About Nothing
+  author: William Shakespeare
+
+eighteenth-century-essays-shakespeare:
+  title: Eighteenth Century Essays on Shakespeare
+  author: David Nichol Smith
+
+shakespeare:
+  title: 'Shakespeare: The World as Stage'
+  author: Bill Bryson
+
+brysons-dictionary-troublesome-words:
+  title: Bryson's Dictionary of Troublesome Words
+  author: Bill Bryson
+  fav: true
+
+midsummer-nights-dream:
+  title: A Midsummer Night's Dream
+  author: William Shakespeare
+
+manhood-for-amateurs:
+  title: 'Manhood for Amateurs: The Pleasures and Regrets of a Husband, Father, and
+    Son'
+  author: Michael Chabon
+
+sonnets:
+  title: The Sonnets
+  author: William Shakespeare
+
+golden-ass:
+  title: The Golden Ass
+  author: Apuleius
+
+romeo-and-juliet:
+  title: Romeo and Juliet
+  author: William Shakespeare
+  fav: true
+
+daisy-miller:
+  title: Daisy Miller
+  author: Henry James
+
+tale-of-a-tub:
+  title: A Tale of a Tub
+  author: Jonathan Swift
+
+fahrenheit-451:
+  title: Fahrenheit 451
+  author: Ray Bradbury
+
+art-of-happiness:
+  title: The Art of Happiness
+  author: Epicurus
+  fav: true
+
+king-henry-v:
+  title: King Henry V
+  author: William Shakespeare
+
+king-richard-ii:
+  title: King Richard II
+  author: William Shakespeare
+  fav: true
+
+gift-of-adversity:
+  title: The Gift of Adversity
+  author: Norman  Rosenthal
+
+darkness-at-noon:
+  title: Darkness at Noon
+  author: Arthur Koestler
+
+enders-game:
+  title: Ender's Game
+  author: Orson Scott Card
+
+first-part-of-king-henry-iv:
+  title: The First Part of King Henry IV
+  author: William Shakespeare
+
+second-part-of-king-henry-iv:
+  title: The Second Part of King Henry IV
+  author: William Shakespeare
+
+joy-luck-club:
+  title: The Joy Luck Club
+  author: Amy Tan
+
+fault-in-our-stars:
+  title: The Fault in Our Stars
+  author: John Green
+
+twelfth-night-or-what-you-will:
+  title: Twelfth Night or What You Will
+  author: William Shakespeare
+
+on-writing-well:
+  title: On Writing Well
+  author: William Zinsser
+
+walter-mitty:
+  title: The Secret Life of Walter Mitty
+  author: James Thurber
+
+mezzanine:
+  title: The Mezzanine
+  author: Nicholson Baker
+  fav: true
+
+son:
+  title: Son
+  author: Lois Lowry
+
+palmer-eldritch:
+  title: The Three Stigmata of Palmer Eldritch
+  author: Philip K. Dick
+
+seven-sins-of-memory:
+  title: The Seven Sins of Memory
+  author: Daniel  L. Schacter
+
+american-religion:
+  title: The American Religion
+  author: Harold Bloom
+
+proslogion:
+  title: Proslogion
+  author: Anselm
+
+beethoven:
+  title: 'Beethoven: The Music and the Life'
+  author: Lewis Lockwood
+
+sorrows-of-young-werther:
+  title: The Sorrows of Young Werther
+  author: Goethe
+  fav: true
+
+optimists-daughter:
+  title: The Optimist's Daughter
+  author: Eudora Welty
+
+tale-of-two-cities:
+  title: A Tale of Two Cities
+  author: Charles Dickens
+
+beethovens-shadow:
+  title: Beethoven's Shadow
+  author: Jonathan Biss
+
+americanah:
+  title: Americanah
+  author: Chimamanda Ngozi Adichie
+
+selected-literary-essays:
+  title: Selected Literary Essays
+  author: C. S. Lewis
+
+look-at-me:
+  title: Look at Me
+  author: Jennifer Egan
+
+krabat-and-the-sorcerers-mill:
+  title: Krabat and the Sorcerer's Mill
+  author: Otfried Preussler
+
+finkler-question:
+  title: The Finkler Question
+  author: Howard Jacobson
+
+marriage-plot:
+  title: The Marriage Plot
+  author: Jeffrey Eugenides
+
+if-the-south-had-won:
+  title: If The South Had Won The Civil War
+  author: MacKinlay Kantor
+
+measure-for-measure:
+  title: Measure for Measure
+  author: William Shakespeare
+
+speaker-for-the-dead:
+  title: Speaker for the Dead
+  author: Orson Scott Card
+
+ender-in-exile:
+  title: Ender in Exile
+  author: Orson Scott Card
+
+beethovens-letters:
+  title: Beethoven's Letters (1790-1826)
+  author: Ludwig van Beethoven
+
+xenocide:
+  title: Xenocide
+  author: Orson Scott Card
+
+children-of-the-mind:
+  title: Children of the Mind
+  author: Orson Scott Card
+
+becoming-steve-jobs:
+  title: Becoming Steve Jobs
+  author: Brent Schlender
+
+daemon-knows:
+  title: 'The Daemon Knows: Literary Greatness and the American Sublime'
+  author: Harold Bloom
+
+third-class-superhero:
+  title: Third Class Superhero
+  author: Charles Yu
+
+what-pet-should-i-get:
+  title: What Pet Should I Get?
+  author: Dr. Seuss
+
+othello:
+  title: Othello
+  author: William Shakespeare
+
+science-indian-tradition:
+  title: 'Science and the Indian Tradition: When Einstein Met Tagore'
+  author: David L. Gosling
+
+reinventing-bach:
+  title: Reinventing Bach
+  author: Paul Elie
+
+titus-andronicus:
+  title: Titus Andronicus
+  author: William Shakespeare
+
+coriolanus:
+  title: Coriolanus
+  author: Lee Bliss
+
+gospel-of-thomas:
+  title: The Gospel of Thomas, with The Acts of Thomas, and The Book of Thomas the
+    Contender
+  author: Anonymous
+
+restful-java-with-jax-rs-2-0:
+  title: 'RESTful Java with JAX-RS 2.0: Designing and Developing Distributed Web Services'
+  author: Bill Burke
+
+evening-in-the-palace-of-reason:
+  title: Evening in the Palace of Reason
+  author: James Gaines
+
+suddenly-a-knock-on-the-door:
+  title: Suddenly, a Knock on the Door
+  author: Etgar Keret
+  fav: true
+
+me-and-earl:
+  title: Me and Earl and the Dying Girl
+  author: Jesse Andrews
+
+last-exit-to-brooklyn:
+  title: Last Exit to Brooklyn
+  author: Hubert Selby Jr.
+  fav: true
+
+welcome-to-the-monkey-house:
+  title: Welcome to the Monkey House
+  author: Kurt Vonnegut
+
+docker-book:
+  title: 'The Docker Book: Containerization is the new virtualization'
+  author: James Turnbull
+
+writings-of-thomas-paine:
+  title: 'Writings of Thomas Paine — Volume 4 (1794-1796): the Age of Reason'
+  author: Thomas Paine
+
+candide:
+  title: Candide
+  author: Voltaire
+
+crime-and-punishment:
+  title: Crime and Punishment
+  author: Fyodor Dostoevsky
+
+woyzeck:
+  title: Woyzeck
+  author: Georg Büchner
+
+angularjs:
+  title: 'AngularJS: Up and Running'
+  author: Shyam Seshadri, Brad Green
+
+fear-and-trembling:
+  title: Fear and Trembling and The Sickness Unto Death
+  author: Søren Kierkegaard
+
+gradle-essentials:
+  title: Gradle Essentials
+  author: Kunal Dabir, Abhinandan
+
+phaedra:
+  title: Phaedra and Other Plays
+  author: Seneca
+
+daughters-of-troy:
+  title: The Daughters of Troy
+  author: Lucius Annaeus  Seneca
+
+alexander-hamilton:
+  title: Alexander Hamilton
+  author: Ron Chernow
+
+philip-k-dick:
+  title: 'Philip K. Dick: The Last Interview: and Other Conversations'
+  author: David Streitfeld
+
+world-of-null-a:
+  title: The World of Null-A
+  author: A. E. van Vogt
+
+in-search-of-wonder:
+  title: In Search of Wonder
+  author: Damon Knight
+
+caves-of-steel:
+  title: The Caves of Steel
+  author: Isaac Asimov
+
+guide-for-the-perplexed:
+  title: The Guide for the Perplexed
+  author: Moses Maimonides
+
+faust:
+  title: 'Faust: A Tragedy, Parts One and Two'
+  author: Goethe
+
+buffy-season-eight-volume-1:
+  title: 'Buffy Season Eight Volume 1: The Long Way Home'
+  author: Joss Whedon
+
+fuzzy-nation:
+  title: Fuzzy Nation
+  author: John Scalzi
+
+somewhere-in-time:
+  title: Somewhere In Time
+  author: Richard Matheson
+
+i-am-legend:
+  title: I Am Legend
+  author: Richard Matheson
+
+gitanjali:
+  title: Gitanjali
+  author: Rabindranath Tagore
+
+james-madison:
+  title: 'James Madison: A Life Reconsidered'
+  author: Lynne Cheney
+
+stories-of-your-life-and-others:
+  title: Stories of Your Life and Others
+  author: Ted Chiang
+
+thomas-jefferson:
+  title: 'Thomas Jefferson: The Art of Power'
+  author: Jon Meacham
+
+strangers-in-their-own-land:
+  title: Strangers in Their Own Land
+  author: Arlie Russell Hochschild
+
+undisturbed-rest:
+  title: 'Undisturbed REST: a Guide to Designing the Perfect API'
+  author: Michael Stowe
+
+old-mans-war:
+  title: Old Man's War
+  author: John Scalzi
+
+martin-van-buren:
+  title: 'Martin Van Buren: The American Presidents Series'
+  author: Ted Widmer
+
+john-marshall:
+  title: 'John Marshall: The Chief Justice Who Saved the Nation'
+  author: Harlow Giles Unger
+
+origin-and-course-of-political-parties:
+  title: Inquiry Into the Origin and Course of Political Parties in the United States
+  author: Martin Van Buren
+
+william-henry-harrison:
+  title: 'William Henry Harrison: The American Presidents Series'
+  author: Gail Collins, Arthur M. Schlesinger, Jr., Sean Wilentz
+
+john-tyler:
+  title: 'John Tyler: The American Presidents Series'
+  author: Gary May, Arthur M. Schlesinger, Jr., Sean Wilentz
+
+imperial-spain-1469-1716:
+  title: Imperial Spain 1469-1716
+  author: J. H. Elliott
+
+true-grit:
+  title: True Grit
+  author: Charles Portis
+  fav: true
+
+antony-and-cleopatra:
+  title: Antony and Cleopatra
+  author: William Shakespeare
+  fav: true
+
+real-friends:
+  title: Real Friends
+  author: Shannon Hale
+
+genius:
+  title: 'Genius: The Life and Science of Richard Feynman'
+  author: James Gleick
+
+henry-von-ofterdingen:
+  title: 'Henry von Ofterdingen: A Romance'
+  author: Novalis
+
+country-of-vast-designs:
+  title: 'A Country of Vast Designs: James K. Polk, the Mexican War and the Conquest
+    of the American Continent'
+  author: Robert W. Merry
+
+zachary-taylor:
+  title: 'Zoe''s Tale: An Old Man''s War Novel'
+  author: John Scalzi
+
+millard-fillmore:
+  title: Millard Fillmore
+  author: Joseph F. Rishel
+
+worst-president-ever:
+  title: 'Worst. President. Ever.: James Buchanan'
+  author: Robert Strauss
+
+franklin-pierce:
+  title: Franklin Pierce
+  author: Paul Finkelman
+
+frankenstein:
+  title: Frankenstein
+  author: Mary Shelley
+
+better-angels:
+  title: The Better Angels of Our Nature
+  author: Steven Pinker
+
+princess-academy:
+  title: Princess Academy
+  author: Shannon Hale
+  fav: true
+
+princess-academy-sisters:
+  title: 'Princess Academy: The Forgotten Sisters'
+  author: Shannon Hale
+
+andrew-johnson:
+  title: Andrew Johnson
+  author: Michael Les Benedict
+
+team-of-rivals:
+  title: 'Team of Rivals: The Political Genius of Abraham Lincoln'
+  author: Doris Kearns Goodwin
+
+princess-academy-palace:
+  title: 'Princess Academy: Palace of Stone'
+  author: Shannon Hale
+
+american-lion:
+  title: 'American Lion: Andrew Jackson in the White House'
+  author: Jon Meacham
+
+falstaff:
+  title: 'Falstaff: Give Me Life'
+  author: Harold Bloom
+
+american-ulysses:
+  title: 'American Ulysses: A Life of Ulysses S. Grant'
+  author: Ronald C. White
+
+rutherford-b-hayes:
+  title: Rutherford B. Hayes
+  author: Michael A. Ross
+
+james-a-garfield:
+  title: James A. Garfield
+  author: Thomas C. Sutton
+
+william-mckinley:
+  title: William McKinley
+  author: Kevin Phillips
+
+grover-cleveland:
+  title: Grover Cleveland
+  author: Henry F. Graff
+
+chester-a-arthur:
+  title: Chester A. Arthur
+  author: Thomas C. Sutton
+
+three-body-problem:
+  title: The Three-Body Problem
+  author: Cixin Liu
+
+rashomon:
+  title: Rashomon and Seventeen Other Stories
+  author: Ryunosuke Akutagawa
+
+elements-of-eloquence:
+  title: 'The Elements of Eloquence: Secrets of the Perfect Turn of Phrase'
+  author: Mark Forsyth
+
+william-howard-taft:
+  title: William Howard Taft
+  author: Sanders Romero
+
+headless:
+  title: Headless
+  author: Benjamin Weissman
+
+woodrow-wilson:
+  title: Woodrow Wilson
+  author: John Milton Cooper
+
+herbert-hoover:
+  title: 'Herbert Hoover: A Life'
+  author: Glen Jeansonne
+
+clean-architecture:
+  title: 'Clean Architecture: A Craftsman''s Guide to Software Structure and Design'
+  author: Robert C.  Martin
+
+no-ordinary-time:
+  title: 'No Ordinary Time: Franklin and Eleanor Roosevelt'
+  author: Doris Kearns Goodwin
+
+mandelbrot-the-magnificent:
+  title: Mandelbrot the Magnificent
+  author: Liz Ziemska
+
+truman:
+  title: Truman
+  author: David McCullough
+
+beautiful-and-damned:
+  title: The Beautiful and Damned
+  author: F. Scott Fitzgerald
+
+stack-the-cats:
+  title: Stack the Cats
+  author: Susie Ghahremani
+
+eisenhower:
+  title: Eisenhower in War and Peace
+  author: Jean Edward Smith
+
+turtles-all-the-way-down:
+  title: Turtles All the Way Down
+  author: John Green
+
+2br02b:
+  title: 2BR02B
+  author: Kurt Vonnegut
+
+iliad:
+  title: The Iliad
+  author: Homer
+
+lock-in:
+  title: Lock In
+  author: John Scalzi
+
+kennedy-half-century:
+  title: The Kennedy Half Century
+  author: Larry J. Sabato
+
+lyndon-johnson:
+  title: Lyndon Johnson and the American Dream
+  author: Doris Kearns Goodwin
+
+ambition-pragmatism-and-party:
+  title: 'Ambition, Pragmatism, and Party: A Political Biography of Gerald R. Ford'
+  author: Scott Kaufman
+
+1177-bc:
+  title: '1177 B.C.: The Year Civilization Collapsed'
+  author: Eric H. Cline
+
+dialogue:
+  title: 'Dialogue: The Art of Verbal Action for Page, Stage, and Screen'
+  author: Robert McKee
+
+charlottes-web:
+  title: Charlotte's Web
+  author: E. B. White
+  fav: true
+
+keys-to-the-kingdom:
+  title: The Keys to the Kingdom
+  author: Elliott Downing
+
+odyssey:
+  title: The Odyssey
+  author: Homer
+
+imaginary-magnitude:
+  title: Imaginary Magnitude
+  author: Stanislaw Lem
+
+blud:
+  title: blud
+  author: Rachel McKibbens
+
+two-towers:
+  title: The Two Towers
+  author: J. R. R. Tolkien
+
+fellowship-of-the-ring:
+  title: The Fellowship of the Ring
+  author: J. R. R. Tolkien
+
+son-of-a-witch:
+  title: Son of a Witch
+  author: Gregory Maguire
+
+how-i-became-a-ghost:
+  title: How I Became A Ghost
+  author: Tim Tingle
+
+sandman-vol-1:
+  title: 'The Sandman Vol. 1: Preludes and Nocturnes'
+  author: Neil Gaiman
+
+out-of-oz:
+  title: Out of Oz
+  author: Gregory Maguire
+  fav: true
+
+varieties-of-religious-experience:
+  title: The Varieties of Religious Experience
+  author: William James
+
+mind-of-her-own:
+  title: A Mind of Her Own
+  author: Paula McLain
+
+bread-and-roses-too:
+  title: Bread and Roses, Too
+  author: Katherine Paterson
+
+becoming:
+  title: Becoming
+  author: Michelle Obama
+
+dispatcher:
+  title: The Dispatcher
+  author: John Scalzi
+
+finding-zero:
+  title: Finding Zero
+  author: Amir D. Aczel
+
+elements-of-style:
+  title: The End of All Things
+  author: John Scalzi
+
+contact:
+  title: Contact
+  author: Carl Sagan
+
+jailbird:
+  title: Jailbird
+  author: Kurt Vonnegut
+
+birchbark-house:
+  title: The Birchbark House
+  author: Louise Erdrich
+
+road:
+  title: The Road
+  author: Cormac McCarthy
+  fav: true
+
+shortest-way-home:
+  title: 'Shortest Way Home: One Mayor''s Challenge and a Model for America''s Future'
+  author: Pete Buttigieg
+
+sophies-world:
+  title: Sophie's World
+  author: Jostein Gaarder
+  fav: true
+
+truths-we-hold:
+  title: 'The Truths We Hold: An American Journey'
+  author: Kamala Harris
+
+this-fight-is-our-fight:
+  title: 'This Fight Is Our Fight: The Battle to Save America''s Middle Class'
+  author: Elizabeth Warren
+
+chaos:
+  title: 'Chaos: Making a New Science'
+  author: James Gleick
+
+'1984':
+  title: '1984'
+  author: George Orwell
+
+beezus-and-ramona:
+  title: Beezus and Ramona
+  author: Beverly Cleary
+  fav: true
+
+confederacy-of-dunces:
+  title: A Confederacy of Dunces
+  author: John Kennedy Toole
+  fav: true
+
+patterning-instinct:
+  title: The Patterning Instinct
+  author: Jeremy Lent
+  fav: true
+
+good-omens:
+  title: Good Omens
+  author: Neil Gaiman
+
+hocus-pocus:
+  title: Hocus Pocus
+  author: Kurt Vonnegut
+
+return-of-the-king:
+  title: The Return of the King
+  author: J. R. R. Tolkien
+
+fieldnotes-on-ordinary-love:
+  title: Fieldnotes on Ordinary Love
+  author: Keith S. Wilson
+
+caffeine:
+  title: 'Caffeine: How Caffeine Created the Modern World'
+  author: Michael Pollan
+
+stone-sky:
+  title: The Stone Sky
+  author: N. K. Jemisin
+
+obelisk-gate:
+  title: The Obelisk Gate
+  author: N. K. Jemisin
+
+lives-like-loaded-guns:
+  title: 'Lives Like Loaded Guns: Emily Dickinson and Her Family''s Feuds'
+  author: Lyndall Gordon
+
+tom-sawyer:
+  title: Tom Sawyer
+  author: Mark Twain
+
+how-to-read-a-poem:
+  title: 'How To Read A Poem: And Fall in Love with Poetry'
+  author: Edward Hirsch
+
+thousand-days:
+  title: Book of a Thousand Days
+  author: Shannon Hale
+
+pride-and-prejudice:
+  title: Pride and Prejudice
+  author: Jane Austen
+
+generosity:
+  title: 'Generosity: An Enhancement'
+  author: Richard Powers
+
+myth-of-sisyphus-:
+  title: 'The Myth of Sisyphus And Other Essays '
+  author: Albert Camus
+
+anansi-boys:
+  title: Anansi Boys
+  author: Neil Gaiman
+
+divine-invasion:
+  title: The Divine Invasion
+  author: Philip K. Dick
+
+counter-clock-world:
+  title: Counter-Clock World
+  author: Philip K. Dick
+
+eye-in-the-sky:
+  title: Eye In The Sky
+  author: Philip K. Dick
+
+penultimate-truth:
+  title: The Penultimate Truth
+  author: Philip K. Dick
+
+shining:
+  title: The Shining
+  author: Stephen King
+
+timothy-archer:
+  title: The Transmigration of Timothy Archer
+  author: Philip K. Dick
+
+novelists-and-novels:
+  title: 'Novelists and Novels: A Collection of Critical Essays'
+  author: Harold Bloom
+
+siddhartha:
+  title: Siddhartha
+  author: Hermann Hesse
+
+hitchhikers-guide-to-the-galaxy:
+  title: The Hitchhiker's Guide to the Galaxy
+  author: Douglas Adams
+
+watership-down:
+  title: Watership Down
+  author: Richard Adams
+
+complete-stories-flannery-oconnor:
+  title: The Complete Stories of Flannery O’Connor
+  author: Flannery O'Connor
+
+education-of-an-idealist:
+  title: The Education of an Idealist
+  author: Samantha Power
+
+women-in-black:
+  title: The Women in Black
+  author: Madeleine St. John
+  fav: true
+
+how-to-be-an-antiracist:
+  title: How to Be an Antiracist
+  author: Ibram X. Kendi
+
+sparrow:
+  title: The Sparrow
+  author: Mary Doria Russell
+  fav: true
+
+essays-of-eb-white:
+  title: Essays of E. B. White
+  author: E. B. White
+  fav: true
+
+mansfield-park:
+  title: Mansfield Park
+  author: Jane Austen
+
+pompeii:
+  title: Pompeii
+  author: Robert Harris
+
+children-of-god:
+  title: Children of God
+  author: Mary Doria Russell
+
+'1491':
+  title: '1491: New Revelations of the Americas Before Columbus'
+  author: Charles C. Mann
+
+little-fires-everywhere:
+  title: Little Fires Everywhere
+  author: Celeste Ng
+
+dreams-from-my-father:
+  title: Dreams from My Father
+  author: Barack Obama
+
+history-of-mathematics:
+  title: A Short Account of the History of Mathematics
+  author: W. W. Rouse Ball
+
+end-of-everything:
+  title: The End of Everything
+  author: Katie Mack
+
+washington:
+  title: 'Washington: A Life'
+  author: Ron Chernow
+
+yiddish-policemens-union:
+  title: The Yiddish Policemen's Union
+  author: Michael Chabon
+
+louisianas-way-home:
+  title: Louisiana's Way Home
+  author: Kate DiCamillo
+
+raymie-nightingale:
+  title: Raymie Nightingale
+  author: Kate DiCamillo
+
+long-way-from-chicago:
+  title: A Long Way from Chicago
+  author: Richard Peck
+
+year-down-yonder:
+  title: A Year Down Yonder
+  author: Richard Peck
+
+john-adams:
+  title: John Adams
+  author: David McCullough
+
+who-owns-the-future:
+  title: Who Owns the Future?
+  author: Jaron Lanier
+
+graveyard-book:
+  title: The Graveyard Book
+  author: Neil Gaiman
+  fav: true
+
+overstory:
+  title: The Overstory
+  author: Richard Powers
+  fav: true
+
+stuart-little:
+  title: Stuart Little
+  author: E. B. White
+
+lonesome-dove:
+  title: Lonesome Dove
+  author: Larry McMurtry
+
+all-the-pretty-horses:
+  title: All the Pretty Horses
+  author: Cormac McCarthy
+  fav: true
+
+crossing:
+  title: The Crossing
+  author: Cormac McCarthy
+
+streets-of-laredo:
+  title: Streets of Laredo
+  author: Larry McMurtry
+
+how-to-live-safely:
+  title: How to Live Safely in a Science Fictional Universe
+  author: Charles Yu
+  fav: true
+
+cities-of-the-plain:
+  title: Cities of the Plain
+  author: Cormac McCarthy
+
+redshirts:
+  title: Redshirts
+  author: John Scalzi
+
+homegoing:
+  title: Homegoing
+  author: Yaa Gyasi
+  fav: true
+
+jade-and-shadow:
+  title: Gods of Jade and Shadow
+  author: Silvia Moreno-Garcia
+
+flow-my-tears:
+  title: Flow My Tears, the Policeman Said
+  author: Philip K. Dick
+
+endurance:
+  title: 'Endurance: Shackleton''s Incredible Voyage'
+  author: Alfred Lansing
+
+coyote-america:
+  title: 'Coyote America: A Natural and Supernatural History'
+  author: Dan Flores
+
+gold-bug-variations:
+  title: The Gold Bug Variations
+  author: Richard Powers
+
+small-fry:
+  title: Small Fry
+  author: Lisa Brennan-Jobs
+
+circe:
+  title: Circe
+  author: Madeline Miller
+  fav: true
+
+song-of-achilles:
+  title: The Song of Achilles
+  author: Madeline Miller
+
+moby-dick:
+  title: Moby-Dick
+  author: Herman Melville
+  fav: true
+
+beverly-right-here:
+  title: Beverly, Right Here
+  author: Kate DiCamillo
+  fav: true
+
+sirens-of-titan:
+  title: The Sirens of Titan
+  author: Kurt Vonnegut
+
+aristotle-and-dante:
+  title: Aristotle and Dante Discover the Secrets of the Universe
+  author: Benjamin Alire Saenz
+
+breakfast-at-tiffanys:
+  title: Breakfast at Tiffany's
+  author: Truman Capote
+
+beloved:
+  title: Beloved
+  author: Toni Morrison
+
+denial-of-death:
+  title: The Denial of Death
+  author: Ernest Becker
+
+merchant-of-venice:
+  title: The Merchant of Venice
+  author: William Shakespeare
+
+social-wasps-of-north-america:
+  title: The Social Wasps of North America
+  author: Chris Alice Kratzer
+
+anne-of-green-gables:
+  title: Anne of Green Gables
+  author: Lucy Maud Montgomery
+
+fifth-season:
+  title: The Fifth Season
+  author: N. K. Jemisin
+
+augustus:
+  title: Augustus
+  author: John Williams
+  fav: true
+
+punks:
+  title: Punks
+  author: John Keane
+
+blood-meridian:
+  title: Blood Meridian or the Evening Redness in the West
+  author: Cormac McCarthy
+  fav: true
+
+silence:
+  title: Silence
+  author: Shusaku Endo
+  fav: true
+
+machine:
+  title: 'Machine: White Space, Book 2'
+  author: Elizabeth Bear
+
+neverwhere:
+  title: Neverwhere
+  author: Neil Gaiman
+
+prayer-for-owen-meany:
+  title: A Prayer for Owen Meany
+  author: John Irving
+  fav: true
+
+cats-cradle:
+  title: Cat's Cradle
+  author: Kurt Vonnegut
+  fav: true
+
+anna-karenina:
+  title: Anna Karenina
+  author: Leo Tolstoy
+
+andersonville:
+  title: Andersonville
+  author: MacKinlay Kantor
+
+production-ready-microservices:
+  title: Production-Ready Microservices
+  author: Susan J. Fowler
+
+all-the-rivers:
+  title: All the Rivers
+  author: Dorit Rabinyan
+
+lottery:
+  title: The Lottery, and Other Stories
+  author: Shirley Jackson
+
+to-kill-a-mockingbird:
+  title: To Kill a Mockingbird
+  author: Harper Lee
+
+wicked:
+  title: 'Wicked: The Life and Times of the Wicked Witch of the West'
+  author: Gregory Maguire
+  fav: true
+
+lion-among-men:
+  title: A Lion Among Men
+  author: Gregory Maguire
+
+brides-of-maracoor:
+  title: The Brides of Maracoor
+  author: Gregory Maguire
+
+hamlet:
+  title: Hamlet
+  author: William Shakespeare
+
+macbeth:
+  title: Macbeth
+  author: William Shakespeare
+
+tragedy-of-king-lear:
+  title: The Tragedy of King Lear
+  author: William Shakespeare
+
+julius-caesar:
+  title: Julius Caesar
+  author: William Shakespeare
+
+taming-of-the-shrew:
+  title: The Taming of the Shrew
+  author: William Shakespeare
+
+on-the-beach:
+  title: On the Beach
+  author: Nevil Shute
+
+gift-of-everything:
+  title: The Gift of Everything
+  author: Lang Leav
+
+stories-from-tagore:
+  title: Stories from Tagore
+  author: Rabindranath Tagore
+
+ramona-quimby-audio-collection:
+  title: The Ramona Quimby Audio Collection
+  author: Beverly Cleary
+  fav: true
+
+norse-mythology:
+  title: Norse Mythology
+  author: Neil Gaiman
+  fav: true
+
+information:
+  title: 'The Information: A History, a Theory, a Flood'
+  author: James Gleick
+  fav: true
+
+kavalier-clay:
+  title: The Amazing Adventures of Kavalier & Clay
+  author: Michael Chabon
+  fav: true
+
+lincoln-in-the-bardo:
+  title: Lincoln in the Bardo
+  author: George Saunders
+
+slaughterhouse-five:
+  title: Slaughterhouse-Five
+  author: Kurt Vonnegut
+
+complete-stories-of-truman-capote:
+  title: The Complete Stories of Truman Capote
+  author: Truman Capote
+
+breakfast-of-champions:
+  title: Breakfast of Champions
+  author: Kurt Vonnegut
+  fav: true
+
+slapstick:
+  title: Slapstick
+  author: Kurt Vonnegut
+
+man-in-the-high-castle:
+  title: The Man in the High Castle
+  author: Philip K. Dick
+
+scanner-darkly:
+  title: A Scanner Darkly
+  author: Philip K. Dick
+  fav: true
+
+mother-night:
+  title: Mother Night
+  author: Kurt Vonnegut
+
+bluebeard:
+  title: Bluebeard
+  author: Kurt Vonnegut
+
+sense-and-sensibility:
+  title: Sense and Sensibility
+  author: Jane Austen
+
+galapagos:
+  title: Galapagos
+  author: Kurt Vonnegut
+
+peripheral:
+  title: The Peripheral
+  author: William Gibson
+
+africa-is-not-a-country:
+  title: 'Africa Is Not a Country'
+  author: Dipo Faloyin
+
+magicians-nephew:
+  title: The Magician's Nephew
+  author: C.S. Lewis
+
+bfg:
+  title: The BFG
+  author: Roald Dahl
+
+giving-tree:
+  title: The Giving Tree
+  author: Shel Silverstein
+
+lathe-of-heaven:
+  title: The Lathe of Heaven
+  author: Ursula K. LeGuin
+
+sleepy-hollow:
+  title: The Legend of Sleepy Hollow
+  author: Washington Irving
+
+wizard-oz:
+  title: The Wonderful Wizard of Oz
+  author: L. Frank Baum
+
+winnie-pooh:
+  title: Winnie the Pooh
+  author: A.A. Milne
+
+perfect-mexican-daughter:
+  title: I Am Not Your Perfect Mexican Daughter
+  author: Erika L. Sánchez
+
+world-without-mind:
+  title: World Without Mind
+  author: Franklin Foer
+
+gentleman-moscow:
+  title: A Gentleman in Moscow
+  author: Amor Towles
+
+family-of-origin:
+  title: Family of Origin
+  author: CJ Hauser
+  fav: true
+
+because-internet:
+  title: Because Internet
+  author: Gretchen McCulloch
+  fav: true
+
+best-friends:
+  title: Best Friends
+  author: Shannon Hale
+
+sophie-angry:
+  title: When Sophie Gets Angry, Really Really Angry
+  author: Molly Bang
+
+sophie-feelings:
+  title: When Sophie's Feelings are Really Really Hurt
+  author: Molly Bang
+
+sophie-cant:
+  title: When Sophie Thinks She Can't
+  author: Molly Bang
+
+young-visiters:
+  title: The Young Visiters or Mister Salteena's Plan
+  author: Daisy Ashford
+
+picture-this:
+  title: 'Picture This: How Pictures Work'
+  author: Molly Bang
+
+wishtree:
+  title: Wishtree
+  author: Katherine Applegate
+
+demon-machine:
+  title: The Demon in the Machine
+  author: Paul Davies
+
+interior-chinatown:
+  title: Interior Chinatown
+  author: Charles Yu
+  fav: true
+
+holy-the-firm:
+  title: Holy the Firm
+  author: Annie Dillard
+  fav: true
+
+mythology:
+  title: Mythology
+  author: Edith Hamilton
+
+greek-way:
+  title: The Greek Way
+  author: Edith Hamilton
+
+day-on-fire:
+  title: The Day on Fire
+  author: James Ramsey Ullman
+  fav: true
+
+divine-love:
+  title: Revelations of Divine Love
+  author: Julian of Norwich
+
+long-goodbye:
+  title: The Long Goodbye
+  author: Raymond Chandler
+
+devils-coming:
+  title: I Await the Devil's Coming
+  author: Mary MacLane
+  fav: true
+
+tao-pooh:
+  title: The Tao of Pooh
+  author: Benhamin Hoff
+
+martian-timeslip:
+  title: Martian Time-Slip
+  author: Philip K. Dick
+
+kind-of-big-deal:
+  title: Kind of a Big Deal
+  author: Shannon Hale
+
+selected-stories-dick:
+  title: Selected Stories of Philip K Dick
+  author: Philip K. Dick
+  
+winn-dixie:
+  title: Because of Winn-Dixie
+  author: Kate DiCamillo
+
+beowulf:
+  title: Beowulf
+
+uncertain-world:
+  title: In An Uncertain World
+  author: Robert Rubin
+
+arrowsmith:
+  title: Arrowsmith
+  author: Sinclair Lewis
+
+ramayana:
+  title: The Ramayana (Abbr.)
+
+exact-replica:
+  title: An Exact Replica of a Figment of My Imagination
+  author: Elizabeth McCracken
+  fav: true
+
+mexican-gothic:
+  title: Mexican Gothic
+  author: Silvia Moreno-Garcia
+  
+addie-larue:
+  title: The Invisible Live of Addie LaRue
+  author: V. E. Schwab
+
+somnium:
+  title: Somnium
+  author: Johannes Kepler
+
+wind-up-bird:
+  title: The Wind-Up Bird Chronicle
+  author: Haruki Murakami
+
+swim-pond-rain:
+  title: A Swim in a Pond in the Rain
+  author: George Saunders
+
+rumi-prescription:
+  title: The Rumi Prescription
+  author: Melody Moezzi
+
+borges-me:
+  title: Borges and Me
+  author: Jay Parini
+  
+don-quixote:
+  title: Don Quixote
+  author: Miguel de Cervantes
+
+child-god:
+  title: Child of God
+  author: Cormac McCarthy
+  
+stories-muriel-spark:
+  title: All the Stories of Muriel Spark
+  author: Muriel Spark
+
+bears-night:
+  title: Bears in the Night
+  author: Stan & Jan Berenstain
+
+marcovaldo:
+  title: Marcovaldo
+  author: Italo Calvino
+
+foundation-empire:
+  title: Foundation and Empire
+  author: Isaac Asimov
+
+second-foundation:
+  title: Second Foundation
+  author: Isaac Asimov
+
+virgin-suicides:
+  title: The Virgin Suicides
+  author: Jeffrey Eugenides
+
+transcendent-kingdom:
+  title: Transcendent Kingdom
+  author: Yaa Gyasi
+
+bewilderment:
+  title: Bewilderment
+  author: Richard Powers
+  fav: true
+
+iron-widow:
+  title: Iron Widow
+  author: Xiran Jay Zhao
+
+fevered-days:
+  title: 'These Fevered Days: Ten Pivotal Moments in the Making of Emily Dickinson'
+  author: Martha Ackmann
+
+ocean-lane:
+  title: The Ocean at the End of the Lane
+  author: Neil Gaiman
+
+why-fish-dont-exist:
+  title: Why Fish Don't Exist
+  author: Lulu Miller
+  fav: true
+
+moon-over-manifest:
+  title: Moon Over Manifest
+  author: Clare Vanderpool
+
+sidewalk-ends:
+  title: Where the Sidewalk Ends
+  author: Shel Silverstein
+
+light-attic:
+  title: A Light in the Attic
+  author: Shel Silverstein
+
+anthropocene-reviewed:
+  title: The Anthropocene Reviewed
+  author: John Green
+
+omelas:
+  title: The Ones Who Walk Away from Omelas
+  author: Ursula K. LeGuin
+
+catherine-birdy:
+  title: Catherine, Called Birdy
+  author: Karen Cushman
+
+mouth-to-mouth:
+  title: Mouth to Mouth
+  author: Antoine Wilson
+
+art-of-beauty:
+  title: The Art of Beauty, or Secrets of a Lady's Toilet
+  author: Lola Montez
+
+penguin-spiritual:
+  title: The Penguin Book of Spiritual Verse
+  author: Kaveh Akbar
+
+ada-enchantress:
+  title: Ada, The Enchantress of Numbers
+  author: Betty Alexandra Toole
+
+divine-lola:
+  title: Divine Lola
+  author: Cristina Morató
+
+oracle-maracoor:
+  title: The Oracle of Maracoor
+  author: Gregory Maguire
+
+cleopatro-history-myth:
+  title: 'Cleopatra: Her History, Her Myth'
+  author: Francine Prose
+
+no-mouth:
+  title: I Have No Mouth And I Must Scream
+  author: Harlan Ellison
+
+barracoon:
+  title: Barracoon
+  author: Zora Neale Hurston
+
+watching-god:
+  title: Their Eyes Were Watching God
+  author: Zora Neale Hurston
+
+passenger:
+  title: The Passenger
+  author: Cormac McCarthy
+
+stella-maris:
+  title: Stella Maris
+  author: Cormac McCarthy
+
+slouching:
+  title: Slouching Towards Bethlehem
+  author: Joan Didion
+
+see-read:
+  title: What We See When We Read
+  author: Peter Mendelsund
+
+burning-secret:
+  title: Burning Secret
+  author: Steffan Zweig
+
+three-minutes:
+  title: The First Three Minutes
+  author: Steven Weinberg
+
+interesting-book:
+  title: I Am the Most Interesting Book of All
+  author: Marie Bashkirtsef
+
+hello-beautiful:
+  title: Hello Beautiful
+  author: Ann Napolitano
+
+agency:
+  title: Agency
+  author: William Gibson
+
+high:
+  title: High
+  author: David & Nic Sheff

@@ -1,0 +1,100 @@
+@import "fonts";
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --main-bg-color: white;
+
+	--main-text-color: black;
+	--link-text-color: #00f;
+	--visited-link-text-color: #909;
+	--active-link-text-color: #f33;
+	--deemphasized-text-color: #777;
+	--dt-dot-text-color: #ccc;
+
+	--box-border-color: rgba(0,0,0,0.1);
+
+	--text-bg-border-color: var(--box-border-color);
+	--blockquote-border-color: #aaa;
+	--cite-underline-color: #aaa;
+
+	--red-bg-color: #F9EEEA;
+	--green-bg-color: #EEF9EA;
+	--blue-bg-color: #EEEAF9;
+    --grey-bg-color: #EEEDEC;
+
+    --code-bg-color: #F9F7F5;
+    --ins-bg-color: var(--green-bg-color);
+    --del-bg-color: var(--red-bg-color);
+    --mark-bg-color: #ffb;
+    --kbd-bg-color: #ddd;
+    --kbd-border-colors: rgba(0,0,0,0.1) rgba(0,0,0,0.2) rgba(0,0,0,0.4) rgba(0,0,0,0.2);
+    --samp-bg-color: #f6f6f6;
+    --tag-bg-color: #ddd;
+
+    --aside-bg-color: var(--grey-bg-color);
+    --aside-border-color: rgba(0,0,0,0.1);
+    --note-bg-color: #F9F9E4;
+    --warn-bg-color: var(--red-bg-color);
+    --tip-bg-color: var(--green-bg-color);
+
+    --caption-bg-color: var(--grey-bg-color);
+    --figure-border-color: var(--box-border-color);
+	--figure-frame-bg-color: white;
+	
+	--archive-banner-bg-color: #EEEBE8;
+	--archive-banner-border-color: #999795;
+	
+	--header-cursor-color: #999;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-bg-color: #191920;
+
+    --main-text-color: white;
+	--link-text-color: #77f;
+	--visited-link-text-color: #f8f;
+	--active-link-text-color: #f55;
+	--deemphasized-text-color: #999;
+	--dt-dot-text-color: #555;
+
+	--box-border-color: rgba(255,255,255,.1);
+
+	--text-bg-border-color: var(--box-border-color);
+	--blockquote-border-color: #555;
+	--cite-underline-color: #555;
+
+	--red-bg-color: #422;
+	--green-bg-color: #242;
+	--blue-bg-color: #335;
+    --grey-bg-color: #292929;
+
+    --code-bg-color: var(--main-bg-color);
+    --ins-bg-color: var(--green-bg-color);
+    --del-bg-color: var(--red-bg-color);
+    --mark-bg-color: #552;
+    --kbd-bg-color: #444;
+    --kbd-border-colors: rgba(255,255,255,.3) rgba(255,255,255,.2) rgba(255,255,255,0) rgba(255,255,255,0.2);
+    --samp-bg-color: #393940;
+    --tag-bg-color: #444;
+    
+    --aside-bg-color: var(--grey-bg-color);
+    --aside-border-color: rgba(255,255,255,0.1);
+    --note-bg-color: #442;
+    --warn-bg-color: var(--red-bg-color);
+    --tip-bg-color: var(--green-bg-color);
+    
+    --caption-bg-color: var(--grey-bg-color);
+    --figure-border-color: var(--box-border-color);
+	--figure-frame-bg-color: #333;
+	
+	--archive-banner-bg-color: rgba(34, 25, 17, 0.3);
+	--archive-banner-border-color: rgba(228, 190, 150, 0.4);
+
+	--header-cursor-color: #999;
+  }
+}
+
+@import "semantics/all", "layout/all", "home", "article", "modal", "listapp", "album";

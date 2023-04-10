@@ -1,0 +1,32 @@
+{{- $title := .Get "title" -}}
+{{- $desc := .Get "desc" -}}
+{{- $image := .Get "image" -}}
+
+<!--hugo can't seem to escape backslashes in shortcode params, so we clean 
+	 these little guys up manually -->
+{{- $title := replace $title ":shrug:" "¯\\_(ツ)_/¯" -}}
+{{- $desc := replace $desc ":shrug:" `¯\\\_(ツ)\_/¯` -}}
+
+<li>
+	<div class="container">
+		<div class="text">
+			{{- if and (eq $title "") (eq $desc "") -}}
+				<!-- for some reason the list item content pushes down one line if there's
+				     no item text at all -->
+				<p class="item empty">&nbsp;</p>
+			{{- end -}}
+
+			{{- with $title -}}
+				<p class="item">{{ . | markdownify }}</p>
+			{{- end -}}
+	
+			{{- with $desc -}}
+				<p class="desc">{{ . | markdownify }}</p>
+			{{- end -}}
+
+		</div>
+		{{- with $image -}}
+			<img class="popable" src="{{ . }}">
+		{{- end -}}
+	</div>
+</li>

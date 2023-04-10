@@ -1,0 +1,16 @@
+.home-links {
+	text-align: center;
+	margin-top: 3em;
+	font-family: var(--mono-font);
+
+	a {
+		&, &:visited {
+			color: var(--deemphasized-text-color);
+			text-decoration: none;
+		}
+		
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

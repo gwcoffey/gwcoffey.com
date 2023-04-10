@@ -1,0 +1,46 @@
+{{- $hasImages := or
+	(gt (len (.Resources.ByType "image")) 0)
+	(gt (len (.Resources.ByType "video")) 0)
+-}}
+
+{{- $summarize := or
+	(.Truncated)
+	$hasImages
+	(eq (.Param "archiveSection") true)
+-}} 
+
+{{- if eq (.Param "archive") "listapp" -}}
+
+	<!-- listapp posts require specialhandling -->
+	{{- partial "post-preview/listapp-summary" . -}}
+
+{{- else if (and $hasImages (eq (len (trim .Summary " \n")) 0)) -}}
+
+	<!-- posts with images and no text need some help -->
+	(Image post. <a class="more" href="{{.RelPermalink}}">View…</a>)
+
+{{- else if eq (.Param "archiveSection") true -}}
+
+	<!-- the archive sections don't need "more" links and shouldn't show headings in the
+	     summaries -->
+	{{- $content := .Content -}}
+	{{- $content := replaceRE `(?s)</p>.*` "</p>" $content -}}
+	{{ safeHTML $content }}
+
+{{- else if (isset .Params "summary") -}}
+
+	{{ .Params.summary }}
+
+{{- else if $summarize -}}
+
+	<!-- use built in summarization for long posts, posts with an explicit configured
+	     summary, and posts with images -->
+	{{ .Summary | markdownify }}
+	<a class="more" href="{{.RelPermalink}}">Read more…</a>
+
+{{- else -}}
+	{{ .Content }}
+	
+{{- end -}}
+
+

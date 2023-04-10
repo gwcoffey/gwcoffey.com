@@ -1,0 +1,13 @@
+{{- if eq (.Get "with") "Command" -}}
+<kbd><span class="command">Command</span>{{ with .Get "char" }}<span>{{ . }}</span>{{ end }}</kbd>
+{{- else if eq (.Get "with") "Control" -}}
+<kbd>Ctrl{{ with .Get "char" }}-{{ . }}{{ end }}</kbd>
+{{- else if eq (.Get "with") "Shift" -}}
+<kbd>Shift{{ with .Get "char" }}-{{ . }}{{ end }}</kbd>
+{{- else if eq (.Get "with") "Alt" -}}
+<kbd>Alt{{ with .Get "char" }}-{{ . }}{{ end }}</kbd>
+{{- else if eq (.Get "with") "Option" -}}
+<kbd>Option{{ with .Get "char" }}-{{ . }}{{ end }}</kbd>
+{{- else -}}
+<kbd>{{ .Get "char" }}</kbd>
+{{- end -}}

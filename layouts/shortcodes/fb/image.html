@@ -1,0 +1,9 @@
+<figure>
+	{{- with .Page.Resources.GetMatch (.Get "src") -}}
+	<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Inner -}}
+	<figcaption><p>{{ . | markdownify }}</p></figcaption>
+	{{- end -}}
+</figure>
+  

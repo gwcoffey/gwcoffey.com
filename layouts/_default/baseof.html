@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+<body{{ if .IsHome }} class="home"{{ end }}>
+
+	<header>
+		<h2><a rel="home" href="/">gwcoffey.com</a></h2>
+	</header>
+
+	<main>
+		{{- block "main" . }}{{- end }}
+	</main>
+
+	<footer>
+		{{- partial "footer.html" . }}
+	</footer>
+
+</body>
+</html>

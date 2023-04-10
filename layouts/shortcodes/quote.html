@@ -1,0 +1,6 @@
+<blockquote>
+{{ .Inner | markdownify }}
+{{ with .Get "cite" }}
+	<cite>{{ . }}</cite>
+{{ end }}
+</blockquote>

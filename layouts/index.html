@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{- $pages := .Site.RegularPages -}}
+{{- $pages := where $pages ".Section" "==" "posts" -}}
+{{- $pages := first 3 $pages -}}
+
+{{ .Content }}
+
+<h1>Latests Posts</h1>
+
+{{ range $pages }}
+{{ partial "post-preview/post-preview.html" . }}
+{{ end }}
+
+<div class="home-links">
+	<a href="/posts/">See the complete history in <u>/posts</u></a>
+</div>
+
+{{ end }}

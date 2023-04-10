@@ -1,0 +1,16 @@
+{{- define "main" -}}
+
+{{- $paginator := .Paginate .Pages -}}
+
+{{- partial "list-heading.html" (dict "page" . "paginator" $paginator) -}}
+
+{{- .Content -}}
+
+{{- range $paginator.Pages -}}
+	{{- partial "post-preview/post-preview.html" . -}}
+{{- end -}}
+
+{{- partial "pagination-links.html" . -}}
+
+{{- end -}}
+

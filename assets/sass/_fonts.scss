@@ -1,0 +1,47 @@
+/* This CSS resource incorporates links to font software which is the valuable copyrighted 
+   property of Monotype and/or its suppliers. You may not attempt to copy, install, 
+   redistribute, convert, modify or reverse engineer this font software. Please contact 
+   Monotype with any questions regarding Web Fonts: http://www.fonts.com */
+
+@font-face{
+	font-family:"Courier LT Round";
+	font-weight: 400;
+	src:url("/fonts/5444777/ccca6f3b-2af1-4f98-903d-6a8d82102e33.woff2") format("woff2"),
+		url("/fonts/5444777/942b1bd5-ed36-4322-b12f-32540ba2b355.woff") format("woff");
+}
+
+@font-face{
+	font-family:"Courier LT Round";
+	font-weight: 700;
+	src:url("/fonts/5444781/bf74c4ed-b436-448f-a804-771fef3df18a.woff2") format("woff2"),
+		url("/fonts/5444781/0f3b2d9a-d6ba-4b00-856b-9e6c2204e81e.woff") format("woff");
+}
+
+@font-face{
+	font-family:"Palatino LT";
+	font-weight: 700;
+	src:url("/fonts/6215210/b6634f5b-2444-4019-80cd-37ce5371a234.woff2") format("woff2"),
+		url("/fonts/6215210/50f0aaea-a142-4493-b42d-da4ca1425995.woff") format("woff");
+}
+
+@font-face{
+	font-family:"Palatino LT";
+	font-weight: 400;
+	font-style: italic;
+	src:url("/fonts/6215265/51089b37-e572-4359-887c-c103145541ef.woff2") format("woff2"),
+		url("/fonts/6215265/393edd60-97a5-4cd1-8564-c3201d7b042d.woff") format("woff");
+}
+
+@font-face{
+	font-family:"Palatino LT";
+	font-weight: 400;
+	src:url("/fonts/6215654/9a3e2092-79e8-436b-846c-1137855e0426.woff2") format("woff2"),
+		url("/fonts/6215654/a6a37a24-cad1-4d4a-b282-ea917b23039b.woff") format("woff");
+}
+
+:root {
+  --mono-font: "Courier LT Round", monospace;
+  --body-font: "Palatino LT", serif;
+  --header-font: var(--body-font);
+}
+

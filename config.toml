@@ -1,0 +1,28 @@
+baseURL = 'http://gwcoffey.com/'
+languageCode = 'en-us'
+title = 'gwcoffey.com'
+enableEmoji = true
+cleanDestinationDir = true
+paginate = 50
+timeout = 120000
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    style = 'xcode'
+    tabWidth = 2
+
+[mediaTypes]
+  [mediaTypes.'text/vtt']
+    suffixes = ['vtt']
+  [mediaTypes.'application/zip']
+    suffixes = ['zip']
+
+[params]
+	navMenus = [ "Main", "Tags", "About" ]
+
+[taxonomies]
+	tags = 'tags'

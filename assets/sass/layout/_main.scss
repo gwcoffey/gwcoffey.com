@@ -1,0 +1,94 @@
+/* GRID: 
+   establish body-level grid for the whole site */
+
+body {
+    max-width: 900px;
+    margin: 0 auto 3em auto;
+    padding: 0 1em;
+
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas: "head head" "nav main";
+    column-gap: 1em;
+
+    background: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+header {
+    grid-area: head;
+}
+
+main {
+    grid-area: main;
+    
+    hgroup {
+    	position: relative;
+    	
+    	.crumb {
+    		position: absolute;
+    		top: -3ex;
+    		display: flex;
+    		color: var(--deemphasized-text-color);
+    		font-family: var(--mono-font);
+    		margin: 0;
+    		padding: 0;
+    		font-variant-ligatures: no-common-ligatures;
+
+			li {
+				display: flex;
+				
+				&::before {
+					display: block;
+					content: "/";
+				}
+				
+				&:last-child::after {
+					display: block;
+					content: "/";
+				}
+			}
+			
+    		a {
+    			color: var(--deemphasized-text-color);
+    			
+				&:hover {
+    				color: var(--active-link-text-color);
+    			}
+    		}
+    	}
+    }
+    
+    .paginator-links {
+    	margin-top: 3em;
+		font-family: var(--mono-font);
+
+    	&:has(.next) {
+	    	text-align: right;
+		}
+
+		a {
+			color: var(--deemphasized-text-color);
+			text-decoration: none;
+			
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+		
+    	a.prev {
+    		&:before {
+	    		content: "< ";
+	    	}
+    	}
+
+    	a.next {
+    		display: inline-block;
+    		margin-left: 2ex;
+    		&:after {
+	    		content: " >";
+	    	}
+    	}
+    }
+}

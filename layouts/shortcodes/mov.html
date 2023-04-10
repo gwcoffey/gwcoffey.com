@@ -1,0 +1,11 @@
+<figure>
+	<video controls>
+	{{- $vidType := .Get "type" -}}
+	{{- with .Page.Resources.GetMatch (.Get "src") -}}
+		<source src="{{ .RelPermalink }}" type="{{ with $vidType }}{{ . }}{{ else }}video/mp4{{ end }}">
+	{{- end -}}
+	</video>
+	{{- with .Get "caption" -}}
+	<figcaption><p>{{ . | markdownify }}</p></figcaption>
+	{{- end -}}
+</figure>

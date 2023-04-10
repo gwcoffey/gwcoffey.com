@@ -1,0 +1,38 @@
+article {
+	.heading {
+		display: flex;
+		justify-content: space-between;
+		
+		img.icon {
+			width: 50px;
+			height: 50px;
+			margin-left: 15px;
+		}
+	}
+	
+	hgroup {
+		margin-bottom: 2em;
+		flex: 1;
+		
+		h1 {
+			margin-bottom: 0.1em;
+		}
+
+		div.byline {
+			font-family: var(--mono-font);
+			margin-top: 0.2em;
+				
+			&, a {
+				color: var(--deemphasized-text-color);
+			}		
+		
+			address {
+				font-size: medium;
+				display: inline;
+			}
+			time {
+				font-size: medium;
+			}
+		}
+	}
+}

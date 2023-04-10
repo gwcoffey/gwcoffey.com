@@ -1,0 +1,64 @@
+<!-- listapp posts present a challenge in previews. Bulleted lists don't look great all
+     smooshed together. And some posts have intro text. This messy code attempts to
+     summarize them nicely. Specifically:
+     
+     * If there is intro text, we use that
+     * Otherwise we use the first two items of the list
+     * Remove inline images (they will show up as thumbnails in the preview like all
+       other posts)
+     
+     --> 
+
+<!-- make a "more" link to insert in the right place -->
+{{- $more := printf `<a class="more" href="%s">Read more…</a>` .RelPermalink -}}
+
+<!-- extract text before the list — this is the intro text (if any) -->
+{{- $intro := index (findRE `(?s).*<(u|o)l` .Content 1) 0 -}}
+{{- $intro := replaceRE `<(u|o)l$` "" $intro -}}
+
+
+<!-- if there's an intro, use that, otherwise use the truncated list -->
+{{- if gt (len $intro) 0 -}}
+
+	<!-- inject the more link at the end of the last paragraph -->
+	{{- $intro := replaceRE `</p>\s*$` (printf " %s</p>" $more) $intro -}}
+	{{ safeHTML $intro }}
+
+{{- else -}}
+
+	<!-- extract the list with the first two list items -->
+	{{- $list := index 
+		(findRE `(?s)<(u|o)l.*?<li>.*?</li>(\s*<li>.*?</li>)?` .Content 1) 
+		0 -}}
+
+	<!-- if this is a reversed list we need to prime the first item so the numbers are 
+		 correct (otherwise the browser will number these 2, 1) -->
+	{{- .Scratch.Set "html" $list -}}
+	{{- if gt (len (findRE `<ol[^>]*reversed` $list)) 0 -}}
+		{{- $itemCount  := len (findRE `<li` .Content) -}}
+		{{- $li := printf `<li value="%d"` $itemCount -}}
+		{{- .Scratch.Set "html" (replaceRE `<li` $li $list 1) -}}
+	{{- end -}}
+	{{- $list := .Scratch.Get "html" -}}
+
+	<!-- remove images -->
+	{{- $list := replaceRE `<img[^>]*>` "" $list -}}
+
+	<!-- if a list item has no text but has an image, add some text to make the preview look
+		 nicer -->
+	{{- $list := replaceRE 
+		`<p[^>]+empty[^>]*>[^<]*</p>` 
+		`<p class="item placeholder">(image)</p>` 
+		$list -}}
+		
+	<!-- append the more link as a final list item -->
+	{{- $list := printf `%s <li>%s</li>` $list $more -}}
+	
+	<!-- end the list -->
+	{{- $isOrdered := gt (len (findRE `^<ol` $list)) 0 -}}
+	{{- $list := printf `%s</%s>` $list (cond $isOrdered "ol" "ul") -}}
+
+	<!-- ouput the final list html -->
+	{{ safeHTML $list }}
+
+{{- end -}}

@@ -1,0 +1,9 @@
+---
+date: 2017-06-26 10:23:27.000000000 -07:00
+archive: fb
+tags: 
+  - Archive Post
+id: '1498497807'
+---
+
+It only takes maybe a month to learn your second programming language. And you can pick up a third, fourth, or fifth in a day or two. But it takes a lifetime to learn your first.

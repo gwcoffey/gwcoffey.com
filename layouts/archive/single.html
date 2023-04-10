@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<section class="archive">
+	<h3>Archived Post</h3>
+	{{ if eq (.Param "archive") "listapp" }}
+	<p>
+		This post is archived from my account on <a href="https://www.fastcompany.com/3058979/why-people-love-bj-novaks-list">li.st</a>, a social media app that shut down in 2017. Some posts have been edited slightly to fix typographical errors and correctly represent the gender of some individuals. You can <a href="/archive/listapp/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "posterous" }}
+	<p>
+		This post is archived from my <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> blog, which shut down in 2012. Some posts have been edited slightly to fix typographical errors, correctly represent the gender of some individuals, and remove unnecessarily-gendered language. You can <a href="/archive/posterous/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "sfr" }}
+	<p>
+		This post is archived from <a href="https://sixfriedrice.com/">Six Fried Rice</a>, a company and blog I used to run. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/sfr/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "advisor" }}
+	<p>
+		This post is archived from the now-defunct FileMaker Advisor magazine. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. You can <a href="/archive/advisor/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "macaddict" }}
+	<p>
+		This post is archived from the now-defunct MacAddict magazine. Some posts have been edited slightly to fix typographical errors, and remove unnecessarily-gendered language. Image quality is poor because they are scans of printed pages. You can <a href="/archive/macaddict/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "forhire" }}
+	<p>
+		This post is an archive of documentation or a whitepaper I wrote for hire. Some posts have been edited slightly to fit the format of this site, and to remove unnecessarily-gendered language. You can <a href="/archive/forhire/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "fb" }}
+	<p>
+		This post is an archive from my Facebook account. I deleted my Facebook account in 2018 and have archived all the direct posts to my own timeline here. You can <a href="/archive/fb/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "site" }}
+	<p>
+		This is an archive of a web site I previously operated. You can <a href="/archive/site/">view the full archive here</a>.
+	</p>
+	{{ else if eq (.Param "archive") "flickr" }}
+	<p>
+		This is an archive of a Flickr photo album. You can <a href="/archive/forhire/">view the full archive here</a>.
+	</p>
+	{{ end }}
+</section>
+
+<article>
+
+{{ partial "post-heading" . }}
+
+{{ .Content }}
+
+</article>
+
+{{ end }}

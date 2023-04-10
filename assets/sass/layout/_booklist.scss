@@ -1,0 +1,29 @@
+div.reading {
+	margin: 2em 0;
+	display: flex;
+	gap: 1em;
+
+	img.cover {
+		width: 50px;
+		height: auto;
+	}
+	
+	h4 {
+		margin: 0;
+
+		small {
+			color: var(--deemphasized-text-color);
+			font-size: smaller;
+		}
+	}
+			
+	p {
+		margin: 0;
+		line-height: 1.2;
+		
+		&.author {
+			font-style: italic;
+		}
+	}
+
+}

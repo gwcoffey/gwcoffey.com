@@ -1,0 +1,55 @@
+@import "mixins/thumbnail";
+
+// styling applies in list pages and the full post page
+ul.listapp, ol.listapp {
+	li {
+		p.item {
+			margin: 0;
+		}
+
+		p.desc {
+			margin: 0;
+			opacity: 0.6;
+		}
+		
+		p.placeholder {
+			font-style: italic;
+		}
+	}
+}
+
+// styling only applied when viewing the full post page
+article {
+	ul.listapp, ol.listapp {
+		margin: 0;
+		padding: 0;
+	
+		li {
+			border-top: 1px solid var(--grey-bg-color);
+
+			&:last-child {
+				border-bottom: 1px solid var(--grey-bg-color);
+			}
+	
+			.container {
+				display: flex;
+				justify-content: space-between;
+				padding: 1em 1em 1em 0.3em;
+		
+				div.text {
+					display: flex;
+					flex-direction: column;
+			
+					&:has(~ img) {
+						margin-right: 1.7em;
+					}
+				}
+		
+			}
+		
+			img {
+				@include thumbnail;
+			}
+		}
+	}
+}

@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ partial "list-heading.html" (dict "page" . "paginator" .Paginator) }}
+
+{{ .Content }}
+
+<div class="album">
+{{- range $page := (.Paginate (where .Pages "Params.tags" "intersect" (slice "Photos"))).Pages }}
+
+	{{- $images := .Resources.ByType "image" -}}
+
+	<div class="set">
+		{{- range $image := first 3 $images -}}
+
+			<!-- when hugo processes images it drops EXIF data, so we need to manually apply
+				 any rotation in the original's EXIF orientation tag -->
+			{{- $rotation := "r0" -}}
+			{{- with $image.Exif -}}
+				{{- if eq .Tags.Orientation 3 -}} <!-- 180° -->
+					{{- $rotation = "r180" -}}
+				{{- else if eq .Tags.Orientation 6 -}} <!-- 90° CW -->
+					{{- $rotation = "r270" -}}
+				{{- else if eq .Tags.Orientation 8 -}} <!-- 270° CW -->
+					{{- $rotation = "r90" -}}
+				{{- end -}}
+			{{- end -}}
+
+			<!-- create a square thumbnail for this image -->
+			{{- $thumb := $image.Fill (printf "500x500 Smart %s" $rotation) -}}
+	
+			<a href="{{ $page.RelPermalink }}">
+				<img src="{{ $thumb.RelPermalink }}">
+			</a>
+		{{- end -}}
+		<hgroup>
+			<div class="byline">
+				<a href="{{.RelPermalink}}"><time datetime="{{ .Date }}">{{ time.Format "2 January 2006" .Date }}</time></a>
+				<span class="count">{{- len $images }} {{ cond (gt (len $images) 1) "photos" "photo" }}</span>
+			</div>
+			<h4><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h4>
+		</hgroup>
+	</div>
+{{- end }}
+</div>
+
+{{ partial "pagination-links.html" . }}
+
+{{ end }}

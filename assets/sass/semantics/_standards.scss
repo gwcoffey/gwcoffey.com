@@ -1,0 +1,320 @@
+main {
+    font-family: var(--body-font);
+
+    h1, h2, h3, h4 {
+        font-weight: bold;
+        margin-top: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    h1 {
+        font-size: xx-large;
+        margin-top: 0;
+        
+        small {
+        	font-size: large;
+        	color: var(--deemphasized-text-color);
+        }
+    }
+
+    h2 {
+        font-size: x-large;
+    }
+
+    h3 {
+        font-size: large;
+    }
+        
+    ol, ul {
+    	padding-left: 1em;
+    	margin: 0 0 1em 1em;
+
+		li {
+			line-height: 1.6;
+			
+			&::marker {
+				font-size: smaller;
+				color: var(--deemphasized-text-color);
+			}
+			
+			& > ul, > ol {
+				margin-top: 0;
+			}
+		}
+    }
+    
+    ol {
+    	list-style-type: decimal;
+    }
+    
+    ul {
+    	list-style-type: disc;
+    }
+
+	dl {
+		margin-left: 1em;
+				
+		dt {
+			font-family: var(--mono-font);
+			font-weight: bold;
+			color: var(--deemphasized-text-color);
+			margin-top: 1em;
+			
+			&:after {
+				content: " •";
+				font-size: x-small;
+				color: var(--dt-dot-text-color);
+			}
+		}
+		
+		dt + dt {
+			margin-top: 0;
+		}
+				
+		dd {
+			margin-left: 1em;
+			line-height: 1.5;
+			font-style: italic;
+		}
+	}
+
+    p, aside {
+        margin: 1em 0;
+        line-height: 1.6;
+    }
+
+	a {
+		color: var(--link-text-color);
+		
+		&:visited {
+			color: var(--visited-link-text-color);
+		}
+		
+		&:active {
+			color: var(--active-link-text-color);
+		}
+	}
+
+    del, ins, kbd, var, samp {
+        display: inline-block;
+        padding: 0 0.5ch;
+        border: 1px solid var(--text-bg-border-color);
+        border-radius: 3px;
+        line-height: 1.3;
+    }
+
+    code, var {
+        font-family: var(--mono-font);
+        font-style: normal;
+        font-variant-ligatures: no-common-ligatures;
+    }
+    
+    pre {
+    	background: var(--code-bg-color);
+    	border: 1px solid var(--text-bg-border-color);
+    	padding: 0.5em 0.8em;
+		overflow-wrap: anywhere;
+		white-space: pre-wrap;
+		
+    	code {
+    		border: none;
+    		background: transparent;
+    	}
+    }
+
+    ins, del {
+        &:before {
+            display: inline-block;
+            padding-right: 0.5ch;
+            text-decoration: none;
+        }
+    }
+
+    del {
+        background: var(--del-bg-color);
+        text-decoration: line-through;
+
+        &:before {
+            content: "- ";
+            color: #b99;
+        }
+    }
+
+    ins {
+        background: var(--ins-bg-color);
+
+        &:before {
+            content: "+ ";
+            color: #9b9;
+        }
+    }
+
+    mark {
+        display: inline-block;
+        position: relative;
+        padding: 0 0.3ch;
+        background: var(--mark-bg-color);
+        line-height: 1.3;
+        color: var(--main-text-color);
+    }
+
+    kbd {
+        font-family: var(--mono-font);
+        background: var(--kbd-bg-color);
+        border-color: var(--kbd-border-colors);
+        
+        .command {
+        	font-size: 0;
+        	
+        	&:after {
+        		content: "⌘";
+        		display: inline;
+        		position: relative;
+        		top: 3px;
+        		font-size: 17px;
+				padding-right: 3px;
+        	}
+        	
+        	&:last-child:after {
+        		padding-right: 0;
+        	}
+        }
+    }
+    
+    samp {
+    	font-family: var(--mono-font);
+    	background: var(--samp-bg-color);
+    }
+    
+    q {
+    	&[cite] {
+			text-decoration-line: underline;
+			text-decoration-style: dotted;
+			text-decoration-color: #aaa;
+			text-decoration-thickness: 1px;
+			cursor: pointer;
+    	}
+
+    	&:before {
+    		content: "“";
+    		display: inline-block;
+    		text-decoration: none;
+    	}
+    	
+    	&:after {
+    		content: "”";
+    		display: inline-block;
+    		text-decoration: none;
+    	}
+    }
+    
+    blockquote {
+    	margin-left: 1em;
+    	padding-left: 1em;
+    	line-height: 1.3;
+    	border-left: 1px dotted var(--blockquote-border-color);
+    	
+    	cite {
+    		display: block;
+    		text-align: right;
+    		font-style: italic;
+    		padding-top: 1em;
+    		margin-left: -2em;
+    		
+    		background: var(--main-bg-color);
+    		
+    		&:before {
+    			content: "– ";
+    		}
+    	}
+    }
+    
+    /* asides with no heading are notes/tips, etc… */
+    aside:not(:has(h3)) {
+    	--fold-size: 0.8em;
+    	
+    	position: relative;
+    	margin: 1em 0 1em 1em;
+    	padding: 1em;
+    	background: var(--aside-bg-color);
+    	border: 1px solid var(--aside-border-color);
+		box-shadow: 0 2px 3px rgba(0,0,0,0.1);
+    	clip-path: polygon(
+    		var(--fold-size) 0, 
+    		calc(100% + 4px) 0, 
+    		calc(100% + 4px) calc(100% + 4px), 
+    		calc(0% - 4px) calc(100% + 4px), 
+    		-4px calc(var(--fold-size) + 4px)
+    	);
+    	
+    	&:before {
+    		content: ' ';
+    		display: inline-block;
+    		position: absolute;
+    		top: 0;
+    		left: 0;
+    		height: calc(var(--fold-size) - 1px);
+    		width: calc(var(--fold-size) - 1px);
+    		background: var(--aside-border-color);
+			box-shadow: 0 0 3px var(--aside-border-color);
+    	}
+    	
+    	&.note {
+    		background: var(--note-bg-color);
+    	}
+
+    	&.warn {
+    		background: var(--warn-bg-color);
+    	}
+
+    	&.tip {
+    		background: var(--tip-bg-color);
+    	}
+    }
+    
+    /* asides with a title are sidebars */
+    aside:has(h3) {
+    	background: var(--aside-bg-color);
+    	padding: 1em;
+    	border: 1px solid var(--aside-border-color);
+		box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    	
+    	h3 {
+    		margin-top: 0;
+    	}
+    }
+    
+    details {
+    	margin-left: 1em;
+    	line-height: 1.5;
+    	
+    	summary {
+    		margin-left: -1em;
+    		color: var(--deemphasized-text-color);
+    		font-weight: bold;
+    	}
+    }
+    
+	hr {
+		border: none;
+		text-align: center;
+		height: 1em;
+	}
+
+	hr:after {
+		content: '***';
+	}
+	
+	sup {
+		display: inline-block;
+		position: relative;
+		left: 2px;
+		top: -1ch;
+		font-size: small;
+		vertical-align: baseline;
+		
+		a {
+			font-style: italic;
+		}
+	}
+}

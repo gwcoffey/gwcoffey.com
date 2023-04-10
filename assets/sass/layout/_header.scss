@@ -1,0 +1,34 @@
+/* HEADER: 
+   style the site header */
+
+header {
+    h2 {
+    	display: inline-block;
+        font-family: var(--header-font);
+        font-size: 48pt;
+        text-shadow: rgba(120, 120, 120, 0.5) 1px 0 5px;
+        margin: 1em 0;
+
+        a {
+            text-decoration: none;
+            color: var(--main-text-color);
+            position: relative;
+        }
+    }     
+}
+
+body.home header h2 a:after {
+	content: '';
+	height: 0.9em;
+	width: 2px;
+	position: absolute;
+	right: -0.5ch;
+	top: 0.2ch;
+	animation: blinker 1s step-end 4;
+}
+
+@keyframes blinker {
+    50% {
+        background: var(--header-cursor-color);
+    }
+}

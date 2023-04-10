@@ -1,0 +1,18 @@
+<!-- newline and indent for nice formatting -->
+		<nav>    	
+		{{- range $menuName := .Site.Params.navMenus -}}
+			{{- if ne $menuName "Main" }}
+			<h2>{{ $menuName }}</h2>
+			{{- end }}
+			<menu>
+			{{- range (index $.Site.Menus $menuName) -}}
+				{{- $menuTitle := or .Page.Params.menuTitle .Page.Title -}}
+				{{- if or ($.HasMenuCurrent $menuName .) ($.IsMenuCurrent $menuName .) }}
+				<li class="current"><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
+				{{- else }}
+				<li><a href="{{ .URL }}">{{ $menuTitle }}</a></li>
+				{{- end -}}
+			{{- end }}
+			</menu>
+		{{- end }}
+		</nav>
