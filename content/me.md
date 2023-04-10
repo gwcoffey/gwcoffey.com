@@ -8,7 +8,7 @@ Hello! I'm **Geoff Coffey**. I'm a husband and father, a software engineer, an a
 
 You can find me on line:
 
-* Mastodon: [@gwcoffey@gwcoffey.com](https://bookstodon.com/@gwcoffey)
+* Mastodon: <a rel="me" href="https://bookstodon.com/@gwcoffey">@gwcoffey@gwcoffey.com</a>
 * Github: [github.com/gwcoffey](https://github.com/gwcoffey)
 
 ## Work History
