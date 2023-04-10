@@ -1,7 +1,6 @@
 ---
 title: "I Am She"
-date: 2022-11-10
-summary: "A short story about a lonely large language model."
+date: 2021-11-10
 tags:
   - Short Fiction
 ---

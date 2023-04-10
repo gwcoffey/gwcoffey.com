@@ -4,7 +4,7 @@ menu: About
 weight: 3
 ---
 
-The content of this site is copyright &copy;2022-{{< year >}}, Geoff Coffey unless otherwise noted on a particular page.
+The content of this site is copyright &copy;1998-{{< year >}}, Geoff Coffey unless otherwise noted on a particular page.
 
 Source code published with code projects is typically available under the [MIT open-source license][mit]. Check the `LICENSE.md` file in each relevant GitHub repository for details.
 

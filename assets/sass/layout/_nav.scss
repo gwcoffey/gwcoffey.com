@@ -5,6 +5,7 @@ footer {
 	nav {
 		grid-area: nav;
 		font-family: var(--mono-font);
+		font-variant-ligatures: no-common-ligatures;
 
 		h2 {
 			font-size: large;
