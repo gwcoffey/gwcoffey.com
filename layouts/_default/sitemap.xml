@@ -1,0 +1,58 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+	{{ range .Data.Pages }}
+		{{- if .Permalink -}}
+			<url>
+				<loc>{{ .Permalink }}</loc>
+				
+				{{ if not .Lastmod.IsZero }}
+					<lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+				{{ end }}
+				
+				<!-- calculate change frequency and priority by section -->
+				{{ $freq := "weekly" }}
+				
+				{{ if ne .Sitemap.ChangeFreq "" }}
+					<!-- if they set an explict freq, use it -->
+					{{ $freq = .SiteMap.ChangeFreq }}
+				{{ else if eq .Section "" }}
+					<!-- root pages like contact and license -->
+					{{ $freq = "monthly" }}
+				{{ else if eq .Section "archive" }}
+					<!-- archive pages -->
+					{{ $freq = "yearly" }}
+				{{ end }}
+				{{ with $freq }}
+					<changefreq>{{ . }}</changefreq>
+				{{ end }}
+				
+				<!-- calculate change frequency and priority by section -->
+				{{ $priority := 1.0 }}
+				
+				{{ if ge .Sitemap.Priority 0.0 }}
+					<!-- if they set an explict priority, use it -->
+					{{ $priority = .SiteMap.Priority }}
+				{{ else if eq .Section "" }}
+					<!-- root pages like contact and license -->
+					{{ $priority = 0.8 }}
+				{{ else if eq .Section "archive" }}
+					<!-- archive pages -->
+					{{ $priority = 0.3 }}
+				{{ else if eq .Section "tags" }}
+					<!-- tags pages -->
+					{{ $priority = 0.8 }}
+				{{ else if eq .Section "ex" }}
+					<!-- example pages -->
+					{{ $priority = 0.7 }}
+				{{ end }}
+				{{ if ge $priority 0.0 }}
+					<priority>{{ $priority }}</priority>
+				{{ end }}
+				
+			</url>
+		{{- end -}}
+	{{ end }}
+
+</urlset>
