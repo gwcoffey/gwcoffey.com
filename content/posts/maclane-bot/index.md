@@ -1,6 +1,6 @@
 ---
 title: "Mary MacLane Bot on Mastodon"
-date: 2023-04-09
+date: 2023-04-10
 summary: "I'm a big fan of the Moby Dick at Sea Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, Mary MacLane. *And* I'm a computer programmer. So I suppose this was inevitable."
 tags:
   - Project
@@ -10,13 +10,18 @@ I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of
 
 {{< mastodon host="https://botsin.space" post="@maclane/109657266831978744" >}}
 
-I give you, the <a rel="me" href="https://botsin.space/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every two hours.
+I give you, the <a rel="me" href="https://botsin.space/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every four hours.
 
 [moby]: https://botsin.space/@mobydick
 [mary]: https://en.wikipedia.org/wiki/Mary_MacLane
 
 
 ## Who is Mary MacLane
+
+{{< figure 
+	src="mary.jpg"
+	alt="An aging black and white photograph of a young Mary MacLane. She wears 19th century clothing including a large hat, and long full dress. Her arms are behind her back, body erect, head slightly back. She has a defiant look on her face."
+	class="embed right" >}}
 
 Mary MacLane's writing is hard to classify, but I'll try: self-absorbed, honest, irreverent, hyper-dramatic, funny, sad, beautiful, and personal. She wrote her debut memoir, *I Await the Devil's Coming*, as a sort of diary over a period of three months in 1901, at just 19 years old. It begins:
 
@@ -30,7 +35,11 @@ I think the thing I love most about her writing is that it pulls no punches. In 
 
 I love her pleading prose. I love her dry humor. I love her strangeness in all its forms.  Some people are turned off by her ego. Some by her irreverence. Some by her dramatics. (And some, of course because she's bisexual.) But I love her. I love her not in spite of these things but because of them.
 
-As Mary says in her entry on {{< time "1901-04-13" "April 13" >}}, {{< q >}}I have given my heart into the keeping of this.{{< /q >}} And now *I* give it to *you*. 
+I've posted a [sample chapter here](/ex/i-await-the-devils-coming-sample-february-7) if you'd like to get a sense of her prose style, humor, and dramatics.
+
+Mary put her full authentic self into her writing. As she says in her entry on {{< time "1901-04-13" "April 13" >}}, {{< q >}}I have given my heart into the keeping of this.{{< /q >}} And now *I* give it to *you*.
+
+***
 
 ## Technical Details
 
