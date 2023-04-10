@@ -1,5 +1,9 @@
 <head>
 	<title>{{ if not .IsHome }}gwcoffey.com: {{ end }}{{ .Title }}</title>
+    <meta name="viewport" content="width=980">
+    {{- with .Params.description }}
+	<meta name="description" content="{{ . }}" />
+	{{ end -}}
 
     {{- $options := dict
     	"targetPath" "css/style.css" 
