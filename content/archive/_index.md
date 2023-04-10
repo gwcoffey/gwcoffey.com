@@ -7,4 +7,4 @@ hidden: true
 crumb: false
 ---
 
-I've archived old blogs, social media posts, and other writing here. None of this content originated on this site.
+Old blogs/sites, social media posts, and other previously-published writing.
