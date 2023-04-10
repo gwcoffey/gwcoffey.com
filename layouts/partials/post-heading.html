@@ -15,7 +15,7 @@
 			</div>
 		{{ end }}
 
-		{{ if not (eq .Parent.RelPermalink "/") }}
+		{{ if not (or (eq .Parent.RelPermalink "/") (eq .Parent.RelPermalink "/ex/")) }}
 		{{ partial "breadcrumbs.html" .Parent }}
 		{{ end }}
 	</hgroup>
