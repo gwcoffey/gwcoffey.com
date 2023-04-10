@@ -10,6 +10,10 @@
     {{- $style := $sass | resources.ToCSS $options }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+
 	{{- $opts := dict "targetPath" "js/main.js" "minify" "true" -}}
 	{{- $built := resources.Get "js/main.js" | js.Build $opts }}
 	<script src="{{ $built.RelPermalink }}" defer></script>
