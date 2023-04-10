@@ -1,3 +1,24 @@
 {{- $icon := or (.Param "icon") (.Param "archive") "gwcoffey" -}}
+
+<!-- set alt text appropriately -->
+{{- $alt := "gwcoffey icon" -}}
+{{- if eq $icon "advisor" -}}
+	{{- $alt = "FileMaker Advisor icon" -}}
+{{- else if eq $icon "fb" -}}
+	{{- $alt = "FaceBook icon" -}}
+{{- else if eq $icon "flickr" -}}
+	{{- $alt = "Flickr icon" -}}
+{{- else if eq $icon "forhire" -}}
+	{{- $alt = "For Hire icon" -}}
+{{- else if eq $icon "listapp" -}}
+	{{- $alt = "List App icon" -}}
+{{- else if eq $icon "macaddict" -}}
+	{{- $alt = "MacAddict icon" -}}
+{{- else if eq $icon "posterous" -}}
+	{{- $alt = "Posterous icon" -}}
+{{- else if eq $icon "sfr" -}}
+	{{- $alt = "Six Fried Rice icon" -}}
+{{- end -}}
+
 {{- $large := eq (.Param "archiveSection") true }}
-			<img class="icon{{ cond $large " large" "" }}" src="/img/sites/{{ $icon }}.png">
+			<img class="icon{{ cond $large " large" "" }}" src="/img/sites/{{ $icon }}.png" alt="{{ $alt }}">
