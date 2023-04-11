@@ -2,7 +2,7 @@
 title: "I Await the Devil’s Coming"
 ---
 
-{{< aside title="About" >}}This is one of my favorite entries from the Mary MacLane's memoir, *I Await the Devil's Coming*. You can read about my [Mary MacLane Mastodon bot here](/posts/maclane-bot).{{< /aside >}}
+{{< aside title="About" >}}This is one of my favorite entries from Mary MacLane's memoir, *I Await the Devil's Coming*. You can read about my [Mary MacLane Mastodon bot here](/posts/maclane-bot).{{< /aside >}}
 
 ***
 
@@ -67,3 +67,11 @@ Would I stop for a few fine distinctions, a theory, a natural law even, to escap
 Misery—misery! If only I could feel it less!
 
 Oh, the weariness, the weariness—as I await the Devil’s coming.
+
+***
+
+{{< footnotes >}}
+{{< footnote >}}
+Text lightly edited from the [Project Gutenberg version](https://www.gutenberg.org/ebooks/43696) of Mary MacLane's 1902 memoir, *I Await the Devil's Coming*. This text is in the public domain in the U.S.A.
+{{< /footnote >}}
+{{< /footnotes >}}
