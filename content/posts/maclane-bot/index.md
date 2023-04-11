@@ -13,7 +13,7 @@ tags:
 
 I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, [Mary MacLane][mary]. *And* I'm a computer programmer. So I suppose this was inevitable…
 
-{{< mastodon host="https://botsin.space" post="@maclane/109657266831978744" >}}
+{{< mastodon host="https://botsin.space" post="@maclane/110177016266538089" >}}
 
 I give you, the <a rel="me" href="https://botsin.space/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every four hours.
 
