@@ -1,5 +1,16 @@
 <head>
-	<title>{{ if not .IsHome }}gwcoffey.com: {{ end }}{{ .Title }}</title>
+	<title>
+		{{- if not .IsHome }}gwcoffey.com: {{ end -}}
+		{{- with .Title -}}
+			{{ . -}}
+		{{- else -}}
+			{{- if (eq (len (trim .Summary " \n")) 0) -}}
+				(Image Post)
+			{{- else -}}
+				{{- truncate 30 "…" (.Plain | htmlUnescape) -}}
+			{{- end -}}
+		{{- end -}}
+	</title>
     <meta name="viewport" content="width=980">
     {{- with .Params.description }}
 	<meta name="description" content="{{ . }}" />

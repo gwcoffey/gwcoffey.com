@@ -3,7 +3,9 @@
 		{{ with .Title }}
 			<h1>{{ . }}</h1>
 		{{ else }}
+			{{ if eq .Params.archive "fb" }}
 			<h1>FaceBook Post</h1>
+			{{ end }}
 		{{ end }}
 
 		{{ with .Date }}
