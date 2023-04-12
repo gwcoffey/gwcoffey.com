@@ -9,3 +9,6 @@
   from = "/.well-known/webfinger"
   to = "/.netlify/functions/webfinger"
   status = 200
+
+[dev]
+  framework = "hugo"
