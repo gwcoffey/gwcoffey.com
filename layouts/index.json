@@ -1,10 +1,9 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
     {{- $.Scratch.Add "index" (dict 
-    	"title" .Title 
-    	"tags" (cond (isset .Params "tags") .Params.tags slice)
-    	"content" .Plain 
-    	"img" (index (.Resources.ByType "image") 0).RelPermalink
-    	"link" .RelPermalink) -}}
+    	"content" ( printf "%s %s" .Title .Plain )
+    	"link" .RelPermalink
+		"html" (partial "post-preview/post-preview.html" .)
+    ) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

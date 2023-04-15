@@ -24,7 +24,7 @@ const docs : SearchDocs = JSON.parse(fs.readFileSync(DOCS_PATH, "utf8"));
 
 // load index
 console.log("loading index data...");
-const index = new Index("memory");
+const index = new Index();
 fs.readdirSync(INDEX_PATH).forEach(fname => {
 	if (fname.startsWith('.')) return;
 	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"));

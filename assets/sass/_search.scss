@@ -1,0 +1,29 @@
+.search-form {
+  h1 {
+    margin-bottom: 0.5em;
+    font-size: larger;
+    &:after {
+      content: ":";
+    }
+  }
+
+  input[type="search"] {
+    appearance: none;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    font-size: large;
+    padding: 6px;
+    font-family: var(--mono-font);
+    box-shadow: #eee 0px 2px 2px inset;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  .results {
+    margin-top: 2em;
+  }
+}

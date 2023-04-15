@@ -13,11 +13,11 @@ const in_data = JSON.parse(fs.readFileSync(IN_PATH, 'utf8'));
 // build index
 console.log(`indexing ${in_data.length} documents...`);
 
-const index = new Index("memory");
+const index = new Index({preset: "default", tokenize: "forward"});
 const data = {};
 
 in_data.forEach((doc, i) => {
-    data[i] = {link: doc.link, title: doc.title, img: doc.img, tags: doc.tags};
+    data[i] = doc.html;
     index.add(i, `${doc.title} ${doc.tags} ${doc.content}`);
 });
 
