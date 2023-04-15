@@ -1,0 +1,7 @@
+#! /bin/sh
+
+# build the site
+hugo --minify
+
+# move the index data into ther search function
+mv public/index.json netlify/functions/sitesearch/
