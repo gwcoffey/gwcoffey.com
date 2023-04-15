@@ -1,0 +1,7 @@
+#! /bin/sh
+
+# build the site
+hugo --minify
+
+# build and install the search index
+npm run index

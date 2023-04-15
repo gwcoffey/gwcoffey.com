@@ -9,3 +9,7 @@ node_modules/
 hugo/resources
 public/
 resources/
+
+# search index serialized files
+netlify/functions/sitesearch/search-index/
+netlify/functions/sitesearch/documents.json

@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --minify"
+  command = "bin/build"
   publish = "public"
 
 [build.environment]
@@ -12,3 +12,6 @@
 
 [dev]
   framework = "hugo"
+
+[functions.sitesearch]
+  included_files = ["netlify/functions/sitesearch/search-index/*", "netlify/functions/sitesearch/documents.json"]
