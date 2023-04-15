@@ -19,9 +19,11 @@ const DOCS_PATH = path.join(FUNCTION_PATH, 'documents.json');
 const INDEX_PATH = path.join(FUNCTION_PATH, 'search-index');
 
 // load document data
+console.log("loading document data...");
 const docs : SearchDocs = JSON.parse(fs.readFileSync(DOCS_PATH, "utf8"));
 
 // load index
+console.log("loading index data...");
 const index = new Index("memory");
 fs.readdirSync(INDEX_PATH).forEach(fname => {
 	if (fname.startsWith('.')) return;
@@ -43,6 +45,8 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
 	// execute search
 	var ids: number[] = index.search(query, {limit: 30});
 	var results = ids.map(id => docs["" + id]);
+
+    console.log(`query for '${query} returned ${results.length} documents.`);
 
     return {
       statusCode: 200,
