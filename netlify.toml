@@ -14,4 +14,4 @@
   framework = "hugo"
 
 [functions.sitesearch]
-  included_files = ["search-index/**.*", "documents.json"]
+  included_files = ["search-index/**.*", "netlify/functions/sitesearch/documents.json"]
