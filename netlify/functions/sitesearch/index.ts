@@ -1,26 +1,35 @@
-import { Handler, HandlerEvent, HandlerContext } from "@netlify/functions";
-import index_data from "./index.json";
-import { Document } from "flexsearch";
+import {Handler, HandlerContext, HandlerEvent} from "@netlify/functions";
+import {Index} from "flexsearch";
+import fs from 'fs';
+import path from 'node:path';
 
-// pre-load the index
-const index = new Document({
-	document: {
-		id: "id",
-		index: ["title", "content", "img"],
-		tag: "tags",
-        store: ["title", "tags", "link"]
-	}
-});
+export interface SearchDoc {
+    link: string;
+    title: string;
+    img: string | null;
+    tags: string[];
+}
 
-console.log("indexing " + index_data.length + " documents...");
-index_data.forEach((doc, i) => {
-	if (!doc.tags) doc["tags"] = [];
-	doc.id = i;
-	index.add(doc);
+export interface SearchDocs {
+    [name: string] : SearchDoc
+}
+
+const FUNCTION_PATH = './netlify/functions/sitesearch';
+const DOCS_PATH = path.join(FUNCTION_PATH, 'documents.json');
+const INDEX_PATH = path.join(FUNCTION_PATH, 'search-index');
+
+// load document data
+const docs : SearchDocs = JSON.parse(fs.readFileSync(DOCS_PATH, "utf8"));
+
+// load index
+const index = new Index("memory");
+fs.readdirSync(INDEX_PATH).forEach(fname => {
+	if (fname.startsWith('.')) return;
+	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"));
 });
 
 const handler: Handler = async (event: HandlerEvent, context: HandlerContext) => {
-	
+
 	// construct query
 	const query = event.queryStringParameters?.q;
 	if (!query) {
@@ -30,34 +39,17 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
             body: "required `q` param not specified"
         }
     }
-    
-    const qTag = event.queryStringParameters?.tag;
-	
-	const options = { enrich: true, limit: 30 };
-	
-	if (qTag) {
-		options["tag"] = qTag;
-	}
-	
+
 	// execute search
-	var results = index.search(query, options);
-	
-	// aggregate
-	var docs = [];
-	results.forEach(result => docs = docs.concat(result.result));
-	
-	// dedup
-	docs = docs.filter((doc, idx, self) =>
-		idx === self.findIndex((t) => (t.id === doc.id))
-	)
+	var ids: number[] = index.search(query, {limit: 30});
+	var results = ids.map(id => docs["" + id]);
 
     return {
       statusCode: 200,
       body: JSON.stringify({
       	q: query,
-      	tag: qTag || null,
-      	docs: docs
-      }),
+      	docs: results
+      }, null, 3),
     };
 };
 

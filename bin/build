@@ -3,5 +3,5 @@
 # build the site
 hugo --minify
 
-# move the index data into ther search function
-mv public/index.json netlify/functions/sitesearch/
+# build and install the search index
+npm run index

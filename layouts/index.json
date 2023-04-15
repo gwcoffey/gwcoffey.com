@@ -2,9 +2,9 @@
 {{- range .Site.RegularPages -}}
     {{- $.Scratch.Add "index" (dict 
     	"title" .Title 
-    	"tags" .Params.tags 
+    	"tags" (cond (isset .Params "tags") .Params.tags slice)
     	"content" .Plain 
-    	"img" first (.Resources.ByType "image")
+    	"img" (index (.Resources.ByType "image") 0).RelPermalink
     	"link" .RelPermalink) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

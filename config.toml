@@ -22,7 +22,10 @@ timeout = 120000
     suffixes = ['zip']
 
 [params]
-	navMenus = [ "Main", "Tags", "About" ]
+  navMenus = [ "Main", "Tags", "About" ]
 
 [taxonomies]
-	tags = 'tags'
+  tags = 'tags'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

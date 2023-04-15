@@ -3,5 +3,8 @@
     "@gwcoffey/litbot": "^0.0.5",
     "@netlify/functions": "^1.4.0",
     "flexsearch": "^0.7.31"
+  },
+  "scripts": {
+    "index": "node src/build-flexsearch-index.js"
   }
 }
