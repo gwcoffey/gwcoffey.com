@@ -7,8 +7,7 @@ node_modules/
 # hugo
 .hugo_build.lock
 hugo/resources
-public/
-resources/
+hugo/public/
 
 # search index serialized files
 netlify/functions/sitesearch/search-index/
