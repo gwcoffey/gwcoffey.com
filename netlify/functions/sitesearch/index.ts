@@ -1,4 +1,4 @@
-import {Handler, HandlerContext, HandlerEvent} from "@netlify/functions";
+import {Handler, HandlerEvent} from "@netlify/functions";
 import {Index} from "flexsearch";
 import fs from 'fs';
 import path from 'node:path';
@@ -24,13 +24,15 @@ const docs : SearchDocs = JSON.parse(fs.readFileSync(DOCS_PATH, "utf8"));
 
 // load index
 console.log("loading index data...");
+// @ts-ignore
 const index = new Index();
 fs.readdirSync(INDEX_PATH).forEach(fname => {
 	if (fname.startsWith('.')) return;
-	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"));
+	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"))
+        .then(() => console.log("all data ready"));
 });
 
-const handler: Handler = async (event: HandlerEvent, context: HandlerContext) => {
+const handler: Handler = async (event: HandlerEvent) => {
 
 	// construct query
 	const query = event.queryStringParameters?.q;
@@ -43,8 +45,8 @@ const handler: Handler = async (event: HandlerEvent, context: HandlerContext) =>
     }
 
 	// execute search
-	var ids: number[] = index.search(query, {limit: 30});
-	var results = ids.map(id => docs["" + id]);
+	let ids: number[] = index.search(query, {limit: 30});
+	let results = ids.map(id => docs["" + id]);
 
     console.log(`query for '${query} returned ${results.length} documents.`);
 
