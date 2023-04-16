@@ -1,6 +1,6 @@
 [build]
   command = "bin/build"
-  publish = "public"
+  publish = "hugo/public"
 
 [build.environment]
   HUGO_VERSION = "0.110.0"
@@ -12,6 +12,8 @@
 
 [dev]
   framework = "hugo"
+  command = "hugo server -s hugo/ -w"
+  publish = "hugo/public"
 
 [functions.sitesearch]
   included_files = ["netlify/functions/sitesearch/search-index/*", "netlify/functions/sitesearch/documents.json"]

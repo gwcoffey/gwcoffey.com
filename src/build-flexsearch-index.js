@@ -2,7 +2,7 @@ const { Index } = require("flexsearch");
 const fs = require('fs');
 const path = require('node:path');
 
-const IN_PATH = 'public/index.json';
+const IN_PATH = 'hugo/public/index.json';
 const FUNCTION_PATH = 'netlify/functions/sitesearch/';
 const INDEX_OUT_PATH = path.join(FUNCTION_PATH, 'search-index');
 const DATA_OUT_PATH = path.join(FUNCTION_PATH, 'documents.json');
