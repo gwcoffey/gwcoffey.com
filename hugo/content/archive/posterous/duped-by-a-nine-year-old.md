@@ -14,7 +14,7 @@ SOPHIA: [Loudly, to the room in general] What is 7 times 6? It isn't in my homew
 ME: [Distractedly while I work on my laptop] 42
 
 SOPHIA: [cackles with glee, writes the answer on her homework sheet] Thank you!
-{{< quote >}}
+{{< /quote >}}
 
 This reminds me of another Sophia story worth recounting. When she was 4 years old, riding in the shopping cart at the grocery store. I turn down the alcohol aisle looking for cooking wine for a recipe.
 
