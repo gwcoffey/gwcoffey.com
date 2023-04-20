@@ -1,0 +1,14 @@
+select {
+  appearance: none;
+  padding: 2px 26px 2px 6px;
+  background-image: url("data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20viewBox%3D%220%200%2090%2090%22%20fill-rule%3D%22evenodd%22%20stroke-linejoin%3D%22round%22%20stroke-miterlimit%3D%222%22%20xmlns%3Av%3D%22https%3A%2F%2Fvecta.io%2Fnano%22%3E%3Cpath%20d%3D%22M40.72%2071.325L6.388%2035.286l68.653-.008L40.72%2071.325z%22%20fill%3D%22%23c5b9ac%22%2F%3E%3C%2Fsvg%3E");
+  background-size: 20px 20px;
+  background-position: right;
+  background-repeat: no-repeat;
+  font-family: var(--mono-font);
+  font-size: large;
+  font-weight: bold;
+  color: var(--deemphasized-text-color);
+  border: 1px solid var(--box-border-color);
+  box-shadow: #eee 0 2px 2px;
+}

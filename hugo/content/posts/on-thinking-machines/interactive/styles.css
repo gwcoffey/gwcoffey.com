@@ -1,0 +1,41 @@
+figure.interactive {
+
+}
+
+figure.interactive form {
+  display: block;
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: large;
+}
+
+ol.universe {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  counter-reset: universe;
+}
+
+ol.universe li {
+  text-align: center;
+  counter-increment: universe;
+}
+
+ol.universe li div {
+  margin-top: -5px;
+  width: 50px;
+  height: 50px;
+  background-image: url("interactive/empty.png");
+  background-size: 50px 50px;
+}
+
+ol.universe li[data-full="true"] div {
+  background-image: url("interactive/full.png");
+}
+
+ol.universe li::before {
+  content: counter(universe, upper-latin);
+  color: #777;
+  font-size: smaller;
+}

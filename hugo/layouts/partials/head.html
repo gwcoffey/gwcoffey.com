@@ -17,21 +17,30 @@
 	{{ end -}}
 
     {{- $options := dict
-    	"targetPath" "css/style.css" 
+    	"targetPath" "css/style.css"
     	"outputStyle" "compressed"
-    	"enableSourceMap" (not hugo.IsProduction) 
-    	"includePaths" (slice "node_modules/myscss") -}}
+    	"enableSourceMap" (not hugo.IsProduction) -}}
     {{- $sass := resources.Get "sass/style.scss" -}}
     {{- $style := $sass | resources.ToCSS $options }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    
-    {{ range .AlternativeOutputFormats -}}
+
+	<!-- add any page-specific css -->
+	{{ with .Resources.GetMatch "**/*.css" }}
+	<style>{{ .Content | safeCSS }}</style>
+	{{ end }}
+
+	{{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
 
 	{{- $opts := dict "targetPath" "js/main.js" "minify" "true" -}}
 	{{- $built := resources.Get "js/main.js" | js.Build $opts }}
 	<script src="{{ $built.RelPermalink }}" defer></script>
+
+	<!-- add any page-specific css -->
+	{{ with .Resources.GetMatch "**/*.js" }}
+	<script defer>{{ .Content | safeJS }}</script>
+	{{ end }}
 
 	{{- partial "favicons" . -}}
 	<link rel="me" href="https://bookstodon.com/@gwcoffey">
