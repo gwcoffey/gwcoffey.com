@@ -1534,7 +1534,7 @@ giving-tree:
 
 lathe-of-heaven:
   title: The Lathe of Heaven
-  author: Ursula K. LeGuin
+  author: Ursula K Le Guin
 
 sleepy-hollow:
   title: The Legend of Sleepy Hollow
@@ -1781,7 +1781,7 @@ anthropocene-reviewed:
 
 omelas:
   title: The Ones Who Walk Away from Omelas
-  author: Ursula K. LeGuin
+  author: Ursula K Le Guin
 
 catherine-birdy:
   title: Catherine, Called Birdy
@@ -1870,3 +1870,7 @@ high:
 snowcrash:
   title: Snow Crash
   author: Neal Stephenson
+
+dispossessed:
+  title: The Dispossessed
+  author: Ursula K Le Guin
