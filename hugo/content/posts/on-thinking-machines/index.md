@@ -84,11 +84,38 @@ She was talking about encoding in the way we think of it today, but nobody took 
 
 Encoding is the task of finding useful binary arrangements to *represent* what we really want to work with. For our simple addition program, we want to work with small non-negative integers. So we need to dream up an encoding. You can see one idea in Figure 2 (from now on I'll represent binary as shaded and empty boxes).
 
-{{< figure 
-    src="encoding-1.png"
-    alt="three sets of three boxes each. The first, labeled \"1\" has the leftmost box colored in. The second, labeled \"2\" has the middle box colored in. The last, labeled \"3\" has the right-most box colored in."
-    title="Figure 2: A Simple Encoding"
-    caption="Here's one possible binary encoding for small non-negative integers. To represent \"1\" we put something in the first spot. For \"2\" we use the second spot. And so on." >}}
+<figure>
+    <div id="simple-encoding" class="figure-item">
+        <div class="ex">
+            <ol class="universe">
+                <li data-full="true"><div></div></li>
+                <li><div></div></li>
+                <li><div></div></li>
+            </ol>
+            <p><code>Encoded 1</code></p>                    
+        </div>
+        <div class="ex">
+            <ol class="universe">
+                <li><div></div></li>
+                <li data-full="true"><div></div></li>
+                <li><div></div></li>
+            </ol>
+            <p><code>Encoded 2</code></p>                    
+        </div>
+        <div class="ex">
+            <ol class="universe">
+                <li><div></div></li>
+                <li><div></div></li>
+                <li data-full="true"><div></div></li>
+            </ol>
+            <p><code>Encoded 3</code></p>                    
+        </div>
+    </div>
+    <figcaption>
+        <h4>A Simple Encoding</h4>
+        <p>Here's one possible binary encoding for small non-negative integers. To represent `1` we put something in the first spot. For `2` we use the second spot. And so on.</p>
+    </figcaption>
+</figure>
 
 Now that we have an encoding, we need to think about how to fit all this into the simplified binary universe of the computer. Remember we already said we want to be able to add numbers between zero and three. And we have two of those numbers. So we need enough space for two input values. As Figure 3 shows, six spaces and some assumptions about what goes where will do the trick.
 
@@ -132,15 +159,102 @@ And that's it. We can now encode the input in a way the computer can use. Hopefu
 
 ## Transformation
 
-1. if none of a, b, or c is set, copy d, e, and f into g, h, and i
-2. if a is set, copy d, e, and f into h, i, and j
-3. if b is set, copy d, e, and f into i, j, and k
-4. if c is set, copy d, e, and f into j, k, and l
+With our input encoded in binary we're ready to give the computer instructions. We want the computer to *transform* this bit of binary into something different. And that something different is also binary (remember, binary is all the computer can handle).
 
-Now that we have an encoding, we can convert the numbers we want to add into binary so the computer can do something with them. For example, suppose we want to add `2 + 3`. Remember our binary universe is one-dimensional and discrete, so we need to put these numbers side-by-side. We also need a place to put the answer. Since we're dealing with small integers between zero and three, we need three spots for each input number. And since the biggest answer we can get is `6`, we need at most six spots for the answer. With all this in mind, a universe that can hold `3 + 3 + 6 = 12` spaces is big enough for our computer.
+Let's look at an example. Suppose we want to add `1+3`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
 
-<figure id="full-universe" class="interactive">
+<figure>
     <div class="figure-item">
+        <ol class="universe">
+            <li data-full="true"><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li data-full="true"><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+        </ol>
+    </div>
+    <figcaption>
+        <h4>The Setup</h4>
+        <p>Remember the first three spots hold our first number (<code>1</code>) and the next three hold the second number (<code>3</code>). We also left six spaces to hold the answer.</p>
+    </figcaption>
+</figure>
+
+The job of the transformation instructions is to change this ten-unit binary representation into some new ten-unit binary representation that we can then *decode* to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
+
+1. If none of `A`, `B`, or `C` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`
+2. If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
+3. If `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
+4. If `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`
+
+{{% note %}}
+There are many ways to do this. I'm sure if you spent some time thinking about it, you could come up with completely different instructions that, in the end, give the same result. 
+{{% /note %}}
+
+If you apply these steps one by one to the input above, you'll quickly discover that only step 2 actually applies, because the `A` box is filled in. Follow that step and you end up with this:
+
+<figure>
+    <div class="figure-item">
+        <ol class="universe">
+            <li data-full="true"><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li data-full="true"><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li data-full="true"><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+        </ol>
+    </div>
+    <figcaption>
+        <h4>Transformed</h4>
+        <p>After transformation, we end up with this. Space <code>J</code> has been filled in. Remember the "answer" starts in <code>G</code>. <code>J</code> is four spots from <code>G</code> and that's exactly what we want becuase <code>1+3=4</code></p>
+    </figcaption>
+</figure>
+
+These steps don't just work for `1+3`. They will work for *any* allowed input value. This may be surprising to you. There's an interactive sample in the next section where you can play with various inputs and see how the steps behave. But before that we need to talk about decoding.
+
+## Decoding
+
+With transformation complete, we need to *decode* the answer. In this case, decoding is just doing the encoding in reverse. We look at the last six spaces in our binary data, find the space that's filled in, and count out its position. This count is our "answer".
+
+{{% note %}}
+It isn't always the case that the decoding step is just encoding in reverse. Many computer systems transform input of one encoding into output of an entirely different encoding. The [Midjourney][midjourney] system for instance encodes a textual description as input, and decodes the result to a picture on your screen. Our example program is a simplified case.
+{{% /note %}}
+
+[midjourney]: https://www.midjourney.com
+
+The example below lets you see all this in action. You can enter two numbers, see how they're encoded, see how the transformation steps are evaluated, and then see the result being decoded. Hopefully this will convince you that our program can indeed add small non-negative integers.
+
+<figure id="program-demo-bad-encoding" class="interactive">
+    <div class="figure-item">
+        <form>
+            <select class="a">
+                <option>0</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option> 
+            </select>
+            &nbsp;+&nbsp;
+            <select class="b">
+                <option>0</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option> 
+            </select>
+            =
+            <code class="answer">?</code>
+        </form>
         <ol class="universe">
             <li><div></div></li>
             <li><div></div></li>
@@ -155,223 +269,31 @@ Now that we have an encoding, we can convert the numbers we want to add into bin
             <li><div></div></li>
             <li><div></div></li>
         </ol>
+        <ol class="steps">
+            <li class="current">Encode</li>
+            <li>Transform</li>
+                <ol>
+                    <li>If none of `A`, `B`, or `C` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`</li>
+                    <li>If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`</li>
+                    <li>If `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`</li>
+                    <li>If `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`</li>
+                </ol>
+            <li>Decode</li>
+        </ol>
+        <div>
+            <button>Start</button>
+        </div>
     </div>
     <figcaption>
-        <h4>Our Universe</h4>
-        <p>This is a binary universe suitable for our small adding computer. If you wanted to handle larger numbers you'd need more boxes: a bigger universe. (This is roughly analogous to a computer with "more memory.")</p>
+        <h4>Our Computer</h4>
+        <p>Change the inputs above, then click Start to see our computer run.</p>
     </figcaption>
 </figure>
 
+After all those steps don't look like anything you'd recognize as "math". But truthfully even humans typically do weird and surprising things to do math. It's hard to even describe what "addition" means without resorting little programs to help you *do* addition. In fact the basic kind of addition you learned in school—where you line up the numbers, add the columns one by one, and carry the one as needed—is technically called [algorismus][algo]. It was invented by a guy named [Muhammad ibn Musa al-Khwarizmi][alk] over a thousand years ago, and it gave us the english word algorithm. Today we call these transformation steps in computer programming algorithms. So the fact that our computer uses a surprising algorithm to do math doesn't really tell us much.
 
-This encoding is perfectly valid, and we absolutely could use it. But if you think about it for a minute, you might spot an *inefficiency*. Figure 3 explains.
+[algo]: https://en.wikipedia.org/wiki/Algorism
+[alk]: https://en.wikipedia.org/wiki/Algorism
 
-With this in mind, let's try again. There's a little trick we can use. If we assign each box a value, we could add those values up to produce our final value. Figure 4 shows an encoding like this.
+To understand why we can be sure the computer doesn't understand math, we need to  
 
-Of course once the computer does something with some binary it is generally not useful to us until we turn that result back into meaning. This is a form of encoding too although in this direction we anthropocentristically call it *decoding*.
-
-So this is the first task of the programmer who wants to get a computer to do something useful: encode the messy real world inputs as simple binary, and then encode simple binary outputs as messy real world stuff.
-
-The second task is easier to describe and generally far harder to do: give the computer a long list of minutely defined logical instructions to mutate some binary so that the input turns in to the desired output. This part of the process is often esoteric bordering on absurd.
-
-How about an example. Suppose you want to get a computer calculate two plus two. You'd be forgiven for thinking computers can *just do this*. But they can't. Remember computers don't know what two is. To solve this we need to come up with an encoding. Of course our encoding needs to deal with more than just *two* because we know two plus two is four, and four is something new. So *as an intelligent human* we decide to build a more capable encoding for *any integer*. Here's our encoding rule:
-
-> Convert the integer to base 2 then treat the resulting number as a binary value.
->
-
-Here are a few examples of this encoding. (I'll use ones and zeros to represent the binary. I am only human.)
-
-1: 1
-2: 10
-3: 11
-4: 100
-5: 101
-6: 110
-7: 111
-
-This encoding is a pretty good one because it is easy to understand and it can handle any non-negative integer, no matter how big. (It cannot handle negative integers because the universe of binary has only one thing, and we already called that thing `1`. So there's nothing else left to mean `minus sign`. If we wanted to handle negative integers too we'd need something [much weirder](https://en.wikipedia.org/wiki/Two's_complement).)
-
-Ok now we can encode integers. What about decoding? That's easy, just treat the binary value as a base two number, and convert it back to base ten. (In this example, our decoding is just our encoding in reverse, but this is not always the case.)
-
-With encoding and decoding solved, we can now think about getting the computer to do two plus two. Since we're focused now on the second task of the programmer (instructions) let's re-write out problem without the mandatory encoding and decoding.
-
-Calculate 10 plus 10.
-
-(In your head you probably can't help reading that as ten plus ten. That's ok. You have to do this shit for years before that stops nagging at you. But really, if you're being correct, that says "two plus two". We've just done the encoding already so it looks alien to us, and very very approachable to a computer.)
-
-So what series of steps should the computer carry out to add these two numbers? If you're thinking "just tell the computer to do the ADD instructions" then you're falling victim to *abstraction*. Computers don't know what ADD means. (I mean they do, but only because some *other* programmer working for, like, Intel, already wrote that programe and etched it into the chip like God on Mount Sainai. We're doing fundamentals here so we need to write that program ourselves.)
-
-So what *can* a computer do? Two things relevant to this discussion: boolean math and branching. Boolean math just means ands, ors, and some other less familiar stuff. And branching means, if such and such, go back to step 1. Or as long as so and so keep doing step two.
-
-It helps sometimes to clearly define what we *expect* the computer to do in our one simple case. Specifically:
-
-> Given 10 and 10 as input, produce 100 as output.
->
-
-Here's one very simple program that can accomplish this:
-
-1. ignore every input and just output `100`
-
-This programe, every time it is run, will indeed calculate two plus two. You might think this is a cheat because of course it isn't calculating anything at all. It's just parroting the *expected answer*. But as I'm trying desperately to explain here, when you ask a computer to do something, it *almost never actually does that thing*. Instead it does tens of millions of other very strange things that have the effect, when all is said and done, of producing an output that, when decoded, give you the user the uncanny impression that the computer *did the thing*. It didn't. It really didn't.
-
-But validity aside, this program is pretty lousy. Sure it meets the specification, but this is why programmers harp on specifications all the time. The specification was dumb. So let's write a better spec:
-
-> Write a program that can add two integers, each between zero and two inclusive.
->
-
-This program is still pretty stupid. I mean it would probably be easiest to just truth-table all the possible states and be done with it. But for the sake of argument lets treat it like a real programming challenge.
-
-Ok with that out of the way, back to our example:
-
-> 10 10 -> 100
->
-
-**What instructions can we give the computer to produce this result?**
-
-One thing we could do is borrow from what we all know about addition from elementary school. Line up the numbers and add them digit by digit (don't forget to carry the one!)
-
-You might think this doesn't count as a program because this is just what addition is, and I said the program doesn't really do the thing. Boy have I got a surprise for you: This is not what addition is. It is a *program* that first graders learn to do manually so they can accomplish addition. It even has a name! It's called "algorism", it was invented by a guy named Muhammad ibn Musa al-Khwarizmi over a thousand years ago, and it is what we get the word "algorithm" from. Here's a thought experiment: What is 90 plus 20? I'm sure you figured out the answer is 110, and I'm quite sure you didn't carry any ones. There are lots of ways to figure out the answer—memorization of cases, arithmetic tricks—but none of those are addition. Does this mean people don't really think? I have no opinion on that. I'm only here to argue that I'm pretty sure computers don't.
-
-Ok so we "line up" our inputs:
-
-```
-10
-10
-
-```
-
-If a human did this problem, the next step would be to add the ones place. But again, computers can't add. So we need to try something else.
-
-In the ones place we really have four possibilities:
-
-- two zeros (that's what we have in our example case)
-- a zero and a one
-- a one and a zero
-- two ones
-
-It helps to put these values in a kind of chart like this:
-
-```
-  0 1
-0
-1
-
-```
-
-In each blank we can write the result of a boolean operation. Here's AND:
-
-```
-  0 1
-0 0 0
-1 0 1
-
-```
-
-And here's or:
-
-```
-  0 1
-0 0 1
-1 1 1
-
-```
-
-And here, for what it's worth, is what we *want* our program to do with this first digit:
-
-```
-  0 1
-0 0 1
-1 1 0 (carry the one!)
-
-```
-
-Darn. Neither AND nor OR does exactly the right thing. Since this is not a programming class I'm just going to give you the right answer here:
-
-A OR B AND NOT (A AND B)
-
-This means our *output* digit for the ones place is `1` if:
-
-- A is 1
-- OR B is 1
-- AND A and B are not *both* 1
-
-So here's the first three lines of our program:
-
-1. Call the ones place of the first input A
-2. Call the ones place of the second input B
-3. Put (A OR B AND NOT (A AND B)) into the ones place of the output
-
-If we run this program we get:
-
-10 + 10 -> 0
-
-That may not look like much but it's like 33% of the right answer. So what's next? Well according to Muhammad ibn Musa al-Khwarizmi we move on to the tens place. Except this is binary so its called the twos place. (Trust me.) If we visualize where we are so far we have:
-
-```
-  10
-+ 10
-----
-   0
-
-```
-
-For the next step we need to "add" those ones. On the bright side we already figured out how to do that:
-
-A OR B AND NOT (A AND B)
-
-So here's a revised program:
-
-1. Call the ones place of the first input A
-2. Call the ones place of the second input B
-3. Put (A OR B AND NOT (A AND B)) into the ones place of the output
-4. Call the twos place of the first input A
-5. Call the twos place of the second input B
-6. Put (A OR B AND NOT (A AND B)) into the twos place of the output
-
-This is a little confusing but when we "add" 1 and 1 we get zero. But you already know this really. After all if you have:
-
-```
-  15
-+ 25
-----
-
-```
-
-The first number you write down is `0`. Its just that two is the ten of binary. So running our program we now have:
-
-```
-  10
-+ 10
-----
-  00
-
-```
-
-This is getting there but we're still not done. Remember: carry the one! So we need a little more to our program:
-
-1. Call the ones place of the first input A
-2. Call the ones place of the second input B
-3. Put (A OR B AND NOT (A AND B)) into the ones place of the output
-4. Call the twos place of the first input A
-5. Call the twos place of the second input B
-6. Put (A OR B AND NOT (A AND B)) into the twos place of the output
-7. If (A AND B) then put a one into the fours place
-
-And there we have it. A program that can add two plus two. Astute readers are probably already scowling because this program doesn't actually work very well. It works for two plus two but not one plue one. That's because we never carried the one from the ones place. So let's correct it:
-
-1. Call the ones place of the first input A
-2. Call the ones place of the second input B
-3. Put (A OR B AND NOT (A AND B)) into the ones place of the output
-4. Put (A AND B) into C
-5. Call the twos place of the first input A
-6. Call the twos place of the second input B
-7. Put (A OR B AND NOT (A AND B)) into D
-8. Put (C OR D AND NOT (C AND D)) into the two place of the output
-9. Put (C AND D) into the fours place of the output
-
-Nine steps. Just ANDs and ORs. Combine this with out encoding and decoding rules and we've "taught" the computer to add tiny positive integers.
-
-Now look at those steps and ask yourself: Is that math? I think any reasonable person would conclude that no, it is not math. It is an esoteric series of steps that has the side effect of kind of accidentally doing arithmetic.
-
-Of course it was no accident. It was minutely defined *by a person* to produce an output indistinguishable from math. To the computer, two plus two is just another way of saying "meaningless binary data and a lot of meaningless instructions". But to a human, even though the steps to get there are not like any math you would do, the result is the same.
-
-In other words, the computer can *do* may, but it doesn't *know* math. This is how everything works in computers. *Everything*.
