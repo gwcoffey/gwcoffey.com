@@ -1,11 +1,12 @@
 ---
 title: "Apogee"
 date: 2023-04-15
+summary: "“When did addition change to subtraction? When did he slide so nonchalantly to the other side of the ledger?”"
 tags:
   - Short Fiction
 ---
 
-A group of people surrounds him on the platform loudly laughing. They wear name tags around their necks and matching t-shirts he can't read for the folds. Probably some kind of conference. He occupies one of just three seats and it doesn’t seem sensible to offer one seat to a dozen people so he sits on. They eat cookies from brown waxed paper bags, bought from the bakery across the street. The cookies themselves are hidden. They break pieces off inside the bags and bring them quickly to their mouths. He watches them with his head lowered.
+A group of people surrounds him on the platform laughing loud. They wear name tags around their necks and matching t-shirts he can't read for the folds. Probably some kind of conference. He occupies one of just three seats and it doesn’t seem sensible to offer one seat to a dozen people so he sits on. They eat cookies from brown waxed paper bags, bought from the bakery across the street. The cookies themselves are hidden. They break pieces off inside the bags and bring them quickly to their mouths. He watches them with his head lowered.
 
 He is not the only one watching. The obsidian eyes of the city birds watch too. They know these bags. He notices these birds are of two persuasions. The larger pigeons are brave enough—or domesticated enough—to come and stand right under the mingled group waiting for the lucky crumb. They have no fear. But they are slow, waddling, and stupid. Smaller more skittish birds, pale brown in color, tremble at the periphery or high up in the struts of the shade structure. Quick and wary, they survey the platform. When one sees an opening it shoots in with speed and precision. It strikes him that these birds—so different in approach—are oddly equally matched. The quick and the brave. The pigeons walk among the people and feed leisurely on crumbs of opportunity. But as often as not speed and agility overcome distance and the small birds eat despite their cowardice. There is almost never a squabble. Each bird knows when it will win and when it will not before it makes any attempt, and it is rarely wrong. He thinks this scene must have played out day after day, year after year, and there is now no sport left in it. In a sense, each bird has chosen every crumb it will ever eat and now it only waits for time to catch up to what it already knows.
 
