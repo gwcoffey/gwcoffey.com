@@ -28,8 +28,7 @@ console.log("loading index data...");
 const index = new Index();
 fs.readdirSync(INDEX_PATH).forEach(fname => {
 	if (fname.startsWith('.')) return;
-	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"))
-        .then(() => console.log("all data ready"));
+	index.import(fname, fs.readFileSync(path.join(INDEX_PATH, fname), "utf8"));
 });
 
 const handler: Handler = async (event: HandlerEvent) => {
