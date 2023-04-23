@@ -37,8 +37,13 @@ main {
 	}
 
 	div.poem {
+		div.stanza {
+			margin: 1em 0;
+		}
+
 		p {
-			white-space: pre-wrap;
+			margin: 0 0 0 calc(var(--indent) * 1ch + 1em);
+			text-indent: -1em;
 		}
 	}
 }
