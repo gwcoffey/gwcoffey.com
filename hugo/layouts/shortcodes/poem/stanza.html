@@ -1,1 +1,11 @@
-<p>{{ replaceRE `^\n+|\n+$` "" .Inner }}</p>
+<div class="stanza">
+    {{ range .Params }}
+    {{ $leadingSpace := index (findRE `^ +` . 1) 0 }}
+    {{ $indent := cond (eq $leadingSpace nil) 0 (len (string $leadingSpace)) }}
+    <!-- I'm not sure why I need that explicit cast to string but in hugo 0.111.3 I always
+         get `error calling len: reflect: call of reflect.Value.Type on zero Value` if I
+         don't do it -->
+
+    <p style="--indent: {{ $indent }}">{{ replaceRE `^ +` "" . }} </p>
+    {{ end }}
+</div>
