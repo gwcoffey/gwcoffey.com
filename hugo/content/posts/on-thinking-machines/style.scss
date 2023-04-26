@@ -1,0 +1,150 @@
+figure.interactive form {
+  display: block;
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: large;
+}
+
+
+ol.universe {
+  --slot-size: 50px;
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  counter-reset: universe;
+
+  li {
+    text-align: center;
+    counter-increment: universe;
+
+    // slot labels
+    &::before {
+      content: counter(universe, upper-latin);
+      color: #777;
+      font-size: smaller;
+    }
+
+    // the actual image container
+    div {
+      margin-top: -5px;
+      width: var(--slot-size);
+      height: var(--slot-size);
+      background-image: url("interactive/empty.png");
+      background-size: var(--slot-size) var(--slot-size);
+      overflow: hidden;
+
+      // the scribble to fill it in (height 0 when not filled in)
+      &::after {
+        content: "";
+        display: block;
+        width: var(--slot-size);
+        height: 0;
+        background-image: url("interactive/full.png");
+        background-size: var(--slot-size) var(--slot-size);
+      }
+    }
+
+    // make scribble full height when filled in
+    &[data-full="true"] div::after {
+      height: var(--slot-size);
+      transition: height 0.2s linear;
+    }
+  }
+
+  // the underline indicating "selected" slots
+  &::after {
+    content: " ";
+    position: absolute;
+    bottom: -8px;
+    display: block;
+    width: calc(var(--slot-size) * var(--select-size));
+    left: calc(var(--slot-size) * var(--select-start));
+    height: 5px;
+    background-size: auto 5px;
+    background-repeat: no-repeat;
+  }
+
+  // read selection size from data attr
+  &[data-select-size="1"] { --select-size: 1; }
+  &[data-select-size="2"] { --select-size: 2; }
+  &[data-select-size="3"] { --select-size: 3; }
+  &[data-select-size="6"] { --select-size: 6; }
+
+  // read selection start from data attr
+  &[data-select-start="1"] { --select-start: 0; }
+  &[data-select-start="2"] { --select-start: 1; }
+  &[data-select-start="3"] { --select-start: 2; }
+  &[data-select-start="4"] { --select-start: 3; }
+  &[data-select-start="5"] { --select-start: 4; }
+  &[data-select-start="6"] { --select-start: 5; }
+  &[data-select-start="7"] { --select-start: 6; }
+  &[data-select-start="8"] { --select-start: 7; }
+  &[data-select-start="9"] { --select-start: 8; }
+  &[data-select-start="10"] { --select-start: 9; }
+  &[data-select-start="11"] { --select-start: 10; }
+  &[data-select-start="12"] { --select-start: 11; }
+
+  // use the correct selection underline based on size
+  &[data-select-size="1"]:after { background-image: url("interactive/select-1.png"); }
+  &[data-select-size="2"]:after { background-image: url("interactive/select-2.png"); }
+  &[data-select-size="3"]:after { background-image: url("interactive/select-3.png"); }
+  &[data-select-size="6"]:after { background-image: url("interactive/select-6.png"); }
+
+}
+
+ol.steps {
+  padding: 0;
+  margin: 1em -12px 0 -12px;
+  border-top: 1px solid #f9f9f9;
+
+  // all step items (top level or nested)
+  li {
+    list-style-position: inside;
+    font-family: var(--mono-font);
+    margin: 0;
+    padding: 2px 1em;
+
+    &.current {
+      background: #abd3fc;
+    }
+  }
+
+  // top level items only
+  > li {
+    margin: 0;
+    border-bottom: 1px solid #f9f9f9;
+  }
+
+  // nested lists and items
+  ol {
+    margin: 0 -1em;
+    padding: 0;
+
+    li {
+      --hang: 2em;
+      --inset: 2em;
+      padding-left: calc(var(--inset) + var(--hang));
+      text-indent: calc(var(--hang) * -1);
+      border-top: 1px solid #f9f9f9;
+    }
+  }
+}
+
+#simple-encoding {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  .ex p {
+    text-align: center;
+    margin-top: 0;
+  }
+}
+
+#program-demo-bad-encoding {
+  ol.universe{
+    width: calc(12 * var(--slot-size));
+  }
+}

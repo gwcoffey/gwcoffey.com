@@ -25,8 +25,8 @@
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
 	<!-- add any page-specific css -->
-	{{ with .Resources.GetMatch "**/*.css" }}
-	<style>{{ .Content | safeCSS }}</style>
+	{{ with .Resources.GetMatch "style.scss" }}
+		<style>{{ (resources.ToCSS .).Content | safeCSS }}</style>
 	{{ end }}
 
 	{{ range .AlternativeOutputFormats -}}
@@ -37,7 +37,7 @@
 	{{- $built := resources.Get "js/main.js" | js.Build $opts }}
 	<script src="{{ $built.RelPermalink }}" defer></script>
 
-	<!-- add any page-specific css -->
+	<!-- add any page-specific js -->
 	{{ with .Resources.GetMatch "**/*.js" }}
 	<script defer>{{ .Content | safeJS }}</script>
 	{{ end }}

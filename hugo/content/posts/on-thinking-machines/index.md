@@ -255,7 +255,7 @@ The example below lets you see all this in action. You can enter two numbers, se
             =
             <code class="answer">?</code>
         </form>
-        <ol class="universe">
+        <ol class="universe" data-select-size="6" data-select-start="7">
             <li><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
@@ -270,14 +270,16 @@ The example below lets you see all this in action. You can enter two numbers, se
             <li><div></div></li>
         </ol>
         <ol class="steps">
-            <li class="current">Encode</li>
-            <li>Transform</li>
+            <li>Encode</li>
+            <li>
+                Transform
                 <ol>
-                    <li>If none of `A`, `B`, or `C` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`</li>
-                    <li>If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`</li>
-                    <li>If `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`</li>
-                    <li>If `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`</li>
+                    <li class="current">If none of <strong>A</strong>, <strong>B</strong>, <strong>C</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>G</strong>, <strong>H</strong>, <strong>I</strong></li>
+                    <li>If <strong>A</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>H</strong>, <strong>I</strong>, <strong>J</strong></li>
+                    <li>If <strong>B</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>I</strong>, <strong>J</strong>, <strong>K</strong></li>
+                    <li>If <strong>C</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>J</strong>, <strong>K</strong>, <strong>L</strong></li>
                 </ol>
+            </li>
             <li>Decode</li>
         </ol>
         <div>
