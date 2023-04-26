@@ -1870,11 +1870,19 @@ high:
 snowcrash:
   title: Snow Crash
   author: Neal Stephenson
+  date: 2023-04-22
 
 dispossessed:
   title: The Dispossessed
   author: Ursula K Le Guin
+  date: 2023-04-20
 
 possibility-life:
   title: The Possibility of Life
   author: Jaime Green
+  date: 2023-04-21
+
+make-beautiful:
+  title: You Could Make This Place Beautiful
+  author: Maggie Smith
+  date: 2023-04-24
