@@ -1,6 +1,7 @@
 ---
 title: "Apogee"
 date: 2023-04-15
+slug: apogee
 summary: "“When did addition change to subtraction? When did he slide so nonchalantly to the other side of the ledger?”"
 tags:
   - Short Fiction
