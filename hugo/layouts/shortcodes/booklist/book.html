@@ -1,0 +1,21 @@
+<div class="book">
+    <figure>
+        <img src="{{ .Get "cover" }}" alt="Book cover">
+    </figure>
+
+    <dl>
+        <dt>Title</dt>
+        <dd><strong>{{ .Get "title" }}</strong></dd>
+        {{ with .Get "subtitle" }}
+        <dd>{{ . }}</dd>
+        {{ end }}
+        <dt>Author</dt>
+        <dd>{{ .Get "author" }}</dd>
+        {{ with .Get "translator" }}
+            <dt>Translator</dt>
+            <dd>{{ . }}</dd>
+        {{ end }}
+        <dt>Format</dt>
+        <dd>{{ .Get "format" }}</dd>
+    </dl>
+</div>
