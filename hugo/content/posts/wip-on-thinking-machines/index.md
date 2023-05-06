@@ -92,28 +92,28 @@ Encoding is the task of finding useful binary arrangements to *represent* what w
                 <li><div></div></li>
                 <li><div></div></li>
             </ol>
+            <p><code>Encoded 0</code></p>                    
+        </div>
+        <div class="ex">
+            <ol class="universe">
+                <li><div></div></li>
+                <li data-full="true"><div></div></li>
+                <li><div></div></li>
+            </ol>
             <p><code>Encoded 1</code></p>                    
         </div>
         <div class="ex">
             <ol class="universe">
                 <li><div></div></li>
-                <li data-full="true"><div></div></li>
                 <li><div></div></li>
+                <li data-full="true"><div></div></li>
             </ol>
             <p><code>Encoded 2</code></p>                    
-        </div>
-        <div class="ex">
-            <ol class="universe">
-                <li><div></div></li>
-                <li><div></div></li>
-                <li data-full="true"><div></div></li>
-            </ol>
-            <p><code>Encoded 3</code></p>                    
         </div>
     </div>
     <figcaption>
         <h4>A Simple Encoding</h4>
-        <p>Here's one possible binary encoding for small non-negative integers. To represent `1` we put something in the first spot. For `2` we use the second spot. And so on.</p>
+        <p>Here's one possible binary encoding for small non-negative integers. To represent <code>0</code> we put something in the first spot. For <code>1</code> we use the second spot. And so on.</p>
     </figcaption>
 </figure>
 
@@ -132,21 +132,19 @@ And that's it. We can now encode the input in a way the computer can use. Hopefu
                 <option>0</option>
                 <option>1</option>
                 <option>2</option>
-                <option>3</option> 
             </select>
             &nbsp;+&nbsp;
             <select class="b">
                 <option>0</option>
                 <option>1</option>
                 <option>2</option>
-                <option>3</option> 
             </select>
         </form>
         <ol class="universe">
+            <li data-full="true"><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
+            <li data-full="true"><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
         </ol>
@@ -161,18 +159,17 @@ And that's it. We can now encode the input in a way the computer can use. Hopefu
 
 With our input encoded in binary we're ready to give the computer instructions. We want the computer to *transform* this bit of binary into something different. And that something different is also binary (remember, binary is all the computer can handle).
 
-Let's look at an example. Suppose we want to add `1+3`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
+Let's look at an example. Suppose we want to add `1+2`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
 
 <figure>
     <div class="figure-item">
         <ol class="universe">
-            <li data-full="true"><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
             <li><div></div></li>
             <li data-full="true"><div></div></li>
             <li><div></div></li>
+            <li><div></div></li>
+            <li><div></div></li>
+            <li data-full="true"><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
@@ -182,16 +179,15 @@ Let's look at an example. Suppose we want to add `1+3`. If we encode this in bin
     </div>
     <figcaption>
         <h4>The Setup</h4>
-        <p>Remember the first three spots hold our first number (<code>1</code>) and the next three hold the second number (<code>3</code>). We also left six spaces to hold the answer.</p>
+        <p>Remember the first three spots hold our first number (<code>1</code>) and the next three hold the second number (<code>2</code>). We also left five spaces to hold the answer.</p>
     </figcaption>
 </figure>
 
 The job of the transformation instructions is to change this ten-unit binary representation into some new ten-unit binary representation that we can then *decode* to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
 
-1. If none of `A`, `B`, or `C` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`
-2. If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
-3. If `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
-4. If `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`
+1. If `A` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`
+2. If `B` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
+3. If `C` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
 
 {{% note %}}
 There are many ways to do this. I'm sure if you spent some time thinking about it, you could come up with completely different instructions that, in the end, give the same result. 
@@ -236,51 +232,61 @@ It isn't always the case that the decoding step is just encoding in reverse. Man
 
 The example below lets you see all this in action. You can enter two numbers, see how they're encoded, see how the transformation steps are evaluated, and then see the result being decoded. Hopefully this will convince you that our program can indeed add small non-negative integers.
 
-<figure id="program-demo-bad-encoding" class="interactive">
+<figure class="interactive">
+    <div class="figure-item">
+        <computer id="simple-adder">
+            <form slot="controls">
+                <select name="a"></select>
+                &nbsp;+&nbsp;
+                <select name="b"></select>
+                =
+                <input type="text" readonly name="output">
+            </form>
+        </computer>
+    </div>
+    <figcaption>
+        <h4>Our Computer</h4>
+        <p>Change the inputs above, then click Start to see our computer run.</p>
+    </figcaption>
+</figure>
+
+<figure id="simple-adder" class="interactive">
     <div class="figure-item">
         <form>
-            <select class="a">
+            <select name="a">
                 <option>0</option>
                 <option>1</option>
                 <option>2</option>
-                <option>3</option> 
             </select>
             &nbsp;+&nbsp;
-            <select class="b">
+            <select name="b">
                 <option>0</option>
                 <option>1</option>
                 <option>2</option>
-                <option>3</option> 
             </select>
             =
-            <code class="answer">?</code>
+            <input type="text" readonly name="output" value="?">
         </form>
-        <ol class="universe" data-select-size="6" data-select-start="7">
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-            <li><div></div></li>
-        </ol>
+        <ol class="universe"></ol>
         <ol class="steps">
-            <li>Encode</li>
-            <li>
-                Transform
-                <ol>
-                    <li class="current">If none of <strong>A</strong>, <strong>B</strong>, <strong>C</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>G</strong>, <strong>H</strong>, <strong>I</strong></li>
-                    <li>If <strong>A</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>H</strong>, <strong>I</strong>, <strong>J</strong></li>
-                    <li>If <strong>B</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>I</strong>, <strong>J</strong>, <strong>K</strong></li>
-                    <li>If <strong>C</strong> is set, copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>J</strong>, <strong>K</strong>, <strong>L</strong></li>
-                </ol>
+            <li data-step="encode">
+                <span class="step done">Encode</span>
             </li>
-            <li>Decode</li>
+            <li data-step="transform">
+                <span class="step done success">If <strong>A</strong> is set</span> →
+                <span class="step done">copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>G</strong>, <strong>H</strong>, <strong>I</strong></span>
+            </li>
+            <li>
+                <span class="step done failed">If <strong>B</strong> is set</span> →
+                <span class="step skipped">copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>H</strong>, <strong>I</strong>, <strong>J</strong></span>
+            </li>
+            <li>
+                <span class="step">If <strong>C</strong> is set</span> →
+                <span class="step">copy <strong>D</strong>, <strong>E</strong>, <strong>F</strong> into <strong>I</strong>, <strong>J</strong>, <strong>K</strong></span>
+            </li>
+            <li>
+                <span class="step">Decode</span>
+            </li>
         </ol>
         <div>
             <button>Start</button>
@@ -299,3 +305,19 @@ After all those steps don't look like anything you'd recognize as "math". But tr
 
 To understand why we can be sure the computer doesn't understand math, we need to  
 
+<template id="computer">
+    <slot name="controls">[form]</slot>
+    <ol class="universe"></ol>
+    <ol class="steps"></ol>
+    <div>
+        <button>Start</button>
+    </div>
+</template>
+
+<template id="transform-step">
+    <li data-step="transform">
+        <span><slot name="condition">NEED CONDITION</slot></span>
+        →
+        <span><slot name="action">NEED ACTION</slot></span>
+    </li>
+</template>
