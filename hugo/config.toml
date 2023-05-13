@@ -16,8 +16,6 @@ timeout = 120000
     tabWidth = 2
 
 [mediaTypes]
-  [mediaTypes.'text/vtt']
-    suffixes = ['vtt']
   [mediaTypes.'application/zip']
     suffixes = ['zip']
 
