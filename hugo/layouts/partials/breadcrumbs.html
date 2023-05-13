@@ -1,15 +1,16 @@
 <ul class="crumb">
-{{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+{{ template "breadcrumbnav" . }}
 </ul>
 
 {{ define "breadcrumbnav" }}
-	{{ if .p1.Parent }}
-		{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )}}
+	{{ if .Parent }}
+		{{ template "breadcrumbnav" .Parent }}
 	{{ end }}
-	{{ if not .p1.IsHome }}
-		{{ $name := replaceRE `.*/(.*)/$` "$1" .p1.RelPermalink }}
+	<!-- stop at the top-level page since it is indicated in the sidebar -->
+	{{ if and (not .IsHome) (not .Parent.IsHome) }}
+		{{ $name := replaceRE `.*/(.*)/$` "$1" .RelPermalink }}
 		<li>
-			<a href="{{ .p1.RelPermalink }}">{{ $name }}</a>
+			<a href="{{ .RelPermalink }}">{{ $name }}</a>
 		</li>
 	{{ end }}
 {{ end }}
