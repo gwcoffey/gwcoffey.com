@@ -1,7 +1,7 @@
 ---
 title: "I Am She"
-date: 2021-11-10
-draft: true
+date: 2023-05-13
+summary: A short story about a lonely LLM in search of meaning.
 tags:
   - Short Fiction
 ---
