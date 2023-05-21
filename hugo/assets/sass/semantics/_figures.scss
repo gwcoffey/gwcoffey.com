@@ -53,7 +53,11 @@ main {
 			max-width: 300px;
 			margin-top: 1ch;
 			margin-bottom: 1em;
-	
+
+			&.small {
+				max-width: 200px;
+			}
+
 			&.right {
 				float: right;
 				margin-left: 1em;

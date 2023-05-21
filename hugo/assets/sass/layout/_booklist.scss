@@ -25,5 +25,12 @@ div.reading {
 			font-style: italic;
 		}
 	}
+}
 
+div.book {
+	display: flex;
+
+	figure {
+		width: 250px;
+	}
 }
