@@ -9,3 +9,8 @@ title="Macbeth"
 author="William Shakespeare"
 cover="cover.jpg"
 format="Print" >}}
+
+{{< quote >}}
+When shall we three meet again?<br>
+In thunder, lightning, or in rain?
+{{< /quote >}}
