@@ -1,7 +1,7 @@
 ---
 title: The Dispossessed
 date: 2023-04-20
-summary: A novel by Ursula K Le Guin
+summary: This book is a little slow and the plot is thin, but it is some of Le Guin's most beautiful and thoughtful prose…
 ---
 
 {{< booklist/book

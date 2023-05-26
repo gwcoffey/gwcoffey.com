@@ -1,7 +1,7 @@
 ---
 title: Stella Maris
 date: 2023-01-27
-summary: A novel by Cormac McCarthy 
+summary: Is this the first time McCarthy has given us a female protagonist? I'm not sure… 
 ---
 
 {{< booklist/book

@@ -1,7 +1,7 @@
 ---
 title: High
 date: 2023-04-01
-summary: Nonfiction by David and Nic Sheff
+summary: I don't have much to say about it. It's a book about recreational drugs aimed at teens…
 ---
 
 {{< booklist/book

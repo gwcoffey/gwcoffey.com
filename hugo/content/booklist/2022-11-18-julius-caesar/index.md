@@ -1,7 +1,7 @@
 ---
 title: Julius Caesar
 date: 2022-11-18
-summary: 'A play by Shakespeare'
+summary: Cowards die many times before their deaths, The valiant never taste of death but once…
 ---
 
 {{< booklist/book

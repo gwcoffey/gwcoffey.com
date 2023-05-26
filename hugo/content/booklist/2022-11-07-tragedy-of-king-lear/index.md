@@ -1,7 +1,7 @@
 ---
 title: The Tragedy of King Lear
 date: 2022-11-07
-summary: 'A play by Shakespeare'
+summary: I have full cause of weeping, but this heart Shall break into a hundred thousand flaws Or ere I’ll weep…
 ---
 
 {{< booklist/book

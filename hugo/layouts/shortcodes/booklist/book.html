@@ -1,6 +1,7 @@
 <div class="book">
     <figure>
-        <img src="{{ .Get "cover" }}" alt="Book cover">
+        {{- $cover := (.Page.Resources.Get (.Get "cover")).Resize "240x" -}}
+        <img src="{{ $cover.RelPermalink }}" alt="Book cover">
     </figure>
 
     <dl>

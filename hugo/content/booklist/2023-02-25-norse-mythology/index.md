@@ -1,7 +1,7 @@
 ---
 title: Norse Mythology
 date: 2023-02-25
-summary: Mythology retold by Neil Gaiman 
+summary: I've read Gaiman's wonderful retelling of classic Norse myth at least twice before… 
 ---
 
 {{< booklist/book

@@ -1,7 +1,7 @@
 ---
 title: Stories from Tagore
 date: 2022-12-17
-summary: 'A collection of short stories by Rabindranath Tagore'
+summary: Tagore's Gitanjali may be my favorite book of poetry. His short stories are also wonderful…
 ---
 
 {{< booklist/book

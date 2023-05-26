@@ -1,7 +1,7 @@
 ---
 title: You Could Make This Place Beautiful
 date: 2023-04-27
-summary: A memoir by Maggie Smith
+summary: I've been a fan of Maggie Smith's poetry—like so many people—since I first discovered her when her poem Good Bones went "viral"…
 ---
 
 {{< booklist/book

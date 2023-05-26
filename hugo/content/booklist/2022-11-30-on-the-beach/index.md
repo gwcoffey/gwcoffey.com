@@ -1,7 +1,7 @@
 ---
 title: On the Beach
 date: 2022-11-30
-summary: 'A novel by Nevil Shute'
+summary: Emily Dickinson said she knows something is poetry when "I feel physically as if the top of my head were taken off." I'm not sure what that meant to her, but I think I recognize the feel of it…
 ---
 
 {{< booklist/book

@@ -1,7 +1,7 @@
 ---
 title: Macbeth
 date: 2022-10-31
-summary: 'A play by Shakespeare'
+summary: When shall we three meet again? In thunder, lightning, or in rain?
 ---
 
 {{< booklist/book

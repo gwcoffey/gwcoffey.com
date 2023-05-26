@@ -1,7 +1,7 @@
 ---
 title: The Gift of Everything
 date: 2022-12-10
-summary: 'Poetry by Lang Leav'
+summary: Poetry is just about the only kind of book I prefer to read in print (vs. ebook)…
 ---
 
 {{< booklist/book

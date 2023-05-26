@@ -1,7 +1,7 @@
 ---
 title: Ivory Vikings
 date: 2023-04-27
-summary: Nonfiction by Nancy Marie Brown
+summary: It looked right down my alley and I really enjoyed it…
 ---
 
 {{< booklist/book 

@@ -1,7 +1,7 @@
 ---
 title: All the Rivers
 date: 2022-09-12
-summary: 'A novel by Dorit Rabinyan'
+summary: 'This was recommended by my oldest child Isabel. It is a beautifully written introspective story…'
 ---
 
 {{< booklist/book

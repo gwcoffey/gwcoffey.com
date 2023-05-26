@@ -1,7 +1,7 @@
 ---
 title: Cat's Cradle
 date: 2022-08-19
-summary: 'A novel by Kurt Vonnegut'
+summary: I've read this book a dozen times… 
 ---
 
 {{< booklist/book

@@ -1,7 +1,7 @@
 ---
 title: The Amazing Adventures of Kavalier & Clay
 date: 2023-01-01
-summary: 'A novel by Michael Chabon'
+summary: …It is, on its own, a perfect thing. Just read it…
 ---
 
 {{< booklist/book

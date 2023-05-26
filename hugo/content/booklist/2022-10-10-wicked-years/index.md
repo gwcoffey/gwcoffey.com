@@ -1,11 +1,12 @@
 ---
 title: The Wicked Years
 date: 2022-10-10
-summary: 'A novel by Gregory Maguire'
+summary: I missed this universe, so I re-read the whole series back to back by way of the audiobooks…
 ---
 
 {{< booklist/book
-title="Wicked: The Life and Times of the Wicked Witch of the West"
+title="Wicked"
+subtitle="The Life and Times of the Wicked Witch of the West"
 author="Gregory Maguire"
 cover="wicked-cover.jpg"
 format="Audio" >}}

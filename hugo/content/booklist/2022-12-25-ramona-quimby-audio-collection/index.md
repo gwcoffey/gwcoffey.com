@@ -1,7 +1,7 @@
 ---
 title: The Ramona Quimby Audio Collection
 date: 2022-12-25
-summary: 'A collection of novels by Beverly Cleary'
+summary: My daughter was on a Ramona audiobook binge. Every time we talked she was telling me this thing or that about Ramona Quimby, and it got me nostalgic…
 ---
 
 {{< booklist/book

@@ -1,7 +1,7 @@
 ---
 title: The Brides of Maracoor
 date: 2022-10-18
-summary: 'A novel by Gregory Maguire'
+summary: I love love love the original Wicked series, but I think I'm done with these sequels…
 ---
 
 {{< booklist/book

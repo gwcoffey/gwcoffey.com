@@ -1,7 +1,7 @@
 ---
 title: Hamlet
 date: 2022-10-26
-summary: 'A play by Shakespeare'
+summary: You would pluck out the heart of my mystery…
 ---
 
 {{< booklist/book

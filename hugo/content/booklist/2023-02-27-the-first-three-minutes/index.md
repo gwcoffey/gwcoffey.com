@@ -1,7 +1,7 @@
 ---
 title: The First Three Minutes
 date: 2023-02-27
-summary: Nonfiction by Steven Weinberg 
+summary: I enjoyed every page. For me it strikes the right balance… 
 ---
 
 {{< booklist/book
