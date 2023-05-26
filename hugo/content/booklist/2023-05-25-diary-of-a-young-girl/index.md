@@ -1,7 +1,7 @@
 ---
 title: The Diary of a Young Girl
 date: 2023-05-25
-summary: 
+summary: I don't think I need to explain why this book is worth reading. Every human being should reat it more than once.
 ---
 
 {{< booklist/book

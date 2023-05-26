@@ -1,7 +1,7 @@
 ---
 title: The Man in the High Castle
 date: 2023-01-15
-summary: A novel by Philip K Dick
+summary: This was a quick re-read after watching the Amazon television show…
 ---
 
 {{< booklist/book

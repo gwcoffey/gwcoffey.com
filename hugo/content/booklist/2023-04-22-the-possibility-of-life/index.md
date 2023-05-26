@@ -1,7 +1,7 @@
 ---
 title: The Possibility of Life
 date: 2023-04-22
-summary: Nonfiction by Jaime Green
+summary: When I read an excerpt in *The Atlantic* I knew I had to read this book…
 ---
 
 {{< booklist/book

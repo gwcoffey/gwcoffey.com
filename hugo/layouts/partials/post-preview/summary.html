@@ -6,13 +6,18 @@
 {{- $summarize := or
 	(.Truncated)
 	$hasImages
-	(eq (.Param "archiveSection") true)
--}} 
+-}}
 
 {{- if eq (.Param "archive") "listapp" -}}
 
 	<!-- listapp posts require specialhandling -->
 	{{- partial "post-preview/listapp-summary" . -}}
+
+{{- else if (eq .Section "booklist") }}
+
+	<!-- booklist posts always have a manual summary but still want a more link -->
+	{{ .Params.summary | markdownify }}
+	<a class="more" href="{{.RelPermalink}}">Read more…</a>
 
 {{- else if (and $hasImages (eq (len (trim .Summary " \n")) 0)) -}}
 
@@ -40,7 +45,6 @@
 
 {{- else -}}
 	{{ .Content }}
-	
 {{- end -}}
 
 

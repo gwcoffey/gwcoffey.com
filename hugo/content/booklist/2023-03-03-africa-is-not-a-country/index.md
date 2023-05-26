@@ -1,7 +1,7 @@
 ---
 title: Africa is Not a Country
 date: 2023-03-03
-summary: Nonfiction by Dipo Faloyin
+summary: A remarkable book that everyone should read…
 ---
 
 {{< booklist/book

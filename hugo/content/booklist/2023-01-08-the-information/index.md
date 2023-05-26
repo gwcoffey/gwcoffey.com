@@ -1,7 +1,7 @@
 ---
 title: The Information
 date: 2023-01-08
-summary: Nonfiction by James Gleick 
+summary: It's hard to overstate how excellent this book is… 
 ---
 
 {{< booklist/book

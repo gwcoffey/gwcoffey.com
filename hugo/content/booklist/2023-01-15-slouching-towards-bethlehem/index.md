@@ -1,7 +1,7 @@
 ---
 title: Slouching Towards Bethlehem
 date: 2023-01-15
-summary: Essays by Joan Didion 
+summary: This book came so highly recommended from a friend that I suppose my expectations were out of whack… 
 ---
 
 {{< booklist/book

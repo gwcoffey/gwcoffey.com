@@ -1,7 +1,7 @@
 ---
 title: I Am the Most Interesting Book of All
 date: 2023-03-21
-summary: A diary by Marie Bashkirtsef 
+summary: Marie Bashkirtsef painted one of my all-time favorite portraits. She also plays a role in one of my all-time favorite memoirs… 
 ---
 
 {{< booklist/book

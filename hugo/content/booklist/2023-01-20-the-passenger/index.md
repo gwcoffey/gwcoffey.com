@@ -1,7 +1,7 @@
 ---
 title: The Passenger
 date: 2023-01-20
-summary: A novel by Cormac McCarthy 
+summary: This book is a minor miracle. It is just as beautiful and introspective as McCarthy's best books, with fewer pretensions… 
 ---
 
 {{< booklist/book

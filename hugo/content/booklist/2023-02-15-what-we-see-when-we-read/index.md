@@ -1,7 +1,7 @@
 ---
 title: What We See When We Read
 date: 2023-02-15
-summary: Nonfiction by Peter Mendelsund
+summary: This is not so much a book as a collection of images and ideas that somehow, against all odds, condense into something deeply thought-provoking…
 ---
 
 {{< booklist/book

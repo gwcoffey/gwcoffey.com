@@ -1,7 +1,7 @@
 ---
 title: The Samurai
 date: 2023-04-12
-summary: Historical fiction by Shūsaku Endō
+summary: This book definitely didn't disappoint. As you would expect it is beautifully and thoughtfully written…
 ---
 
 {{< booklist/book

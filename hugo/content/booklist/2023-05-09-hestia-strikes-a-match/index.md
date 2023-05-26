@@ -1,7 +1,7 @@
 ---
 title: Hestia Strikes a Match
 date: 2023-05-09
-summary: A novel by Christine Grillo
+summary: "I feel like this line captures the vibe of this whole book: \"I barely knew how to receive the sweetness of it.\""
 ---
 
 {{< booklist/book
