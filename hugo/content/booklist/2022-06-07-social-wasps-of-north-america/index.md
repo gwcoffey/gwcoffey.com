@@ -1,7 +1,7 @@
 ---
 title: The Social Wasps of North America
 date: 2022-06-07
-summary: 'Nonfiction by Chris Alice Kratzer'
+summary: Kratzer posted to twitter about this labor of love. A self-published encyclopedia of such a wonderfully minutely massive subject…
 ---
 
 {{< booklist/book
