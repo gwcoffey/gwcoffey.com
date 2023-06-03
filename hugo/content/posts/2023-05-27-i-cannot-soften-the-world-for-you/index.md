@@ -2,6 +2,8 @@
 title: I cannot soften the world for you
 date: 2023-05-27
 summary: A Poem
+aliases: 
+  - 2023-05-27-how-to-be-hard
 tags:
 - Poetry
 ---
@@ -21,7 +23,7 @@ tags:
 {{< poem/stanza
     "I cannot light the world for you,"
     "but I can teach you that there is no such thing as darkness."
-    "   What we call night is only the shadow of this whole world."
+    "   What we call night is only the shadow of the whole world."
     "   And that shadow I would not take from you,"
     "   even if I could."
 >}}
