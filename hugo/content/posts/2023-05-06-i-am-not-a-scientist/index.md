@@ -1,5 +1,5 @@
 ---
-title: I Am Not A Scientist
+title: I Am Not a Scientist
 date: 2023-05-06
 summary: A Poem
 tags:

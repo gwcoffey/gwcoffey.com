@@ -1,4 +1,6 @@
 {{- $images := .Resources.ByType "image" -}}
+<!-- don't show the preview image (if any) as a thumbnail -->
+{{- $images = where $images "Name" "!=" "preview.png"}}
 
 	{{- if gt (len $images) 0 -}}
 	<div class="thumbs">
