@@ -1,5 +1,5 @@
 ---
-title: How to be Hard
+title: I cannot soften the world for you
 date: 2023-05-27
 summary: A Poem
 tags:

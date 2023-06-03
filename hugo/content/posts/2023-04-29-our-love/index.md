@@ -1,5 +1,5 @@
 ---
-title: Our Love
+title: Our love is the embers of an hours old fire
 date: 2023-04-29
 summary: A poem.
 slug: our-love

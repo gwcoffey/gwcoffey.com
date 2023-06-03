@@ -1,5 +1,5 @@
 ---
-title: I Have Run Out Of Ways
+title: I have run out of ways to say I love you
 date: 2023-04-22
 summary: A poem.
 slug: i-have-run-out-of-ways
