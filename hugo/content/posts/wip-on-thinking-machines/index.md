@@ -305,19 +305,12 @@ After all those steps don't look like anything you'd recognize as "math". But tr
 
 To understand why we can be sure the computer doesn't understand math, we need to  
 
-<template id="computer">
-    <slot name="controls">[form]</slot>
-    <ol class="universe"></ol>
-    <ol class="steps"></ol>
-    <div>
-        <button>Start</button>
+<figure id="simple-adder" class="interactive">
+    <div class="figure-item">
+        <visual-computer />
     </div>
-</template>
-
-<template id="transform-step">
-    <li data-step="transform">
-        <span><slot name="condition">NEED CONDITION</slot></span>
-        →
-        <span><slot name="action">NEED ACTION</slot></span>
-    </li>
-</template>
+    <figcaption>
+        <h4>Our Computer</h4>
+        <p>Change the inputs above, then click Start to see our computer run.</p>
+    </figcaption>
+</figure>
