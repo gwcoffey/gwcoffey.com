@@ -8,7 +8,7 @@ summary: This is a beautifully imagined, wholly original love letter to Lagos, N
 title="Lagoon"
 author="Nnedi Okorafor"
 cover="cover.jpg"
-format="Pring" >}}
+format="Print" >}}
 
 This is a beautifully imagined, wholly original love letter to Lagos, Nigeria in the form of a science fiction alien invasion story. But not the kind of alien invasion you're probably imagining. *Lagoon* asks more questions that it answer (in a good way!) and it is shot through with pride and hope for Okorafor's Nigerian home-away-from-home.
 
