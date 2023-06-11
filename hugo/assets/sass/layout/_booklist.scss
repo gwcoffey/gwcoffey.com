@@ -1,9 +1,11 @@
-div.book {
-	display: grid;
-	grid-template-columns: 181px 1fr;
-	margin-bottom: 1em;
+@media (min-width: 800px) {
+	div.book {
+		display: grid;
+		grid-template-columns: 181px 1fr;
+		margin-bottom: 1em;
 
-	figure {
-		width: 181px;
+		figure {
+			width: 181px;
+		}
 	}
 }
