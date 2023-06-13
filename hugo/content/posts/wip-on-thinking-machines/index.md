@@ -307,7 +307,7 @@ To understand why we can be sure the computer doesn't understand math, we need t
 
 <figure id="simple-adder" class="interactive">
     <div class="figure-item">
-        <visual-computer />
+        <visual-computer id="testComputer"></visual-computer>
     </div>
     <figcaption>
         <h4>Our Computer</h4>

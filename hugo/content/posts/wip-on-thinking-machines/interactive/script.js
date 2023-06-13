@@ -92,36 +92,99 @@
 //     buildComputer(simpleAdder, document.querySelector("#simple-adder"));
 // });
 
-const TMPL_MEMORY = Object.assign(document.createElement("template"), {
-    innerHTML: "<ol class=\"universe\"></ol>"});
-
-const TMPL_BIT = Object.assign(document.createElement("template"), {
-    innerHTML: "<li><div></div></li>"});
-
-customElements.define('visual-computer', class extends HTMLElement {
-
-
-    static get observedAttributes() {
-        return ['size'];
-    }
-
-    constructor() {
-        super();
-        this.size = 8;
-    }
-
-    attributeChangedCallback(property, oldValue, newValue) {
-        if (oldValue === newValue) return;
-        this[ property ] = newValue;
-    }
-
-    connectedCallback() {
-        const shadow = this.attachShadow({ mode: 'closed' });
-        const memory = TMPL_MEMORY.content.cloneNode(true);
-        for (let i = 0; i < this.size; i++) {
-            memory.querySelector("ol").appendChild(TMPL_BIT.content.cloneNode(true));
+(() => {
+    class Template {
+        constructor(src) {
+            this.element = document.createElement("template");
+            this.element.innerHTML = src;
         }
 
-        shadow.appendChild(memory);
+        use() {
+            return this.element.content.cloneNode(true);
+        }
     }
+
+    const TMPL_MEMORY = new Template(`
+        <style>
+            ol.memory {
+                --slot-size: 30px;
+                position: relative;
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: center;
+                counter-reset: memory;
+            }
+            
+            ol.memory li {
+                text-align: center;
+                counter-increment: memory;
+            }
+            
+            ol.memory li::before {
+                content: counter(memory, upper-latin);
+                color: #777;
+                font-size: smaller;
+            }
+                        
+            ol.memory div {
+                margin: 4px;
+                width: var(--slot-size);
+                height: var(--slot-size);
+                border: 1px dotted rgb(100, 100, 230);
+            }
+        </style>
+        <ol class="memory"></ol>
+    `);
+
+    const TMPL_BIT = new Template(`<li><div></div></li>`);
+
+    customElements.define('visual-computer', class extends HTMLElement {
+        static get observedAttributes() {
+            return ['size'];
+        }
+
+        constructor() {
+            super();
+            this.size = 8;
+        }
+
+        // attributeChangedCallback(property, oldValue, newValue) {
+        //     if (oldValue === newValue) return;
+        //     this[ property ] = newValue;
+        //
+        //     this.memory = new Array(this.size);
+        // }
+
+        connectedCallback() {
+            const shadow = this.attachShadow({ mode: 'closed' });
+            this.element = TMPL_MEMORY.use();
+            for (let i = 0; i < this.size; i++) {
+                this.element.querySelector("ol").appendChild(TMPL_BIT.use());
+            }
+
+            shadow.appendChild(this.element);
+        }
+
+        draw() {
+            const bits = this.element.querySelectorAll(".memory li");
+            this.memory.forEach((v, i) => bits[i].dataset["set"] = v);
+        }
+
+        setEncoder(encodeFn) {
+            this.encodeFn = encodeFn;
+        }
+
+        encode() {
+            //this.encodeFn(this.memory);
+            this.draw();
+        }
+    });
+})();
+
+window.addEventListener("DOMContentLoaded", () => {
+    var testComputer = document.getElementById("testComputer");
+    testComputer.setEncoder((mem) => {console.log("encoding"); mem[1] = true});
+    testComputer.encode();
 });
