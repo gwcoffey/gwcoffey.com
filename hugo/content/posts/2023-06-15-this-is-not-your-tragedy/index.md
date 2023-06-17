@@ -1,14 +1,13 @@
 ---
 title: "This Is Not Your Tragedy"
-date: 2022-12-11
-draft: true
+date: 2023-06-15
 tags:
   - Short Fiction
 ---
 
-It’s after ten o’clock and they’ve been at it since seven in the morning. Now finally they’re done and the buzz of a big release is slowly wearing off, replaced by the fog and exhaustion of fifteen hours of mental taxation.
+It’s after ten o’clock and they’ve been at it since seven in the morning. Now finally they’re done and the buzz of a big release is slowly wearing off, replaced by the exhaustion of fifteen hours of mental taxation.
 
-Ben says “I’ve got this,” as he gathers up the cups, paper plates, and mostly empty pizza boxes. “You all go on.” It’s a job for one — he’s really almost done — and so they do go on. The motion activated lights switch on just ahead of them as they pass through the hall and out the office lobby. Most of the group heads to the right, towards the parking lot, but Gary cuts left.
+Ben says “I’ve got this,” as he gathers the cups, paper plates, and mostly empty pizza boxes. “You all go on.” It’s a job for one—he’s really almost done—and so they do go on. The motion activated lights switch on just ahead of them as they pass through the hall and out the office lobby. Most of the group heads to the right, towards the parking lot, but Gary cuts left.
 
 “You taking the train?”
 
@@ -28,7 +27,7 @@ He walks past buildings with just a window or two lit from within. The street is
 
 It’s called the westbound train because where it ends is west of where it starts. But for almost all of his ride the train actually runs due north. Only a hundred feet or so before his stop does it turn sharply and then it really is going west. This turn, in its way, frees him to unwind, to pay no attention to his surroundings, almost even to sleep a little on days like today. He can almost imagine that he’s the one who moves the train. He can almost imagine that he wakes by his own power when the moment comes. But it’s the turn — the shifting of weight through the turn really — that brings him back around, lets him know it’s almost time to stand, exit, and make the short walk home.
 
-This time of night the train is almost always empty, or very close to it. Today he shares the car with only one person, a young woman who reminds him a little of his oldest daughter. She is about the right age, just on the edge of adulthood. But she is Black and his daughter is white. Not that it matters, he says to himself. They do not make eye contact. He sits in his usual seat, all the way in the back, train left, facing forward. He leans his weight into the corner there where the back wall and window come together. It’s a matter of small degrees but this one seat is ever so slightly more comfortable than all the others if you want to rest. The hood of his jacket is pulled over his head to block the harsh interior light that bothers his tired eyes. He watches the paler warmer lights of the city reflect on the round droplets of rain on the window. The street lights and traffic lights are reflected clearly when the train is stopped, but when the train is moving that clarity is disturbed periodically by small and sudden vibrations. He wonders what causes these vibrations. Only after watching and wondering about this for a few minutes does he realize it is his own head, bouncing gently against the large flat pane of glass as the train car jostles, that shakes the window. He taps the glass with a finger tip and it diffuses a thousand pinpricks of red and yellow light in a thousand individual drops. While the train moves, if he is careful not to disturb the scene, the effect of the droplets is intensified. Each drop contains a small microcosm of the entire outside scene. The way they all move at once, but each slightly different, gives him the impression he’s looking through so many peepholes into so many different universes. 
+This time of night the train is almost always empty, or very close to it. Today he shares the car with only one person, a young woman who reminds him a little of his oldest daughter. She is about the right age, just on the edge of adulthood. But she is Black and his daughter is white. Not that it matters, he says to himself. They do not make eye contact. He sits in his usual seat, all the way in the back, train left, facing forward. He leans his weight into the corner there where the back wall and window come together. It’s a matter of small degrees but this one seat is ever so slightly more comfortable than all the others if you want to rest. The hood of his jacket is pulled over his head to block the harsh interior light that bothers his tired eyes. He watches the paler warmer lights of the city reflect on the round droplets of rain on the window. The street lights and traffic lights are reflected clearly when the train is stopped, but when the train is moving that clarity is disturbed periodically by small and sudden vibrations. He wonders what causes these vibrations. Only after watching and wondering about this for a few minutes does he realize it is his own head, bouncing gently against the large flat pane of glass as the train car jostles, that shakes the window. He taps the glass with a finger tip and it diffuses a thousand pinpricks of red and yellow light in a thousand individual drops. While the train moves, if he is careful not to disturb the scene, the effect of the droplets is intensified. Each drop contains a small microcosm of the entire outside scene. The way they all move at once, but each slightly different, gives him the impression he’s looking through so many peepholes at so many different possibilities. 
 
 For some reason this image engages him so intensely that he misses the turn completely. He almost misses the stop. When he does realize, the door is already open. It is apparently open only for him because now he is completely alone in the train. He jumps from his seat and jogs to the door, catching it just as it starts to close. It beeps impatiently at him but yields and he steps out into his neighborhood. Only then does he realize the young woman has herself just exited. She is some ten or twelve paces ahead of him on the platform. He isn’t following her, but he’s following her. She turns right. He isn’t following her but he turns right too. She glances back discretely and hurries her pace almost imperceptibly. Only then does he realize: She is worried. He feels something between dismay and incredulity. He thinks for a moment of slowing down. Stopping even to let her continue on, through the next light. But she has no reason to be scared of him. Him of all people. As well, its a public street. He has every right to be here. She reaches the intersection and waits for the light. He closes the distance but holds back a few paces giving her space. They cross together, he some steps behind her. He can see pools of light from the intermittent street lights block after block ahead. The way is shadowed deeply in the spaces between. She glances back, quickens. He keeps his pace calm and steady. No reason for her to be afraid. She hugs her bag closer to her body. She is entering one of the dark places now.
 
@@ -42,7 +41,7 @@ The car slid to a stop, turning sideways in the street. He ran to them but he ha
 
 ***
 
-He would remember for the rest of his life that the police officer was supernaturally kind. She put her hand on his shoulder as he sat on the curb.
+He would remember for the rest of his life that the police officer was preternaturally kind. She put her hand on his shoulder as he sat on the curb.
 
 “You take your time,” she said.
 
@@ -58,11 +57,11 @@ He stared at his hands.
 
 “And you scared her?”
 
-“Well it’s late. It’s dark. She was scared.”
+“Well it’s late. It’s dark. She *was scared*.”
 
 “By your presence?”
 
-He almost whispered, “by my presence.” And then, not in a whisper, “But I didn’t *do* anything. I didn’t do anything at all! I would never… I’m just a regular guy.”
+He almost whispered, “by my presence.” And then, not in a whisper, “But I didn’t *do* anything. I didn’t do anything at all! I would never… I’m a nice guy.”
 
 The officer bore an expression of deepest patience and understanding. “Mr. Waters, I understand how you feel. You can’t blame yourself for what happened here. You were a witness to a tragic accident. It’s going to be ok. Can I call someone for you?”
 
@@ -124,7 +123,7 @@ Why had he never cried about this. Not even once? He was a few yards off, unsure
 
 She winced so discretely he could never be sure it was really there. “I see,” she said. “Well Mr. Waters.” (How did she know his name?) “I do appreciate you coming to give your condolences. It was kind of you. I’m sure this experience was difficult for you. And now, I think if it would be alright, we would like to be together as a family.”
 
-She turned and went back to the group. Several people in the group gave here questioning looks but she only shook her head as if to say: Not now. Not here. It doesn’t matter.
+She turned and went back to the group. Several people in the group gave her questioning looks but she only shook her head as if to say: Not now. Not here. It doesn’t matter.
 
 ***
 
