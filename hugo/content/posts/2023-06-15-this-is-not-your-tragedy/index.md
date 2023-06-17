@@ -6,7 +6,7 @@ tags:
 ---
 
 It’s after ten o’clock and they’ve been at it since seven in the morning. Now finally they’re done and the buzz of a big release is slowly wearing off, replaced by the exhaustion of fifteen hours of mental taxation.
-
+<!--more-->
 Ben says “I’ve got this,” as he gathers the cups, paper plates, and mostly empty pizza boxes. “You all go on.” It’s a job for one—he’s really almost done—and so they do go on. The motion activated lights switch on just ahead of them as they pass through the hall and out the office lobby. Most of the group heads to the right, towards the parking lot, but Gary cuts left.
 
 “You taking the train?”
