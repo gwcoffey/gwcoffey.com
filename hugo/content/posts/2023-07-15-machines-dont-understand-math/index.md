@@ -14,7 +14,7 @@ I *suspect* that computers are not much closer to anything like real intelligenc
 
 [singularity]: https://en.wikipedia.org/wiki/Technological_singularity
 
-When ChatGPT says something "intelligent" about a poem you wrote, you can't help but wonder what's going on inside it's head. It's hard to reason about how it does the things it does without falling into the trap of assuming some kind of "understanding." A lot has been written about that, and of course if you look closely, the illusion of intelligence even in this very advanced system shows obvious cracks. But let's set it aside. Instead, let's look at something computers are undeniably good at: **Math**. 
+When ChatGPT says something "intelligent" about a poem you wrote, you can't help but wonder what's going on inside it's head. It's hard to reason about how it does the things it does without falling into the trap of assuming some kind of "understanding." A lot has been written about that, and of course if you look closely, the illusion of intelligence even in this very advanced system shows obvious cracks. But let's set it aside. Instead, let's look at something computers are undeniably good at: **math**. 
 
 Computers are *way* better at arithmetic than they are at language. And the thing is, *computers don't really understand math either*. 
 
@@ -169,7 +169,7 @@ And that's it. We can now encode the input in a way the computer can use. Hopefu
 
 With our input encoded in binary we're ready to give the computer instructions. We want the computer to transform this bit of binary into something different. And that something different is also binary (remember, binary is all the computer can handle).
 
-Let's look at an example. Suppose we want to add `1+2`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
+Let's look at an example. Suppose we want to add `1 + 3`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
 
 <figure>
     <div class="figure-item">
@@ -178,8 +178,8 @@ Let's look at an example. Suppose we want to add `1+2`. If we encode this in bin
             <li><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
-            <li data-full="true"><div></div></li>
             <li><div></div></li>
+            <li data-full="true"><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
             <li><div></div></li>
@@ -190,16 +190,16 @@ Let's look at an example. Suppose we want to add `1+2`. If we encode this in bin
     </div>
     <figcaption>
         <h4>The Setup</h4>
-        <p>Remember the first three spots hold our first number (<code>1</code>) and the next three hold the second number (<code>2</code>). We also left six spaces to hold the answer.</p>
+        <p>Remember the first three spots hold our first number (<code>1</code>) and the next three hold the second number (<code>3</code>). We also left six spaces to hold the answer.</p>
     </figcaption>
 </figure>
 
 The job of the transformation instructions is to add things to, or remove things from this twelve-unit binary universe such that, when it's done, we can then *decode* the binary data to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
 
 1. If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
-2. Otherwise, if `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
-3. Otherwise, if `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`
-4. Otherwise, copy `D`, `E`, and `F` into `G`, `H`, and `I`
+2. If `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
+3. If `C` is set, copy `D`, `E`, and `F` into `J`, `K`, and `L`
+4. If none of `A`, `B`, or `C` is set, copy `D`, `E`, and `F` into `G`, `H`, and `I`
 
 (There are many ways to do this. I'm sure if you spent some time thinking about it, you could come up with completely different instructions that, in the end, give the same result.) 
 
@@ -243,7 +243,7 @@ This program doesn't just work for `1+3`. It will work for *any* allowed input v
 In fact the basic kind of addition you learned in school—where you line up the numbers and add the columns one by one (don't forget to carry the one!)—is a kind of human-program technically called [algorismus][algo]. And it was *invented* by [Muhammad ibn Musa al-Khwarizmi][alk] over a thousand years ago. (Interestingly, it gave us the english word *algorithm*, which today is what we call the transformation steps in programming.) So the fact that our computer uses a surprising algorithm to do math doesn't really tell us much. But let's see what happens if we use a different encoding.
 
 [algo]: https://en.wikipedia.org/wiki/Algorism
-[alk]: https://en.wikipedia.org/wiki/Algorism
+[alk]: https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi
 
 ---
 
@@ -371,11 +371,13 @@ Of course to *read* the answer we have to decode it. When we do, we'll see we go
 
 And now we see the problem with trying to claim computers understand math. We have two programs for adding small numbers. The actual transformation steps are completely different.  But both work perfectly, assuming you give them data with the right encoding, and decode the result in the right way.  
 
-And here's the rub: *The computer has no idea what encodings you're using.* It is only concerened with the translation steps. In fact, if you apply the *first* program to the *second* encoding, you get a perfectly valid program that does a form of multiplication. (It isn't exactly multiplication. It's kind of "round the first number to the nearest perfect square, then multiply that by the second number.")
+And here's the rub: *The computer has no idea what encodings you're using.* It is only concerened with the translation steps. In fact, if you apply the *first* program to the *second* encoding, you get a perfectly valid program that does a form of multiplication. (It isn't exactly multiplication. It's kind of "round the first number up to the next perfect square, then multiply that by the second number.")
 
-What a program *does* depends entirely on the encoding. Even if you assume the computer can somehow reason about the encodings (it can't) to make sense of things, *the same program* may do something *completely different* and yet *perfectly valid* with different encodings. Such a magical device would have no way to be sure we're doing addition here and not some kind of weird multiplication. And of course those are only two potential encodings. I'm sure a clever person could devise some other encoding that makes our same program do something different and arguably useful.
+What a program *does* depends entirely on the encoding. Even if you assume the computer can somehow reason about the encodings (it can't) to make sense of things, *the same program* may do something *completely different* and yet *perfectly valid* with *the same data* if the user assumes different encodings. Such a magical device would have no way to be sure we're doing addition here and not some kind of weird multiplication. And of course those are only two potential encodings. I'm sure a clever person could devise some other encoding that makes our same program do something different and arguably useful.
 
-Encoding is always done by a person. There is nothing in the program to tell the computer what the encoding "means" or how we plan to decode the result. Now I know what you're thinking: when you use the calculator on your phone you definitely don't encode the inputs yourself and decode the output. But that's because the input to the math transformation is the encoded output of some other program carefully planned by a person. And the input to that transformation is, itself, the encoded output of yet another program. It's turtles all the way down. Well not all the way because these turtles are all standing on you.
+Encoding is always done by a person. There is nothing in the program to tell the computer what the encoding "means" or how we plan to decode the result.
+
+Now I know what you're thinking: when you use the calculator on your phone you definitely don't encode the inputs yourself and decode the output. But that's because the input to the math transformation is the encoded output of some other program carefully planned by a person. And the input to that transformation is, itself, the encoded output of yet another program. It's turtles all the way down. Well not all the way because these turtles are all standing on you.
 
 At a high level, here's what's actually happening when you tap out `1 + 3` in the calculator app:
 
@@ -396,10 +398,10 @@ In fact in the earliest computers, all this raw encoding was done entirely by ha
 
 So the computer does not know math. But do we?
 
-I think the more interesting questions raised by continued advancements in "AI" are centered on what *we* understand. What does it mean to "understand math" in the first place? I can't shake the feeling that people did math for thousands of years before they began to attempt to define it. And it took thousands more years to arrive at [the accepted definition][sets]. That definition is so esoteric as to be essentially useless to anyone not actively studying advanced mathematics. Surely that isn't what it means to "know" math. Or if it is, then almost nobody in the world knows math. 
+I think the more interesting questions raised by continued advancements in "AI" are centered on what *we* understand. What does it mean to "understand math" in the first place? I can't shake the feeling that people did math for thousands of years before they began to attempt to define it. And it took thousands more years to arrive at [the accepted definition][sets]. That definition is so esoteric as to be essentially useless to anyone not actively studying advanced mathematics. Surely that isn't what it means to "know" math. Or if it is, then almost nobody in the world knows math.
 
-[sets]: https://en.wikipedia.org/wiki/Set_theory
+[sets]: https://en.wikipedia.org/wiki/Zermelo–Fraenkel_set_theory
 
-No, I think when we say we understand math (even just basic arithmetic) we mean that while doing it we have some higher internal sense of what it means *to us*. When you see two apples on the counter, and three in the bowl, math tells you you have five apples. And that means you can make an apple pie. That's what the math *means*. It means you can have pie. And why do you want pie? Phew, that's a big question, involving evolution—which doesn't apply to machines—and psychology, which is in a sense the study of our inability to comprehend our own mental function.
+No, I think when we say we understand math (even just basic arithmetic) we mean that while doing it we have some higher internal sense of what it means *to us*. When you see two apples on the counter, and three in the bowl, math tells you you have five apples. And that means you can make an apple pie. That's what the math *means*. It means you can have pie. And why do you want pie? Phew, that's a big question, involving evolution—which doesn't apply to machines—and psychology, which is in a sense the study of our inability to comprehend our own mental function, quite distinct from machines.
 
 But computers don't want pie. They don't want *anything* because they are *tools*. So maybe a computer can be as "smart" as you can imagine, but until it *wants something*, it can't really *understand anything*. Maybe we shouldn't be asking what it means to be intelligent. Instead we should be asking what it means to want.
