@@ -159,7 +159,7 @@ Now that we have an encoding, we need to think about how to fit an addition prob
     </figcaption>
 </figure>
 
-And that's it. We can now encode the input in a way the computer can use. Hopefully it's clear that this encoding schema can unambiguously handle any numbers we throw at it, as long as those numbers are integers, not negative, and no larger than three. This is pretty limiting, but it will keep the example simple. Of course real computer programs deal with larger numbers, negative numbers, and numbers with decimal points. They do this using [more][2c] [advance][fp] [encodings][bcd]. (And as we'll discuss later, even for this simple case, the encoding we've defined isn't a very good one.)
+And that's it. We can now encode the input in a way the computer can use. Hopefully it's clear that this encoding scheme can unambiguously handle any numbers we throw at it, as long as those numbers are integers, not negative, and no larger than three. This is pretty limiting, but it will keep the example simple. Of course real computer programs deal with larger numbers, negative numbers, and numbers with decimal points. They do this using [more][2c] [advance][fp] [encodings][bcd]. (And as we'll discuss later, even for this simple case, the encoding we've defined isn't a very good one.)
 
 ---
 
