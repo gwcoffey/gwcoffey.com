@@ -14,7 +14,7 @@ I *suspect* that computers are not much closer to anything like real intelligenc
 
 [singularity]: https://en.wikipedia.org/wiki/Technological_singularity
 
-When ChatGPT says something "intelligent" about a poem you wrote, you can't help but wonder what's going on inside it's head. It's hard to reason about how it does the things it does without falling into the trap of assuming some kind of "understanding". A lot has been written about that, and of course if you look closely, the illusion of intelligence even in this very advanced system shows obvious cracks. But let's set it aside. Instead, let's look at something computers are undeniably good at: **Math**. 
+When ChatGPT says something "intelligent" about a poem you wrote, you can't help but wonder what's going on inside it's head. It's hard to reason about how it does the things it does without falling into the trap of assuming some kind of "understanding." A lot has been written about that, and of course if you look closely, the illusion of intelligence even in this very advanced system shows obvious cracks. But let's set it aside. Instead, let's look at something computers are undeniably good at: **Math**. 
 
 Computers are *way* better at arithmetic than they are at language. And the thing is, *computers don't really understand math either*. 
 
@@ -77,7 +77,7 @@ As an aside, this realization—that we can *represent* almost any useful thing 
 
 She was talking about encoding in the way we think of it today, but nobody took her seriously until Alan Turing wrote an influential paper generalizing this a hundred years later. And even then it took twenty more years before people really began to get it.
 
-In practice the binary micro-universe of the physical computer can take many forms. In modern computers, it is sometimes represented by high and low voltage, by pools of electrons, by magnetic polarity, holes punched in paper, or even by blurry spots on an otherwise crystal-clear mirror. And yes, even as ones and zeroes printed on long skinny paper tape. Engineers have dreamed up countless *physical embodiments* of the binary universe. But none of that matters to how the conceptual computer actually computes.
+In practice the binary micro-universe of the physical computer can take many forms. In modern computers, it is sometimes represented by high and low voltage, by pools of electrons, by magnetic polarity, holes punched in paper, or even blurry spots on an otherwise crystal-clear mirror. And yes, even as ones and zeroes printed on long skinny paper tape. Engineers have dreamed up countless *physical embodiments* of the binary universe. But none of that matters to how the conceptual computer actually computes.
 
 ---
 
@@ -163,11 +163,11 @@ Now that we have an encoding, we need to think about how to fit an addition prob
     </figcaption>
 </figure>
 
-And that's it. We can now encode the input in a way the computer can use. Hopefully it's clear that this encoding schema can unambiguously handle any numbers we throw at it, as long as those numbers are integers, not negative, and no larger than three. This is pretty limiting, but it will keep the example simple. Of course real computer programs deal with larger numbers, negative numbers, and numbers with decimal points. They do this using [more][2c] [advance][fp] [encodings][bcd]. (And as we'll discuss later, even for this simple use case, the encoding we've defined isn't a very good one.)
+And that's it. We can now encode the input in a way the computer can use. Hopefully it's clear that this encoding schema can unambiguously handle any numbers we throw at it, as long as those numbers are integers, not negative, and no larger than three. This is pretty limiting, but it will keep the example simple. Of course real computer programs deal with larger numbers, negative numbers, and numbers with decimal points. They do this using [more][2c] [advance][fp] [encodings][bcd]. (And as we'll discuss later, even for this simple case, the encoding we've defined isn't a very good one.)
 
 ---
 
-With our input encoded in binary we're ready to give the computer instructions. We want the computer to *transform* this bit of binary into something different. And that something different is also binary (remember, binary is all the computer can handle).
+With our input encoded in binary we're ready to give the computer instructions. We want the computer to transform this bit of binary into something different. And that something different is also binary (remember, binary is all the computer can handle).
 
 Let's look at an example. Suppose we want to add `1+2`. If we encode this in binary, and leave a little space in which to put the answer, we have this:
 
@@ -194,7 +194,7 @@ Let's look at an example. Suppose we want to add `1+2`. If we encode this in bin
     </figcaption>
 </figure>
 
-The job of the transformation instructions is to add and/or remove things from this twelve-unit binary universe such that, when it's done, we can then *decode* the binary data to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
+The job of the transformation instructions is to add and things to, or remove things from this twelve-unit binary universe such that, when it's done, we can then *decode* the binary data to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
 
 1. If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
 2. Otherwise, if `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
@@ -333,7 +333,7 @@ Adding just this position actually lets us represent even more than four. We can
     </figcaption>
 </figure>
 
-One way to think about this encoding is each "place" `n` has a "value" of `2`<sup>`n-1`</sup>. So the first place has a value of `1`: `2`<sup>`0`</sup>. The second has a place value of `2`: `2`<sup>`1`</sup>. And so on. And the encoded value is just the sum of each of the place values that are filled in. (If you're a logically-minded person you may notice that this encoding scheme is conceptually similar to the way we normally write numbers on paper using the ones place, the tens place etc… And that's when you realize what you might be calling *numbers* are really just a non-binary *encoding* of numbers. But then what is the number? Don't get ahead of me…)
+One way to think about this encoding is each "place" `n` has a "value" of `2`<sup>`n-1`</sup>. So the first place has a value of `2`<sup>`0`</sup> `= 1`. The second has a place value of `2`<sup>`1`</sup> `= 2`. And so on. And the encoded value is just the sum of each of the place values that are filled in. (If you're a logically-minded person you may notice that this encoding scheme is conceptually similar to the way we normally write numbers on paper using the ones place, the tens place etc… And that's when you realize what you might be calling *numbers* are really just a non-binary *encoding* of numbers. But then what is the number? Don't get ahead of me…)
 
 If we switch to this encoding, our original transformation steps won't work anymore. We need an entirely different set of steps add two numbers with this encoding. In fact if you play with this a bit you'll see this is much more complicated. Something like this will work:
 
@@ -343,23 +343,23 @@ If we switch to this encoding, our original transformation steps won't work anym
 4. If `A` and `C` are not both set, and `B` or `D` are set, but not both, then set `F`
 5. If `B` and `D` are both set, then set `G`
 
-Again, here's the result of adding `1 + 2`:
+Again, here's the result of adding `1 + 3`:
 
 <figure>
     <div class="figure-item">
         <ol class="universe">
             <li data-full="true"><div></div></li>
             <li><div></div></li>
-            <li><div></div></li>
-            <li data-full="true"><div></div></li>
             <li data-full="true"><div></div></li>
             <li data-full="true"><div></div></li>
             <li><div></div></li>
+            <li><div></div></li>
+            <li data-full="true"><div></div></li>
         </ol>
     </div>
     <figcaption>
         <h4>A More Complex Transformation</h4>
-        <p>This is the full encoded result after transformation when adding <code>1 + 2</code>. The first two spots represent <code>1</code>. Spots <code>C</code> and <code>D</code> represent <code>2</code>. And spots <code>E</code>, <code>F</code>, and <code>G</code> hold the answer: <code>3</code></p>
+        <p>This is the full encoded result after transformation when adding <code>1 + 3</code>. The first two spots represent <code>1</code>. Spots <code>C</code> and <code>D</code> represent <code>3</code>. And spots <code>E</code>, <code>F</code>, and <code>G</code> hold the answer: <code>4</code></p>
     </figcaption>
 </figure>
 
@@ -373,9 +373,9 @@ And here's the rub: *The computer has no idea what encodings you're using.* It i
 
 What a program *does* depends entirely on the encoding. Even if you assume the computer can somehow reason about the encodings (it can't) to make sense of things, *the same program* may do something *completely different* and yet *perfectly valid* with different encodings. Such a magical device would have no way to be sure we're doing addition here and not some kind of weird multiplication. And of course those are only two potential encodings. I'm sure a clever person could devise some other encoding that makes our same program do something different and arguably useful.
 
-And encoding is always done by a person. There is nothing in the program to tell the computer what the encoding "means" or how we plan to decode the result.
+Encoding is always done by a person. There is nothing in the program to tell the computer what the encoding "means" or how we plan to decode the result. Now I know what you're thinking: when you use the calculator on your phone you definitely don't encode the inputs yourself and decode the output. But that's because the input to the math transformation is the encoded output of some other program carefully planned by a person. And the input to that transformation is, itself, the encoded output of yet another program. It's turtles all the way down. Well not all the way because these turtles are all standing on you.
 
-I know what you're thinking: when you use the calculator on your phone you definitely don't encode the inputs yourself or decode the output. But that's because a programmer designed the system to do that encoding for you. In some sense, what is actually happening when you tap out `1 + 2` in the calculator app is:
+At a high level, here's what's actually happening when you tap out `1 + 3` in the calculator app:
 
 1. The phone is showing a picture on the screen that looks like a real calculator.
 2. You touch parts of that picture.
@@ -390,7 +390,7 @@ So at a high level, you started with a picture drawn by hand by a person, and fi
 
 ---
 
-The computer does not know math. Do we?
+So the computer does not know math. But do we?
 
 I think the more interesting questions raised by continued advancements in "AI" are centered on what *we* understand. What does it mean to "understand math" in the first place? I can't shake the feeling that people did math for thousands of years before they began to attempt to define it. And it took thousands more years to arrive at [the accepted definition][sets]. That definition is so esoteric as to be essentially useless to anyone not actively studying advanced mathematics. Surely that isn't what it means to "know" math. Or if it is, then almost nobody in the world knows math. 
 
@@ -398,4 +398,4 @@ I think the more interesting questions raised by continued advancements in "AI" 
 
 No, I think when we say we understand math (even just basic arithmetic) we mean that while doing it we have some higher internal sense of what it means *to us*. When you see two apples on the counter, and three in the bowl, math tells you you have five apples. And that means you can make an apple pie. That's what the math *means*. It means you can have pie. And why do you want pie? Phew, that's a big question, involving evolution—which doesn't apply to machines—and psychology, which is in a sense the study of our inability to comprehend our own mental function.
 
-But computers don't want pie. They don't want *anything* because they are *tools*. So maybe a computer can be as "smart" as you can imagine, but until it *wants something*, it can't really *understand anything*. Maybe we shouldn't be asking what it means to be intelligent. Instead we should be asking what it means to want…
+But computers don't want pie. They don't want *anything* because they are *tools*. So maybe a computer can be as "smart" as you can imagine, but until it *wants something*, it can't really *understand anything*. Maybe we shouldn't be asking what it means to be intelligent. Instead we should be asking what it means to want.
