@@ -194,7 +194,7 @@ Let's look at an example. Suppose we want to add `1+2`. If we encode this in bin
     </figcaption>
 </figure>
 
-The job of the transformation instructions is to add and things to, or remove things from this twelve-unit binary universe such that, when it's done, we can then *decode* the binary data to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
+The job of the transformation instructions is to add things to, or remove things from this twelve-unit binary universe such that, when it's done, we can then *decode* the binary data to get an answer. But remember the computer is not intelligent, so these instructions have to be very simple, very clear, and very carefully defined. Here's my proposal for a set of transformation instructions:
 
 1. If `A` is set, copy `D`, `E`, and `F` into `H`, `I`, and `J`
 2. Otherwise, if `B` is set, copy `D`, `E`, and `F` into `I`, `J`, and `K`
@@ -228,7 +228,7 @@ If you apply these steps one by one to the input above, you'll quickly discover 
     </figcaption>
 </figure>
 
-### Decoding
+---
 
 With transformation complete, we need to *decode* the answer. In this case, decoding is just doing the encoding in reverse. We look at the last six spaces in our binary data, find the space that's filled in, and count out its position. This count is our "answer".
 
@@ -284,7 +284,7 @@ Suppose the first space still represents `1` and the second space `2`. If we use
     </div>
     <figcaption>
         <h4>A More Efficient Encoding</h4>
-        <p>This is a slight variation on our original encoding. We would say this version is more "efficient" because it only needs two spaces to represent our numbers instead of three.</p>
+        <p>This is a slight variation on our original encoding. We would say this version is more “efficient” because it only needs two spaces to represent our numbers instead of three.</p>
     </figcaption>
 </figure>
 
@@ -335,7 +335,9 @@ Adding just this position actually lets us represent even more than four. We can
 
 One way to think about this encoding is each "place" `n` has a "value" of `2`<sup>`n-1`</sup>. So the first place has a value of `2`<sup>`0`</sup> `= 1`. The second has a place value of `2`<sup>`1`</sup> `= 2`. And so on. And the encoded value is just the sum of each of the place values that are filled in. (If you're a logically-minded person you may notice that this encoding scheme is conceptually similar to the way we normally write numbers on paper using the ones place, the tens place etc… And that's when you realize what you might be calling *numbers* are really just a non-binary *encoding* of numbers. But then what is the number? Don't get ahead of me…)
 
-If we switch to this encoding, our original transformation steps won't work anymore. We need an entirely different set of steps add two numbers with this encoding. In fact if you play with this a bit you'll see this is much more complicated. Something like this will work:
+If we switch to this encoding, our original transformation steps won't work anymore. We need an entirely different set of steps to add two numbers with this encoding. In fact if you play with this a bit you'll see this is much more complicated to pull off than with our simpler encoding. But that's ok. Computers are really good at following instructions.
+
+Something like this will work:
 
 1. If `A` or `C` is set, but not both, then set `E`
 2. If `A` and `C` are both set, and neither `B` nor `D` are set, then set `F`
@@ -387,6 +389,8 @@ At a high level, here's what's actually happening when you tap out `1 + 3` in th
 The actual math is "done" in step 5, but that step doesn't have access to details about the encodings involved. It is only dumbly carrying out the transformation steps. 
 
 So at a high level, you started with a picture drawn by hand by a person, and finger touches aimed by a person, and through a series of encode-translate-decode steps, you ended up with a picture of the answer. Every one of those encode/decode steps was defined by a person thinking about the local problem at hand. 
+
+In fact in the earliest computers, all this raw encoding was done entirely by hand. If you wanted to get those computers to do some math, you had to manually encode your input values into the expected binary form before running the program. And then manually decode the result. Today this process is somewhat more hidden from you because the computing device typically has *input-* and *output-methods* that assume certain encodings and adapt to your senses. Things like screens that show pictures to your eyes and cameras that "see" the world. Touchscreens that interpret your finger movements and vibration motors that trigger your touch sense. And speakers that make sounds you can hear and microphones that can listen to you. All of these have built in encoders and decoders designed by people.
 
 ---
 
