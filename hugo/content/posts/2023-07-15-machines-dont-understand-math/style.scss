@@ -1,0 +1,59 @@
+ol.universe {
+  --slot-size: 50px;
+  position: relative;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  counter-reset: universe;
+
+  li {
+    text-align: center;
+    counter-increment: universe;
+
+    // slot labels
+    &::before {
+      content: counter(universe, upper-latin);
+      color: #777;
+      font-size: smaller;
+    }
+
+    // the actual image container
+    div {
+      margin-top: -5px;
+      width: var(--slot-size);
+      height: var(--slot-size);
+      background-image: url("assets/empty.png");
+      background-size: var(--slot-size) var(--slot-size);
+      overflow: hidden;
+
+      // the scribble to fill it in (height 0 when not filled in)
+      &::after {
+        content: "";
+        display: block;
+        width: var(--slot-size);
+        height: 0;
+        background-image: url("assets/full.png");
+        background-size: var(--slot-size) var(--slot-size);
+      }
+    }
+
+    // make scribble full height when filled in
+    &[data-full="true"] div::after {
+      height: var(--slot-size);
+    }
+  }
+}
+
+.figure-item.encodings {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  .ex p {
+    text-align: center;
+    margin-top: 0;
+    font-family: var(--mono-font);
+    color: var(--deemphasized-text-color);
+  }
+}
