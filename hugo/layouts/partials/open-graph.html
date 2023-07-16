@@ -1,9 +1,17 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="{{ .Permalink }}" />
-{{- with index (.Resources.ByType "image") 0 }}
+
+{{- $images := slice -}}
+{{ range .Resources.ByType "image" }}
+    {{ if not (strings.HasPrefix .Name "assets/") }}
+        {{ $images = $images | append . }}
+    {{ end }}
+{{ end }}
+{{- with index $images 0 }}
 <meta property="og:image" content="{{ .Permalink }}" />
 {{ end -}}
+
 {{- with .Params.description }}
 <meta property="og:description" content="{{ . }}" />
 {{ end -}}
