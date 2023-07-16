@@ -1,16 +1,22 @@
-{{- $images := .Resources.ByType "image" -}}
-<!-- don't show the preview image (if any) as a thumbnail -->
-{{- $images = where $images "Name" "!=" "preview.png"}}
+{{- $images := slice -}}
+{{ range .Resources.ByType "image" }}
+	{{ if not (strings.HasPrefix .Name "assets/") }}
+		{{ $images = $images | append . }}
+	{{ end }}
+{{ end }}
 
-	{{- if gt (len $images) 0 -}}
-	<div class="thumbs">
-		{{ range (first 3 $images) }}
-			{{- $cropTarget := cond 
-				(ne (index .Params "cropTarget") nil) 
-				(index .Params "cropTarget") 
-				"smart" -}}
-			{{- $thumb := .Fill (printf "240x240 %s" $cropTarget) -}}
-			<a href="{{ $.RelPermalink }}" title="{{ $.Title | htmlEscape }}"><img src="{{ $thumb.RelPermalink }}" alt="Thumbnail of post image"></a>
-		{{ end }}
-	</div>
-	{{- end -}}
+<!-- don't show the preview image (if any) as a thumbnail -->
+{{- $images = where $images "Name" "!=" "preview.png" -}}
+
+{{- if gt (len $images) 0 -}}
+<div class="thumbs">
+	{{ range (first 3 $images) }}
+		{{- $cropTarget := cond
+			(ne (index .Params "cropTarget") nil)
+			(index .Params "cropTarget")
+			"smart" -}}
+		{{- $thumb := .Fill (printf "240x240 %s" $cropTarget) -}}
+		<a href="{{ $.RelPermalink }}" title="{{ $.Title | htmlEscape }}"><img src="{{ $thumb.RelPermalink }}" alt="Thumbnail of post image"></a>
+	{{ end }}
+</div>
+{{- end -}}
