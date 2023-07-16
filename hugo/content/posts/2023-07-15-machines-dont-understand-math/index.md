@@ -24,9 +24,10 @@ width="1024" >}}
 
 When we talk about computers we really mean two different things. On the one hand a computer is a machine, with physical parts. I'm pressing the keys of one right now. I think it's fair to say the machine itself doesn't *know anything*. After all it's just a pile of plastic, silicon, copper, and glass.
 
-The other meaning of computer is harder to define. It's the *concept* of computer. This computer represents some kind of logical-mathematical capability that sits, taxonomically, above all those machines. From Babbage's [Analytical Engine][babbage] to experimental quantum computers, this conceptual computer is concerned with what is possible by the creative application of mechanized information theory to various problems.
+The other meaning of computer is harder to define. It's the *concept* of computer. This computer represents some kind of logical-mathematical capability that sits, taxonomically, above all those machines. From Babbage's [Analytical Engine][babbage] to experimental [quantum computers][quantum], this conceptual computer is concerned with what is possible by the creative application of mechanized information theory to various problems.
 
 [babbage]: https://en.wikipedia.org/wiki/Analytical_engine
+[quantum]: https://en.wikipedia.org/wiki/Quantum_computing
 
 Maybe this kind of computer can think?
 
