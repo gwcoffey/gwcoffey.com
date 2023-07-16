@@ -10,10 +10,6 @@ There's a lot of talk right now about *Artificial Intelligence* and "thinking" p
 
 [google]: https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine
 
-I *suspect* that computers are not much closer to anything like real intelligence today than they were thirty years ago. And if I'm wrong—if so-called AI is steadily progressing toward some kind of [singularity][singularity]—it says more about the nature of intelligence itself, and our relationship to it, than it does about computing machines. But I digress.
-
-[singularity]: https://en.wikipedia.org/wiki/Technological_singularity
-
 When ChatGPT says something "intelligent" about a poem you wrote, you can't help but wonder what's going on inside it's head. It's hard to reason about how it does the things it does without falling into the trap of assuming some kind of "understanding." A lot has been written about that, and of course if you look closely, the illusion of intelligence even in this very advanced system shows obvious cracks. But let's set it aside. Instead, let's look at something computers are undeniably good at: **math**. 
 
 Computers are *way* better at arithmetic than they are at language. And the thing is, *computers don't really understand math either*. 
