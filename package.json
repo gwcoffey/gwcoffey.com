@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@gwcoffey/litbot": "^0.0.5",
+    "@gwcoffey/litbot": "^0.1.0",
     "@netlify/functions": "^1.4.0",
     "flexsearch": "^0.7.31"
   },
