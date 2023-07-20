@@ -11,7 +11,7 @@ const maclanebotHandler: Handler = async (event: HandlerEvent, context: HandlerC
     };
 };
 
-// schedule every 2 hours at 11 minutes after the hour
+// schedule every 4 hours at 11 minutes after the hour
 const handler = schedule("11 */4 * * *", maclanebotHandler)
 
 export { handler };
