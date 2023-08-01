@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+
+require 'yaml'
+require 'json'
+
+WORD_PRE = 'Cormac quiz time! Do you know this word?'
+
+words = YAML.load_file("words.yml")
+out = []
+words.each do |entry|
+    poll = {
+        "status": "#{WORD_PRE}\n\n#{entry['word']}",
+        "poll": {
+            "options": [entry['answer'], *entry['options']].shuffle,
+            "expires_in": 345600
+        }
+    }
+    sample = {
+        "status": "“#{entry['sentence']}”\n\n–#{entry['book']}",
+        "scheduled_in": 345600
+    }
+    sample['spoiler_text'] = entry['content_warning'] if entry['content_warning']
+
+    out << [poll, sample]
+end
+
+File.open("posts.json", "w") {|f| f.print(JSON.dump(out)) }
