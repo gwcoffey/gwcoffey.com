@@ -4,6 +4,7 @@ require 'yaml'
 require 'json'
 
 WORD_PRE = 'Cormac quiz time! Do you know this word?'
+POLL_TTL = 4 * 24 * 60 * 60 # four days
 
 words = YAML.load_file("words.yml")
 out = []
@@ -12,16 +13,16 @@ words.each do |entry|
         "status": "#{WORD_PRE}\n\n#{entry['word']}",
         "poll": {
             "options": [entry['answer'], *entry['options']].shuffle,
-            "expires_in": 345600
+            "expires_in": POLL_TTL
         }
     }
     sample = {
         "status": "“#{entry['sentence']}”\n\n–#{entry['book']}",
-        "scheduled_in": 345600
+        "scheduled_in": POLL_TTL
     }
     sample['spoiler_text'] = entry['content_warning'] if entry['content_warning']
 
     out << [poll, sample]
 end
 
-File.open("posts.json", "w") {|f| f.print(JSON.dump(out)) }
+File.open("posts.json", "w") {|f| f.print(JSON.pretty_generate(out)) }
