@@ -2,7 +2,7 @@
 
 {{- $pages := .Site.RegularPages -}}
 {{- $pages := where $pages ".Section" "==" "posts" -}}
-{{- $pages := first 3 $pages -}}
+{{- $pages := first 5 $pages -}}
 
 {{ .Content }}
 
