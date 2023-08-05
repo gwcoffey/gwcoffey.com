@@ -1,7 +1,7 @@
 ---
 title: "Are You There God? It's Me, Margaret"
 date: 2023-08-01
-summary: ''
+summary: 'Thanks an awful lot to you too, Margaret.'
 icon: book
 tags:
   - Book Report
@@ -31,4 +31,4 @@ Neither novels nor their readers benefit from attempts to divine whether any fac
 Are you still there God? It’s me, Margaret. I know you’re there God. I know you wouldn’t have missed this for anything! Thank you God. Thanks an awful lot…
 {{< /quote >}}
 
-Thanks an awful lot to you to, Margaret.
+Thanks an awful lot to you too, Margaret.
