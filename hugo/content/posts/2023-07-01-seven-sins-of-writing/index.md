@@ -3,7 +3,7 @@ title: The Seven Sins of Writing
 date: 2023-07-01
 summary: It must be earned.
 tags:
-- Essays
+- Essay
 ---
 
 1. **Sentimental**. This is unearned emotion. If you tell me they're devastated, if you tell me their voice cracks, if you show me their tears, none of that matters if any of it had to be said. *"Like great works, deep feelings always mean more than they are conscious of saying." – Albert Camus*

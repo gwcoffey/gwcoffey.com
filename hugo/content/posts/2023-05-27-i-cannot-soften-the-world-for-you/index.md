@@ -5,7 +5,7 @@ summary: A Poem
 aliases: 
   - 2023-05-27-how-to-be-hard
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}

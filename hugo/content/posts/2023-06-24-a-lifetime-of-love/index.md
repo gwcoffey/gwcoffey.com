@@ -3,7 +3,7 @@ title: A Lifetime of Love
 date: 2023-06-24
 summary: A Poem
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}

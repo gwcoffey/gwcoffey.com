@@ -3,7 +3,7 @@ title: The Grand Canyon is a place people like to go
 date: 2023-07-29
 summary: A Poem
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}
