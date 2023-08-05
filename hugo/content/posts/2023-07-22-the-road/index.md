@@ -40,7 +40,7 @@ He strips man of God—"There is no God and we are his prophets"—and then he s
 He walked out in the gray light and stood and he saw for a brief moment the absolute truth of the world. The cold relentless circling of the intestate earth. Darkness implacable. The blind dogs of the sun in their running. The crushing black vacuum of the universe. And somewhere two hunted animals trembling like ground-foxes in their cover. Borrowed time and borrowed world and borrowed eyes with which to sorrow it.
 {{< /quote >}}
 
-But finally, in place of God and man, he gives us a boy. A wonderful pure kind boy:
+But finally, in place of God and man, he gives us a boy. A wonderful pure kind boy (my emphasis):
 
 {{< quote >}}
 He watched him come through the grass and kneel with the cup of water he’d fetched. *There was light all about him.* … He lay watching the boy at the fire. He wanted to be able to see. Look around you, he said. There is no prophet in the earth’s long chronicle who’s not honored here today. Whatever form you spoke of you were right.
