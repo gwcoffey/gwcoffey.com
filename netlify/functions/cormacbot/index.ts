@@ -13,6 +13,6 @@ const cormacbotHandler: Handler = async (event: HandlerEvent) => {
 };
 
 // schedule every saturday morning at 9
-const handler = schedule("12 16 * * 6", cormacbotHandler)
+const handler = schedule("12 16 * * *", cormacbotHandler)
 
 export { handler };
