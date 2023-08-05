@@ -3,7 +3,7 @@ title: I Am Not a Scientist
 date: 2023-05-06
 summary: A Poem
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}

@@ -4,7 +4,7 @@ date: 2023-06-03
 summary: A Poem
 description: "This poem captures a brief silent moment with my daughter on the cusp of her adulthood."
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}

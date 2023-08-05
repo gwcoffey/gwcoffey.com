@@ -3,7 +3,7 @@ title: These are the trees I see where I stand
 date: 2023-07-08
 summary: A Poem
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}

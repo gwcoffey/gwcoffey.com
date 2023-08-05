@@ -4,7 +4,7 @@ date: 2023-04-29
 summary: A poem.
 slug: our-love
 tags:
-  - Poetry
+  - Poem
 ---
 
 {{< poem >}}

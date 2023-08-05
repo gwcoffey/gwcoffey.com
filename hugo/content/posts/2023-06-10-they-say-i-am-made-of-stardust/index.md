@@ -3,7 +3,7 @@ title: They say I am made of stardust
 date: 2023-06-10
 summary: A Poem
 tags:
-- Poetry
+- Poem
 ---
 
 {{< poem >}}
