@@ -31,4 +31,10 @@ This is not a biography (how could it be?) And it is not Euclid fan-fiction. But
 The quest for unity will continue, and, of course, it will always fail. And this, too, we know. Whatever the form of unity mathematicians acquire, the world’s diversity will in time overwhelm them, as it overwhelms us all.
 {{< /quote >}}
 
-Amen.
+This reminded me of a favorite passage from *Blood Meridian*:
+
+{{< quote >}}
+The universe is no narrow thing and the order within it is not constrained by any latitude in its conception to repeat what exists in one part in any other part. Even in this world more things exist without our knowledge than with it and the order in creation which you see is that which you have put there, like a string in a maze, so that you shall not lose your way.
+{{< /quote >}}
+
+All I can say to both of these is: Amen. 
