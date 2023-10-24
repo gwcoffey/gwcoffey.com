@@ -1,6 +1,6 @@
 ---
 title: "A Perfectly Ordinary Tragedy"
-date: 2023-10-23
+date: 2023-10-24
 summary: 'Tonight I sat up late watching ninja turtles on the tv and waiting for my brother to finish dying.'
 tags:
   - Essay
