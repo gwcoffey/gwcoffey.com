@@ -1,12 +1,16 @@
 <div class="heading">
 	<hgroup>
+
+		<a href="{{ .RelPermalink }}">
 		{{ with .Title }}
-			<h1>{{ . }}</h1>
+			<h1>{{ . }}</h1></a>
 		{{ else }}
 			{{ if eq .Params.archive "fb" }}
 			<h1>FaceBook Post</h1>
 			{{ end }}
 		{{ end }}
+		</a>
+
 
 		{{ with .Date }}
 			<div class="byline">

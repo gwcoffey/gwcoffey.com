@@ -3,7 +3,7 @@
   publish = "hugo/public"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.119.0"
 
 [[redirects]]
   from = "/.well-known/webfinger"

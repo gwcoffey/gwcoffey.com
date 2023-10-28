@@ -1,4 +1,16 @@
 article {
+	&:nth-of-type(n+2) {
+		margin-top: 1in;
+	}
+
+	&.single {
+		hgroup {
+			a:has(h1) {
+				text-decoration: none;
+			}
+		}
+	}
+
 	.heading {
 		display: flex;
 		justify-content: space-between;
@@ -13,7 +25,14 @@ article {
 	hgroup {
 		margin-bottom: 2em;
 		flex: 1;
-		
+
+		a {
+			color: black;
+			&:visited {
+				color: currentColor;
+			}
+		}
+
 		h1 {
 			margin-bottom: 0.1em;
 		}

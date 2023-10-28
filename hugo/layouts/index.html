@@ -2,14 +2,15 @@
 
 {{- $pages := .Site.RegularPages -}}
 {{- $pages := where $pages ".Section" "==" "posts" -}}
-{{- $pages := first 5 $pages -}}
+{{- $pages := first 3 $pages -}}
 
 {{ .Content }}
 
-<h1>Latests Posts</h1>
-
 {{ range $pages }}
-{{ partial "post-preview/post-preview.html" . }}
+<article>
+{{ partial "post-heading" . }}
+{{ .Content }}
+</article>
 {{ end }}
 
 <div class="home-links">
