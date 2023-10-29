@@ -23,7 +23,7 @@ I know only enough of God to want to worship him, by any means ready to hand. Th
 
 Is it jeopardy, a book of answers in the form of questions?
 
-As an aside, it has may favorite *So* in all of English literature. (I think everybody should have a favorite *So*. Is there any other word in the English language like *So*? I've written it three times now; it has lost all meaning. But I'm not sure, even if it hadn't, that I ever could have explained even a hundredth of what it means.) Here is Dillard's exquisite *So* (emphasis mine):
+As an aside, it has my favorite *So* in all of English literature. (I think everybody should have a favorite *So*. Is there any other word in the English language like *So*? I've written it three times now; it has lost all meaning. But I'm not sure, even if it hadn't, that I ever could have explained even a hundredth of what it means.) Here is Dillard's exquisite *So* (emphasis mine):
 
 {{< quote >}}
 A nun lives in the fires of the spirit, a thinker lives in the bright wick of the mind, an artist lives jammed in the pool of materials. (Or, a nun lives, thoughtful and tough, in the mind, a nun lives, with that special poignancy peculiar to religious, in the exile of materials; and a thinker, who would think of something, lives in the clash of materials, and in the world of spirit where all long thoughts must lead; and an artist lives in the mind, that warehouse of forms, and an artist lives, of course, in the spirit. **So**.
