@@ -1,7 +1,7 @@
 ---
 title: "The Future is Female"
 date: 2023-10-28
-summary: 'I re-read this book yesterday as a sort of healing balm as I grieve…'
+summary: 'This collection of sci-fi short stories by women authors is, unsurprisingly, a mixed bag, but also a lot of fun.'
 icon: book
 tags:
   - Book Report
