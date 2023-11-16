@@ -1,7 +1,7 @@
 ---
 title: "The Boundary Between the Thing and the Not-Thing"
 date: 2023-11-16
-summary: ''
+summary: "I watched Sofia Coppola's *Priscilla* on Saturday and I can't stop thinking about it."
 tags:
   - Essay
 ---
