@@ -6,13 +6,16 @@ tags:
   - Essay
 ---
 
+{{< figure src="/posts/2023-11-16-priscilla/cover.png" class="embed right" >}}
+
 I watched Sofia Coppola's *Priscilla* on Saturday and I can't stop thinking about it. To be clear, I'm an unrepentant Coppola fan. *Lost in Translation*, *The Virgin Suicides*, and *Marie Antoinette* are all on my favorite-films short list. So I went into this movie expecting to love every frame. But still I couldn't stop thinking about it.
+
 
 Coppola's filmography has a lot of signatures. Lonely and isolated women. Soft color palettes. Slow pacing. Girls looking out car windows. Feet. And perhaps most notoriously, ambiguous endings. I actually think "ambiguous" is the wrong word. The way I see it, her films just have no punch line, and this bugs some people. The most well known example is *Lost in Translation* which ends with a whispered exchange between Charlotte and Bob. He leans in and whispers in her ear. We are given no inkling of what he says. And we can just make out her silent response by lip-reading: "Okay." Some people hate this. "WHAT DID HE SAY?" they ask. But not knowing is the point.
 
 That's the most famous example, but I think the *best* example is the ending of one of her less-well-received films, *Somewhere*. (Less well received according to Rotten Tomatoes anyway. The film is wonderful.) It's hard to describe the ending of this movie without recounting the whole plot, which I won't do here. Just watch it. But I remember sitting on my couch after it ended, mentally circling the frail possibilities that did not come to pass.
 
-If I had to diagnose Sofia Coppola I'd say she's too disciplined a filmmaker for sentimentality, and too hopeful a person for cynicism. And so she finds a delicate line between the two. I don't know anybody else who does this like her. our TVs are buzzing with maudlin, and bleeding out the edges with cynicism. But not here. Even in *Marie Antoinette*, a story who's ending was spoiled for everyone on earth two hundred and fifty years ago, she is perfectly comfortable leaving the inevitable unstated. To show it is to make the movie about it, and that movie is decidedly not about *physical* decapitation.
+If I had to diagnose Sofia Coppola I'd say she's too disciplined a filmmaker for sentimentality, and too hopeful a person for cynicism. And so she finds a delicate line between the two. I don't know anybody else who does this like her. Our TVs are buzzing with maudlin, and bleeding out the edges with cynicism. But not here. Even in *Marie Antoinette*, a story who's ending was spoiled for everyone on earth two hundred and fifty years ago, she is perfectly comfortable leaving the inevitable unstated. To show it is to make the movie about it, and that movie is decidedly not about *physical* decapitation.
 
 I have this habit of jotting down terse unstructured thoughts as they strike me. A week ago I left myself this note:
 
@@ -26,6 +29,6 @@ I read this note, and it got me thinking about *Priscilla* again. Coppola's way 
 
 It has a perfect ending. It is so gentle and soft-spoken, and at the same time triumphant and deeply moving. In a way it subverts a Coppola trope, to great effect. (It is also a *small* ending, simple and humane. A moment every living person can identify with. I love this kind of thing.) It reminds me of *Romeo and Juliet* (but with divorce in place of suicide). A young woman let down by family, church, and state, taking the reins of her own life. Just like Juliet, Priscilla takes the reins so discretely you may not even notice she's done it at first. It is quiet and understated, but there is real heroism there.
 
-(N.B. I don't mean to imply that suicide is heroic. I think Shakespeare, operating in the Roman tradition, meant it to be. But with classic Shakespearean brilliance, her also meant us to be horrified by it. But what *I* find heroic is Juliet's self-actualization—"Go in, and tell my lady I am gone…"—despite the sad and tragic ending she ultimately chose for herself.)
+(N.B. I don't mean to imply that suicide is heroic. I think Shakespeare, operating in the Roman tradition, meant it to be. But with classic Shakespearean brilliance, he also meant us to be horrified by it. But what *I* find heroic is Juliet's self-actualization—"Go in, and tell my lady I am gone…"—despite the sad and tragic ending she ultimately chose for herself.)
 
 I loved this film. It is a beautifully delineated boundary between the thing and the not-thing. And like all things well told, *I* can't tell you what that *thing* is, any more than I can effectively describe Snoopy to someone who's never seen him. Coppola tells us what she wants to say in the only way it can be said.
