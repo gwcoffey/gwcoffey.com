@@ -14,6 +14,6 @@ author="David and Nic Sheff"
 cover="cover.jpg"
 format="Audio" >}}
 
-I went looking for something to listen to after finishing [*Agency*](agency) and found this sitting in my Audible library. (It turns out my daughter's girlfriend was on a drug-memoir kick and used my acount to listen to this free book.) I don't have much to say about it. It's a book aimed at teens and meant to give a frank explanation of the risks of drug use. The information seems sound, although the second half is a little like reading an encyclopedia.
+I went looking for something to listen to after finishing [*Agency*](/posts/2023-03-28-agency/) and found this sitting in my Audible library. (It turns out my daughter's girlfriend was on a drug-memoir kick and used my acount to listen to this free book.) I don't have much to say about it. It's a book aimed at teens and meant to give a frank explanation of the risks of drug use. The information seems sound, although the second half is a little like reading an encyclopedia.
 
 [agency]: /reading/2023-03-28-agency
