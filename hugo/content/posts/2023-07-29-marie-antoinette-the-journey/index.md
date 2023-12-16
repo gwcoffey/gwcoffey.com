@@ -5,6 +5,7 @@ summary: 'I decided to read this because it is the basis of one of my favorite f
 icon: book
 tags:
   - Book Report
+  - Bad Girls
 
 ---
 

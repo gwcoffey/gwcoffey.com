@@ -10,6 +10,7 @@ resources:
       cropTarget: top
 tags:
   - Project
+  - Bad Girls
 ---
 
 I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, [Mary MacLane][mary]. *And* I'm a computer programmer. So I suppose this was inevitable…

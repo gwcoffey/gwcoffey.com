@@ -5,6 +5,7 @@ summary: Marie Bashkirtsef painted one of my all-time favorite portraits. She al
 icon: book
 tags:
   - Book Report
+  - Bad Girls
 ---
 
 {{< booklist/book

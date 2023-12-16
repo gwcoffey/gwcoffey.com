@@ -5,6 +5,7 @@ summary: 'Schiff does such a good job illuminating the source material and putti
 icon: book
 tags:
   - Book Report
+  - Bad Girls
 ---
 
 {{< booklist/book
