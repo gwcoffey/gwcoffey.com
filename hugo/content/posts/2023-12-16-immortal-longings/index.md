@@ -1,7 +1,7 @@
 ---
 title: "Immortal Longings"
 date: 2023-12-16
-summary: ""
+summary: "This book was not for me."
 icon: book
 tags:
   - Book Report
