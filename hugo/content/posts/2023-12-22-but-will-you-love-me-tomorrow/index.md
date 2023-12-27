@@ -20,7 +20,7 @@ Early on in the book, music exec Renee Pappas makes a point that I found fascina
 
 {{< quote >}}There came a time, right after World War II, where there were Black radio stations to play Black music. But once you had a transistor radio, you could listen to it if Mom and Dad were listening to, I don’t know, whoever… Bing Crosby or somebody. Once transistor radios came into fashion, and kids could have their own music—rather than being tied to whatever the parents had—they started listening to the Black radio stations.{{< /quote >}}
 
-There's this idea that the transistor radio, more than anything, is responsible for the youth-fueled rapidly evolving trajectory of rock music. In a sense it brought counter-culture into the mainstream primarily because parents could no longer control their children. I like this. This idea that discovery, creativity, and culture-mixing is what kids want, if only stogy authority figures would get out of the way.
+There's this idea that the transistor radio, more than anything, is responsible for the youth-fueled rapidly evolving trajectory of rock music. In a sense it brought counter-culture into the mainstream primarily because parents could no longer control their children. I like this. This idea that discovery, creativity, and culture-mixing is what kids want, if only stodgy authority figures would get out of the way.
 
 These '60s girl groups were primarily young black women (often *children*), so it was no surprise that a strong undercurrent in this whole story is cultural and financial theft. I wish I could say it has a redemptive ending.
 
