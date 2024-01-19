@@ -15,7 +15,7 @@
 
 {{- else if (eq .Section "booklist") }}
 
-	<!-- booklist posts always have a manual summary but still want a more link -->
+	<!-- booklist-old posts always have a manual summary but still want a more link -->
 	{{ .Params.summary | markdownify }}
 	<a class="more" href="{{.RelPermalink}}">Read more…</a>
 

@@ -1,22 +1,12 @@
 ---
-title: The Road
+title: "Hope In Hopelessness"
 date: 2023-07-22
-summary: 'To me this book is the opposite of hopeless…'
-icon: book
+summary: "I talked to my Aunt about *The Road* once several years ago. She said she loves McCarthy, but she didn't like this book. I remember her saying she couldn't enjoy a book that is \"so hopeless\"."
 tags:
-  - Book Report
-
+- Essay
 ---
 
-{{< booklist/book
-title="The Road"
-author="Cormac McCarthy"
-cover="cover.jpg"
-format="Print" >}}
-
-This is my third or fourth reading of *The Road*. I picked it up to flip through and look up a couple of passages for a project I'm working on. A dangerous pastime I know. A few days later I had read it again. (It's a short book, and a quick read.)
-
-I talked to my Aunt about *The Road* once several years ago. She said she loves McCarthy, but she didn't like this book. I remember her saying she couldn't enjoy a book that is "so hopeless". I understand where she's coming from. The world portrayed here is unimaginably bleak, peopled with unimaginable cruelty. But to me this book is the opposite of *hopeless*. Into that bleak and cruel world, he gives us a man and a boy against all odds. 
+I talked to my Aunt about *The Road* once several years ago. She said she loves McCarthy, but she didn't like this book. I remember her saying she couldn't enjoy a book that is "so hopeless". I understand where she's coming from. The world portrayed here is unimaginably bleak, peopled with unimaginable cruelty. But to me this book is the opposite of *hopeless*. Into that bleak and cruel world, he gives us a man and a boy against all odds.
 
 {{< quote >}}
 We’re going to be okay, arent we Papa?
@@ -32,7 +22,7 @@ Because we’re carrying the fire.
 Yes. Because we’re carrying the fire.
 {{< /quote >}}
 
-But— there is no maudlin here. As in everything McCarthy writes, he seems to be grappling with the incomprehensible. In this case, his inability to square the beauty of humanity with the ugliness of humans. This duality is apparent throughout the book. 
+But— there is no maudlin here. As in everything McCarthy writes, he seems to be grappling with the incomprehensible. In this case, his inability to square the beauty of humanity with the ugliness of humans. This duality is apparent throughout the book.
 
 He strips man of God—"There is no God and we are his prophets"—and then he strips man of himself:
 

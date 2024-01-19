@@ -1,19 +1,12 @@
 ---
-title: "Holy the Firm"
+title: "Art and Sacrifice in Annie Dillard's Holy the Firm"
 date: 2023-10-28
 summary: 'I re-read this book yesterday as a sort of healing balm as I grieve…'
-icon: book
 tags:
-  - Book Report
+  - Essay
 ---
 
-{{< booklist/book
-title="Holy the Firm"
-author="Annie Dillard"
-cover="cover.jpg"
-format="Print" >}}
-
-I re-read this book as a sort of healing balm as I grieve [the loss of my brother](https://gwcoffey.com/posts/2023-10-24-perfectly-ordinary/). I've read it a few times before. It is short, just 80 pages in print, and one of my favorite books. I don't know how to classify it. It reads like a memoir but isn't, as far as I can tell. It isn't a story either, and it isn't an essay. Perhaps you could say it is a "fictional memoir?" I don't know. It is certainly a beautiful thoughtful prayerful long-form prose-poem.
+I [re-read this book](/booklist/2023-10-28-holy-the-firm) as a sort of healing balm as I grieve [the loss of my brother](https://gwcoffey.com/posts/2023-10-24-perfectly-ordinary/). I've read it a few times before. It is short, just 80 pages in print, and one of my favorite books. I don't know how to classify it. It reads like a memoir but isn't, as far as I can tell. It isn't a story either, and it isn't an essay. Perhaps you could say it is a "fictional memoir?" I don't know. It is certainly a beautiful thoughtful prayerful long-form prose-poem.
 
 Linguistically it is remarkable. Philosophically it is a work of genius. Liturgically it is an anguished unsermon. It is a holy book like no other, one that does not placate, does not explain, and does not parabolize. It only evokes.
 
