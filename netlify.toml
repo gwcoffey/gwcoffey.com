@@ -10,264 +10,351 @@
   to = "/.netlify/functions/webfinger"
   status = 200
 
+[[redirects]]
   from = "posts/2022-06-07-social-wasps-of-north-america"
   to = "booklist/2022-06-07-social-wasps-of-north-america"
 
+[[redirects]]
   from = "posts/2022-06-11-anne-of-green-gables"
   to = "booklist/2022-06-11-anne-of-green-gables"
 
+[[redirects]]
   from = "posts/2022-06-19-fifth-season"
   to = "booklist/2022-06-19-fifth-season"
 
+[[redirects]]
   from = "posts/2022-06-28-augustus"
   to = "booklist/2022-06-28-augustus"
 
+[[redirects]]
   from = "posts/2022-07-04-punks"
   to = "booklist/2022-07-04-punks"
 
+[[redirects]]
   from = "posts/2022-07-14-blood-meridian"
   to = "booklist/2022-07-14-blood-meridian"
 
+[[redirects]]
   from = "posts/2022-07-21-silence"
   to = "booklist/2022-07-21-silence"
 
+[[redirects]]
   from = "posts/2022-07-26-machine"
   to = "booklist/2022-07-26-machine"
 
+[[redirects]]
   from = "posts/2022-08-10-prayer-for-owen-meany"
   to = "booklist/2022-08-10-prayer-for-owen-meany"
 
+[[redirects]]
   from = "posts/2022-08-19-cats-cradle"
   to = "booklist/2022-08-19-cats-cradle"
 
+[[redirects]]
   from = "posts/2022-08-26-andersonville"
   to = "booklist/2022-08-26-andersonville"
 
+[[redirects]]
   from = "posts/2022-09-12-all-the-rivers"
   to = "booklist/2022-09-12-all-the-rivers"
 
+[[redirects]]
   from = "posts/2022-09-16-lottery"
   to = "booklist/2022-09-16-lottery"
 
+[[redirects]]
   from = "posts/2022-10-10-wicked-years"
   to = "booklist/2022-10-10-wicked-years"
 
+[[redirects]]
   from = "posts/2022-10-10-wicked-years/lion-cover.jpg"
   to = "booklist/2022-10-10-wicked-years/lion-cover.jpg"
 
+[[redirects]]
   from = "posts/2022-10-10-wicked-years/out-cover.jpg"
   to = "booklist/2022-10-10-wicked-years/out-cover.jpg"
 
+[[redirects]]
   from = "posts/2022-10-10-wicked-years/son-cover.jpg"
   to = "booklist/2022-10-10-wicked-years/son-cover.jpg"
 
+[[redirects]]
   from = "posts/2022-10-10-wicked-years/wicked-cover.jpg"
   to = "booklist/2022-10-10-wicked-years/wicked-cover.jpg"
 
+[[redirects]]
   from = "posts/2022-10-18-brides-of-maracoor"
   to = "booklist/2022-10-18-brides-of-maracoor"
 
+[[redirects]]
   from = "posts/2022-10-26-hamlet"
   to = "booklist/2022-10-26-hamlet"
 
+[[redirects]]
   from = "posts/2022-10-31-macbeth"
   to = "booklist/2022-10-31-macbeth"
 
+[[redirects]]
   from = "posts/2022-11-07-tragedy-of-king-lear"
   to = "booklist/2022-11-07-tragedy-of-king-lear"
 
+[[redirects]]
   from = "posts/2022-11-18-julius-caesar"
   to = "booklist/2022-11-18-julius-caesar"
 
+[[redirects]]
   from = "posts/2022-11-30-on-the-beach"
   to = "booklist/2022-11-30-on-the-beach"
 
+[[redirects]]
   from = "posts/2022-12-10-gift-of-everything"
   to = "booklist/2022-12-10-gift-of-everything"
 
+[[redirects]]
   from = "posts/2022-12-17-stories-from-tagore"
   to = "booklist/2022-12-17-stories-from-tagore"
 
+[[redirects]]
   from = "posts/2022-12-25-ramona-quimby-audio-collection"
   to = "booklist/2022-12-25-ramona-quimby-audio-collection"
 
+[[redirects]]
   from = "posts/2023-01-01-kavalier-clay"
   to = "booklist/2023-01-01-kavalier-clay"
 
+[[redirects]]
   from = "posts/2023-01-08-the-information"
   to = "booklist/2023-01-08-the-information"
 
+[[redirects]]
   from = "posts/2023-01-15-slouching-towards-bethlehem"
   to = "booklist/2023-01-15-slouching-towards-bethlehem"
 
+[[redirects]]
   from = "posts/2023-01-15-the-man-in-the-high-castle"
   to = "booklist/2023-01-15-the-man-in-the-high-castle"
 
+[[redirects]]
   from = "posts/2023-01-20-the-passenger"
   to = "booklist/2023-01-20-the-passenger"
 
+[[redirects]]
   from = "posts/2023-01-27-stella-maris"
   to = "booklist/2023-01-27-stella-maris"
 
+[[redirects]]
   from = "posts/2023-01-29-wordplay/catastrophe.jpg"
   to = "booklist/2023-01-29-wordplay/catastrophe.jpg"
 
+[[redirects]]
   from = "posts/2023-01-29-wordplay/ground.png"
   to = "booklist/2023-01-29-wordplay/ground.png"
 
+[[redirects]]
   from = "posts/2023-01-29-wordplay"
   to = "booklist/2023-01-29-wordplay"
 
+[[redirects]]
   from = "posts/2023-01-29-wordplay/wurst.png"
   to = "booklist/2023-01-29-wordplay/wurst.png"
 
+[[redirects]]
   from = "posts/2023-02-15-what-we-see-when-we-read"
   to = "booklist/2023-02-15-what-we-see-when-we-read"
 
+[[redirects]]
   from = "posts/2023-02-19-burning-secret"
   to = "booklist/2023-02-19-burning-secret"
 
+[[redirects]]
   from = "posts/2023-02-25-norse-mythology"
   to = "booklist/2023-02-25-norse-mythology"
 
+[[redirects]]
   from = "posts/2023-02-27-the-first-three-minutes"
   to = "booklist/2023-02-27-the-first-three-minutes"
 
+[[redirects]]
   from = "posts/2023-03-03-africa-is-not-a-country"
   to = "booklist/2023-03-03-africa-is-not-a-country"
 
+[[redirects]]
   from = "posts/2023-03-16-the-peripheral"
   to = "booklist/2023-03-16-the-peripheral"
 
+[[redirects]]
   from = "posts/2023-03-21-i-am-the-most-interesting-book-of-all"
   to = "booklist/2023-03-21-i-am-the-most-interesting-book-of-all"
 
+[[redirects]]
   from = "posts/2023-03-21-i-am-the-most-interesting-book-of-all/portrait.jpg"
   to = "booklist/2023-03-21-i-am-the-most-interesting-book-of-all/portrait.jpg"
 
+[[redirects]]
   from = "posts/2023-03-25-hello-beautiful"
   to = "booklist/2023-03-25-hello-beautiful"
 
+[[redirects]]
   from = "posts/2023-03-28-agency"
   to = "booklist/2023-03-28-agency"
 
+[[redirects]]
   from = "posts/2023-04-01-high"
   to = "booklist/2023-04-01-high"
 
+[[redirects]]
   from = "posts/2023-04-12-the-samurai"
   to = "booklist/2023-04-12-the-samurai"
 
+[[redirects]]
   from = "posts/2023-04-17-snow-crash"
   to = "booklist/2023-04-17-snow-crash"
 
+[[redirects]]
   from = "posts/2023-04-20-the-dispossessed"
   to = "booklist/2023-04-20-the-dispossessed"
 
+[[redirects]]
   from = "posts/2023-04-22-the-possibility-of-life"
   to = "booklist/2023-04-22-the-possibility-of-life"
 
+[[redirects]]
   from = "posts/2023-04-24-you-could-make-this-place-beautiful"
   to = "booklist/2023-04-24-you-could-make-this-place-beautiful"
 
+[[redirects]]
   from = "posts/2023-04-27-ivory-vikings"
   to = "booklist/2023-04-27-ivory-vikings"
 
+[[redirects]]
   from = "posts/2023-04-29-how-we-learn"
   to = "booklist/2023-04-29-how-we-learn"
 
+[[redirects]]
   from = "posts/2023-05-09-hestia-strikes-a-match"
   to = "booklist/2023-05-09-hestia-strikes-a-match"
 
+[[redirects]]
   from = "posts/2023-05-25-diary-of-a-young-girl"
   to = "booklist/2023-05-25-diary-of-a-young-girl"
 
+[[redirects]]
   from = "posts/2023-05-31-masters-of-doom"
   to = "booklist/2023-05-31-masters-of-doom"
 
+[[redirects]]
   from = "posts/2023-06-01-lagoon"
   to = "booklist/2023-06-01-lagoon"
 
+[[redirects]]
   from = "posts/2023-06-07-fancy-bear-goes-phishing"
   to = "booklist/2023-06-07-fancy-bear-goes-phishing"
 
+[[redirects]]
   from = "posts/2023-06-10-iwoz"
   to = "booklist/2023-06-10-iwoz"
 
+[[redirects]]
   from = "posts/2023-06-12-isaac-newton"
   to = "booklist/2023-06-12-isaac-newton"
 
+[[redirects]]
   from = "posts/2023-07-17-alan-turing-enigma"
   to = "booklist/2023-07-17-alan-turing-enigma"
 
+[[redirects]]
   from = "posts/2023-07-17-king-of-infinite-space"
   to = "booklist/2023-07-17-king-of-infinite-space"
 
+[[redirects]]
   from = "posts/2023-07-22-the-road"
   to = "booklist/2023-07-22-the-road"
 
+[[redirects]]
   from = "posts/2023-07-27-perks-of-being-a-wallflower"
   to = "booklist/2023-07-27-perks-of-being-a-wallflower"
 
+[[redirects]]
   from = "posts/2023-07-29-marie-antoinette-the-journey"
   to = "booklist/2023-07-29-marie-antoinette-the-journey"
 
+[[redirects]]
   from = "posts/2023-07-29-what-she-said"
   to = "booklist/2023-07-29-what-she-said"
 
+[[redirects]]
   from = "posts/2023-08-01-are-you-there-god"
   to = "booklist/2023-08-01-are-you-there-god"
 
+[[redirects]]
   from = "posts/2023-08-09-indigenous-continent"
   to = "booklist/2023-08-09-indigenous-continent"
 
+[[redirects]]
   from = "posts/2023-09-18-cleopatra-a-life"
   to = "booklist/2023-09-18-cleopatra-a-life"
 
+[[redirects]]
   from = "posts/2023-09-22-the-six"
   to = "booklist/2023-09-22-the-six"
 
+[[redirects]]
   from = "posts/2023-09-30-eight-mountains"
   to = "booklist/2023-09-30-eight-mountains"
 
+[[redirects]]
   from = "posts/2023-10-19-brief-histor-of-black-holes"
   to = "booklist/2023-10-19-brief-histor-of-black-holes"
 
+[[redirects]]
   from = "posts/2023-10-28-holy-the-firm"
   to = "booklist/2023-10-28-holy-the-firm"
 
+[[redirects]]
   from = "posts/2023-11-18-olga-dies-dreaming"
   to = "booklist/2023-11-18-olga-dies-dreaming"
 
+[[redirects]]
   from = "posts/2023-11-20-name-of-the-rose"
   to = "booklist/2023-11-20-name-of-the-rose"
 
+[[redirects]]
   from = "posts/2023-11-26-westing-game"
   to = "booklist/2023-11-26-westing-game"
 
+[[redirects]]
   from = "posts/2023-11-3-future-is-female"
   to = "booklist/2023-11-3-future-is-female"
 
+[[redirects]]
   from = "posts/2023-12-1-scarlet-letter"
   to = "booklist/2023-12-1-scarlet-letter"
 
+[[redirects]]
   from = "posts/2023-12-15-madonna-a-rebel-life"
   to = "booklist/2023-12-15-madonna-a-rebel-life"
 
+[[redirects]]
   from = "posts/2023-12-16-immortal-longings"
   to = "booklist/2023-12-16-immortal-longings"
 
+[[redirects]]
   from = "posts/2023-12-22-but-will-you-love-me-tomorrow"
   to = "booklist/2023-12-22-but-will-you-love-me-tomorrow"
 
+[[redirects]]
   from = "posts/2023-12-26-egg"
   to = "booklist/2023-12-26-egg"
 
+[[redirects]]
   from = "posts/2023-12-28-great-white-bard"
   to = "booklist/2023-12-28-great-white-bard"
 
+[[redirects]]
   from = "posts/2023-12-5-fairyland"
   to = "booklist/2023-12-5-fairyland"
 
+[[redirects]]
   from = "posts/2024-01-03-dracula"
   to = "booklist/2024-01-03-dracula"
 
