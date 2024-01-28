@@ -8,7 +8,7 @@ tags:
 
 When I was around 14 years old, casting around for new things to listen to, I found *The Nylons* 1984 album *Seamless* in my dad's record collection. I loved the whole album right away, but I especially loved *The Lion Sleeps Tonight*. The strange tightrope it walks between haunting and soothing, the melodic howling, the fairytale feel, the plotlessness, the seemingly-nonsense chorus—these things really drew me in. I can't say for sure that this was the first time I'd heard the song, but it was certainly the first time I'd *listened to it*. At the time I was so curious how this song came to be, what it was *about*.
 
-{{< figure src="comic.jpg" caption="Credit: [Brian Gordon](https://en.wikipedia.org/wiki/Brian_Gordon_(cartoonist))" class="embed right">}}
+{{< figure src="/posts/2024-01-18-the-lion-sleeps-tonight/comic.jpg" caption="Credit: [Brian Gordon](https://en.wikipedia.org/wiki/Brian_Gordon_(cartoonist))" class="embed right">}}
 
 I don't think younger people can ever really understand this, but of course in the late 80s, we could not satisfy our curiosity about things with a tap on a screen. Tumbling down the Wikipedia hole would not become a thing for 20 more years. So while I was enthralled by this song, I didn't really know anything about it. I suppose I could have scoured our little hometown library for something, but even if the right book had been housed there (doubtful)—the idea never crossed my mind. So, like so many brief passions throughout my life, I moved on without satisfying my curiosity.
 
