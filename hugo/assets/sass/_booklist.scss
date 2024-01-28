@@ -1,0 +1,8 @@
+div.book-covers {
+  --cover-width: 60px;
+
+  img {
+    width: var(--cover-width);
+    height: calc(var(--cover-width) * 1.5);
+  }
+}

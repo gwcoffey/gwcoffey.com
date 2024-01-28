@@ -1,0 +1,20 @@
+{{- define "main" -}}
+
+{{- .Content -}}
+
+{{- range .Data.Pages.GroupByDate "2006" }}
+<h2>Read in {{ .Key }}</h2>
+    <div class="book-covers">
+    {{- range .Pages }}
+        {{ $page := . }}
+        {{ with .Resources.ByType "image" }}
+            {{ $firstImage := index . 0 }}
+            {{ $firstImage := $firstImage.Fill (printf "200x300") -}}
+            <a href="{{ $page.RelPermalink }}"><img src="{{ $firstImage.RelPermalink }}" alt="{{ $page.Title }}"></a>
+        {{ end }}
+    {{- end }}
+    </div>
+{{- end }}
+
+{{- end -}}
+
