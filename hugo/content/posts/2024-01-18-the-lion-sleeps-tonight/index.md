@@ -1,6 +1,6 @@
 ---
 title: "Discovering “The Lion Sleeps Tonight”"
-date: 2024-01-18
+date: 2024-01-28
 summary: "When I was around 14 years old, casting around for new things to listen to, I found *The Nylons* 1984 album *Seamless* in my dad's record collection. I loved the whole album right away, but I especially loved *The Lion Sleeps Tonight*."
 tags:
 - Essay
