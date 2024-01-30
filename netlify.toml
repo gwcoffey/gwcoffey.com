@@ -360,7 +360,7 @@
 
 [[redirects]]
   from = "/posts/2023-11-18-olga-dies%E2%82%A6"
-  to = "/booklist/posts/2023-11-18-olga-dies-dreaming"
+  to = "/booklist/2023-11-18-olga-dies-dreaming"
 
 [dev]
   framework = "hugo"
