@@ -2,6 +2,7 @@
 title: 'jQuery Mobile: Up and Running'
 date: 2013-01-20
 summary: 'Nonfiction by Maximiliano Firtman'
+draft: true
 ---
 
 {{< booklist/book

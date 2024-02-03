@@ -2,6 +2,7 @@
 title: The Secret Life of Walter Mitty
 date: 2013-11-02
 summary: 'A novella by James Thurber'
+draft: true
 ---
 
 {{< booklist/book

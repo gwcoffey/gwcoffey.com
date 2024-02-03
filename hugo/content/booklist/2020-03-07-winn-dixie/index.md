@@ -2,6 +2,7 @@
 title: Because of Winn-Dixie
 date: 2020-03-07
 summary: 'A novel by Kate DiCamillo'
+draft: true
 ---
 
 {{< booklist/book

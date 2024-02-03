@@ -2,6 +2,7 @@
 title: 'Falstaff: Give Me Life'
 date: 2017-08-08
 summary: 'A memoir by Harold Bloom'
+draft: true
 ---
 
 {{< booklist/book

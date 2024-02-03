@@ -2,6 +2,7 @@
 title: Macbeth
 date: 2016-01-20
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: "Belonging: A German Reckons with History and Home"
+author: "Nora Krug"
 date: 2024-01-29
 summary: "In *Belonging*, Krug digs deep into an *identity* of collective inherited guilt."
 icon: book

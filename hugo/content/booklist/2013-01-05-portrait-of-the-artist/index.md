@@ -2,6 +2,7 @@
 title: A Portrait of the Artist as a Young Man
 date: 2013-01-05
 summary: 'A novel by James Joyce'
+draft: true
 ---
 
 {{< booklist/book

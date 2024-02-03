@@ -14,6 +14,19 @@
         {{ end }}
     {{- end }}
     </div>
+
+    <ul>
+        {{- range .Pages }}
+        {{ $page := . }}
+
+        <li>
+            <a href="{{ $page.RelPermalink }}">
+                {{ $page.Title }}
+                <small><em>by {{ $page.Params.author }}</em></small>
+            </a>
+        </li>
+        {{- end }}
+    </ul>
 {{- end }}
 
 {{- end -}}

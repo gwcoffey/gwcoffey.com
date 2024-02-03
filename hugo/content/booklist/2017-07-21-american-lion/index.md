@@ -2,6 +2,7 @@
 title: 'American Lion: Andrew Jackson in the White House'
 date: 2017-07-21
 summary: 'A biography of Andrew Jackson by Jon Meacham'
+draft: true
 ---
 
 {{< booklist/book

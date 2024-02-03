@@ -1,5 +1,6 @@
 ---
 title: "Indigenous Continent"
+author: "Pekka Hämäläinen"
 date: 2023-08-09
 summary: 'The steady drumbeat of violence described in *Indigenous Continent*, put into terminology that is not so tainted by white supremacy, made all this very bare.'
 icon: book

@@ -2,6 +2,7 @@
 title: The Golden Ass
 date: 2013-07-09
 summary: 'An allegory by Apuleius'
+draft: true
 ---
 
 {{< booklist/book

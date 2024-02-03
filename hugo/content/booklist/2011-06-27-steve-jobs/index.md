@@ -2,6 +2,7 @@
 title: Steve Jobs
 date: 2011-06-27
 summary: 'A biography by Walter Isaacson'
+draft: true
 ---
 
 {{< booklist/book

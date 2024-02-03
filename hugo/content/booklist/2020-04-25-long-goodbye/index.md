@@ -2,6 +2,7 @@
 title: The Long Goodbye
 date: 2020-04-25
 summary: 'A novel by Raymond Chandler'
+draft: true
 ---
 
 {{< booklist/book

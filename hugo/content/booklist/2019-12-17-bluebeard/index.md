@@ -2,6 +2,7 @@
 title: Bluebeard
 date: 2019-12-17
 summary: 'A novel by Kurt Vonnegut'
+draft: true
 ---
 
 {{< booklist/book

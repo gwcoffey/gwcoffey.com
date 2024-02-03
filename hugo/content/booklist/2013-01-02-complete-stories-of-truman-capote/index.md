@@ -2,6 +2,7 @@
 title: The Complete Stories of Truman Capote
 date: 2013-01-02
 summary: 'A short story anthology by Truman Capote'
+draft: true
 ---
 
 {{< booklist/book

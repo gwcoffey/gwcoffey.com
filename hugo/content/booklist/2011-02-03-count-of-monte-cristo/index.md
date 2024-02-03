@@ -2,6 +2,7 @@
 title: The Count of Monte Cristo
 date: 2011-02-03
 summary: 'A novel by Alexandre Dumas'
+draft: true
 ---
 
 {{< booklist/book

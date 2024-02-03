@@ -2,6 +2,7 @@
 title: King Richard II
 date: 2015-09-27
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

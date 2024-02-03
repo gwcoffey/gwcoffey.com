@@ -2,6 +2,7 @@
 title: A Swim in a Pond in the Rain
 date: 2021-06-12
 summary: 'A collection of essays by George Saunders'
+draft: true
 ---
 
 {{< booklist/book

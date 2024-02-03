@@ -2,6 +2,7 @@
 title: The Wind-Up Bird Chronicle
 date: 2021-06-18
 summary: 'A novel by Haruki Murakami'
+draft: true
 ---
 
 {{< booklist/book

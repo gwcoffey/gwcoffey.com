@@ -2,6 +2,7 @@
 title: The Penultimate Truth
 date: 2020-08-19
 summary: 'A novel by Philip K Dick'
+draft: true
 ---
 
 {{< booklist/book

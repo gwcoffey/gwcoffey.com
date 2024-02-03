@@ -2,6 +2,7 @@
 title: A Mind of Her Own
 date: 2019-06-13
 summary: 'A biography of Marie Curie by Paula McLain'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: Old Man's War
 date: 2017-01-07
 summary: 'A novel by John Scalzi'
+draft: true
 ---
 
 {{< booklist/book

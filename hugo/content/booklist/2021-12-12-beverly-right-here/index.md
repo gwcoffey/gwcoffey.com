@@ -2,6 +2,7 @@
 title: Beverly, Right Here
 date: 2021-12-12
 summary: 'A novel by Kate DiCamillo'
+draft: true
 ---
 
 {{< booklist/book

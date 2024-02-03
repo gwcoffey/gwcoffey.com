@@ -2,6 +2,7 @@
 title: Breakfast at Tiffany's
 date: 2016-12-31
 summary: 'A novella by Truman Capote'
+draft: true
 ---
 
 {{< booklist/book

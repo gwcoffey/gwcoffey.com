@@ -2,6 +2,7 @@
 title: James A. Garfield
 date: 2017-09-09
 summary: 'A biography of James Garfield by Thomas C Sutton'
+draft: true
 ---
 
 {{< booklist/book

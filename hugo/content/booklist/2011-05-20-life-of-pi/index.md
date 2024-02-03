@@ -2,6 +2,7 @@
 title: Life of Pi
 date: 2011-05-20
 summary: 'A novel by Yann Martel'
+draft: true
 ---
 
 {{< booklist/book

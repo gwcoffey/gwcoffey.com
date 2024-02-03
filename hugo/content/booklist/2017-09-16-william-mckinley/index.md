@@ -2,6 +2,7 @@
 title: William McKinley
 date: 2017-09-16
 summary: 'A biography of William McKinley by Kevin Phillips'
+draft: true
 ---
 
 {{< booklist/book

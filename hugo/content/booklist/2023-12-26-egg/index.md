@@ -1,5 +1,6 @@
 ---
 title: "Egg: A Dozen Ovatures"
+author: "Lizzie Stark"
 date: 2023-12-26
 summary: "I adore this kind of book. It's a sort of renaissance work of affection and obsession."
 icon: book

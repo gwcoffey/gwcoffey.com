@@ -2,6 +2,7 @@
 title: Rashomon and Seventeen Other Stories
 date: 2017-10-21
 summary: 'An anthology of short stories by Ryunosuke Akutagawa translated by Jay Rubin'
+draft: true
 ---
 
 {{< booklist/book

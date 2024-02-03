@@ -1,5 +1,6 @@
 ---
 title: The Lottery, and Other Stories
+author: Shirley Jackson
 date: 2022-09-16
 summary: My daughter's girlfriend told me she read Shirley Jackson as a young teen, and she instantly became her favorite author…
 icon: book

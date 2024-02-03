@@ -2,6 +2,7 @@
 title: Othello
 date: 2015-11-30
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

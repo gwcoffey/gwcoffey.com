@@ -2,6 +2,7 @@
 title: 'Insanely Simple: The Obsession That Drives Apple''s Success'
 date: 2012-07-04
 summary: 'Nonfiction by Ken Segall'
+draft: true
 ---
 
 {{< booklist/book

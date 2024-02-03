@@ -1,5 +1,6 @@
 ---
 title: "The Westing Game"
+author: "Ellen Raskin"
 date: 2023-11-26
 summary: "My brother and I read this book together during a family trip when we were maybe 10 and 11. I had completely forgotten about it…"
 icon: book

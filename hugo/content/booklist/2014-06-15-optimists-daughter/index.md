@@ -2,6 +2,7 @@
 title: The Optimist's Daughter
 date: 2014-06-15
 summary: 'A novel by Eudora Welty'
+draft: true
 ---
 
 {{< booklist/book

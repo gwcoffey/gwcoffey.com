@@ -1,5 +1,6 @@
 ---
 title: High
+author: David and Nic Sheff
 date: 2023-04-01
 summary: I don't have much to say about it. It's a book about recreational drugs aimed at teens…
 icon: book

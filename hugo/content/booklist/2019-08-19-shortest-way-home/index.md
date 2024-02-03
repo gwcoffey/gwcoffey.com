@@ -2,6 +2,7 @@
 title: 'Shortest Way Home: One Mayor''s Challenge and a Model for America''s Future'
 date: 2019-08-19
 summary: 'A memoir by Pete Buttigieg'
+draft: true
 ---
 
 {{< booklist/book

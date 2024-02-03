@@ -2,6 +2,7 @@
 title: The Day on Fire
 date: 2020-05-16
 summary: 'A novel by James Ramsey Ullman'
+draft: true
 ---
 
 {{< booklist/book

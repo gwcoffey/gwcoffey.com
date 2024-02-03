@@ -1,5 +1,6 @@
 ---
 title: I Await the Devil's Coming
+author: Mary MacLane
 date: 2022-03-22
 summary: 'A memoir by Mary MacLane'
 ---

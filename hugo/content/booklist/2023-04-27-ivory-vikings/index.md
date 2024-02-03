@@ -1,5 +1,6 @@
 ---
 title: Ivory Vikings
+author: Nancy Marie Brown
 date: 2023-04-27
 summary: It looked right down my alley and I really enjoyed it…
 icon: book

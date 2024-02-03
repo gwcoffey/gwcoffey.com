@@ -1,5 +1,6 @@
 ---
 title: All the Rivers
+author: Dorit Rabinyan
 date: 2022-09-12
 summary: 'This was recommended by my oldest child Isabel. It is a beautifully written introspective story…'
 icon: book

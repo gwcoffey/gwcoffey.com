@@ -2,6 +2,7 @@
 title: Cities of the Plain
 date: 2021-08-30
 summary: 'A novel by Cormac McCarthy'
+draft: true
 ---
 
 {{< booklist/book

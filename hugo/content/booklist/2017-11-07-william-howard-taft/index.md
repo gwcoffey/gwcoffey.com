@@ -2,6 +2,7 @@
 title: William Howard Taft
 date: 2017-11-07
 summary: 'A biography of William Taft by Sanders Romero'
+draft: true
 ---
 
 {{< booklist/book

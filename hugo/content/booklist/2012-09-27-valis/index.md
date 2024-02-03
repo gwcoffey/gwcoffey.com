@@ -2,6 +2,7 @@
 title: Valis
 date: 2012-09-27
 summary: 'A novel by Philip K Dick'
+draft: true
 ---
 
 {{< booklist/book

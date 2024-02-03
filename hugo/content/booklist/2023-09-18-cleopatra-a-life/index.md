@@ -1,5 +1,6 @@
 ---
 title: "Cleopatra: A Life"
+author: "Stacy Schiff"
 date: 2023-09-18
 summary: 'Schiff does such a good job illuminating the source material and putting what has been said about Cleopatra into historical and cultural context.'
 icon: book

@@ -2,6 +2,7 @@
 title: The Sorrows of Young Werther
 date: 2016-05-16
 summary: 'A novel by Goethe'
+draft: true
 ---
 
 {{< booklist/book

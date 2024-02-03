@@ -2,6 +2,7 @@
 title: Child of God
 date: 2021-05-14
 summary: 'A novel by Cormac McCarthy'
+draft: true
 ---
 
 {{< booklist/book

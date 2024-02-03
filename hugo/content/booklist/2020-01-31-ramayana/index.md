@@ -2,6 +2,7 @@
 title: The Ramayana (Abbr.)
 date: 2020-01-31
 summary: 'An abridged retelling by RK Narayan of a religious text'
+draft: true
 ---
 
 {{< booklist/book

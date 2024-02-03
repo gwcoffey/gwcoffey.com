@@ -2,6 +2,7 @@
 title: 'Undisturbed REST: a Guide to Designing the Perfect API'
 date: 2016-12-13
 summary: 'Nonfiction by Michael Stowe'
+draft: true
 ---
 
 {{< booklist/book

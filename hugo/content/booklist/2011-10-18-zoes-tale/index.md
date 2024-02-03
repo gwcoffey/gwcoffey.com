@@ -2,6 +2,7 @@
 title: 'Zoe''s Tale: An Old Man''s War Novel'
 date: 2011-10-18
 summary: 'A novel by John Scalzi'
+draft: true
 ---
 
 {{< booklist/book

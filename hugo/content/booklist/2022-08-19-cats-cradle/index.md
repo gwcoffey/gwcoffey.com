@@ -1,5 +1,6 @@
 ---
 title: Cat's Cradle
+author: Kurt Vonnegut
 date: 2022-08-19
 summary: I've read this book a dozen times…
 icon: book

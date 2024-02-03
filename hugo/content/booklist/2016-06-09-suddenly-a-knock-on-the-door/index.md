@@ -2,6 +2,7 @@
 title: Suddenly, a Knock on the Door
 date: 2016-06-09
 summary: 'An anthology of short stories by Etgar Keret'
+draft: true
 ---
 
 {{< booklist/book

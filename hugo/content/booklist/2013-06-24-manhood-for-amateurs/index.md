@@ -3,6 +3,7 @@ title: 'Manhood for Amateurs: The Pleasures and Regrets of a Husband, Father, an
   Son'
 date: 2013-06-24
 summary: 'A collection of essays by Michael Chabon'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: "But Will You Love Me Tomorrow"
+author: "Laura Flam, Emily Sieu Liebowitz"
 date: 2023-12-22
 summary: "This book is almost 100% constructed from excerpts from first person interviews with a wide cast of characters from the industry and era, all meticulously edited…"
 icon: book

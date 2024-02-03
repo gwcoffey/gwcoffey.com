@@ -2,6 +2,7 @@
 title: 'The Mansion of Happiness: A History of Life and Death'
 date: 2012-08-14
 summary: 'Nonfiction by Jill Lepore'
+draft: true
 ---
 
 {{< booklist/book

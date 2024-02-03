@@ -1,5 +1,6 @@
 ---
 title: The Information
+author: James Gleick
 date: 2023-01-08
 summary: It's hard to overstate how excellent this book is…
 icon: book

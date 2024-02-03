@@ -2,6 +2,7 @@
 title: How to Live Safely in a Science Fictional Universe
 date: 2021-08-25
 summary: 'A novel by Charles Yu'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: The Tragedy of King Lear
 date: 2015-10-28
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

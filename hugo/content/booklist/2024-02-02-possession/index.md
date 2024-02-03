@@ -1,6 +1,7 @@
 ---
 title: "Possession: A Romance"
-date: 2024-01-29
+author: "A.S. Byatt"
+date: 2024-02-02
 summary: "What an audacious book this is."
 icon: book
 tags:

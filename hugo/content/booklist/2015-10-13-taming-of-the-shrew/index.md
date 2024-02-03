@@ -2,6 +2,7 @@
 title: The Taming of the Shrew
 date: 2015-10-13
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

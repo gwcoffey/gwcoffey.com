@@ -1,5 +1,6 @@
 ---
 title: Augustus
+author: John Williams
 date: 2022-06-28
 summary: "*Augustus* is a perfectly written, surprisingly moving epistolary novel about the life of Caesar Augustus. Williams pulls off a magic trick here…"
 icon: book

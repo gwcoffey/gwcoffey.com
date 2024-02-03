@@ -1,5 +1,6 @@
 ---
 title: 'Cleopatra: Her History, Her Myth'
+author: Francine Prose
 date: 2022-01-30
 summary: 'A biography of Cleopatra by Francine Prose'
 ---

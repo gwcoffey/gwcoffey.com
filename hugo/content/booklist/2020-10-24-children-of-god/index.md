@@ -2,6 +2,7 @@
 title: Children of God
 date: 2020-10-24
 summary: 'A novel by Mary Doria Russell'
+draft: true
 ---
 
 {{< booklist/book

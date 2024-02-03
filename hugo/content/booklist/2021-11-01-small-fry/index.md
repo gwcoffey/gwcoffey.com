@@ -2,6 +2,7 @@
 title: Small Fry
 date: 2021-11-01
 summary: 'A memoir by Lisa Brennan-Jobs'
+draft: true
 ---
 
 {{< booklist/book

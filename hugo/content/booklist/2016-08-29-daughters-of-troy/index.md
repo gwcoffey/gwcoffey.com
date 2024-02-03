@@ -2,6 +2,7 @@
 title: The Daughters of Troy
 date: 2016-08-29
 summary: 'A play by Seneca'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: On the Beach
+author: Nevil Shute
 date: 2022-11-30
 summary: Emily Dickinson said she knows something is poetry when "I feel physically as if the top of my head were taken off." I'm not sure what that meant to her, but I think I recognize the feel of it…
 icon: book

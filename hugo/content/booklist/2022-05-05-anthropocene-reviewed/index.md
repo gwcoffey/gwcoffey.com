@@ -1,5 +1,6 @@
 ---
 title: The Anthropocene Reviewed
+author: John Green
 date: 2022-05-05
 summary: 'A collection of essays by John Green'
 ---

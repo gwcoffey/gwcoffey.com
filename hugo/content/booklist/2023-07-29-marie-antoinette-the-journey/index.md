@@ -1,5 +1,6 @@
 ---
 title: "Marie Antoinette: The Journey"
+author: "Antonia Fraser"
 date: 2023-07-29
 summary: 'I decided to read this because it is the basis of one of my favorite films, Sofia Coppola’s Marie Antoinette. And because the cover is gorgeous. But it is also a very timely read.'
 icon: book

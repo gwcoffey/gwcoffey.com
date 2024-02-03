@@ -1,5 +1,6 @@
 ---
 title: The King of Infinite Space
+author: "David Berlinski"
 date: 2023-07-17
 summary: 'A little over-long and short on insight, but still a worthy read…'
 icon: book

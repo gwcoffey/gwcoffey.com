@@ -2,6 +2,7 @@
 title: The BFG
 date: 2006-12-15
 summary: 'A novel by Roald Dahl'
+draft: true
 ---
 
 {{< booklist/book

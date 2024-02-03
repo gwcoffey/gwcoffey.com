@@ -2,6 +2,7 @@
 title: A Midsummer Night's Dream
 date: 2016-05-03
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

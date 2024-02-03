@@ -2,6 +2,7 @@
 title: An Exact Replica of a Figment of My Imagination
 date: 2020-01-27
 summary: 'A memoir by Elizabeth McCracken'
+draft: true
 ---
 
 {{< booklist/book

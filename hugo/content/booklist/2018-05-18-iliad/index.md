@@ -2,6 +2,7 @@
 title: The Iliad
 date: 2018-05-18
 summary: 'An epic poem by Homer translated by Richmond Lattimore'
+draft: true
 ---
 
 {{< booklist/book

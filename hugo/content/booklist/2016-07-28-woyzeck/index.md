@@ -2,6 +2,7 @@
 title: Woyzeck
 date: 2016-07-28
 summary: 'A novel by Georg Büchner'
+draft: true
 ---
 
 {{< booklist/book

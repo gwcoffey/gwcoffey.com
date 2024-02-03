@@ -2,6 +2,7 @@
 title: What Pet Should I Get?
 date: 2015-05-25
 summary: 'A picture book by Dr. Seuss'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: Evening in the Palace of Reason
 date: 2016-06-01
 summary: 'Nonfiction by James Gaines'
+draft: true
 ---
 
 {{< booklist/book

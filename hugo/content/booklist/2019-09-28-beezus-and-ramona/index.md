@@ -2,6 +2,7 @@
 title: Beezus and Ramona
 date: 2019-09-28
 summary: 'A novel by Beverly Cleary'
+draft: true
 ---
 
 {{< booklist/book

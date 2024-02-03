@@ -2,6 +2,7 @@
 title: On the Beach
 date: 2020-12-31
 summary: 'A novel by Nevil Shute'
+draft: true
 ---
 
 {{< booklist/book

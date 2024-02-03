@@ -2,6 +2,7 @@
 title: The Stone Sky
 date: 2020-06-21
 summary: 'A novel by NK Jemisin'
+draft: true
 ---
 
 {{< booklist/book

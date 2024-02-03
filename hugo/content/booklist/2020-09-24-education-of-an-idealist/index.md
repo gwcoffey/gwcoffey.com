@@ -2,6 +2,7 @@
 title: The Education of an Idealist
 date: 2020-09-24
 summary: 'A memoir by Samantha Power'
+draft: true
 ---
 
 {{< booklist/book

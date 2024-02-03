@@ -1,5 +1,6 @@
 ---
 title: Snow Crash
+author: Neal Stephenson
 date: 2023-04-17
 summary: I'm not sure why I had never read this book. I heard Stephenson in an interview discussing the 30th anniversary of its publication and decided it was time. I'm so glad I did…
 icon: book

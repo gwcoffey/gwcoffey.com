@@ -2,6 +2,7 @@
 title: A Confederacy of Dunces
 date: 2019-10-06
 summary: 'A novel by John Kennedy Toole'
+draft: true
 ---
 
 {{< booklist/book

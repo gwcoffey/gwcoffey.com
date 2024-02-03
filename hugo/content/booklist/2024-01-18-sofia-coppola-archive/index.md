@@ -1,5 +1,6 @@
 ---
 title: "Sofia Coppola Archive"
+author: "Sofia Coppola & Lynn Hirschberg"
 date: 2024-01-18
 summary: "I love getting these glimpses into Coppola's visual inspiration. The book is full of them."
 icon: book

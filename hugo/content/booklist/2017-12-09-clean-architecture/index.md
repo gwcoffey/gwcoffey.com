@@ -2,6 +2,7 @@
 title: 'Clean Architecture: A Craftsman''s Guide to Software Structure and Design'
 date: 2017-12-09
 summary: 'Nonfiction by Robert C Martin'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking'
 date: 2012-04-29
 summary: 'Nonfiction by Susan Cain'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: Stoner
 date: 2011-02-17
 summary: 'A novel by John Williams'
+draft: true
 ---
 
 {{< booklist/book

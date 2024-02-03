@@ -2,6 +2,7 @@
 title: If The South Had Won The Civil War
 date: 2014-11-26
 summary: 'A novel by MacKinlay Kantor'
+draft: true
 ---
 
 {{< booklist/book

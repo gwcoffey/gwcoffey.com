@@ -1,5 +1,6 @@
 ---
 title: Julius Caesar
+author: William Shakespeare
 date: 2022-11-18
 summary: Cowards die many times before their deaths, The valiant never taste of death but once…
 icon: book

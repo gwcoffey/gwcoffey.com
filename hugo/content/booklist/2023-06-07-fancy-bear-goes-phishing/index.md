@@ -1,5 +1,6 @@
 ---
 title: Fancy Bear Goes Phishing
+author: "Scott J Shapiro"
 date: 2023-06-07
 summary: So much better than I expected…
 icon: book

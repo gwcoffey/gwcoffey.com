@@ -2,6 +2,7 @@
 title: Measure for Measure
 date: 2014-12-14
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

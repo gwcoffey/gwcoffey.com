@@ -2,6 +2,7 @@
 title: Mythology
 date: 2020-05-22
 summary: 'Nonfiction by Edith Hamilton'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: "The Great White Bard"
+author: "Farah Karim-Cooper"
 date: 2023-12-28
 summary: "Karim-Cooper, an accomplished Shakespeare scholar and woman of color, does the hard work, turning to the text, and the history of racial language…"
 icon: book

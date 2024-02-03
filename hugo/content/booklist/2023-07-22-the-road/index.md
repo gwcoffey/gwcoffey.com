@@ -1,5 +1,6 @@
 ---
 title: The Road
+author: "Cormac McCarthy"
 date: 2023-07-22
 summary: 'To me this book is the opposite of hopeless…'
 icon: book

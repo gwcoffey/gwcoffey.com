@@ -2,6 +2,7 @@
 title: The Gift of Adversity
 date: 2013-08-30
 summary: 'Nonfiction by Norman Rosenthal'
+draft: true
 ---
 
 {{< booklist/book

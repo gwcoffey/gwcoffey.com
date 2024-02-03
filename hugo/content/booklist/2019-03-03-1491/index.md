@@ -2,6 +2,7 @@
 title: '1491: New Revelations of the Americas Before Columbus'
 date: 2019-03-03
 summary: 'Nonfiction by Charles C Mann'
+draft: true
 ---
 
 {{< booklist/book

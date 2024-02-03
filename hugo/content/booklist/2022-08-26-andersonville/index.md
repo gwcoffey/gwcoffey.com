@@ -1,5 +1,6 @@
 ---
 title: Andersonville
+author: MacKinlay Kantor
 date: 2022-08-26
 summary: 'Kantor is an impeccable writer and this book is beautifully constructed. But it veers waaaaay too close to white southern apologia to be excusable…'
 icon: book

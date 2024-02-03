@@ -1,5 +1,6 @@
 ---
 title: My Antonia
+author: Willa Cather
 date: 2022-03-31
 summary: 'A novel by Willa Cather'
 ---

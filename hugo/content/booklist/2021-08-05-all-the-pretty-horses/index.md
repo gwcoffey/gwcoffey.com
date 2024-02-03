@@ -2,6 +2,7 @@
 title: All the Pretty Horses
 date: 2021-08-05
 summary: 'A novel by Cormac McCarthy'
+draft: true
 ---
 
 {{< booklist/book

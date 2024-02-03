@@ -1,5 +1,6 @@
 ---
 title: The Dispossessed
+author: Ursula K. Le Guin
 date: 2023-04-20
 summary: This book is a little slow and the plot is thin, but it is some of Le Guin's most beautiful and thoughtful prose…
 icon: book
@@ -10,7 +11,7 @@ tags:
 
 {{< booklist/book
 title="The Dispossessed"
-author="Ursula K Le Guin"
+author="Ursula K. Le Guin"
 cover="cover.jpg"
 format="Audio" >}}
 

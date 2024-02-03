@@ -2,6 +2,7 @@
 title: Chester A. Arthur
 date: 2017-10-03
 summary: 'A biography of Chester Arthur by Thomas C Sutton'
+draft: true
 ---
 
 {{< booklist/book

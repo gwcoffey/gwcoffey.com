@@ -2,6 +2,7 @@
 title: Gradle Essentials
 date: 2016-08-17
 summary: 'Nonfiction by Kunal Dabir and Abhinandan'
+draft: true
 ---
 
 {{< booklist/book

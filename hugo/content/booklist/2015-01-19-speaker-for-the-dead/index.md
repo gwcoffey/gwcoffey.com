@@ -2,6 +2,7 @@
 title: Speaker for the Dead
 date: 2015-01-19
 summary: 'A novel by Orson Scott Card'
+draft: true
 ---
 
 {{< booklist/book

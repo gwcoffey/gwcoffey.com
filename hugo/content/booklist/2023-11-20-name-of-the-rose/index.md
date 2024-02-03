@@ -1,5 +1,6 @@
 ---
 title: "The Name of the Rose"
+author: "Umberto Eco"
 date: 2023-11-20
 summary: "It has *everything*!"
 icon: book

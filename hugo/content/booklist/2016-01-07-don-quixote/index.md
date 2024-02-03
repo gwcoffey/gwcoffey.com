@@ -2,6 +2,7 @@
 title: Don Quixote
 date: 2016-01-07
 summary: 'A novel by Cervantes'
+draft: true
 ---
 
 {{< booklist/book

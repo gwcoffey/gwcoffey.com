@@ -2,6 +2,7 @@
 title: The Joy Luck Club
 date: 2013-10-03
 summary: 'A novel by Amy Tan'
+draft: true
 ---
 
 {{< booklist/book

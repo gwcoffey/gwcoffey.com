@@ -1,5 +1,6 @@
 ---
 title: "What She Said"
+author: "Deanna Templeton"
 date: 2023-07-29
 summary: 'I devoured this book today from beginning to end. Powerful, intimate, redemptive, and beautifully illustrated. It brought me to tears.'
 icon: book

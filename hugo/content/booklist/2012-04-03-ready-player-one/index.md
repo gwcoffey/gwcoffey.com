@@ -2,6 +2,7 @@
 title: Ready Player One
 date: 2012-04-03
 summary: 'A novel by Ernest Cline'
+draft: true
 ---
 
 {{< booklist/book

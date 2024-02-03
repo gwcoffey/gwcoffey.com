@@ -2,6 +2,7 @@
 title: Fahrenheit 451
 date: 2013-08-06
 summary: 'A novel by Ray Bradbury'
+draft: true
 ---
 
 {{< booklist/book

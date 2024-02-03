@@ -1,5 +1,6 @@
 ---
 title: "The Pisces"
+author: "Melissa Broder"
 date: 2024-01-28
 summary: "This book was recommended effusively by an author I admire, Lulu Miller. So it went on my list. Broder is an exquisite writer, and I love a first-person narrative that goes deep, so it's no surprise I loved this."
 icon: book

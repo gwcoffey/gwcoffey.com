@@ -2,6 +2,7 @@
 title: The Story of the Treasure Seekers
 date: 2011-03-04
 summary: 'A novel by Edith Nesbit'
+draft: true
 ---
 
 {{< booklist/book

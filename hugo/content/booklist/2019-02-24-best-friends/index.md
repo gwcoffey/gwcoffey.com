@@ -2,6 +2,7 @@
 title: Best Friends
 date: 2019-02-24
 summary: 'A graphic novel by Shannon Hale'
+draft: true
 ---
 
 {{< booklist/book

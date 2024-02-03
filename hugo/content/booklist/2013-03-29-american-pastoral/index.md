@@ -2,6 +2,7 @@
 title: American Pastoral
 date: 2013-03-29
 summary: 'A novel by Philip Roth'
+draft: true
 ---
 
 {{< booklist/book

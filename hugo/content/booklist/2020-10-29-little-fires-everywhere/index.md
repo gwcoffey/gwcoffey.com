@@ -2,6 +2,7 @@
 title: Little Fires Everywhere
 date: 2020-10-29
 summary: 'A novel by Celeste Ng'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: Rutherford B. Hayes
 date: 2017-09-02
 summary: 'A biography of Rutherford B Hayes by Michael A Ross'
+draft: true
 ---
 
 {{< booklist/book

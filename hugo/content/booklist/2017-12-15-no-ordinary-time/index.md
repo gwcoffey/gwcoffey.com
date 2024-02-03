@@ -2,6 +2,7 @@
 title: 'No Ordinary Time: Franklin and Eleanor Roosevelt'
 date: 2017-12-15
 summary: 'A biography of Franklin and Eleanor Roosevelt by Doris Kearns Goodwin'
+draft: true
 ---
 
 {{< booklist/book

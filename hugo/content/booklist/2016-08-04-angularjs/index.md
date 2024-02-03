@@ -2,6 +2,7 @@
 title: 'AngularJS: Up and Running'
 date: 2016-08-04
 summary: 'Nonfiction by Shyam Seshadri and Brad Green'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: Gods of Jade and Shadow
 date: 2021-09-19
 summary: 'A novel by Slivia Moreno-Garcia'
+draft: true
 ---
 
 {{< booklist/book

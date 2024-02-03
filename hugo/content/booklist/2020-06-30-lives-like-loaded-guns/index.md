@@ -2,6 +2,7 @@
 title: 'Lives Like Loaded Guns: Emily Dickinson and Her Family''s Feuds'
 date: 2020-06-30
 summary: 'A biography of Emily Dickinson by Lyndall Gordon'
+draft: true
 ---
 
 {{< booklist/book

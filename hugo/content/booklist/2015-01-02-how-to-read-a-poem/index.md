@@ -2,6 +2,7 @@
 title: 'How To Read A Poem and Fall in Love with Poetry'
 date: 2015-01-02
 summary: 'Nonfiction by Edward Hirsch'
+draft: true
 ---
 
 {{< booklist/book

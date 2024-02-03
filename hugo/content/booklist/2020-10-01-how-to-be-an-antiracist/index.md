@@ -2,6 +2,7 @@
 title: How to Be an Antiracist
 date: 2020-10-01
 summary: 'Nonfiction by Ibram X Kendi'
+draft: true
 ---
 
 {{< booklist/book

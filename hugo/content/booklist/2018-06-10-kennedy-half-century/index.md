@@ -2,6 +2,7 @@
 title: The Kennedy Half Century
 date: 2018-06-10
 summary: 'A biography of John F Kennedy by Larry J Sabato'
+draft: true
 ---
 
 {{< booklist/book

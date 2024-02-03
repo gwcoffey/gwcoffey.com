@@ -2,6 +2,7 @@
 title: 'The Daemon Knows: Literary Greatness and the American Sublime'
 date: 2015-04-23
 summary: 'Nonfiction by Harold Bloom'
+draft: true
 ---
 
 {{< booklist/book

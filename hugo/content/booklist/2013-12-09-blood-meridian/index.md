@@ -2,6 +2,7 @@
 title: Blood Meridian or the Evening Redness in the West
 date: 2013-12-09
 summary: 'A novel by Cormac McCarthy'
+draft: true
 ---
 
 {{< booklist/book

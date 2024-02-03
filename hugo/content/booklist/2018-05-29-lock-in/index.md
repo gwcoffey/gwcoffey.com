@@ -2,6 +2,7 @@
 title: Lock In
 date: 2018-05-29
 summary: 'A novel by John Scalzi'
+draft: true
 ---
 
 {{< booklist/book

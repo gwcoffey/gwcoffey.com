@@ -2,6 +2,7 @@
 title: '1984'
 date: 2019-09-22
 summary: 'A novel by George Orwell'
+draft: true
 ---
 
 {{< booklist/book

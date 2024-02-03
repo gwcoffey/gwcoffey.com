@@ -1,5 +1,6 @@
 ---
 title: "Madonna: A Rebel Life"
+author: "Mary Gabriel"
 date: 2023-12-15
 summary: "I grew up in Indiana to mostly liberal parents in the heart of conservative America, and in the thick of the AIDS crisis. Which is to say Madonna was, for the most part, a *villain* in the cultural mind of my surroundings."
 icon: book

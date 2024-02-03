@@ -1,5 +1,6 @@
 ---
 title: The Peripheral
+author: William Gibson
 date: 2023-03-16
 summary: I've only read a little Gibson, but I love his imaginative future-tech worlds. And I especially love his inventive use of language…
 icon: book

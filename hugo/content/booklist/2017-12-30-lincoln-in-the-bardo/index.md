@@ -2,6 +2,7 @@
 title: Lincoln in the Bardo
 date: 2017-12-30
 summary: 'A novel by George Saunders'
+draft: true
 ---
 
 {{< booklist/book

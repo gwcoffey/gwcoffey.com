@@ -2,6 +2,7 @@
 title: In the Skin of a Lion
 date: 2013-01-14
 summary: 'A novel by Michael Ondaatje'
+draft: true
 ---
 
 {{< booklist/book

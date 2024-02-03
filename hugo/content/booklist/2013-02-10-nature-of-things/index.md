@@ -2,6 +2,7 @@
 title: The Nature of Things
 date: 2013-02-10
 summary: 'Nonfiction by Lucretius, translated by AE Stallings'
+draft: true
 ---
 
 {{< booklist/book

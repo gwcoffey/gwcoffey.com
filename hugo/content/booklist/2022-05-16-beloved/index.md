@@ -1,5 +1,6 @@
 ---
 title: Beloved
+author: Toni Morrison
 date: 2022-05-16
 summary: 'A novel by Toni Morrison'
 ---

@@ -2,6 +2,7 @@
 title: Romeo and Juliet
 date: 2016-01-12
 summary: 'A play by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

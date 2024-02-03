@@ -2,6 +2,7 @@
 title: Slapstick
 date: 2019-12-04
 summary: 'A novel by Kurt Vonnegut'
+draft: true
 ---
 
 {{< booklist/book

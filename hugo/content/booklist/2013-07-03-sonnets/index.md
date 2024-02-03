@@ -2,6 +2,7 @@
 title: The Sonnets
 date: 2013-07-03
 summary: 'Poetry by Shakespeare'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: "The Scarlet Letter"
+author: "Nathaniel Hawthorne"
 date: 2023-12-01
 summary: "Over dinner, Isabel told me they re-read this because their students are reading it in Literature class. Isabel said it was so much better than they remembered."
 icon: book

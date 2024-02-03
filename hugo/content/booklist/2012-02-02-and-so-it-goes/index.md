@@ -2,6 +2,7 @@
 title: 'And So It Goes: Kurt Vonnegut: A Life'
 date: 2012-02-02
 summary: 'A biography of Kurt Vonnegut by Charles J. Shields'
+draft: true
 ---
 
 {{< booklist/book

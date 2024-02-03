@@ -1,5 +1,6 @@
 ---
 title: Catherine, Called Birdy
+author: Karen Cushman
 date: 2022-04-15
 summary: 'A novel by Karen Cushman'
 ---

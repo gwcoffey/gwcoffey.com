@@ -2,6 +2,7 @@
 title: The Obelisk Gate
 date: 2020-06-27
 summary: 'A novel by NK Jemisin'
+draft: true
 ---
 
 {{< booklist/book

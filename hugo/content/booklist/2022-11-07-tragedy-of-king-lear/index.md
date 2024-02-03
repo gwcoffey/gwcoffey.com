@@ -1,5 +1,6 @@
 ---
 title: The Tragedy of King Lear
+author: William Shakespeare
 date: 2022-11-07
 summary: I have full cause of weeping, but this heart Shall break into a hundred thousand flaws Or ere I’ll weep…
 icon: book

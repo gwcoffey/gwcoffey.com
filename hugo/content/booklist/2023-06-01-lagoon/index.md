@@ -1,5 +1,6 @@
 ---
 title: Lagoon
+author: Nnedi Okorafor
 date: 2023-06-01
 summary: This is a beautifully imagined, wholly original love letter to Lagos, Nigeria in the form of a science fiction alien invasion story…
 icon: book

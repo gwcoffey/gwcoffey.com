@@ -2,6 +2,7 @@
 title: Who Owns the Future?
 date: 2020-12-13
 summary: 'Nonfiction by Jaron Lanier'
+draft: true
 ---
 
 {{< booklist/book

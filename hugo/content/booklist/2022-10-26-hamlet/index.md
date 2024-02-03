@@ -1,5 +1,6 @@
 ---
 title: Hamlet
+author: William Shakespeare
 date: 2022-10-26
 summary: You would pluck out the heart of my mystery…
 icon: book

@@ -2,6 +2,7 @@
 title: The Giving Tree
 date: 2016-05-20
 summary: 'A picture book by Shel Silverstein'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: Agency
+author: William Gibson
 date: 2023-03-28
 summary: Dare I say it? This book is a little boring…
 icon: book

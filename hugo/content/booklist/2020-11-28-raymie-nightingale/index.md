@@ -2,6 +2,7 @@
 title: Raymie Nightingale
 date: 2020-11-28
 summary: 'A novel by Kate DiCamillo'
+draft: true
 ---
 
 {{< booklist/book

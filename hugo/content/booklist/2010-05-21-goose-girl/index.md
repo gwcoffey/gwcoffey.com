@@ -2,6 +2,7 @@
 title: The Goose Girl
 date: 2010-05-21
 summary: 'A novel by Shannon Hale'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: Anne of Green Gables
+author: Lucy Maud Montgomery
 date: 2022-06-11
 summary: My child Isabel was *obsessed* with these books as a pre-teen…
 icon: book

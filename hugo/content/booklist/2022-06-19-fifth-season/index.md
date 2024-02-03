@@ -1,5 +1,6 @@
 ---
 title: The Fifth Season
+author: N.K. Jemisin
 date: 2022-06-19
 summary: This book is every bit as good as you've probably heard. Original, engaging, and deeply moving…
 icon: book
@@ -9,7 +10,7 @@ tags:
 
 {{< booklist/book
 title="The Fifth Season"
-author="NK Jemisin"
+author="N.K. Jemisin"
 cover="cover.jpg"
 format="Audio" >}}
 

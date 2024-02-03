@@ -2,6 +2,7 @@
 title: Son of a Witch
 date: 2019-05-03
 summary: 'A novel by Gregory Maguire'
+draft: true
 ---
 
 {{< booklist/book

@@ -2,6 +2,7 @@
 title: True Grit
 date: 2017-03-06
 summary: 'A novel by Charles Portis'
+draft: true
 ---
 
 {{< booklist/book

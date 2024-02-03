@@ -2,6 +2,7 @@
 title: 'Chaos: Making a New Science'
 date: 2019-09-12
 summary: 'Nonfiction by James Gleick'
+draft: true
 ---
 
 {{< booklist/book

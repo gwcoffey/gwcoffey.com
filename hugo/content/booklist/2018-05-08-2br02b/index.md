@@ -2,6 +2,7 @@
 title: 2BR02B
 date: 2018-05-08
 summary: 'A novella by Kurt Vonnegut'
+draft: true
 ---
 
 {{< booklist/book

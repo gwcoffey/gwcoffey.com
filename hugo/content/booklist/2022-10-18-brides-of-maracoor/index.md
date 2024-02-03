@@ -1,5 +1,6 @@
 ---
 title: The Brides of Maracoor
+author: Gregory Maguire
 date: 2022-10-18
 summary: I love love love the original Wicked series, but I think I'm done with these sequels…
 icon: book

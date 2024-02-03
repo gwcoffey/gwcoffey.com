@@ -1,5 +1,6 @@
 ---
 title: The Wicked Years
+author: Gregory Maguire
 date: 2022-10-10
 summary: I missed this universe, so I re-read the whole series back to back by way of the audiobooks…
 icon: book

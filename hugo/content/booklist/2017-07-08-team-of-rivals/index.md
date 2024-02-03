@@ -2,6 +2,7 @@
 title: 'Team of Rivals: The Political Genius of Abraham Lincoln'
 date: 2017-07-08
 summary: 'A biography of Lincoln by Doris Kearns Goodwin'
+draft: true
 ---
 
 {{< booklist/book

@@ -1,5 +1,6 @@
 ---
 title: Macbeth
+author: William Shakespeare
 date: 2022-10-31
 summary: When shall we three meet again? In thunder, lightning, or in rain?
 icon: book

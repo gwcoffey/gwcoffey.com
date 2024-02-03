@@ -1,5 +1,6 @@
 ---
 title: The First Three Minutes
+author: Steven Weinberg
 date: 2023-02-27
 summary: I enjoyed every page. For me it strikes the right balance…
 icon: book

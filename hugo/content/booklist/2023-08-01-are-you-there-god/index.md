@@ -1,5 +1,6 @@
 ---
 title: "Are You There God? It's Me, Margaret"
+author: "Judy Blume"
 date: 2023-08-01
 summary: 'Thanks an awful lot to you too, Margaret.'
 icon: book

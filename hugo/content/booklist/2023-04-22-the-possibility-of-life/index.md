@@ -1,5 +1,6 @@
 ---
 title: The Possibility of Life
+author: Jaime Green
 date: 2023-04-22
 summary: When I read an excerpt in *The Atlantic* I knew I had to read this book…
 icon: book

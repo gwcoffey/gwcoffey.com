@@ -1,5 +1,6 @@
 ---
 title: Barracoon
+author: Zora Neale Hurston
 date: 2022-01-15
 summary: 'A memoir by Zora Neale Hurston'
 ---

@@ -2,6 +2,7 @@
 title: Dead Souls
 date: 2016-03-14
 summary: 'A novel by Nikolai Gogol'
+draft: true
 ---
 
 {{< booklist/book

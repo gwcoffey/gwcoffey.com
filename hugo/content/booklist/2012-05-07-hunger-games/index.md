@@ -2,6 +2,7 @@
 title: The Hunger Games
 date: 2012-05-07
 summary: 'A novel by Suzanne Collins'
+draft: true
 ---
 
 {{< booklist/book

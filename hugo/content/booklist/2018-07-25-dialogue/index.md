@@ -2,6 +2,7 @@
 title: 'Dialogue: The Art of Verbal Action for Page, Stage, and Screen'
 date: 2018-07-25
 summary: 'Nonfiction by Robert McKee'
+draft: true
 ---
 
 {{< booklist/book

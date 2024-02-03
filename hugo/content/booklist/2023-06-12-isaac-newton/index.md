@@ -1,5 +1,6 @@
 ---
 title: Isaac Newton
+author: "James Gleick"
 date: 2023-06-12
 summary: 'This is more than a Biography (although it is a good one of those). It is an engrossing investigation into the state of and process of modern science…'
 icon: book

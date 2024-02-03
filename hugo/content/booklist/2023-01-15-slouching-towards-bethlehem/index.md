@@ -1,5 +1,6 @@
 ---
 title: Slouching Towards Bethlehem
+author: Joan Didion
 date: 2023-01-15
 summary: This book came so highly recommended from a friend that I suppose my expectations were out of whack…
 icon: book

@@ -2,6 +2,7 @@
 title: 'Henry von Ofterdingen: A Romance'
 date: 2017-04-09
 summary: 'A novel by Novalis'
+draft: true
 ---
 
 {{< booklist/book
