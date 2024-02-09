@@ -27,3 +27,6 @@ timeout = 120000
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[services.RSS]
+  limit = 50
