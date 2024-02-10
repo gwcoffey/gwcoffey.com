@@ -1,6 +1,8 @@
 ---
 title: "Possession: A Romance"
+subtitle: A Romance
 author: "A.S. Byatt"
+format: print
 date: 2024-02-02
 summary: "What an audacious book this is."
 icon: book

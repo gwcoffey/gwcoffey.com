@@ -1,6 +1,7 @@
 ---
 title: The Perks of Being a Wallflower
 author: "Stephen Chbosky"
+format: print
 date: 2023-07-27
 summary: 'I can see why this book resonated. It is very good. I love a first-person narrative. I love an epistolary novel. And I love a distinctive voice. This book is all three…'
 icon: book

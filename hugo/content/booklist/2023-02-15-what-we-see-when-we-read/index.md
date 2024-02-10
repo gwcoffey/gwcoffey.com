@@ -1,6 +1,7 @@
 ---
 title: What We See When We Read
 author: Peter Mendelsund
+format: print
 date: 2023-02-15
 summary: This is not so much a book as a collection of images and ideas that somehow, against all odds, condense into something deeply thought-provoking…
 icon: book

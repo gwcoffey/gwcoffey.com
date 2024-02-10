@@ -1,6 +1,7 @@
 ---
 title: The Denial of Death
 author: Ernest Becker
+format: audio
 date: 2022-05-22
 summary: 'Nonfiction by Ernest Becker'
 ---

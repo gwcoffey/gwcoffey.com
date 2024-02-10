@@ -1,6 +1,8 @@
 ---
 title: Fancy Bear Goes Phishing
+subtitle: The Dark History of the Information Age, in Five Extraordinary Hacks
 author: "Scott J Shapiro"
+format: audio
 date: 2023-06-07
 summary: So much better than I expected…
 icon: book

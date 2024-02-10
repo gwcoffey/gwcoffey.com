@@ -1,6 +1,7 @@
 ---
 title: Hello Beautiful
 author: Ann Napolitano
+format: audio
 date: 2023-03-25
 summary: I grabbed this to listen to on a long drive with my wife. It's a moving story, with a steady plot…
 icon: book

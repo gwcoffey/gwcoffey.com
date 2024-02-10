@@ -1,6 +1,7 @@
 ---
 title: Breakfast at Tiffany's
 author: Truman Capote
+format: audio
 date: 2022-01-01
 summary: 'A novella by Truman Capote'
 ---

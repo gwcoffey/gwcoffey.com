@@ -1,6 +1,7 @@
 ---
 title: "Dracula"
 author: "Bram Stoker"
+format: audio
 date: 2024-01-03
 summary: "Somehow I got this far in life without ever reading *Dracula*."
 icon: book

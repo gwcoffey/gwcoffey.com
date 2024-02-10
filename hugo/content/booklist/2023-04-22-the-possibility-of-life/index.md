@@ -1,6 +1,8 @@
 ---
 title: The Possibility of Life
+subtitle: Science, imagination, and our quest for kinship in the cosmos.
 author: Jaime Green
+format: audio
 date: 2023-04-22
 summary: When I read an excerpt in *The Atlantic* I knew I had to read this book…
 icon: book

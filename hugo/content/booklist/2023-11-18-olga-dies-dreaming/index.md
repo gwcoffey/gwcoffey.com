@@ -1,6 +1,7 @@
 ---
 title: "Olga Dies Dreaming"
 author: "Xochitl Gonzalez"
+format: print
 date: 2023-11-18
 summary: 'What an engrossing and possessing book this is.'
 icon: book

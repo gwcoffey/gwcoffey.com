@@ -1,6 +1,7 @@
 ---
 title: "A Brief History of Black Holes"
 author: "Dr. Becky Smethurst"
+format: audio
 date: 2023-10-19
 summary: 'What a delight this book is. It’s deeply engrossing, perfectly light for a non-scientist with genuine interest, and wonderfully structured.'
 icon: book

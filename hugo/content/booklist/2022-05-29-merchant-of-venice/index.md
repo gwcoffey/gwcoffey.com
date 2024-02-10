@@ -1,8 +1,9 @@
 ---
 title: The Merchant of Venice
 author: William Shakespeare
+format: print
 date: 2022-05-29
-summary: 'A poem by Shakespeare'
+summary: 'A play by Shakespeare'
 ---
 
 {{< booklist/book

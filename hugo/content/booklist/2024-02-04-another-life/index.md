@@ -1,6 +1,7 @@
 ---
 title: "Another Life"
 author: "Sarena Ulibarri"
+format: print
 date: 2024-02-04
 summary: "I read this novella on a whim after seeing in mentioned in a thread about Hugo drama. It's a quick, straight forward, breezy read. I genuinely admire Ulibarri's political optimism on display, and I found the character, plot, and style enjoyable."
 icon: book

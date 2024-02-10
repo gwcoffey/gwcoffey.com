@@ -1,6 +1,7 @@
 ---
 title: Cat's Cradle
 author: Kurt Vonnegut
+format: audio
 date: 2022-08-19
 summary: I've read this book a dozen times…
 icon: book

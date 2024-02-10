@@ -1,6 +1,8 @@
 ---
 title: "The Great White Bard"
+subtitle: How To Love Shakespeare While Talking About Race
 author: "Farah Karim-Cooper"
+format: audio
 date: 2023-12-28
 summary: "Karim-Cooper, an accomplished Shakespeare scholar and woman of color, does the hard work, turning to the text, and the history of racial language…"
 icon: book

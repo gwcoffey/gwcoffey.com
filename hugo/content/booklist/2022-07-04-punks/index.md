@@ -1,6 +1,8 @@
 ---
 title: Punks
+subtitle: New & Selected Poems
 author: John Keene
+format: print
 date: 2022-07-04
 summary: I heard John Keane interviewed about this book of poetry and ordered it right away.
 icon: book

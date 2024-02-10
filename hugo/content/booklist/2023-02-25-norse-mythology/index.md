@@ -1,6 +1,7 @@
 ---
 title: Norse Mythology
 author: Neil Gaiman
+format: audio
 date: 2023-02-25
 summary: I've read Gaiman's wonderful retelling of classic Norse myth at least twice before…
 icon: book

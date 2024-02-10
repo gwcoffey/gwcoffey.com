@@ -1,6 +1,8 @@
 ---
 title: "The Name of the Rose"
 author: "Umberto Eco"
+translator: William Weaver
+format: audio
 date: 2023-11-20
 summary: "It has *everything*!"
 icon: book

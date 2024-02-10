@@ -1,6 +1,7 @@
 ---
 title: A Prayer for Owen Meany
 author: John Irving
+format: audio
 date: 2022-08-10
 summary: My daughter's gilrfriend is reading this for the first time, and it got me amped up to re-read it myself. There's a special place in my heart reserved…
 icon: book

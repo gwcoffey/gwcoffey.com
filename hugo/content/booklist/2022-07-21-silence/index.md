@@ -1,6 +1,7 @@
 ---
 title: Silence
 author: Shūsaku Endō
+format: audio
 date: 2022-07-21
 summary: "This book shot straight onto my favorite books list. It is a fictional story based on historical events: it tells the story of Jesuit missionaries operating under intense government persecution in 17th century Japan…"
 icon: book

@@ -1,6 +1,8 @@
 ---
 title: Africa is Not a Country
+subtitle: Notes on a bright continent
 author: Dipo Faloyin
+format: audio
 date: 2023-03-03
 summary: A remarkable book that everyone should read…
 icon: book

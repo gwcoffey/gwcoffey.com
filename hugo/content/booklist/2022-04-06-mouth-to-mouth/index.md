@@ -1,6 +1,7 @@
 ---
 title: Mouth to Mouth
 author: Antoine Wilson
+format: audio
 date: 2022-04-06
 summary: A novel by Antoine Wilson
 ---

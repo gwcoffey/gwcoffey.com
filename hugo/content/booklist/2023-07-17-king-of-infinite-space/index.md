@@ -1,6 +1,8 @@
 ---
 title: The King of Infinite Space
+subtitle: Euclid and His Elements
 author: "David Berlinski"
+format: audio, print
 date: 2023-07-17
 summary: 'A little over-long and short on insight, but still a worthy read…'
 icon: book

@@ -1,6 +1,8 @@
 ---
 title: "Sofia Coppola Archive"
+subtitle: "1999-2023"
 author: "Sofia Coppola & Lynn Hirschberg"
+format: print
 date: 2024-01-18
 summary: "I love getting these glimpses into Coppola's visual inspiration. The book is full of them."
 icon: book

@@ -1,6 +1,7 @@
 ---
 title: Their Eyes Were Watching God
 author: Zora Neale Hurston
+format: audio
 date: 2022-01-07
 summary: 'A novel by Zora Neale Hurston'
 ---

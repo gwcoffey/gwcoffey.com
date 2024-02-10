@@ -1,6 +1,8 @@
 ---
 title: Masters of Doom
+subtitle: How Two Guys Created an Empire and Transformed Pop Culture
 author: David Kushner
+format: audio
 date: 2023-05-31
 summary: I have an affinity for stories like this. Before there was some huge multi-billion dollar industry operated out of boardrooms with massive glitzy ad campaigns and fortune 500 branding deals, there were a few wild, passionate, brilliant people in a dingy room somewhere…
 icon: book

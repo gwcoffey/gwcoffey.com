@@ -1,6 +1,7 @@
 ---
 title: "Eight Mountains"
 author: "Paulo Cognetti"
+format: audio
 date: 2023-09-30
 summary: 'It’s a beautifully written book about that friction between the world we sometimes imagine we want.'
 icon: book

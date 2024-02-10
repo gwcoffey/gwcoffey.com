@@ -1,6 +1,8 @@
 ---
 title: The Samurai
 author: Shūsaku Endō
+translator: Van C Gessel
+format: audio
 date: 2023-04-12
 summary: This book definitely didn't disappoint. As you would expect it is beautifully and thoughtfully written…
 icon: book

@@ -1,6 +1,7 @@
 ---
 title: The Social Wasps of North America
 author: Chris Alice Kratzer
+format: print
 date: 2022-06-07
 summary: Kratzer posted to twitter about this labor of love. A self-published encyclopedia of such a wonderfully minutely massive subject…
 icon: book

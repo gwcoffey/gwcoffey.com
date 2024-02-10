@@ -1,6 +1,8 @@
 ---
 title: "Indigenous Continent"
+subtitle: "The epic contest for North America"
 author: "Pekka Hämäläinen"
+format: audio
 date: 2023-08-09
 summary: 'The steady drumbeat of violence described in *Indigenous Continent*, put into terminology that is not so tainted by white supremacy, made all this very bare.'
 icon: book

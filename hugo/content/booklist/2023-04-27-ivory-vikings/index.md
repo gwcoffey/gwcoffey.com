@@ -1,6 +1,8 @@
 ---
 title: Ivory Vikings
+subtitle: The mystery of the most famous chessmen in the world and the woman who made them.
 author: Nancy Marie Brown
+format: audio
 date: 2023-04-27
 summary: It looked right down my alley and I really enjoyed it…
 icon: book

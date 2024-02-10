@@ -1,6 +1,8 @@
 ---
-title: "The Six: The Untold Story of America's First Women Astronauts"
+title: "The Six"
+subtitle: "The Untold Story of America's First Women Astronauts"
 author: "Loren Grush"
+format: audio
 date: 2023-09-22
 summary: 'This book is so well constructed. Even though you probably know many of the events, Grush unfolds them for us beautifully.'
 icon: book

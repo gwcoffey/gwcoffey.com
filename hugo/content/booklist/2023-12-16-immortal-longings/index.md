@@ -1,6 +1,7 @@
 ---
 title: "Immortal Longings"
 author: "Chloe Gong"
+format: audio
 date: 2023-12-16
 summary: "This book was not for me."
 icon: book

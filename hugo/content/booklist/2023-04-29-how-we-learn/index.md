@@ -1,6 +1,8 @@
 ---
 title: How We Learn
+subtitle: Why brains learn better than any machine… for now.
 author: Stanislas Dehaene
+format: audio
 date: 2023-04-29
 summary: This book hit my sweet spot. It taught me many things I did not know, deepened my understanding of many things I sort-of-vaguely-knew, and refuted some things I *thought* I knew to be true…
 icon: book

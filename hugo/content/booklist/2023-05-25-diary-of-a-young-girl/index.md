@@ -1,6 +1,7 @@
 ---
 title: The Diary of a Young Girl
 author: Anne Frank
+format: audio
 date: 2023-05-25
 summary: I don't think I need to explain why this book is worth reading. Every human being should reat it more than once.
 icon: book

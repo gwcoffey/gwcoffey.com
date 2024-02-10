@@ -1,6 +1,8 @@
 ---
 title: The Information
+subtitle: A history, a theory, a flood.
 author: James Gleick
+format: audio
 date: 2023-01-08
 summary: It's hard to overstate how excellent this book is…
 icon: book

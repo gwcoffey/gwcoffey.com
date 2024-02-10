@@ -1,6 +1,7 @@
 ---
 title: I Am the Most Interesting Book of All
 author: Marie Bashkirtsef
+format: print
 date: 2023-03-21
 summary: Marie Bashkirtsef painted one of my all-time favorite portraits. She also plays a role in one of my all-time favorite memoirs…
 icon: book

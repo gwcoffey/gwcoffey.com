@@ -1,6 +1,8 @@
 ---
-title: 'Machine: White Space, Book 2'
+title: 'Machine'
+subtitle: White Space, Book 2
 author: Elizabeth Bear
+format: audio
 date: 2022-07-26
 summary: I read Elizabeth Bear's wonderful short story [Thanksgiving](https://www.tabletmag.com/sections/arts-letters/articles/thanksgiving-elizabeth-bear) and immediately fell in love with it. So I decided to read one of her books…
 icon: book

@@ -1,6 +1,7 @@
 ---
 title: Beloved
 author: Toni Morrison
+format: audio
 date: 2022-05-16
 summary: 'A novel by Toni Morrison'
 ---

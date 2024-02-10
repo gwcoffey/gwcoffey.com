@@ -1,6 +1,8 @@
 ---
-title: "Alan Turing: The Enigma"
+title: "Alan Turing"
+subtitle: The Enigma
 author: "Andrew Hodges"
+format: audio
 date: 2023-07-17
 summary: 'A little over-long and short on insight, but still a worthy read…'
 icon: book

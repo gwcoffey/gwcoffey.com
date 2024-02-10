@@ -1,6 +1,7 @@
 ---
 title: Blood Meridian or the Evening Redness in the West
 author: Cormac McCarthy
+format: audio
 date: 2022-07-14
 summary: "This is a periodic re-read for me. A much harder book to grok on first reading that McCarthy's more straight-forward *Border Trilogy*, but an even better book."
 icon: book

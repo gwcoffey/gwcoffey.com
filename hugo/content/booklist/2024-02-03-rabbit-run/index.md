@@ -1,6 +1,7 @@
 ---
 title: "Rabbit Run"
 author: "John Updike"
+format: audio
 date: 2024-02-03
 summary: "Updike is a nuanced and linguistically competent writer, and the plot is fast and engaging. As a character study it is engrossing."
 icon: book

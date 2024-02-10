@@ -1,6 +1,8 @@
 ---
-title: "Fairyland: A Memoir of my Father"
+title: "Fairyland"
+subtitle: "A Memoir of my Father"
 author: "Alysia Abbott"
+format: audio
 date: 2023-12-05
 summary: "I spotted this book on a promo table at a book store in San Francisco and I suppose I was taken in by the striking cover, and because you know, like, I'm a father of girls."
 icon: book

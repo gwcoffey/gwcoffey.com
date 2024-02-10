@@ -1,6 +1,8 @@
 ---
 title: The First Three Minutes
+subtitle: A modern view of the origin of the universe
 author: Steven Weinberg
+format: print
 date: 2023-02-27
 summary: I enjoyed every page. For me it strikes the right balance…
 icon: book

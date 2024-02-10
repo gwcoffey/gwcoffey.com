@@ -1,6 +1,7 @@
 ---
 title: I Have No Mouth And I Must Scream
 author: Harlan Ellison
+format: print
 date: 2022-01-23
 summary: 'A short story by Harlan Ellison'
 ---

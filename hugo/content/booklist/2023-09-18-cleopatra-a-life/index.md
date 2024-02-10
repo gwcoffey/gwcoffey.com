@@ -1,6 +1,8 @@
 ---
-title: "Cleopatra: A Life"
+title: "Cleopatra"
+subtitle: "A Life"
 author: "Stacy Schiff"
+format: audio
 date: 2023-09-18
 summary: 'Schiff does such a good job illuminating the source material and putting what has been said about Cleopatra into historical and cultural context.'
 icon: book

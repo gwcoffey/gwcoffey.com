@@ -1,6 +1,8 @@
 ---
 title: "Stolen"
 author: "Ann-Helén Laestadius"
+translator: Rachel Willson-Broyles
+format: audio
 date: 2024-01-25
 summary: "I was engrossed by the first act of *Stolen*, seen through the eyes of a nine-year-old girl."
 icon: book
