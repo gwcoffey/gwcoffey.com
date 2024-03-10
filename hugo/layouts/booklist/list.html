@@ -7,9 +7,8 @@
     <div class="book-covers">
     {{- range .Pages }}
         {{ $page := . }}
-        {{ with .Resources.ByType "image" }}
-            {{ $firstImage := index . 0 }}
-            {{ $firstImage := $firstImage.Fill (printf "200x300") -}}
+        {{ with .Resources.GetMatch "cover.jpg" }}
+            {{ $firstImage := .Fill (printf "200x300") -}}
             <a href="{{ $page.RelPermalink }}"><img src="{{ $firstImage.RelPermalink }}" alt="{{ $page.Title }}"></a>
         {{ end }}
     {{- end }}
