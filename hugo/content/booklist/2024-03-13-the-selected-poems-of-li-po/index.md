@@ -85,7 +85,7 @@ And some of it achingly beautiful. I'm going quote *Ch'ang Kan Village Song* in 
 > I’m not saying I’d go far to meet you,<br>
 > no further than Ch’ang-feng Sands.
 
-I've read it a dozen ore more times in the last couple of days. I'm rereading it right now. I shared it with my child (who is much more educated about poetry than I am) and they said, simply, "This is remarkable." I couldn't agree more.
+I've read it a dozen or more times in the last couple of days. I'm rereading it right now. I shared it with my child (who is much more educated about poetry than I am) and they said, simply, "This is remarkable." I couldn't agree more.
 
 At first I lingered on the butterflies. "They fly in pairs, / and it hurts." Remarkable. Another time I wondered at "dust and ash." Remarkable. "At fourteen, when I became your wife…" is such a dated line opening such a modern thought. Remarkable. "Moss buried your tracks one by one" is Remarkable. "without suspicions" is remarkable. "fierce / June waters" and "howling gibbons" are remarkable. ("Mobled queen is nice…") 
 
