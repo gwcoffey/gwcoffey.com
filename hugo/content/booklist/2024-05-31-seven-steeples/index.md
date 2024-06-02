@@ -22,8 +22,8 @@ At the end of her remarkable life, international bad girl [Lola Montez](https://
 
 > What would I give to have daily fellowship with these good people! To teach in the school, to visit the old, the sick, the poor. But that will be in the Lord's good time, *when self is burned out of me completely.*
 
-I thought of this while reading Seven Steeples. Bell and Sigh are burning with a sort of dual-self, and it consumes them entirely. All else is kept at a safe distance.
+I thought of this while reading *Seven Steeples*. Bell and Sigh are burning with a sort of dual-self, and it consumes them entirely. All else is kept at a safe distance.
 
-Baume is an elegant and idiosyncratic writer. The print version makes use of layout and spacing for poetic effect, and this is captured perfectly in the audio book performance by [Aoife McMahon](https://en.wikipedia.org/wiki/Aoife_McMahon). (Aside: Has any people on earth dreamt up more beautiful names than the Irish?) Her clipped, precise enunciation, lovely voice, and careful unhurried white-space capture what's on the page beautifully. This is a book to simply experience and let it do what it will with your mind.
+Baume is an elegant and idiosyncratic writer. The print version makes use of layout and spacing for poetic effect, and this is captured perfectly in the audio book performance by [Aoife McMahon](https://en.wikipedia.org/wiki/Aoife_McMahon). *(Aside: Has any people on earth dreamt up more beautiful names than the Irish?)* Her clipped, precise enunciation, lovely voice, and careful unhurried white-space capture what's on the page beautifully. This is a book to simply experience. Let it do what it will with your mind.
 
 
