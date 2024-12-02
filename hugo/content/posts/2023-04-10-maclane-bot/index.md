@@ -15,9 +15,9 @@ tags:
 
 I'm a big fan of the [Moby Dick at Sea][moby] Mastodon bot. And I'm a big fan of the 20th century's first and biggest bad girl, [Mary MacLane][mary]. *And* I'm a computer programmer. So I suppose this was inevitable…
 
-{{< mastodon host="https://botsin.space" post="@maclane/110260326323643265" >}}
+{{< mastodon host="https://mas.to" post="@maclane/113580210502465670" >}}
 
-I give you, the <a rel="me" href="https://botsin.space/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every four hours.
+I give you, the <a rel="me" href="https://mas.to/@maclane">Mary MacLane Bot</a> on Mastodon, a bot that posts random curated passages from Mary MacLane's *I Await the Devil's Coming* every four hours.
 
 [moby]: https://botsin.space/@mobydick
 [mary]: https://en.wikipedia.org/wiki/Mary_MacLane
@@ -52,19 +52,19 @@ Mary put her full authentic self into her writing. As she says in her entry on {
 
 The bot is implemented in *[TypeScript][ts]*. The [source code][code] is available on GitHub, and the bot is available as an NPM module called [@gwcoffey/litbot][litbot]. This is a somewhat generic module for selecting at random from a dataset of text passages and posting it to Mastodon.
 
-I curated the data for MacLane Bot myself using the plain text version of *I Await the Devil's Coming* from [Project Gutenberg][guten]. I am, as always, grateful for the Project Gutenberg volunteers for the valuable work they do.
+I curated the data for MacLane Bot myself using the plain text versions of Mary's books from [Project Gutenberg][guten]. I am, as always, grateful for the Project Gutenberg volunteers for the valuable work they do.
 
 {{< note >}}
-The Project Gutenberg version of the book carries the title *The Story of Mary MacLane*. This is the original publication title because Mary's preferred title was considered too provocative.
+The Project Gutenberg version of *I Await the Devil's Coming* carries the title *The Story of Mary MacLane*. This is the original publication title because Mary's preferred title was considered too provocative.
 {{< /note >}}
 
 MacLane Bot itself is executed periodically as a [Netlify scheduled function][fn]. The code for the function and the raw passage data is in the GitHub repo for this website but I'm not going to link to it here---it is so much more fun to follow the bot and get little jolts of joy throughout the day.
 
-The MacLane Bot Mastodon account is graciously hosted free of charge on the [botsin.space][botsin] instance. 
+The MacLane Bot Mastodon account is graciously hosted free of charge on the [mas.to][masto] instance. 
 
 [ts]: https://www.typescriptlang.org
 [code]: https://github.com/gwcoffey/litbot
 [litbot]: https://www.npmjs.com/package/@gwcoffey/litbot
-[guten]: https://www.gutenberg.org/ebooks/43696
+[guten]: https://www.gutenberg.org/ebooks/author/42291
 [fn]: https://docs.netlify.com/functions/scheduled-functions/
-[botsin]: https://botsin.space/
+[masto]: https://mas.to/

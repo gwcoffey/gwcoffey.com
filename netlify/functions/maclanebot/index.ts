@@ -4,7 +4,7 @@ import { env } from "process";
 import post_data from "./posts.json";
 
 const maclanebotHandler: Handler = async (event: HandlerEvent, context: HandlerContext) => {
-    await post(post_data, new URL('https://botsin.space'), env['LITBOT_TOKEN_MACLANE']!);
+    await post(post_data, new URL('https://mas.to'), env['LITBOT_TOKEN_MACLANE']!);
     console.log("Post sent successfully");
     return {
         statusCode: 200,
