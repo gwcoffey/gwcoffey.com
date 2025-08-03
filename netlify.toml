@@ -4,7 +4,6 @@
 
 [build.environment]
   HUGO_VERSION = "0.119.0"
-  NODE_VERSION = "18.20.4"
 
 [[redirects]]
   from = "/.well-known/webfinger"
