@@ -4,4 +4,4 @@
 cd hugo && hugo --minify
 
 # build and install the search index
-npm run index
+nvm use 18.20.4 && npm run index
