@@ -8,6 +8,7 @@ tags:
 Back when twitter was fun—and I mean way back, not just pre-Musk—I had three or four tweets that "did numbers". Nothing you would call viral, but in the hundreds of retweets. And one of them was something like:
 
 > It's a shame we'll never get a Terry Gross interview of Terry Gross.
+
 I wrote this, not really expecting any response, late one night when I was *feeling things*. And I meant it. Apparently a lot of people felt the same way.
 
 Terry Gross is on my short-list of people who are singularly good at the thing they do. And she is *so good*.
